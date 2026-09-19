@@ -1,0 +1,282 @@
+{
+  "id": "ca-prop-1-2026",
+  "jurisdiction": "state",
+  "election_date": "2026-11-03",
+  "number": "Proposition 1",
+  "title": "Authorizes Bonds for Housing Affordability Programs",
+  "status": "on_ballot",
+  "summary": "Proposition 1 lets California borrow $11.25 billion by selling general obligation bonds for housing. Ten billion goes to affordable rental housing, homeownership assistance, farmworker housing, tribal housing, student housing, and infrastructure, and is repaid out of the state General Fund at $500 million to $600 million a year for about 25 years. The remaining $1.25 billion funds CalVet home loans and is repaid by the veterans who take those loans rather than by taxpayers.",
+  "what_it_really_means": [
+    "Nothing changes for a resident on the day this passes. A bond authorization is permission to borrow, not a program. The state sells bonds over a period of years as the Housing Finance Committee decides it is necessary, the money lands in the Affordable Housing Bond Act Trust Fund of 2026, and the Department of Housing and Community Development and the California Housing Finance Agency hand it out as low-interest loans and grants to local governments, nonprofits, and private developers. The first units financed by this money would not be occupied for years.",
+    "The ballot title says 'Housing Affordability Programs,' but the statute the Legislature actually passed is named the Veterans and Affordable Housing Bond Act of 2026, and the two halves work very differently. The $10 billion housing half is repaid by every California taxpayer through the General Fund. The $1.25 billion veterans half is a revolving home loan program where participating veterans repay the bonds through their mortgage payments. The Legislative Analyst's Office notes those payments 'have always covered the amount owed on the bonds,' so the veterans program has historically cost the state nothing directly. The word 'veterans' was dropped from the ballot title, which cuts both ways: it hides the part of the bond that is free to taxpayers, and it also stops the 11 percent veterans share from selling the other 89 percent.",
+    "The $10 billion breaks down by statute (Health and Safety Code Section 54054, added by SB 417) into $5.1 billion for the Multifamily Housing Program, $1.15 billion for supportive housing, $750 million for the Portfolio Reinvestment Program that preserves existing affordable units, $200 million for acquiring and rehabilitating housing units, $600 million for CalHome, $500 million for home purchase assistance, $500 million for infill infrastructure grants, $450 million for the Joe Serna, Jr. Farmworker Housing Grant Program, $350 million split evenly between the University of California and California State University, $200 million for tribal housing grants, and $200 million for the Affordable Housing Innovation Fund. The LAO groups the first four into a single $7.2 billion multifamily category, which is why the LAO analysis and the bill text appear to disagree and do not.",
+    "What the bond buys is modest against the problem it names. The LAO estimates subsidies for up to 40,000 multifamily rental units, about 2,500 farmworker units, about 1,200 university student beds, and homebuying help for up to 40,000 households including about 2,100 veterans. Supporters themselves cite a shortfall of 1.2 million affordable units. The LAO is also explicit that 'much of the funding from Proposition 1 would be used together with other government monies,' meaning these are gap-filling subsidies layered onto federal tax credits and local funds, not standalone construction financing. If those other sources shrink, the same bond dollars produce fewer homes.",
+    "Who decides where the money goes is the part the ballot title does not touch at all. Section 54077 lets the administering agencies adopt the guidelines that govern these programs and states that those guidelines 'are not subject to Chapter 3.5 (commencing with Section 11340) of Part 1 of Division 3 of Title 2 of the Government Code.' That is the Administrative Procedure Act. The rules deciding which projects win $10 billion get written without notice-and-comment rulemaking and without Office of Administrative Law review. This is standard practice in California housing bonds, but it is a real delegation and voters are not told about it.",
+    "The earmarks are softer than they look. Unspent money in the Portfolio Reinvestment Program, CalHome, farmworker housing, tribal housing, and infill infrastructure all revert 'for general use in the Multifamily Housing Program' if not encumbered by November 3, 2036. The $150 million youth housing set-aside and the Local Housing Trust Fund money inside the Innovation Fund revert after only three years, and for the trust fund money the Department of Housing and Community Development can pull it back sooner at its own discretion. So the smaller, more targeted commitments are deadlines rather than guarantees, and every deadline missed enlarges the single biggest program.",
+    "Oversight is split unevenly between the two halves. For the $10 billion that taxpayers repay, Section 54088 requires the administering entity to publish an annual report on the investments under Health and Safety Code Section 50408. That is a reporting obligation, not an audit. For the $1.25 billion veterans portion, Section 998.759 requires the Secretary of Veterans Affairs to commission annual financial condition surveys by independent public accountants and report the results to legislative committees and the Veterans' Finance Committee. The eleven percent that costs the state nothing gets the independent auditor. The eighty-nine percent on the General Fund's tab gets a departmental report.",
+    "Repayment runs on autopilot. Section 54070 continuously appropriates from the General Fund 'the sum annually necessary to pay the principal of, and interest on, bonds issued and sold pursuant to this part,' and Section 998.755 does the same for the veterans bonds. Once the bonds are sold, debt service is paid before the Legislature gets to weigh it against schools, Medi-Cal, or anything else. That is how every California general obligation bond works, and it is the reason the LAO frames the cost as a fixed 0.25 percent claim on the General Fund for roughly a quarter century.",
+    "One thing a voter should know that is not in the text at all: the official Voter Information Guide contains no argument against Proposition 1. None was submitted. No committee has registered in opposition and opposition spending stands at zero. The argument in favor, signed by Anni Chung of Self-Help for the Elderly, Jeffery Freitas of the California Federation of Teachers, and John H. Ing of U.S. VETS, asserts that the measure 'requires strict fiscal accountability and public oversight with no new taxes,' and nothing in the state's own pamphlet tests that claim. The 'no new taxes' half is accurate. The accountability half rests on the annual report described above and on guidelines exempt from the rulemaking process. Opposition exists, from the Howard Jarvis Taxpayers Association, Reform California, and Assemblymember David Tangipa, but a voter will only encounter it outside the ballot pamphlet."
+  ],
+  "fiscal_impact": {
+    "state_cost": "$500 million to $600 million per year for about 25 years to repay the $10 billion General Fund portion, per the Legislative Analyst's Office. No direct state cost for the $1.25 billion veterans portion, which participating veterans repay through their home loan payments.",
+    "state_savings": "none identified by the Legislative Analyst's Office",
+    "local_cost": "none mandated. Cities, counties, tribes, UC, and CSU may apply for these funds but are not required to spend anything, and many programs require matching money that an applicant chooses to commit.",
+    "revenue_change": "none. Proposition 1 creates no tax and raises no revenue. It authorizes borrowing repaid from existing General Fund revenue.",
+    "ongoing_vs_one_time": "One-time authorization to borrow up to $11.25 billion, issued over a number of years, creating ongoing annual debt service of roughly $500 million to $600 million for about 25 years.",
+    "narrative": "Three credible sources give three different totals, and the difference is entirely about what each one adjusts for. The LAO says the total cost of the bond would be 'about 15 percent more (after adjusting for inflation) than if the state paid up front,' and puts annual repayment at $500 million to $600 million for about 25 years. The California Budget and Policy Center estimates about $580 million a year for 30 years, totaling $17.4 billion in nominal dollars. The Howard Jarvis Taxpayers Association says 'the actual cost to taxpayers will be roughly double the advertised amount due to interest.' None of these is wrong. The LAO figure is real, inflation-adjusted, and answers whether borrowing is expensive compared to cash. The other two are nominal and answer how many dollars leave the treasury. A voter who hears '15 percent more' and a voter who hears 'roughly double' are being told the same fact in different units. What the headline numbers leave out is the opportunity cost baked into continuous appropriation: once issued, debt service is paid automatically off the top of the General Fund for a quarter century, in good budget years and bad. The LAO sizes that claim at about one quarter of one percent of the General Fund. Administrative costs are not separately capped anywhere I could find in the bond act; the LAO states only that 'a portion of the bond funds would cover these costs.' The veterans portion is a general obligation pledging the state's full faith and credit with no self-liquidating clause, so although veteran loan payments have always covered it, the General Fund is the legal backstop if they ever do not."
+  },
+  "taxes": {
+    "new_taxes": [],
+    "tax_changes": []
+  },
+  "spending": {
+    "new_spending_areas": [
+      "Multifamily Housing Program rental housing: $5.1 billion, with at least 10 percent of assisted units in each funded development affordable to extremely low income households",
+      "Supportive housing with on-site services: $1.15 billion, including a $150 million set-aside for current or former foster youth, homeless minors or youth, and youth at risk of homelessness",
+      "Portfolio Reinvestment Program to preserve existing affordable housing: $750 million",
+      "Acquisition and rehabilitation of existing housing units: $200 million",
+      "CalHome Program for self-help and owner-occupied housing: $600 million",
+      "Home purchase assistance for low- and moderate-income first-time buyers: $500 million",
+      "Infill Infrastructure Grant Program for water, sewer, parks, and transportation serving affordable developments: $500 million",
+      "Joe Serna, Jr. Farmworker Housing Grant Program: $450 million",
+      "University of California and California State University student housing: $350 million split evenly between the two systems",
+      "Tribal Housing Grant Program: $200 million",
+      "Affordable Housing Innovation Fund, including the Local Housing Trust Fund Matching Grant Program: $200 million",
+      "CalVet farm, home, and mobilehome purchase assistance for veterans: $1.25 billion"
+    ],
+    "funding_source": "State general obligation bonds. The $10 billion housing portion is repaid from the General Fund through a continuous appropriation under Health and Safety Code Section 54070. The $1.25 billion veterans portion is repaid by participating veterans' home loan payments under Military and Veterans Code Section 998.755, with the state's full faith and credit as backstop."
+  },
+  "control_and_power": "The Department of Housing and Community Development and the California Housing Finance Agency are each designated the 'board' for the programs they administer, and they allocate the $10 billion. The Housing Finance Committee, continued in existence by Section 54064, decides by resolution whether and when it is necessary or desirable to issue bonds, so the pace of borrowing is not a legislative decision. For the veterans portion the Department of Veterans Affairs is the board and the Veterans' Finance Committee of 1943 makes the issuance decision. The most consequential grant of authority is Section 54077, which lets these agencies adopt the program guidelines that determine who qualifies and which projects get funded, and expressly exempts those guidelines from the Administrative Procedure Act. The agencies therefore write the rules governing $10 billion without notice-and-comment rulemaking or Office of Administrative Law review. HCD separately holds discretion under Section 54054 to revert Local Housing Trust Fund money early if it 'determines that the funds should revert sooner.' Debt service itself is removed from legislative control entirely by the continuous appropriations in Sections 54070 and 998.755.",
+  "loopholes": [
+    "Section 54077 exempts all program guidelines from the Administrative Procedure Act (Government Code Section 11340 et seq.), so the eligibility and scoring rules that decide how $10 billion is distributed are written without notice-and-comment rulemaking or Office of Administrative Law review.",
+    "Five of the targeted allocations (Portfolio Reinvestment, CalHome, Joe Serna farmworker housing, tribal housing, and infill infrastructure) revert 'for general use in the Multifamily Housing Program' if not encumbered by November 3, 2036. Every earmark that is not spent in time enlarges the single largest program instead of staying with its stated purpose.",
+    "The Local Housing Trust Fund allocation inside the Innovation Fund reverts after three years, or sooner if the Department of Housing and Community Development 'determines that the funds should revert sooner.' The agency can cut short a legislatively specified set-aside on its own judgment.",
+    "The $150 million youth housing set-aside for foster youth and homeless youth carries a three-year encumbrance clock, far shorter than the ten-year clock on most other pots, making it the earmark most exposed to lapsing into general Multifamily Housing Program use.",
+    "The bond act sets no ceiling on how much of the proceeds may be consumed by state administrative costs. The LAO confirms 'a portion of the bond funds would cover these costs' without stating a limit, and I found no cap in the statutory text.",
+    "The $1.25 billion veterans bond is a general obligation pledging the state's full faith and credit and contains no self-liquidating clause or mandatory General Fund reimbursement. The LAO notes veteran loan payments 'have always covered the amount owed,' which is a historical record rather than a legal guarantee; a downturn in that loan portfolio shifts the cost to taxpayers.",
+    "Sections 54070 and 998.755 continuously appropriate debt service from the General Fund, so repayment is insulated from the annual budget process and cannot be deferred or renegotiated when the state faces a deficit."
+  ],
+  "unexpected_provisions": [
+    "The statute is titled the Veterans and Affordable Housing Bond Act of 2026, but the ballot title voters see says only 'Housing Affordability Programs.' The veterans share is $1.25 billion of $11.25 billion, about 11 percent, and it is the only portion that does not fall on the General Fund.",
+    "$350 million goes to University of California and California State University student housing, split evenly between the two systems. This is higher-education capital spending inside a housing affordability bond, and the California Community Colleges, the largest segment by enrollment, receive nothing.",
+    "$500 million funds infrastructure rather than housing: water, sewage, parks, and transportation improvements serving affordable developments, under the Infill Infrastructure Grant Program.",
+    "$200 million is granted to tribes under a Tribal Housing Grant Program, described in the statute as enabling tribes to 'rebuild and reconstitute their communities.'",
+    "Section 54054 requires that at least 10 percent of assisted units in each Multifamily Housing Program development be affordable to extremely low income households, a per-development mandate rather than a portfolio-wide average.",
+    "Up to 15 percent of one multifamily allocation may be issued as outright grants rather than loans to entities serving people who are homeless, chronically homeless, or at risk of homelessness, meaning that money is not repaid to the state and does not revolve.",
+    "Affordability covenants on multifamily units generally run 55 years, roughly double the 25 to 30 year bond repayment period, so the public benefit outlasts the debt by decades.",
+    "No argument against Proposition 1 was submitted for the official Voter Information Guide, and no committee has registered in opposition. The state's own pamphlet presents the measure with no rebuttal."
+  ],
+  "pros": [
+    "Assemblymember Buffy Wicks, a coauthor, argued from the scale of the gap: two-thirds of lower-income renters are rent-burdened, 170,000 people are unsheltered, and the state is 1.2 million units short of the affordable housing it needs, so 'what we can't afford is to wait.'",
+    "The bond creates no new tax and raises no rate. The official argument in favor stresses that it funds housing 'with no new taxes,' paying for it out of borrowing against existing revenue.",
+    "The money flows through programs with established track records rather than new bureaucracies: the Multifamily Housing Program, CalHome, the Joe Serna, Jr. Farmworker Housing Grant Program, and the CalVet home loan program all already exist and already have pipelines.",
+    "Affordability restrictions of 55 years mean the public gets an asset that outlasts the debt used to build it, unlike operating subsidies that vanish when the appropriation ends.",
+    "It reaches populations that private financing and market-rate development consistently miss, with dedicated money for farmworkers, tribes, foster and homeless youth, students, and extremely low income households.",
+    "Supporters argue the timing matters because the 2018 housing bond was fully committed by 2023, leaving thousands of otherwise shovel-ready affordable developments waiting on a final funding source.",
+    "State Senator Christopher Cabaldon framed it as 'the largest-ever investment in the CalVet home loan program,' a program that has historically repaid its own bonds at no cost to the General Fund."
+  ],
+  "cons": [
+    "Assemblymember David Tangipa argued the state does not need to borrow at all: 'We have a record budget and record revenue. Why do we need to borrow money? If we wanted to appropriate money right now to take care of our veterans, to make affordable housing, you would do so in a record budget.'",
+    "The Howard Jarvis Taxpayers Association objects that 'bonds are the most expensive way to pay for anything, and when used to pay for programs instead of capital projects, it's a much greater burden on taxpayers than just paying for these programs from the budget,' and puts the real cost at roughly double the advertised $11.25 billion once interest is counted.",
+    "The same group notes that a measure whose statute is named for veterans directs 'only $1.25 billion to benefit veterans,' with the rest going to other housing programs.",
+    "Tangipa's broader argument is that the bond treats the wrong problem: 'We don't have an affordable housing crisis. We have an available housing crisis because of the rules, regulations and debt that we are putting on the California citizens.' Borrowing does not lower the construction costs, permitting delays, or regulatory burden that make each subsidized unit expensive.",
+    "Debt service is continuously appropriated, so $500 million to $600 million a year is locked in ahead of schools, health care, and every other General Fund priority for about 25 years, regardless of what the state's finances look like in year twelve.",
+    "The yield is small relative to the price: roughly 40,000 subsidized rental units against a stated shortfall of 1.2 million, and the LAO warns the funds mostly work only in combination with other government money that may not be there.",
+    "The agencies distributing the money write their own program guidelines exempt from the Administrative Procedure Act, so the accountability the official argument in favor promises rests largely on an annual departmental report rather than on independent audit or public rulemaking.",
+    "With no registered opposition campaign, no argument against in the voter guide, and $5.2 million raised by supporting committees against zero opposed, voters will encounter almost no organized scrutiny of the measure before they vote."
+  ],
+  "who_supports": [
+    {
+      "name": "Gov. Gavin Newsom",
+      "type": "politician",
+      "notes": "Signed SB 417 on June 25, 2026, the same day it passed both houses, and announced it as the Veterans and Affordable Housing Bond Act of 2026."
+    },
+    {
+      "name": "Senate President pro Tempore Monique Limón",
+      "type": "politician",
+      "notes": "Lead Senate author of SB 417."
+    },
+    {
+      "name": "Assembly Speaker Robert Rivas",
+      "type": "politician",
+      "notes": "Lead Assembly author of SB 417."
+    },
+    {
+      "name": "Assemblymember Buffy Wicks",
+      "type": "politician",
+      "notes": "Principal coauthor and chair of the Assembly's housing efforts; the most visible legislative advocate for the measure."
+    },
+    {
+      "name": "State Sen. Christopher Cabaldon",
+      "type": "politician",
+      "notes": "Principal coauthor; publicly framed the measure around veterans, foster youth, students, and farmworkers."
+    },
+    {
+      "name": "Democratic Party of California",
+      "type": "org",
+      "notes": "Party endorsement. Every Democrat voting in either house voted yes; 25 percent of Republicans voting did."
+    },
+    {
+      "name": "California Housing Consortium",
+      "type": "org",
+      "notes": "Affordable housing industry association. Executive director Ray Pearl was a lead public advocate during passage; its members are the developers who would apply for these funds."
+    },
+    {
+      "name": "California Apartment Association",
+      "type": "org",
+      "notes": "Rental housing industry group. Notable because a landlord association is backing public subsidy for below-market rental production."
+    },
+    {
+      "name": "United Brotherhood of Carpenters and Joiners of America",
+      "type": "org",
+      "notes": "Construction trade union whose members would build the financed projects."
+    },
+    {
+      "name": "California Federation of Labor Unions, AFL-CIO",
+      "type": "org",
+      "notes": "State labor federation."
+    },
+    {
+      "name": "California Chamber of Commerce",
+      "type": "business",
+      "notes": "Statewide business association; its support puts business and organized labor on the same side of an $11.25 billion borrowing measure."
+    },
+    {
+      "name": "League of California Cities",
+      "type": "org",
+      "notes": "Represents the cities that would receive and administer much of the grant and loan money."
+    },
+    {
+      "name": "ACLU California Action",
+      "type": "org",
+      "notes": "Civil liberties advocacy organization."
+    },
+    {
+      "name": "Disability Rights California",
+      "type": "org",
+      "notes": "Disability rights legal advocacy group; supportive housing with on-site services is a core interest."
+    },
+    {
+      "name": "League of Women Voters of California",
+      "type": "org",
+      "notes": "Nonpartisan civic organization that takes positions on ballot measures after member study."
+    },
+    {
+      "name": "NAACP California/Hawaii State Conference",
+      "type": "org",
+      "notes": "Civil rights organization."
+    },
+    {
+      "name": "Drug Policy Alliance",
+      "type": "org",
+      "notes": "Drug policy reform organization; the supportive housing allocation funds on-site substance use counseling."
+    },
+    {
+      "name": "Evolve California",
+      "type": "org",
+      "notes": "Housing and tax policy advocacy organization."
+    },
+    {
+      "name": "Anni Chung, President, Self-Help for the Elderly",
+      "type": "other",
+      "notes": "Signer of the official ballot argument in favor printed in the Voter Information Guide."
+    },
+    {
+      "name": "Jeffery Freitas, President, California Federation of Teachers",
+      "type": "other",
+      "notes": "Signer of the official ballot argument in favor printed in the Voter Information Guide."
+    },
+    {
+      "name": "John H. Ing, Chief Financial Officer, U.S. VETS",
+      "type": "other",
+      "notes": "Signer of the official ballot argument in favor printed in the Voter Information Guide; a veterans housing organization."
+    }
+  ],
+  "who_opposes": [
+    {
+      "name": "Howard Jarvis Taxpayers Association",
+      "type": "org",
+      "notes": "Anti-tax organization opposing in its published voter guide. Objects to bond financing for programs rather than capital projects and to the gap between the act's veterans name and its $1.25 billion veterans allocation. It did not submit an official ballot argument against."
+    },
+    {
+      "name": "Reform California",
+      "type": "org",
+      "notes": "Conservative advocacy organization opposing the measure. No registered ballot measure committee against Proposition 1 has been identified."
+    },
+    {
+      "name": "Assemblymember David Tangipa",
+      "type": "politician",
+      "notes": "Republican legislator who argued on the floor that a state with record revenue should appropriate the money rather than borrow it. Seven Assembly Republicans and two Senate Republicans voted no."
+    }
+  ],
+  "nonpartisan_analysis": [
+    {
+      "source": "Legislative Analyst's Office",
+      "summary": "The LAO puts the General Fund cost of the $10 billion housing portion at $500 million to $600 million annually for about 25 years, roughly 0.25 percent of the General Fund budget, and estimates the total cost at about 15 percent more than paying up front after adjusting for inflation. It finds no direct state cost for the $1.25 billion veterans portion because participants' loan payments have always covered the debt. On results, it estimates subsidies for up to 40,000 multifamily rental units, about 2,500 farmworker units, about 1,200 university student beds, and homebuying assistance for up to 40,000 households including about 2,100 veterans, while cautioning that much of the money works only alongside other government funding rather than standing alone. It also notes that administrative costs for the several state entities involved come out of the bond proceeds.",
+      "url": "https://lao.ca.gov/ballot/2026/prop1-110326.pdf"
+    },
+    {
+      "source": "California Budget and Policy Center",
+      "summary": "Estimates repayment of the $10 billion portion at about $580 million a year for 30 years, totaling $17.4 billion in nominal dollars, and notes that combined with Proposition 38 on the same ballot, annual General Fund debt obligations from new 2026 bonds could reach about $1.1 billion. It observes that the 2018 veterans and affordable housing bond was depleted by 2023, that roughly 46,000 affordable homes statewide are waiting on final funding to break ground, and that 55-year affordability covenants outlast the debt. Its central caveat is that bond dollars alone will not close a shortfall measured in millions of homes.",
+      "url": "https://calbudgetcenter.org/resources/proposition-1-californias-veterans-and-affordable-housing-bond/"
+    },
+    {
+      "source": "Ballotpedia",
+      "summary": "Provides the measure's path to the ballot and neutral background. SB 417 passed the Senate 29-2 with nine not voting and the Assembly 61-7 with eleven not voting on June 25, 2026, meeting the two-thirds requirement for a legislatively referred bond measure, and the Governor signed it the same day. Every Democrat voting supported it and 25 percent of Republicans voting did. Three committees registered in support reported $5.24 million in total contributions; no committee registered in opposition and opposition spending is zero. A Public Policy Institute of California survey of 1,103 likely voters taken September 4 to 10, 2026 with a margin of error of 3.8 points found 55 percent yes, 43 percent no, and 2 percent undecided.",
+      "url": "https://ballotpedia.org/California_Proposition_1,_Veteran_and_Housing_Assistance_Programs_Bond_Measure_(2026)"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Legislative Analyst's Office, Analysis of Proposition 1 (November 3, 2026 Ballot)",
+      "url": "https://lao.ca.gov/ballot/2026/prop1-110326.pdf",
+      "retrieved": "2026-09-19"
+    },
+    {
+      "title": "Legislative Analyst's Office, Proposition 1 ballot analysis page",
+      "url": "https://lao.ca.gov/BallotAnalysis/Proposition?number=1&year=2026",
+      "retrieved": "2026-09-19"
+    },
+    {
+      "title": "SB 417 (2025-2026), The Veterans and Affordable Housing Bond Act of 2026, full text",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB417",
+      "retrieved": "2026-09-19"
+    },
+    {
+      "title": "SB 417 (2025-2026) bill status, authors, votes, and chaptering",
+      "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB417",
+      "retrieved": "2026-09-19"
+    },
+    {
+      "title": "California Secretary of State, Official Voter Information Guide, Proposition 1",
+      "url": "https://voterguide.sos.ca.gov/propositions/1/",
+      "retrieved": "2026-09-19"
+    },
+    {
+      "title": "California Secretary of State, Official Voter Information Guide, Proposition 1 arguments and rebuttals",
+      "url": "https://voterguide.sos.ca.gov/propositions/1/arguments-rebuttals.htm",
+      "retrieved": "2026-09-19"
+    },
+    {
+      "title": "California Secretary of State, Qualified statewide ballot measures",
+      "url": "https://www.sos.ca.gov/elections/ballot-measures/qualified-ballot-measures",
+      "retrieved": "2026-09-19"
+    },
+    {
+      "title": "Ballotpedia, California Proposition 1, Veteran and Housing Assistance Programs Bond Measure (2026)",
+      "url": "https://ballotpedia.org/California_Proposition_1,_Veteran_and_Housing_Assistance_Programs_Bond_Measure_(2026)",
+      "retrieved": "2026-09-19"
+    },
+    {
+      "title": "California Budget and Policy Center, Proposition 1: California's Veterans and Affordable Housing Bond",
+      "url": "https://calbudgetcenter.org/resources/proposition-1-californias-veterans-and-affordable-housing-bond/",
+      "retrieved": "2026-09-19"
+    },
+    {
+      "title": "CalMatters voter guide, Proposition 1 housing bond",
+      "url": "https://calmatters.org/california-voter-guide-2026/proposition-1-housing-bond/",
+      "retrieved": "2026-09-19"
+    }
+  ],
+  "last_updated": "2026-09-19"
+}
