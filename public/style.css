@@ -1,0 +1,411 @@
+:root {
+  --bg: #f7f7f5;
+  --surface: #ffffff;
+  --surface-alt: #f0f0ed;
+  --text: #1c1c1a;
+  --text-muted: #5d5d57;
+  --border: #d9d9d3;
+  --accent: #1f4f8f;
+  --pro: #17663a;
+  --pro-bg: #e6f3eb;
+  --con: #9b2421;
+  --con-bg: #fbeae9;
+  --state: #2d3f8a;
+  --state-bg: #e6e9f7;
+  --county: #7a4a11;
+  --county-bg: #f8eede;
+  --warn: #8a5a00;
+  --warn-bg: #fdf3dc;
+  --radius: 10px;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #15161a;
+    --surface: #1d1f25;
+    --surface-alt: #24262d;
+    --text: #e8e8e4;
+    --text-muted: #a3a49e;
+    --border: #34363e;
+    --accent: #88b4ef;
+    --pro: #74d39d;
+    --pro-bg: #14301f;
+    --con: #f09a95;
+    --con-bg: #351a19;
+    --state: #a8b8f2;
+    --state-bg: #202541;
+    --county: #e5b878;
+    --county-bg: #382a16;
+    --warn: #e5c27a;
+    --warn-bg: #37301b;
+  }
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  margin: 0 auto;
+  padding: 1.5rem 1rem 4rem;
+  max-width: 46rem;
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial,
+    "Noto Sans", sans-serif;
+  font-size: 1.0625rem;
+  line-height: 1.6;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.25;
+  text-wrap: balance;
+}
+
+h1 {
+  margin: 0 0 0.5rem;
+  font-size: 1.75rem;
+}
+
+h2 {
+  margin: 0 0 0.75rem;
+  padding-bottom: 0.4rem;
+  border-bottom: 2px solid var(--border);
+  font-size: 1.3rem;
+}
+
+h3 {
+  margin: 1.25rem 0 0.4rem;
+  font-size: 1.05rem;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
+p {
+  margin: 0 0 0.9rem;
+}
+
+a {
+  color: var(--accent);
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  font-size: 0.875em;
+  overflow-wrap: anywhere;
+}
+
+ul {
+  margin: 0 0 1rem;
+  padding-left: 1.2rem;
+}
+
+li {
+  margin-bottom: 0.4rem;
+}
+
+.site-header,
+.measure-header {
+  margin-bottom: 2rem;
+}
+
+.blurb {
+  color: var(--text-muted);
+}
+
+.eyebrow {
+  margin: 0 0 0.2rem;
+  color: var(--text-muted);
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  font-size: 0.8rem;
+}
+
+.empty {
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+section {
+  margin-bottom: 2.25rem;
+}
+
+.back {
+  display: inline-block;
+  margin-bottom: 1.25rem;
+  font-size: 0.9rem;
+  font-weight: 600;
+}
+
+footer {
+  margin-top: 2.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+
+.template-warning {
+  margin: 0 0 1rem;
+  padding: 0.7rem 0.9rem;
+  border-left: 4px solid var(--warn);
+  border-radius: var(--radius);
+  background: var(--warn-bg);
+  color: var(--warn);
+  font-weight: 600;
+}
+
+.badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 0.75rem;
+}
+
+.badge {
+  display: inline-block;
+  padding: 0.18rem 0.55rem;
+  border-radius: 999px;
+  border: 1px solid transparent;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+
+.jurisdiction-state {
+  background: var(--state-bg);
+  color: var(--state);
+  border-color: var(--state);
+}
+
+.jurisdiction-county {
+  background: var(--county-bg);
+  color: var(--county);
+  border-color: var(--county);
+}
+
+.status {
+  background: var(--surface-alt);
+  color: var(--text-muted);
+  border-color: var(--border);
+}
+
+.status-passed {
+  background: var(--pro-bg);
+  color: var(--pro);
+  border-color: var(--pro);
+}
+
+.status-failed {
+  background: var(--con-bg);
+  color: var(--con);
+  border-color: var(--con);
+}
+
+.cards {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 1rem;
+}
+
+.card {
+  margin: 0;
+  padding: 1rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+}
+
+.card h3 {
+  margin: 0 0 0.4rem;
+  color: var(--text);
+  font-size: 1.1rem;
+  text-transform: none;
+  letter-spacing: normal;
+}
+
+.card-summary {
+  margin-bottom: 0.5rem;
+}
+
+.card-meta {
+  margin: 0;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+}
+
+.facts {
+  margin: 0 0 1rem;
+  display: grid;
+  gap: 0.5rem;
+  padding: 0.9rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+}
+
+.facts > div {
+  display: grid;
+  gap: 0.1rem;
+}
+
+.facts dt {
+  color: var(--text-muted);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.facts dd {
+  margin: 0;
+}
+
+ul.pros,
+ul.cons {
+  list-style: none;
+  margin: 0 0 1rem;
+  padding: 0.75rem 0.9rem;
+  border-left: 4px solid var(--border);
+  border-radius: var(--radius);
+}
+
+ul.pros {
+  border-left-color: var(--pro);
+  background: var(--pro-bg);
+}
+
+ul.cons {
+  border-left-color: var(--con);
+  background: var(--con-bg);
+}
+
+ul.pros li::before,
+ul.cons li::before {
+  display: inline-block;
+  width: 1.1rem;
+  font-weight: 700;
+}
+
+ul.pros li::before {
+  content: "+";
+  color: var(--pro);
+}
+
+ul.cons li::before {
+  content: "\2212";
+  color: var(--con);
+}
+
+ul.pros li:last-child,
+ul.cons li:last-child {
+  margin-bottom: 0;
+}
+
+.columns {
+  display: grid;
+  gap: 1rem;
+}
+
+.column {
+  padding: 0.9rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+}
+
+.column h3 {
+  margin-top: 0;
+}
+
+.column.supports h3 {
+  color: var(--pro);
+}
+
+.column.opposes h3 {
+  color: var(--con);
+}
+
+ul.parties,
+ul.analysis,
+ul.sources {
+  list-style: none;
+  padding: 0;
+}
+
+ul.parties li,
+ul.analysis li,
+ul.sources li {
+  margin-bottom: 0.9rem;
+  overflow-wrap: anywhere;
+}
+
+ul.analysis li,
+ul.sources li {
+  padding-bottom: 0.9rem;
+  border-bottom: 1px solid var(--border);
+}
+
+ul.analysis li:last-child,
+ul.sources li:last-child {
+  border-bottom: none;
+}
+
+ul.analysis p,
+.notes {
+  margin: 0.25rem 0 0;
+}
+
+.party-type,
+.retrieved {
+  color: var(--text-muted);
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+.notes {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+}
+
+.bad-url {
+  color: var(--con);
+}
+
+@media (min-width: 40rem) {
+  body {
+    padding: 2.5rem 2rem 5rem;
+    font-size: 1.125rem;
+  }
+
+  h1 {
+    font-size: 2.25rem;
+  }
+
+  .columns {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .facts {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}

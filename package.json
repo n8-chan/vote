@@ -1,0 +1,15 @@
+{
+  "name": "vote",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Deep-dive tracker for California statewide propositions and Santa Clara County ballot measures.",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "validate": "node scripts/validate.mjs",
+    "fetch": "node scripts/fetch-sources.mjs"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": "example-measure-template",
+  "jurisdiction": "county",
+  "county": "Santa Clara",
+  "election_date": "2099-11-03",
+  "number": "Measure ZZ",
+  "title": "TEMPLATE — copy this file, do not deploy as-is",
+  "status": "pending",
+  "summary": "This file is a structural example, not a real ballot measure. Every number, name, and claim below is invented to show what a filled-in measure file looks like. Copy it to content/measures/<your-id>.json and replace all of it with researched content.",
+  "what_it_really_means": [
+    "Replace this array with the plain-language deep dive. Each string becomes one paragraph, so write them as paragraphs rather than bullet fragments. Start with what changes for a resident on the day the measure takes effect.",
+    "The fictional Measure ZZ would let the imaginary Example County Widget Authority levy a fee on purple widgets and spend the proceeds on widget storage. None of this exists.",
+    "Use the later paragraphs for the parts a voter would not get from the ballot title: what the text does not say, which decisions get delegated, and what happens if revenue comes in under projection."
+  ],
+  "fiscal_impact": {
+    "state_cost": "none (fictional example)",
+    "state_savings": "none (fictional example)",
+    "local_cost": "$0.0 million to $0.0 million per year (fictional example)",
+    "revenue_change": "increase of roughly $0 million per year from the invented widget fee",
+    "ongoing_vs_one_time": "ongoing, with a fictional sunset after ten years",
+    "narrative": "Replace this with the real fiscal picture and what the headline numbers leave out. Say who produced the estimate, what assumptions it rests on, and what the cost looks like if those assumptions are wrong. In this fake example, every figure is zero because no such measure exists."
+  },
+  "taxes": {
+    "new_taxes": [
+      "Invented per-widget fee of $0.00, collected at point of sale (fictional)"
+    ],
+    "tax_changes": [
+      "Fictional extension of an imaginary storage assessment that would otherwise expire"
+    ]
+  },
+  "spending": {
+    "new_spending_areas": [
+      "Widget storage facilities (fictional)",
+      "Administration of the fictional Example County Widget Authority"
+    ],
+    "funding_source": "Proceeds of the invented widget fee, with no general fund backstop (fictional)"
+  },
+  "control_and_power": "Name the body that gains authority and say what it can decide without going back to voters or the board of supervisors. In this fictional example, a seven-member Example County Widget Authority appointed by nobody in particular would set fee rates by majority vote, with no requirement for public hearings.",
+  "loopholes": [
+    "The fictional text defines 'widget' nowhere, leaving the authority to decide what it covers",
+    "The invented ten-year sunset can be extended by the authority itself rather than by voters"
+  ],
+  "unexpected_provisions": [
+    "A fictional rider exempting one named imaginary company from the fee",
+    "An invented clause redirecting unspent balances to general administration after three years"
+  ],
+  "pros": [
+    "Replace with the strongest argument a supporter would actually make, in their framing",
+    "This fictional measure would fund storage that supporters say is already over capacity"
+  ],
+  "cons": [
+    "Replace with the strongest argument an opponent would actually make, in their framing",
+    "This fictional measure creates a body that sets its own fee rates with no voter check"
+  ],
+  "who_supports": [
+    {
+      "name": "Example Widget Alliance",
+      "type": "org",
+      "notes": "Fictional trade group; note here who funds a real supporter and what they stand to gain"
+    },
+    {
+      "name": "Supervisor Jane Placeholder",
+      "type": "politician",
+      "notes": "Fictional official; note here whether a real politician authored or merely endorsed the measure"
+    }
+  ],
+  "who_opposes": [
+    {
+      "name": "Example Taxpayers Association",
+      "type": "org",
+      "notes": "Fictional group; note here whether a real opponent objects to the policy or only to the funding mechanism"
+    },
+    {
+      "name": "Placeholder Widget Co.",
+      "type": "business",
+      "notes": "Fictional business; note here what a real opposing business pays under the measure"
+    }
+  ],
+  "nonpartisan_analysis": [
+    {
+      "source": "Legislative Analyst's Office (example entry, not a real analysis)",
+      "summary": "Replace with what the LAO actually concluded, in your own words, and note where its estimate differs from the proponents' claims.",
+      "url": "https://example.com/lao-analysis-placeholder"
+    },
+    {
+      "source": "Ballotpedia (example entry, not a real analysis)",
+      "summary": "Replace with the neutral background Ballotpedia provides, including the measure's path onto the ballot.",
+      "url": "https://example.com/ballotpedia-placeholder"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Full text of the fictional Measure ZZ (example source)",
+      "url": "https://example.com/measure-zz-full-text",
+      "retrieved": "2026-09-19"
+    },
+    {
+      "title": "Example County Registrar of Voters filing (example source)",
+      "url": "https://example.com/registrar-filing",
+      "retrieved": "2026-09-19"
+    }
+  ],
+  "last_updated": "2026-09-19"
+}
