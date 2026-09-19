@@ -181,6 +181,41 @@
       "type": "array",
       "items": { "$ref": "#/definitions/party" }
     },
+    "authors": {
+      "description": "Who wrote or filed this measure: legislative authors/coauthors for a Legislature-referred measure, or proponents for an initiative. Optional.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "role"],
+        "properties": {
+          "name": { "description": "Author's name.", "type": "string", "minLength": 1 },
+          "role": {
+            "description": "Their role on this measure, e.g. \"Lead Senate author\", \"Initiative proponent\".",
+            "type": "string",
+            "minLength": 1
+          },
+          "person_id": {
+            "description": "Optional id of a matching file in content/people/, linking this name to a full profile page. Omit if no profile exists yet.",
+            "type": "string",
+            "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+          }
+        }
+      }
+    },
+    "funding": {
+      "description": "Money behind the campaign: registered committees, what they raised, and named donors where verifiable. Distinct from who_supports/who_opposes, which are public positions rather than money. Optional; omit entirely if no committee-finance data has been found.",
+      "type": "object",
+      "properties": {
+        "support_committees": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/committee" }
+        },
+        "oppose_committees": {
+          "type": "array",
+          "items": { "$ref": "#/definitions/committee" }
+        }
+      }
+    },
     "nonpartisan_analysis": {
       "description": "Summaries from nonpartisan analysts such as the Legislative Analyst's Office or Ballotpedia. Empty array if none published yet.",
       "type": "array",
@@ -264,6 +299,40 @@
         "notes": {
           "description": "Why this backer matters: funding, stake in the outcome, past positions.",
           "type": "string"
+        }
+      }
+    },
+    "committee": {
+      "description": "A registered ballot-measure committee raising or spending money on this measure.",
+      "type": "object",
+      "required": ["name", "total_raised", "top_donors", "source_url"],
+      "properties": {
+        "name": {
+          "description": "Official committee name.",
+          "type": "string",
+          "minLength": 1
+        },
+        "total_raised": {
+          "description": "Total contributions, as a dollar figure or \"not yet reported\".",
+          "type": "string",
+          "minLength": 1
+        },
+        "top_donors": {
+          "description": "Named donors with amounts, where a reliable donor-level breakdown was found. Empty array if none found — never fabricate a donor or amount.",
+          "type": "array",
+          "items": {
+            "type": "object",
+            "required": ["name", "amount"],
+            "properties": {
+              "name": { "type": "string", "minLength": 1 },
+              "amount": { "type": "string", "minLength": 1 }
+            }
+          }
+        },
+        "source_url": {
+          "description": "Where the finance figures came from: Cal-Access, FPPC, or the committee's own filing.",
+          "type": "string",
+          "minLength": 1
         }
       }
     }

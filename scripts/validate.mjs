@@ -5,9 +5,10 @@ import { fileURLToPath, pathToFileURL } from 'node:url';
 
 export const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 export const MEASURES_DIR = path.join(ROOT, 'content', 'measures');
+export const PEOPLE_DIR = path.join(ROOT, 'content', 'people');
 
-const SCHEMA_PATH = path.join(ROOT, 'schema', 'measure.schema.json');
-const SCHEMA = JSON.parse(readFileSync(SCHEMA_PATH, 'utf8'));
+const MEASURE_SCHEMA = JSON.parse(readFileSync(path.join(ROOT, 'schema', 'measure.schema.json'), 'utf8'));
+const PERSON_SCHEMA = JSON.parse(readFileSync(path.join(ROOT, 'schema', 'person.schema.json'), 'utf8'));
 
 function typeOf(value) {
   if (value === null) return 'null';
@@ -23,18 +24,18 @@ function label(at) {
   return at || '(root)';
 }
 
-function resolve(node) {
+function resolve(node, schema) {
   if (!node.$ref) return node;
   const target = node.$ref
     .replace(/^#\//, '')
     .split('/')
-    .reduce((acc, segment) => acc?.[segment], SCHEMA);
+    .reduce((acc, segment) => acc?.[segment], schema);
   if (!target) throw new Error(`schema has an unresolvable $ref: ${node.$ref}`);
   return target;
 }
 
-function check(value, rawNode, at, errors) {
-  const node = resolve(rawNode);
+function check(value, rawNode, at, errors, schema) {
+  const node = resolve(rawNode, schema);
   const actual = typeOf(value);
 
   if (node.type) {
@@ -70,7 +71,7 @@ function check(value, rawNode, at, errors) {
       errors.push(`${label(at)}: needs at least ${node.minItems} item(s), got ${value.length}`);
     }
     if (node.items) {
-      value.forEach((item, index) => check(item, node.items, `${at}[${index}]`, errors));
+      value.forEach((item, index) => check(item, node.items, `${at}[${index}]`, errors, schema));
     }
   }
 
@@ -79,28 +80,35 @@ function check(value, rawNode, at, errors) {
       if (!(name in value)) errors.push(`${childPath(at, name)}: missing required property`);
     }
     for (const [name, sub] of Object.entries(node.properties ?? {})) {
-      if (name in value) check(value[name], sub, childPath(at, name), errors);
+      if (name in value) check(value[name], sub, childPath(at, name), errors, schema);
     }
   }
 
-  for (const sub of node.allOf ?? []) check(value, sub, at, errors);
+  for (const sub of node.allOf ?? []) check(value, sub, at, errors, schema);
 
   if (node.if) {
-    const branch = matches(value, node.if) ? node.then : node.else;
-    if (branch) check(value, branch, at, errors);
+    const branch = matches(value, node.if, schema) ? node.then : node.else;
+    if (branch) check(value, branch, at, errors, schema);
   }
 }
 
-function matches(value, node) {
+function matches(value, node, schema) {
   const probe = [];
-  check(value, node, '', probe);
+  check(value, node, '', probe, schema);
   return probe.length === 0;
 }
 
 /** Returns a list of human-readable problems; an empty list means the measure is valid. */
 export function validateMeasure(measure) {
   const errors = [];
-  check(measure, SCHEMA, '', errors);
+  check(measure, MEASURE_SCHEMA, '', errors, MEASURE_SCHEMA);
+  return errors;
+}
+
+/** Returns a list of human-readable problems; an empty list means the person profile is valid. */
+export function validatePerson(person) {
+  const errors = [];
+  check(person, PERSON_SCHEMA, '', errors, PERSON_SCHEMA);
   return errors;
 }
 
@@ -132,20 +140,40 @@ export function readMeasureFile(file) {
   return { measure, errors: validateMeasure(measure) };
 }
 
-function main(argv) {
-  const includeTemplate = argv.includes('--include-template');
-  const files = listMeasureFiles({ includeTemplate });
-
-  if (files.length === 0) {
-    const hint = includeTemplate ? '' : ' Pass --include-template to also check _TEMPLATE.json.';
-    console.log(`No measure files to validate in content/measures.${hint}`);
-    return 0;
+/**
+ * Person files in content/people, sorted. Files whose name starts with "_" are
+ * scaffolding (_TEMPLATE.json) and stay out of the site unless includeTemplate is set.
+ */
+export function listPersonFiles({ includeTemplate = false } = {}) {
+  let names;
+  try {
+    names = readdirSync(PEOPLE_DIR);
+  } catch {
+    return [];
   }
+  return names
+    .filter((name) => name.endsWith('.json'))
+    .filter((name) => includeTemplate || !name.startsWith('_'))
+    .sort()
+    .map((name) => path.join(PEOPLE_DIR, name));
+}
 
+export function readPersonFile(file) {
+  let person;
+  try {
+    person = JSON.parse(readFileSync(file, 'utf8'));
+  } catch (error) {
+    return { person: null, errors: [`(file): not valid JSON: ${error.message}`] };
+  }
+  return { person, errors: validatePerson(person) };
+}
+
+function validateSet(kind, files, readFile) {
+  if (files.length === 0) return { checked: 0, failed: 0 };
   let failed = 0;
   for (const file of files) {
     const rel = path.relative(ROOT, file);
-    const { errors } = readMeasureFile(file);
+    const { errors } = readFile(file);
     if (errors.length === 0) {
       console.log(`ok   ${rel}`);
       continue;
@@ -154,9 +182,25 @@ function main(argv) {
     console.log(`FAIL ${rel}`);
     for (const error of errors) console.log(`       ${error}`);
   }
+  console.log(`${files.length - failed}/${files.length} ${kind} file(s) valid.\n`);
+  return { checked: files.length, failed };
+}
 
-  console.log(`\n${files.length - failed}/${files.length} measure file(s) valid.`);
-  return failed === 0 ? 0 : 1;
+function main(argv) {
+  const includeTemplate = argv.includes('--include-template');
+  const measureFiles = listMeasureFiles({ includeTemplate });
+  const personFiles = listPersonFiles({ includeTemplate });
+
+  if (measureFiles.length === 0 && personFiles.length === 0) {
+    const hint = includeTemplate ? '' : ' Pass --include-template to also check the _TEMPLATE.json files.';
+    console.log(`No measure or person files to validate.${hint}`);
+    return 0;
+  }
+
+  const measures = validateSet('measure', measureFiles, readMeasureFile);
+  const people = validateSet('person', personFiles, readPersonFile);
+
+  return measures.failed === 0 && people.failed === 0 ? 0 : 1;
 }
 
 if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {

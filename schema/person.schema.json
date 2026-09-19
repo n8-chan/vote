@@ -1,0 +1,123 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://example.invalid/schema/person.schema.json",
+  "title": "Person",
+  "description": "A profile page for someone who authored or proposed a ballot measure: a state legislator, a county or city official, a school or special district official, or a citizen initiative proponent. Referenced from a measure's authors[].person_id. scripts/validate.mjs validates against this file, so adding or changing a field means editing this file only.",
+  "type": "object",
+  "required": ["id", "name", "type", "title", "background", "sources", "last_updated"],
+  "properties": {
+    "id": {
+      "description": "Unique kebab-case identifier, also the output filename and the value authors[].person_id links to. Example: buffy-wicks.",
+      "type": "string",
+      "minLength": 1,
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$"
+    },
+    "name": {
+      "description": "Full name.",
+      "type": "string",
+      "minLength": 1
+    },
+    "type": {
+      "description": "What kind of public role this person holds relative to the measures they've authored.",
+      "type": "string",
+      "enum": [
+        "state_legislator",
+        "county_official",
+        "city_official",
+        "school_district_official",
+        "special_district_official",
+        "initiative_proponent",
+        "other"
+      ]
+    },
+    "title": {
+      "description": "Current official title or role, e.g. \"California State Assemblymember\".",
+      "type": "string",
+      "minLength": 1
+    },
+    "district": {
+      "description": "District or seat represented, e.g. \"California State Assembly District 14\". Omit if not applicable (e.g. an initiative proponent with no elected seat).",
+      "type": "string",
+      "minLength": 1
+    },
+    "years_of_service": {
+      "description": "Tenure in the role, e.g. \"2018–present\" or \"2016–2022\". Omit if not applicable.",
+      "type": "string",
+      "minLength": 1
+    },
+    "background": {
+      "description": "Biographical paragraphs: career, how they came to this office, notable prior work. One string per paragraph.",
+      "type": "array",
+      "minItems": 1,
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "committee_memberships": {
+      "description": "Legislative or governing-body committees this person sits on. Omit or leave empty if not applicable.",
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "voting_record_highlights": {
+      "description": "Specific, citable past votes worth knowing — not a general characterization. Each entry should be a concrete claim (bill/measure, how they voted, what it did).",
+      "type": "array",
+      "items": { "type": "string", "minLength": 1 }
+    },
+    "attendance": {
+      "description": "Floor/meeting attendance or voting-participation record, if published by the body they serve on. Say so plainly if no such record is publicly available rather than omitting the field with no explanation.",
+      "type": "string",
+      "minLength": 1
+    },
+    "endorsements_received": {
+      "description": "Who has endorsed this person (for their office, not for a specific measure). Empty array if none found.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["name", "type"],
+        "properties": {
+          "name": { "type": "string", "minLength": 1 },
+          "type": {
+            "type": "string",
+            "enum": ["org", "politician", "business", "other"]
+          },
+          "notes": { "type": "string" }
+        }
+      }
+    },
+    "past_measures_authored": {
+      "description": "Prior bills, propositions, or initiatives this person authored or sponsored, each with a verifiable outcome. Empty array if none found.",
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["title", "year", "outcome", "source_url"],
+        "properties": {
+          "title": { "type": "string", "minLength": 1 },
+          "year": { "type": "string", "minLength": 1 },
+          "outcome": {
+            "description": "What happened to it, e.g. \"Signed into law\", \"Approved by voters 62%–38%\", \"Failed to qualify\", \"Vetoed\".",
+            "type": "string",
+            "minLength": 1
+          },
+          "source_url": { "type": "string", "minLength": 1 }
+        }
+      }
+    },
+    "sources": {
+      "description": "Primary sources this profile rests on: official legislator/official bio page, vote-tracking sites (e.g. legislature.ca.gov, Ballotpedia), campaign finance disclosures.",
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "object",
+        "required": ["title", "url", "retrieved"],
+        "properties": {
+          "title": { "type": "string", "minLength": 1 },
+          "url": { "type": "string", "minLength": 1 },
+          "retrieved": { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$" }
+        }
+      }
+    },
+    "last_updated": {
+      "description": "Date this file was last edited by a human, as YYYY-MM-DD.",
+      "type": "string",
+      "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "example-person-template",
+  "name": "Jane Placeholder",
+  "type": "county_official",
+  "title": "TEMPLATE — copy this file, do not deploy as-is",
+  "district": "Fictional Santa Clara County Board of Supervisors District 0 (example)",
+  "years_of_service": "2099–present (fictional)",
+  "background": [
+    "This file is a structural example, not a real person. Every claim below is invented to show what a filled-in profile looks like. Copy it to content/people/<their-id>.json and replace all of it with researched content.",
+    "Use these paragraphs for career background: how this person came to the office, prior roles, and anything that explains why they authored the measure that links here."
+  ],
+  "committee_memberships": [
+    "Fictional Finance and Government Operations Committee (example)"
+  ],
+  "voting_record_highlights": [
+    "Replace with a specific, citable past vote: what was voted on, how they voted, and what it did — not a general characterization like \"pro-business\" or \"progressive\"."
+  ],
+  "attendance": "Replace with the real published attendance/voting-participation record if the body they serve on publishes one, or state plainly that no such record is publicly available.",
+  "endorsements_received": [
+    {
+      "name": "Example Labor Council (fictional)",
+      "type": "org",
+      "notes": "Endorsement for this person's own election, not for a specific measure — that belongs on the measure's funding/who_supports fields instead."
+    }
+  ],
+  "past_measures_authored": [
+    {
+      "title": "Fictional prior Measure YY (example)",
+      "year": "2022",
+      "outcome": "Approved by voters 58%–42% (fictional)",
+      "source_url": "https://example.com/past-measure-placeholder"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Official county biography page (example source)",
+      "url": "https://example.com/official-bio-placeholder",
+      "retrieved": "2026-09-19"
+    },
+    {
+      "title": "Ballotpedia profile (example source)",
+      "url": "https://example.com/ballotpedia-profile-placeholder",
+      "retrieved": "2026-09-19"
+    }
+  ],
+  "last_updated": "2026-09-19"
+}

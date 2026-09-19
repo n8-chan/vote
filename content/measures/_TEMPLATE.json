@@ -76,6 +76,26 @@
       "notes": "Fictional business; note here what a real opposing business pays under the measure"
     }
   ],
+  "authors": [
+    {
+      "name": "Supervisor Jane Placeholder",
+      "role": "Fictional author; note whether they authored the underlying legislation or filed the initiative",
+      "person_id": "example-person-template"
+    }
+  ],
+  "funding": {
+    "support_committees": [
+      {
+        "name": "Fictional Committee to Pass Measure ZZ",
+        "total_raised": "$0 (fictional example)",
+        "top_donors": [
+          { "name": "Example Widget Alliance", "amount": "$0 (fictional example)" }
+        ],
+        "source_url": "https://example.com/cal-access-placeholder"
+      }
+    ],
+    "oppose_committees": []
+  },
   "nonpartisan_analysis": [
     {
       "source": "Legislative Analyst's Office (example entry, not a real analysis)",

@@ -1,7 +1,13 @@
 #!/usr/bin/env node
 import { copyFileSync, mkdirSync, rmSync, writeFileSync } from 'node:fs';
 import path from 'node:path';
-import { listMeasureFiles, readMeasureFile, ROOT } from './validate.mjs';
+import {
+  listMeasureFiles,
+  listPersonFiles,
+  readMeasureFile,
+  readPersonFile,
+  ROOT,
+} from './validate.mjs';
 
 const DIST = path.join(ROOT, 'dist');
 const SITE_TITLE = 'California Propositions and Santa Clara County Ballot Measures';
@@ -85,9 +91,47 @@ function parties(entries) {
   return `<ul class="parties">\n${items}\n</ul>`;
 }
 
+function authorList(authors, peopleById) {
+  if (!authors || authors.length === 0) return '<p class="empty">No author on record.</p>';
+  const items = authors
+    .map((author) => {
+      const person = author.person_id ? peopleById.get(author.person_id) : null;
+      const name = person
+        ? `<a href="../people/${esc(person.id)}.html">${esc(author.name)}</a>`
+        : esc(author.name);
+      return `<li><strong>${name}</strong> <span class="party-type">${esc(author.role)}</span></li>`;
+    })
+    .join('\n');
+  return `<ul class="parties">\n${items}\n</ul>`;
+}
+
+function donorList(donors) {
+  if (!donors || donors.length === 0) return '<p class="empty">No donor-level breakdown found.</p>';
+  const items = donors
+    .map((donor) => `<li>${esc(donor.name)} <span class="amount">${esc(donor.amount)}</span></li>`)
+    .join('\n');
+  return `<ul class="donors">\n${items}\n</ul>`;
+}
+
+function committeeList(committees) {
+  if (!committees || committees.length === 0) return '<p class="empty">No registered committees found.</p>';
+  const items = committees
+    .map(
+      (c) =>
+        `<li><strong>${esc(c.name)}</strong> <span class="party-type">${esc(c.total_raised)}</span>${donorList(c.top_donors)}<p class="source-link">${link(c.source_url, 'Filing source')}</p></li>`,
+    )
+    .join('\n');
+  return `<ul class="parties committees">\n${items}\n</ul>`;
+}
+
 /** Detail-page sections, rendered top to bottom in this order. */
 const SECTIONS = [
   { heading: 'Summary', render: (m) => paragraphs([m.summary]) },
+  {
+    heading: 'Who Wrote This',
+    when: (m) => m.authors && m.authors.length > 0,
+    render: (m, ctx) => authorList(m.authors, ctx.peopleById),
+  },
   { heading: 'What It Really Means', render: (m) => paragraphs(m.what_it_really_means) },
   {
     heading: 'Fiscal Impact',
@@ -115,6 +159,12 @@ const SECTIONS = [
     heading: 'Who Supports and Who Opposes',
     render: (m) =>
       `<div class="columns">\n<div class="column supports"><h3>Supports</h3>${parties(m.who_supports)}</div>\n<div class="column opposes"><h3>Opposes</h3>${parties(m.who_opposes)}</div>\n</div>`,
+  },
+  {
+    heading: "Who's Paying for Ads",
+    when: (m) => m.funding && ((m.funding.support_committees?.length ?? 0) + (m.funding.oppose_committees?.length ?? 0) > 0),
+    render: (m) =>
+      `<div class="columns">\n<div class="column supports"><h3>Supporting committees</h3>${committeeList(m.funding.support_committees)}</div>\n<div class="column opposes"><h3>Opposing committees</h3>${committeeList(m.funding.oppose_committees)}</div>\n</div>`,
   },
   {
     heading: 'Nonpartisan Analysis',
@@ -160,13 +210,14 @@ ${body}
 `;
 }
 
-function renderDetail(measure, { isTemplate }) {
+function renderDetail(measure, { isTemplate, peopleById }) {
   const banner = isTemplate
     ? '<p class="template-warning">This is the example template, not a real measure. Every fact below is made up.</p>'
     : '';
-  const sections = SECTIONS.map(
-    (section) => `<section>\n<h2>${esc(section.heading)}</h2>\n${section.render(measure)}\n</section>`,
-  ).join('\n');
+  const ctx = { peopleById };
+  const sections = SECTIONS.filter((section) => !section.when || section.when(measure))
+    .map((section) => `<section>\n<h2>${esc(section.heading)}</h2>\n${section.render(measure, ctx)}\n</section>`)
+    .join('\n');
 
   const body = `<a class="back" href="../index.html">Back to all measures</a>
 <article>
@@ -236,6 +287,7 @@ function renderIndex(measures) {
   const body = `<header class="site-header">
 <h1>${esc(SITE_TITLE)}</h1>
 <p class="blurb">Plain-language deep dives on what each measure does, what it costs, who gains power, and what is buried in the fine print.</p>
+<p><a href="people/index.html">Browse authors and proponents →</a></p>
 </header>
 ${groups}
 <footer>
@@ -251,50 +303,195 @@ ${groups}
   });
 }
 
-function main(argv) {
-  const includeTemplate = argv.includes('--include-template');
-  const files = listMeasureFiles({ includeTemplate });
+const PERSON_TYPE_LABELS = {
+  state_legislator: 'State legislator',
+  county_official: 'County official',
+  city_official: 'City official',
+  school_district_official: 'School district official',
+  special_district_official: 'Special district official',
+  initiative_proponent: 'Initiative proponent',
+  other: 'Other',
+};
 
-  const measures = [];
+function pastMeasuresList(items) {
+  if (!items || items.length === 0) return '<p class="empty">None on record.</p>';
+  const rows = items
+    .map(
+      (m) =>
+        `<li>${link(m.source_url, m.title)} <span class="card-meta">${esc(m.year)} — ${esc(m.outcome)}</span></li>`,
+    )
+    .join('\n');
+  return `<ul class="sources">\n${rows}\n</ul>`;
+}
+
+const PERSON_SECTIONS = [
+  { heading: 'Background', when: (p) => p.background.length > 0, render: (p) => paragraphs(p.background) },
+  {
+    heading: 'Committee Memberships',
+    when: (p) => p.committee_memberships?.length > 0,
+    render: (p) => bullets(p.committee_memberships),
+  },
+  {
+    heading: 'Voting Record Highlights',
+    when: (p) => p.voting_record_highlights?.length > 0,
+    render: (p) => bullets(p.voting_record_highlights),
+  },
+  { heading: 'Attendance', when: (p) => !!p.attendance, render: (p) => paragraphs([p.attendance]) },
+  {
+    heading: 'Endorsements Received',
+    when: (p) => p.endorsements_received?.length > 0,
+    render: (p) => parties(p.endorsements_received),
+  },
+  {
+    heading: 'Past Measures Authored',
+    when: (p) => p.past_measures_authored?.length > 0,
+    render: (p) => pastMeasuresList(p.past_measures_authored),
+  },
+  {
+    heading: 'Sources',
+    render: (p) =>
+      `<ul class="sources">\n${p.sources
+        .map((s) => `<li>${link(s.url, s.title)} <span class="retrieved">retrieved ${esc(s.retrieved)}</span></li>`)
+        .join('\n')}\n</ul>`,
+  },
+];
+
+function renderPerson(person, { isTemplate }) {
+  const banner = isTemplate
+    ? '<p class="template-warning">This is the example template, not a real person. Every fact below is made up.</p>'
+    : '';
+  const sections = PERSON_SECTIONS.filter((section) => !section.when || section.when(person))
+    .map((section) => `<section>\n<h2>${esc(section.heading)}</h2>\n${section.render(person)}\n</section>`)
+    .join('\n');
+
+  const factRows = [['Role', person.title]];
+  if (person.district) factRows.push(['District', person.district]);
+  if (person.years_of_service) factRows.push(['Years of service', person.years_of_service]);
+
+  const body = `<a class="back" href="../index.html">Back to all measures</a>
+<article>
+<header class="measure-header">
+${banner}
+<p class="eyebrow">${esc(PERSON_TYPE_LABELS[person.type] ?? person.type)}</p>
+<h1>${esc(person.name)}</h1>
+${facts(factRows)}
+</header>
+${sections}
+</article>
+<footer>
+<p>Last updated ${esc(person.last_updated)}.</p>
+<p><a class="back" href="../people/index.html">Back to all people</a></p>
+</footer>`;
+
+  return page({
+    title: person.name,
+    description: person.title,
+    stylesheet: '../style.css',
+    body,
+  });
+}
+
+function renderPeopleIndex(people) {
+  const sorted = [...people].sort((a, b) => a.name.localeCompare(b.name));
+  const items = sorted
+    .map(
+      (p) => `<li class="card">
+<p class="badges"><span class="badge jurisdiction">${esc(PERSON_TYPE_LABELS[p.type] ?? p.type)}</span></p>
+<h3><a href="${esc(p.id)}.html">${esc(p.name)}</a></h3>
+<p class="card-summary">${esc(p.title)}</p>
+</li>`,
+    )
+    .join('\n');
+  const contents = sorted.length === 0 ? '<p class="empty">No profiles yet.</p>' : `<ul class="cards">\n${items}\n</ul>`;
+
+  const body = `<header class="site-header">
+<h1>People</h1>
+<p class="blurb">Everyone credited as an author or proponent on a tracked measure, with their record.</p>
+</header>
+<section>${contents}</section>
+<footer>
+<p><a class="back" href="../index.html">Back to all measures</a></p>
+</footer>`;
+
+  return page({
+    title: 'People — authors and proponents',
+    description: 'Profiles of legislators and proponents behind tracked ballot measures.',
+    stylesheet: '../style.css',
+    body,
+  });
+}
+
+function loadAll(kind, files, readFile, idOf) {
+  const entries = [];
   const failures = [];
   for (const file of files) {
     const rel = path.relative(ROOT, file);
-    const { measure, errors } = readMeasureFile(file);
+    const { errors, ...rest } = readFile(file);
+    const record = rest[kind];
     if (errors.length > 0) {
       failures.push(`${rel}\n${errors.map((error) => `       ${error}`).join('\n')}`);
       continue;
     }
-    measures.push({ measure, isTemplate: path.basename(file).startsWith('_') });
+    entries.push({ [kind]: record, isTemplate: path.basename(file).startsWith('_') });
   }
+  if (failures.length === 0) {
+    const ids = new Set();
+    for (const entry of entries) {
+      const id = idOf(entry[kind]);
+      if (ids.has(id)) {
+        failures.push(`duplicate ${kind} id "${id}"`);
+        continue;
+      }
+      ids.add(id);
+    }
+  }
+  return { entries, failures };
+}
+
+function main(argv) {
+  const includeTemplate = argv.includes('--include-template');
+
+  const measureLoad = loadAll(
+    'measure',
+    listMeasureFiles({ includeTemplate }),
+    readMeasureFile,
+    (m) => m.id,
+  );
+  const personLoad = loadAll('person', listPersonFiles({ includeTemplate }), readPersonFile, (p) => p.id);
+  const failures = [...measureLoad.failures, ...personLoad.failures];
 
   if (failures.length > 0) {
-    console.error(`Build aborted: ${failures.length} measure file(s) failed validation.\n`);
+    console.error(`Build aborted: ${failures.length} file(s) failed validation.\n`);
     for (const failure of failures) console.error(`FAIL ${failure}\n`);
     console.error('Fix the files above, or run `npm run validate` to see the full list.');
     return 1;
   }
 
-  const ids = new Set();
-  for (const { measure } of measures) {
-    if (ids.has(measure.id)) {
-      console.error(`Build aborted: duplicate measure id "${measure.id}".`);
-      return 1;
-    }
-    ids.add(measure.id);
-  }
+  const measures = measureLoad.entries;
+  const people = personLoad.entries;
+  const peopleById = new Map(people.map(({ person }) => [person.id, person]));
 
   rmSync(DIST, { recursive: true, force: true });
   mkdirSync(path.join(DIST, 'measures'), { recursive: true });
+  mkdirSync(path.join(DIST, 'people'), { recursive: true });
   copyFileSync(path.join(ROOT, 'public', 'style.css'), path.join(DIST, 'style.css'));
 
   writeFileSync(path.join(DIST, 'index.html'), renderIndex(measures.map((entry) => entry.measure)));
   for (const { measure, isTemplate } of measures) {
-    writeFileSync(path.join(DIST, 'measures', `${measure.id}.html`), renderDetail(measure, { isTemplate }));
+    writeFileSync(
+      path.join(DIST, 'measures', `${measure.id}.html`),
+      renderDetail(measure, { isTemplate, peopleById }),
+    );
   }
 
-  console.log(`Built dist/index.html and ${measures.length} detail page(s).`);
-  if (measures.length === 0) {
-    console.log('No measures rendered. To preview the example, run: node scripts/build.mjs --include-template');
+  writeFileSync(path.join(DIST, 'people', 'index.html'), renderPeopleIndex(people.map((entry) => entry.person)));
+  for (const { person, isTemplate } of people) {
+    writeFileSync(path.join(DIST, 'people', `${person.id}.html`), renderPerson(person, { isTemplate }));
+  }
+
+  console.log(`Built dist/index.html, ${measures.length} measure page(s), and ${people.length} person page(s).`);
+  if (measures.length === 0 && people.length === 0) {
+    console.log('Nothing rendered. To preview the examples, run: node scripts/build.mjs --include-template');
   }
   return 0;
 }
