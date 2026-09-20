@@ -1,0 +1,317 @@
+{
+  "id": "ca-prop-3-2026",
+  "jurisdiction": "state",
+  "election_date": "2026-11-03",
+  "number": "Proposition 3",
+  "title": "Provides Permanent Funding for Schools and Health Care by Extending Existing Tax on High Incomes",
+  "status": "on_ballot",
+  "summary": "Proposition 3 deletes the expiration dates on the personal income tax surcharge that voters created with Proposition 30 in 2012 and extended with Proposition 55 in 2016. Three brackets that currently pay 10.3, 11.3, and 12.3 percent instead of the 9.3 percent base rate would keep paying those rates forever rather than dropping to 9.3 percent after the 2030 tax year. The Legislative Analyst's Office puts the revenue at $5 billion to $15 billion a year, roughly 40 percent of which reaches schools and community colleges while the rest supports the General Fund and budget reserves.",
+  "what_it_really_means": [
+    "No taxpayer's rate changes on the day this passes. Proposition 3 is a repeal of sunset clauses, not a rate change. The operative edits to Section 36 of Article XIII of the Constitution strike two identical sentences, 'This paragraph shall become inoperative on December 1, 2031,' and strike the year ranges that cap the Director of Finance's and the Controller's duties at fiscal year 2030 to 2031. Everything else about the tax stays exactly as it is. A voter who votes no does not raise anyone's taxes either; a no vote simply lets the surcharge lapse after the 2030 tax year.",
+    "The tax being extended is the personal income tax surcharge added to Revenue and Taxation Code Section 17041 by Proposition 30. It is not a wealth tax, not a capital gains tax, and not a business tax. It adds one, two, or three percentage points on top of the 9.3 percent top base rate, in three brackets. The Constitution states the brackets in 2012 dollars, at $250,000, $300,000, and $500,000 for single filers and $340,000, $408,000, and $680,000 for heads of household, with joint filers at double the single-filer figures. Those figures have been inflation-indexed since 2013 under the same section, which is why the Legislative Analyst's Figure 1 shows the 2025 brackets starting at $371,000 single, $743,000 joint, and $505,000 head of household. Proposition 3 changes none of those numbers and carries the existing indexing forward. Some secondary summaries describe the inflation adjustment as something the measure adds; the text shows it is already there.",
+    "Proposition 30 also imposed a quarter-cent sales tax. That component became inoperative on January 1, 2017 by its own terms, Proposition 55 did not extend it, and Proposition 3 does not revive it. Nothing in this measure touches sales tax, property tax, or any local tax.",
+    "Where the money goes is the part the title compresses hardest. Revenue from the surcharge is deposited in the Education Protection Account and continuously appropriated. The order of operations matters. First, the Director of Finance estimates whether the amount available for the account exceeds what is needed, combined with all other General Fund revenue, to meet both the Proposition 98 minimum school funding guarantee and the state's 'workload budget.' Only if there is a surplus over that bar does half the remainder, capped at $2 billion a year, go to the Department of Health Care Services for critical, emergency, acute, and preventive care for children and their families. Whatever is left in the account is then split 89 percent to K-12 school districts, county offices of education, and charter schools and 11 percent to community college districts, with floors of $200 per unit of average daily attendance and $100 per full-time-equivalent community college student.",
+    "That health care trigger is set high and has a history. The definition of 'workload budget' is frozen to Government Code Section 13308.05 as it read and as the Department of Finance interpreted it on January 1, 2016, so the bar the account must clear is a 2016 concept applied to a much larger modern budget. The California Budget and Policy Center states plainly that this formula 'has never directed funds to Medi-Cal.' The health care benefit supporters describe is real but indirect: money flowing into the Education Protection Account counts toward the school funding guarantee, which frees other General Fund dollars for Medi-Cal and everything else. The measure's own findings say so, describing revenues that go to schools while 'State funding is freed up to help balance the budget.'",
+    "The two halves of the title also carry different legal weight. Subdivision (e)(4) makes the education distribution self-executing and says it 'shall not be delayed or otherwise affected by failure of the Legislature and Governor to enact an annual budget bill' or by any other action or failure to act. The health care allocation gets the opposite treatment: subdivision (e)(2)(G) lets the Legislature suspend it by statute in any year a budget emergency is declared, capped only by the proportional reduction in overall General Fund spending. Schools get a constitutional flow the Legislature cannot interrupt. Health care gets a conditional, capped, suspendable one.",
+    "The accountability claims in the official argument track the text, with edges worth knowing. Subdivision (e)(5) bars the education money from paying any cost incurred by the Legislature, the Governor, or any state agency, and (e)(6) bars local boards from spending it on administrator salaries and benefits or other administrative costs, while giving those boards 'sole authority' over the rest in open session. Districts must publish an annual online accounting. But (e)(7) says the cost of the extra audit may itself be paid from the account and 'shall not be considered administrative costs.' The administrative-cost bar is written for the education money; the health care allocation under subparagraph (F) is not subject to it. And on penalties, subdivision (g)(2) makes investigation mandatory and penalties discretionary: the Attorney General or local district attorney 'shall expeditiously investigate, and may seek civil or criminal penalties for, any misuse.'",
+    "Permanence cuts both ways and is the actual question on the ballot. Because this is a constitutional amendment, undoing it later requires another statewide vote, not a legislative bill. Supporters treat that durability as the point, since a tax that expires every decade forces schools to plan around a cliff. Opponents treat it as the objection, since the same durability removes the recurring check that produced the 2016 and 2026 elections in the first place. Both sides are describing the same mechanism.",
+    "One provision no voter would find in the title: Section 5 declares that any other measure on the same statewide ballot that 'affects the tax rates for personal income' is in conflict with Proposition 3, and that if Proposition 3 gets more yes votes the other measure is 'null and void' in its entirety. The November 2026 ballot carries three other tax measures, Propositions 40, 41, and 42, and each wrote a narrower clause. Proposition 40's own conflicts section says it 'provides for a tax on net worth, not income,' targets only measures affecting net worth taxes on billionaires, and voids only 'conflicting provisions' rather than the whole measure. Whether Proposition 40, 41, or 42 counts as 'affecting the tax rates for personal income' is not settled by any of these texts and would be a question for courts if the votes fell that way."
+  ],
+  "fiscal_impact": {
+    "state_cost": "none. The measure creates no program, authorizes no borrowing, and the Legislative Analyst's Office identifies no new state spending obligation.",
+    "state_savings": "none identified by the Legislative Analyst's Office.",
+    "local_cost": "none. Cities, counties, and special districts have no obligation under the measure. School districts, county offices of education, charter schools, and community college districts already receive and audit this money and would continue to.",
+    "revenue_change": "Maintains $5 billion to $15 billion a year in state personal income tax revenue, in today's dollars, that would otherwise stop after the 2030 tax year. Relative to current law the measure raises no rate and cuts none; relative to the post-2030 baseline it preserves revenue that would otherwise disappear.",
+    "ongoing_vs_one_time": "Ongoing and, if approved, permanent. The measure deletes the expiration dates rather than setting a new one, so the revenue continues until voters amend the Constitution again.",
+    "narrative": "The honest framing depends entirely on which baseline you pick, and both baselines are legitimate. Measured against what taxpayers pay today, Proposition 3 changes nothing: the rates, brackets, and indexing are identical. Measured against the law as currently written, which returns the top three brackets to 9.3 percent after 2030, it is a permanent continuation of $5 billion to $15 billion a year that the state would otherwise lose. Supporters use the first baseline and call a no vote a tax cut for the wealthiest. Opponents use the second and call a yes vote the largest permanent state income tax increase in California history. Neither statement is factually wrong; they are answers to different questions. The Legislative Analyst's Office stresses that the range is wide because much of this revenue comes from income tied to the stock market, and the California Budget and Policy Center notes the receipts peaked near $16 billion in 2021 before falling with the market. That volatility is why part of the money goes into reserves. On distribution, the LAO estimates roughly 40 percent of the revenue reaches schools and community colleges and the rest goes to other state programs, which is a smaller school share than the 89-and-11 split in the ballot summary suggests, because that split applies to the Education Protection Account after the health care carve-out, and because account deposits count toward the Proposition 98 minimum guarantee rather than sitting on top of it. The measure carries no administrative appropriation of its own; districts may charge the additional annual audit against the account."
+  },
+  "taxes": {
+    "new_taxes": [],
+    "tax_changes": [
+      "Makes permanent the Proposition 30 personal income tax surcharge by deleting the two clauses in Article XIII Section 36(f) reading 'This paragraph shall become inoperative on December 1, 2031.' Absent the measure the three top brackets revert to the 9.3 percent base rate after the 2030 tax year.",
+      "Keeps the surcharge rates unchanged at 10.3, 11.3, and 12.3 percent on the three brackets above the 9.3 percent base rate.",
+      "Keeps the bracket thresholds unchanged. The Constitution states them in 2012 dollars at $250,000, $300,000, and $500,000 for single filers and $340,000, $408,000, and $680,000 for heads of household, with joint filers at twice the single-filer figures. Inflation indexing under Revenue and Taxation Code Section 17041(h) has applied since 2013 and continues, producing 2025 thresholds of about $371,000 single, $743,000 joint, and $505,000 head of household.",
+      "Deletes the year-range limits on the Director of Finance's annual estimates and the Controller's quarterly transfers, which currently stop at fiscal year 2030 to 2031, so the Education Protection Account transfers continue indefinitely.",
+      "Creates no sales tax and revives none. The quarter-cent sales and use tax that Proposition 30 imposed became inoperative on January 1, 2017 and Proposition 55 did not extend it.",
+      "Does not change the base rates in any bracket below the surcharge thresholds. The 1, 2, 4, 6, 8, and 9.3 percent brackets are identical whether the measure passes or fails."
+    ]
+  },
+  "spending": {
+    "new_spending_areas": [
+      "K-12 school districts, county offices of education, and charter schools: 89 percent of the education portion of the Education Protection Account, as general purpose funding, with no district, county office, or charter school receiving less than $200 per unit of average daily attendance",
+      "Community college districts: 11 percent of the education portion, as general purpose funding, with no district receiving less than $100 per full-time-equivalent student",
+      "Department of Health Care Services: 50 percent of any Education Protection Account revenue above what is needed to meet the Proposition 98 minimum guarantee and the workload budget, capped at $2 billion in a single fiscal year, restricted to critical, emergency, acute, and preventive health care for children and their families through Medi-Cal programs, and barred from supplanting existing state General Fund dollars for those programs",
+      "The General Fund generally, and state budget reserves. The Legislative Analyst's Office estimates roughly 40 percent of the revenue reaches schools and community colleges and the rest goes to other state programs, with part set aside in reserves to cushion revenue declines."
+    ],
+    "funding_source": "Existing personal income tax revenue from the Proposition 30 surcharge on the top three brackets. No bonds, no new tax, and no General Fund appropriation. Revenue flows into the Education Protection Account, a continuously appropriated account inside the General Fund."
+  },
+  "control_and_power": "The Legislature loses discretion rather than gaining it, permanently. Article XIII Section 36(e)(3) continuously appropriates the Education Protection Account, (e)(4) makes the education distribution self-executing so it cannot be delayed by failure to enact a budget or by any other legislative or gubernatorial action, and (e)(5) bars the education money from paying any cost incurred by the Legislature, the Governor, or any state agency. The one lever the Legislature keeps is subdivision (e)(2)(G), which lets it suspend the health care allocation by statute in a declared budget emergency. The Director of Finance holds the most consequential administrative power: under (e)(2)(A) and (E) the director estimates how much revenue is available and how much is needed to meet the Proposition 98 guarantee and the workload budget, and that estimate determines whether the health care allocation is triggered at all. The Controller executes the transfers and, under (g)(1), audits the account. The Superintendent of Public Instruction and the Board of Governors of the California Community Colleges allocate the education money by formula, with no discretion over who gets it. Local governing boards hold 'sole authority' under (e)(6) to decide how their share is spent, in open session, subject to the administrative-cost bar and an online accounting requirement. Enforcement rests with the Attorney General or local district attorneys, who under (g)(2) must investigate misuse and may seek civil or criminal penalties. Section 7 gives the proponents, other government employers, or in their absence any California citizen standing to defend the act in court if the state declines to, with fees and costs charged against funds appropriated to the Attorney General.",
+  "loopholes": [
+    "The health care allocation in subdivision (e)(2)(F) only triggers when the Director of Finance estimates that Education Protection Account revenue exceeds what is needed, combined with all other General Fund revenue, to meet both the Proposition 98 minimum guarantee and the workload budget. The California Budget and Policy Center states that this formula 'has never directed funds to Medi-Cal' since Proposition 55 created it in 2016. The title promises health care funding through a channel that has not yet delivered any.",
+    "The trigger's 'workload budget' is defined as Government Code Section 13308.05 read and interpreted by the Department of Finance as of January 1, 2016, with 'currently authorized services' limited to what would have qualified on that date. The threshold the account must clear is pegged to a decade-old budget concept applied to a much larger current budget.",
+    "Subdivision (e)(2)(G) allows the health care allocation to be suspended by statute in any fiscal year a budget emergency is declared, while subdivision (e)(4) makes the education allocation self-executing and immune from legislative delay. The two halves of the ballot title do not carry equal protection.",
+    "Subdivision (e)(8) deems these revenues 'General Fund revenues,' 'General Fund proceeds of taxes,' and 'moneys to be applied by the State for the support of school districts and community college districts' for Proposition 98 purposes. The money therefore counts toward the minimum school funding guarantee rather than adding to it. The measure's own findings describe the consequence: school revenue is guaranteed and 'State funding is freed up' for other uses.",
+    "Subdivision (e)(7) lets districts pay the cost of the measure's extra annual audit out of the Education Protection Account and states those costs 'shall not be considered administrative costs for purposes of this section.' It is a named carve-out from the no-administrative-costs promise.",
+    "The administrative-cost bars in (e)(5) and (e)(6) are written against the education money. The health care allocation under subparagraph (F) is not covered by them.",
+    "Subdivision (g)(2) requires the Attorney General or a local district attorney to investigate misuse but says only that they 'may seek civil or criminal penalties.' The official argument's promise that an official who misuses funds 'faces prosecution and criminal penalties' describes a discretionary remedy.",
+    "Section 5 sweeps in any other measure on the same ballot that 'affects the tax rates for personal income' and voids it 'in their entirety' if Proposition 3 wins more yes votes. The phrase is undefined and considerably broader than the conflict clauses the other 2026 tax measures wrote for themselves.",
+    "Because the change is constitutional, reversing it requires another statewide ballot measure. The Legislature cannot adjust or repeal the rates, and there is no review date, no sunset, and no reporting trigger that would force the question back to voters."
+  ],
+  "unexpected_provisions": [
+    "Section 5 declares any other measure on the same statewide ballot that affects personal income tax rates to be in conflict, and voids it entirely if Proposition 3 receives more affirmative votes. Propositions 40, 41, and 42 are all tax measures on this ballot. Proposition 40's own clause is drafted much more narrowly: it states the act 'provides for a tax on net worth, not income,' reaches only measures affecting billionaire net worth taxes, and voids only 'conflicting provisions' rather than the whole measure.",
+    "Section 7 gives the proponents, any other government employer, or any California citizen the right to intervene and defend the act if the state will not, and provides that 'the fees and costs of defending the action shall be a charge on funds appropriated to the Attorney General, which shall be satisfied promptly.' Private defense of the measure is billed to the state.",
+    "The health care money the title names is capped at $2 billion in any single fiscal year, is limited to critical, emergency, acute, and preventive care for children and their families, may not supplant existing state General Fund spending on those programs, and must be used to draw federal Medicaid matching funds.",
+    "The measure amends Section 36 of Article XIII, a section whose bulk is the 2011 public safety realignment guarantee that routes sales tax and vehicle license fee revenue to counties for jails, probation, child welfare, mental health, and substance abuse services. Voters approving Proposition 3 are amending that section, though the measure leaves the realignment provisions unchanged.",
+    "The 89 and 11 percent split in the ballot summary applies only to the education portion of the Education Protection Account, after the health care carve-out is taken. The Legislative Analyst's Office estimates roughly 40 percent of the measure's total revenue reaches schools and community colleges.",
+    "Per-pupil floors are written into the Constitution: no school district, county office of education, or charter school may receive less than $200 per unit of average daily attendance, and no community college district less than $100 per full-time-equivalent student.",
+    "Local governing boards have sole authority over how their share is spent and must make those decisions in open session, but the measure imposes no restriction on the category of spending beyond the administrative-cost bar. It is general purpose funding, not earmarked for class size, counselors, or any specific program named in the campaign.",
+    "The bracket thresholds have been indexed to inflation since 2013 under existing law, which is why the $250,000 figure in the Constitution reaches taxpayers at about $371,000 today. The measure carries that indexing forward rather than creating it."
+  ],
+  "pros": [
+    "The official argument in favor, signed by David Goldberg of the California Teachers Association, Katie Nilsson of the California School Nurses Organization, and Jodi Hicks of Planned Parenthood Affiliates of California, opens on the central claim that 'Proposition 3 is NOT a new tax and does NOT raise taxes on anyone,' and that letting the rates lapse would hand the wealthiest Californians a cut.",
+    "Supporters put a number on the stakes: without the measure, California's roughly 8 million public school and community college students face billions in cuts including teacher layoffs and larger classes, and Medi-Cal coverage is exposed.",
+    "The revenue is not hypothetical. The measure's own findings state the tax has raised more than $104 billion since 2012, and the California Budget and Policy Center puts the cumulative figure near $120 billion with about $10 billion a year currently.",
+    "The money is constitutionally routed to local districts and continuously appropriated, so it cannot be redirected by the Legislature, cannot be delayed by a late budget, and cannot be spent on state bureaucracy. Districts decide their own uses in open session and must post an annual accounting online.",
+    "Every dollar is subject to the districts' annual independent financial and compliance audit, the Controller audits the account, and the Attorney General or a district attorney must investigate any misuse.",
+    "The rates apply only to the top 2 percent of California taxpayers, a group the Legislative Analyst's Office notes already pays about half of all state income taxes. The California Budget and Policy Center estimates the top 1 percent would receive an average annual tax cut of nearly $59,000 if the rates expire.",
+    "The League of Women Voters of California argues the measure 'protects vital services, helps California weather economic downturns, and keeps the state's tax system fair,' pointing to the reserve deposits that the revenue has funded.",
+    "A permanent rate ends the planning cliff. School districts and the state budget have had to work around expiration dates in 2018, 2030, and now again, and supporters argue that uncertainty itself has a cost."
+  ],
+  "cons": [
+    "The official argument against, signed by Robert Gutierrez of the California Taxpayers Association, Robert Rivinius of the Family Business Association of California, and Julian Canete of the California Hispanic Chambers of Commerce, rests on the promise made in 2012: voters were told the higher rates were 'only for seven years to cover a budget deficit,' were then asked for 12 more, and are now asked to make them permanent.",
+    "The rebuttal signed by Jon Coupal of the Howard Jarvis Taxpayers Association argues the framing is a sleight of hand, calling Proposition 3 'the largest permanent state income tax increase in California history, costing taxpayers up to $15 billion every year.'",
+    "Opponents argue the problem is spending, not revenue: state spending has risen about $150 billion since the surcharge was first imposed while California's population grew by less than 2 percent in a decade, and a $100 billion surplus became a $30 billion deficit in three years.",
+    "The argument against names specific waste, citing $100 billion on high-speed rail, $37 billion on homelessness programs, and $31 billion in unemployment fraud, and says Proposition 3 does nothing to address any of it.",
+    "Wayne Winegarden of the Pacific Research Institute argues the rates drive out the people who pay them: 'Extending these income tax rates, it's hitting that same pressure points and it's causing the same incentives to leave. And if you look at the latest IRS migration data, you can see it. People with greater means are leaving the state.'",
+    "Jared Walczak of the Tax Foundation makes the process objection: 'Californians need to take that into account when they think about future potential temporary taxes, that once they adopt them, it's very hard to walk away from them, even if their initial design is temporary.'",
+    "The revenue is among the most volatile in the state budget because it rests on stock-linked income, swinging between $5 billion and $15 billion a year. Making a volatile source permanent locks that swing into the base of the budget rather than treating it as a windfall.",
+    "The health care half of the title has not delivered. The California Budget and Policy Center reports that the Proposition 55 formula Proposition 3 preserves 'has never directed funds to Medi-Cal,' so a voter choosing on the health care promise is relying on an indirect budgetary effect rather than the allocation the text describes.",
+    "Because this is a constitutional amendment with no sunset, an error in judgment cannot be corrected by the Legislature. Reversing it requires a future statewide ballot measure."
+  ],
+  "who_supports": [
+    {
+      "name": "California Teachers Association",
+      "type": "org",
+      "notes": "Sponsor of the measure and its dominant funder, reporting $17,775,000 of the $19,025,000 raised by the support committee through June 30, 2026. Its president, David B. Goldberg, is a named proponent and signed the official ballot argument."
+    },
+    {
+      "name": "California Federation of Teachers",
+      "type": "org",
+      "notes": "Second largest donor at $750,000 through June 30, 2026. Its president, Jeff Freitas, signed the rebuttal to the argument against."
+    },
+    {
+      "name": "California School Employees Association",
+      "type": "org",
+      "notes": "Its PACE committee contributed $500,000 through June 30, 2026. President Adam Weinberger signed the rebuttal to the argument against."
+    },
+    {
+      "name": "SEIU California State Council",
+      "type": "org",
+      "notes": "Public sector union federation; the Nurse Alliance of SEIU California is separately listed in the official argument in favor."
+    },
+    {
+      "name": "AFSCME California",
+      "type": "org",
+      "notes": "Public employee union whose members work in the programs the General Fund share supports."
+    },
+    {
+      "name": "California Professional Firefighters",
+      "type": "org",
+      "notes": "President Darrell Roberts signed the rebuttal to the argument against. Firefighting is funded from the General Fund rather than the Education Protection Account, which is the indirect benefit supporters describe."
+    },
+    {
+      "name": "California Nurses Association",
+      "type": "org",
+      "notes": "Listed in the official argument in favor."
+    },
+    {
+      "name": "California School Nurses Organization",
+      "type": "org",
+      "notes": "President Katie Nilsson signed the official argument in favor."
+    },
+    {
+      "name": "Planned Parenthood Affiliates of California",
+      "type": "org",
+      "notes": "President Jodi Hicks signed the official argument in favor; the measure's health care allocation is restricted to Medi-Cal services for children and their families."
+    },
+    {
+      "name": "Community College League of California",
+      "type": "org",
+      "notes": "Represents the community college districts that receive 11 percent of the education portion."
+    },
+    {
+      "name": "California State PTA",
+      "type": "org",
+      "notes": "Statewide parent-teacher organization."
+    },
+    {
+      "name": "League of Women Voters of California",
+      "type": "org",
+      "notes": "Nonpartisan civic organization that takes positions after member study; it also supported Propositions 30 and 55."
+    },
+    {
+      "name": "Democratic Party of California",
+      "type": "org",
+      "notes": "Party endorsement."
+    },
+    {
+      "name": "California Democratic Socialists of America",
+      "type": "org",
+      "notes": "Listed by Ballotpedia among supporting organizations."
+    }
+  ],
+  "who_opposes": [
+    {
+      "name": "California Taxpayers Association",
+      "type": "org",
+      "notes": "Sponsor of the No on 3 campaign. President Robert Gutierrez signed the official argument against. Its committee, No on Proposition 3, had reported no contributions as of the June 30, 2026 filing period."
+    },
+    {
+      "name": "Howard Jarvis Taxpayers Association",
+      "type": "org",
+      "notes": "Anti-tax organization; president Jon Coupal signed the rebuttal to the argument in favor. It also opposed Propositions 30 and 55."
+    },
+    {
+      "name": "Reform California",
+      "type": "org",
+      "notes": "Conservative advocacy organization listed by Ballotpedia among opponents."
+    },
+    {
+      "name": "Family Business Association of California",
+      "type": "org",
+      "notes": "President Robert Rivinius signed the official argument against; pass-through business income is taxed at personal rates, so the surcharge reaches some family business owners."
+    },
+    {
+      "name": "California Hispanic Chambers of Commerce",
+      "type": "business",
+      "notes": "President Julian Canete signed the official argument against."
+    },
+    {
+      "name": "Hispanic Chambers of Commerce of San Francisco",
+      "type": "business",
+      "notes": "CEO Carlos Solorzano signed the rebuttal to the argument in favor."
+    },
+    {
+      "name": "Central Valley Business Federation",
+      "type": "business",
+      "notes": "President Clint Olivier signed the rebuttal to the argument in favor."
+    },
+    {
+      "name": "Wayne Winegarden, Pacific Research Institute",
+      "type": "other",
+      "notes": "Senior fellow at a free-market think tank, arguing from IRS migration data that the rates push high earners out of California."
+    },
+    {
+      "name": "Jared Walczak, Tax Foundation",
+      "type": "other",
+      "notes": "Senior fellow at a nonpartisan tax policy organization, cited on the difficulty of ever letting a temporary tax expire rather than on the merits of the rate itself."
+    }
+  ],
+  "authors": [
+    {
+      "name": "David B. Goldberg",
+      "role": "Initiative co-proponent, filed with the Attorney General on August 29, 2025; President, California Teachers Association"
+    },
+    {
+      "name": "Benjamin Gevercer",
+      "role": "Initiative co-proponent, filed with the Attorney General on August 29, 2025; attorney at Olson Remcho LLP, the firm listed as the measure's contact in the Attorney General filing"
+    }
+  ],
+  "funding": {
+    "support_committees": [
+      {
+        "name": "Californians for Protecting Public Education, Health Care and Budget Stability",
+        "total_raised": "$19,025,000 in cash contributions through June 30, 2026, with $18,022,670 already spent. The next scheduled report was due September 24, 2026.",
+        "top_donors": [
+          { "name": "California Teachers Association", "amount": "$17,775,000" },
+          { "name": "California Federation of Teachers COPE Prop/Ballot Committee", "amount": "$750,000" },
+          { "name": "PACE of California School Employees Association-Issues", "amount": "$500,000" }
+        ],
+        "source_url": "https://ballotpedia.org/California_Proposition_3,_Renew_State_Income_Tax_Increase_for_Education_Funding_Initiative_(2026)"
+      }
+    ],
+    "oppose_committees": [
+      {
+        "name": "No on Proposition 3",
+        "total_raised": "$0 reported through June 30, 2026",
+        "top_donors": [],
+        "source_url": "https://ballotpedia.org/California_Proposition_3,_Renew_State_Income_Tax_Increase_for_Education_Funding_Initiative_(2026)"
+      }
+    ]
+  },
+  "nonpartisan_analysis": [
+    {
+      "source": "Legislative Analyst's Office",
+      "summary": "The LAO frames Proposition 3 as maintaining $5 billion to $15 billion a year in income tax revenue by removing the 2031 expiration of the Proposition 30 rates, and stresses that the range is wide because much of the revenue comes from income closely tied to the stock market. Its Figure 1 shows that the only rates that change under either outcome are the three top brackets, which stay at 10.3, 11.3, and 12.3 percent if approved and drop to 9.3 percent if rejected, with 2025 thresholds starting at $371,000 for single filers and $743,000 for joint filers. On background it notes that the top 2 percent of taxpayers pay these higher rates and about half of all state income taxes, against a General Fund of roughly $250 billion of which about half goes to education and about a third to health and human services. On distribution it estimates roughly 40 percent of the revenue would reach schools and community colleges, with the rest going to other state programs and a portion set aside in budget reserves to sustain funding when revenues decline.",
+      "url": "https://lao.ca.gov/BallotAnalysis/Proposition?number=3&year=2026"
+    },
+    {
+      "source": "California Budget and Policy Center",
+      "summary": "Reports that the top rates have generated roughly $120 billion since 2012 and about $10 billion a year currently, peaking near $16 billion in 2021 before falling with the market. It estimates that letting the rates expire would give the top 1 percent an average annual tax cut of nearly $59,000. Its most consequential finding for reading the ballot title is mechanical: Education Protection Account deposits count toward the Proposition 98 guarantee and thereby free other General Fund dollars for health care, housing, and economic security, and the Proposition 55 formula that would send up to $2 billion a year directly to Medi-Cal 'has never directed funds to Medi-Cal.' The health care benefit is real but flows through General Fund capacity rather than through the allocation the measure names.",
+      "url": "https://calbudgetcenter.org/resources/should-voters-approve-prop-3-how-top-tax-rates-have-helped-californians/"
+    },
+    {
+      "source": "Ballotpedia",
+      "summary": "Provides the path to the ballot and neutral background. Benjamin Gevercer and David B. Goldberg filed initiative 25-0016 with the Attorney General on August 29, 2025; it cleared for circulation November 4, 2025, needed 874,641 valid signatures, and the Secretary of State certified it on June 10, 2026 after a random sample projected about 72 percent of the submitted signatures valid. It traces the rates to Proposition 30, approved 55 to 45 percent in 2012, and Proposition 55, approved 63 to 34 percent in 2016, and notes Proposition 55 did not extend Proposition 30's quarter-cent sales tax. Through June 30, 2026 the support committee reported $19,025,000 and the opposition committee reported nothing. A Public Policy Institute of California survey of 1,103 likely voters taken September 4 to 10, 2026, with a margin of error of 3.8 points, found 58 percent yes, 40 percent no, and 2 percent undecided.",
+      "url": "https://ballotpedia.org/California_Proposition_3,_Renew_State_Income_Tax_Increase_for_Education_Funding_Initiative_(2026)"
+    },
+    {
+      "source": "CalMatters 2026 Voter Guide",
+      "summary": "Describes Proposition 3 as making permanent a tax set to expire in 2031, running 10.3 to 12.3 percent on income above roughly $360,000 for single filers and $721,000 for joint filers, and typically producing $5 billion to $15 billion a year split 89 percent to K-12 and 11 percent to community colleges with any excess going to public health care. It presents the two campaign cases without resolving them: educators warning that losing up to $15 billion a year forces layoffs and program cuts, and opponents arguing California's rates are already among the nation's highest and that permanence will accelerate departures of high earners.",
+      "url": "https://calmatters.org/california-voter-guide-2026/proposition-3-high-income-tax/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "California Secretary of State, Official Voter Information Guide, Proposition 3",
+      "url": "https://voterguide.sos.ca.gov/propositions/3/",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Secretary of State, Official Voter Information Guide, Proposition 3 arguments and rebuttals",
+      "url": "https://voterguide.sos.ca.gov/propositions/3/arguments-rebuttals.htm",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Official Voter Information Guide, Proposition 3 title, summary, Legislative Analyst's analysis, and arguments (PDF)",
+      "url": "https://vig.cdn.sos.ca.gov/2026/general/pdf/prop3.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Official Voter Information Guide, Text of Proposed Laws, Proposition 3 at page 109 (PDF)",
+      "url": "https://vig.cdn.sos.ca.gov/2026/general/pdf/text-proposed-laws.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Legislative Analyst's Office, Proposition 3 ballot analysis (November 3, 2026)",
+      "url": "https://lao.ca.gov/BallotAnalysis/Proposition?number=3&year=2026",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Secretary of State, Qualified statewide ballot measures",
+      "url": "https://www.sos.ca.gov/elections/ballot-measures/qualified-ballot-measures",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Secretary of State, Proposed Initiative Enters Circulation, initiative 25-0016, with proponent names and fiscal estimate",
+      "url": "https://www.sos.ca.gov/administration/news-releases-and-advisories/2025-news-releases-and-advisories/proposed-initiative-enters-circulation-provides-permanent-funding-schools-and-healthcare-extending-existing-tax-high-incomes-ini",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Ballotpedia, California Proposition 3, Renew State Income Tax Increase for Education Funding Initiative (2026)",
+      "url": "https://ballotpedia.org/California_Proposition_3,_Renew_State_Income_Tax_Increase_for_Education_Funding_Initiative_(2026)",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Budget and Policy Center, Should Voters Approve Prop. 3? How Top Tax Rates Have Helped Californians",
+      "url": "https://calbudgetcenter.org/resources/should-voters-approve-prop-3-how-top-tax-rates-have-helped-californians/",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "CalMatters voter guide, Proposition 3 high-income tax",
+      "url": "https://calmatters.org/california-voter-guide-2026/proposition-3-high-income-tax/",
+      "retrieved": "2026-09-20"
+    }
+  ],
+  "last_updated": "2026-09-20"
+}
