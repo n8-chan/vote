@@ -1,0 +1,327 @@
+{
+  "id": "ca-prop-2-2026",
+  "jurisdiction": "state",
+  "election_date": "2026-11-03",
+  "number": "Proposition 2",
+  "title": "Increases State's Rainy Day Fund",
+  "status": "on_ballot",
+  "summary": "Proposition 2 rewrites the constitutional formulas that govern California's rainy day fund, the Budget Stabilization Account. It doubles the fund's maximum balance from 10 percent to 20 percent of General Fund tax revenues, requires bigger deposits in years when capital gains revenue spikes, and extends the companion requirement to make extra debt payments from 2030 out to 2040 while widening what those payments may buy. It also stops counting reserve deposits against the state's constitutional spending limit until the money is withdrawn, and lets the Governor's May budget revision serve as the proclamation of a budget emergency.",
+  "what_it_really_means": [
+    "Nothing in Proposition 2 takes effect in the budget a voter is living under. Every operative change starts with the 2027-28 fiscal year. What does apply immediately on passage is a housekeeping clause, new Section 20(a)(1)(B) of Article XVI, stating that balances already sitting in the Budget Stabilization Account 'shall remain in the account and shall be transferred, withdrawn, or adjusted thereafter' under the amended rules. The roughly $15.1 billion the Legislative Analyst's Office projects the fund will hold at the end of 2026-27 becomes governed by the new formulas, not the ones voters approved in 2014.",
+    "The headline change is the cap. Today the Constitution stops required deposits once the fund's balance hits 10 percent of General Fund proceeds of taxes; Proposition 2 moves that to 20 percent. The clause that follows the cap is unchanged and is the part the ballot label does not mention: money that would have gone into the fund above the cap 'may be expended only for infrastructure, as defined by Section 13101 of the Government Code, as that section read on January 1, 2014, including deferred maintenance thereon.' Doubling the cap therefore does not create savings out of nothing. It postpones the point at which surplus set-aside dollars stop being savings and become road, building, and deferred-maintenance money. The California Budget and Policy Center states the consequence plainly: with a higher cap the state reaches the limit less often, so 'over time there would be less spillover revenue available for infrastructure investments.'",
+    "The deposit formula changes in a way the ballot summary describes only as 'additional savings in years when tax revenues are high.' Current law sets aside capital gains income tax revenue above a single threshold of 8 percent of General Fund proceeds of taxes. Proposition 2 splits that into two tiers: the portion between 8 and 10 percent still counts at face value, and the portion above 10 percent counts at 150 percent. The Budget Center's worked example is that $2 billion of capital gains revenue above the 10 percent line would obligate the state to set aside $3 billion, 'one billion more than is required under current law.' Because the multiplier can exceed the actual excess revenue, the extra dollar in that example comes out of ordinary General Fund revenue, not out of the capital gains windfall that triggered it. Backtesting the provision against 2010-11 through 2023-24, the Budget Center found it would have bound in six of fourteen years, each time for less than 1 to 2 percent of total General Fund revenue.",
+    "Half of every set-aside dollar does not go to the rainy day fund at all. It goes to extra debt payments, and that half is where most of the substantive bundling sits. The requirement currently expires after 2029-30; Proposition 2 extends it through 2039-40. It is a ten-year extension rather than a permanent rule, because the replacement text for 2040-41 onward says the Legislature 'may appropriate up to 50 percent' for those debts, which is the same optional posture that current law reaches in 2030. The list of what the debt half may buy also grows. It adds federal loans made to the Unemployment Fund, drops the July 1, 2014 cutoff that limited eligible Proposition 98 obligations, and adds accelerated recognition of loans to the Medical Providers Interim Payment Fund and of the costs described in Education Code Section 41206.04.",
+    "Those three additions have names attached to real money. The Medical Providers Interim Payment Fund item refers to the $4.4 billion the 2025-26 budget moved from the General Fund to cover higher-than-expected Medi-Cal costs, with repayment deferred to 2027-28 and beyond. The Education Code item refers to a $6.2 billion overpayment to schools in 2022-23 that the state is recognizing at $500 million a year from 2027-28 through 2039-40. The unemployment insurance item is the largest and the least visible: California owes the federal government roughly $20 billion borrowed to pay jobless benefits from the pandemic onward. Under federal law the state is not required to repay that principal. Employers repay it through automatic increases in their federal payroll taxes. The Budget Center's conclusion is direct, that using set-aside revenues to retire that principal 'would shift a cost currently borne by businesses to the state.' The LAO analysis in the voter guide describes the same provision only as permission to 'repay certain loans from the federal government.'",
+    "The second thing the title does not say is that Proposition 2 amends how the state's 1979 spending limit works. Under Article XIII B today, putting money into a reserve counts as spending against the limit, and taking it out does not. Proposition 2 flips that for two accounts. Deposits into the rainy day fund stop counting, and the money counts instead 'in the fiscal year in which they are withdrawn from the Budget Stabilization Account or returned to the General Fund.' That is a timing shift rather than an exemption, but the shift matters because the limit grows each year with population and inflation, so a dollar counted later is counted against a bigger allowance. Its practical effect, in the Budget Center's words, is to let leaders 'build up reserves in years when revenues are strong and the state is close to reaching the spending cap,' which is exactly the situation in which exceeding the cap for two consecutive years would otherwise force half the excess back to taxpayers and half to schools on a per-pupil basis. Supporters call that closing a perverse incentive against saving. The official argument against calls it a loophole that cancels a rebate. Both descriptions fit the same mechanism.",
+    "The same Gann treatment is extended to a second, much less familiar account, and this is the provision most worth a voter's attention. The Projected Surplus Temporary Holding Account is not in the Constitution today. It is Government Code Section 16418.7, added by Stats. 2024, Ch. 997 and already amended by Stats. 2026, Ch. 84. Proposition 2 would grant it a constitutional exclusion from the spending limit of up to 10 percent of General Fund proceeds of taxes each year, roughly $25 billion at current revenue levels, and it does so by reference to the statute 'or any successor to that account.' The statutory guardrail is that deposits 'shall remain in that account for no more than one year from the date of deposit,' after which they return to the General Fund unless the next Budget Act directs otherwise. The Legislature writes and rewrites that statute by ordinary majority vote. This is not hypothetical: the LAO reports that the May 2026 Revision contained a first-time proposal to deposit nearly $10 billion into this account and withdraw the same amount the following year, using 2026-27 resources to help balance 2027-28.",
+    "Third and least discussed, Proposition 2 changes how a budget emergency gets declared. Today the Governor signs a separate proclamation before the Legislature may suspend reserve deposits or withdraw from the fund. New Section 22(c) provides that the May Revision, or any successor budgetary revision, 'shall constitute the Governor's proclamation of the budget emergency' when the underlying conditions exist and the revision proposes suspending a transfer or withdrawing money. The substantive conditions for an emergency are untouched. What disappears is a distinct, dated, public act by the Governor. The Budget Center presents this as a fix for a real timing problem, noting that Newsom's 2025 proclamation came on June 27, after the Legislature's June 15 constitutional budget deadline and three days before the fiscal year ended, which forced the Legislature to pass a budget assuming an emergency that had not yet been declared. Neither the ballot title, the Attorney General's summary, nor the LAO's published analysis of Proposition 2 mentions this change.",
+    "What Proposition 2 leaves alone is as informative as what it changes. The definition of budget emergency is unchanged, which the Budget Center notes means federal funding cuts still do not qualify, so the enlarged fund could not be tapped to cushion the Medicaid and food assistance reductions in the 2025 federal reconciliation law. The withdrawal limits are unchanged, including the rule that no more than half the balance may come out in the first year of an emergency. The prohibition on suspending required debt payments during an emergency is unchanged and now extends ten years further, which the Budget Center criticizes from the opposite direction, pointing out that in the 2025 shortfall the state cut Medi-Cal enrollment and clinic payments while the mandatory debt payments went forward. Proposition 98's minimum guarantee formulas are untouched, and the measure's own findings say so explicitly. The rules for the schools reserve are untouched.",
+    "Finally, the context a voter will not find in the pamphlet. ACA 20 was not a standalone reform; it passed on June 25, 2026 as part of the budget package. The LAO's review of that same package reports that the budget suspends a $5.4 billion required true-up deposit into the rainy day fund, calling it 'the single largest category of solutions in the budget package' at nearly 40 percent of the total, on top of a $1.6 billion initial deposit for 2025-26 that the state had already suspended, and that the Safety Net Reserve is now fully depleted. The rebuttal to the argument in favor makes this point in campaign language, saying that 'within 24 hours of introducing this measure' the same officials backed suspending more than $5 billion in required deposits. The LAO's own budget document substantiates the underlying facts. Proposition 2 raises the target but does not change the emergency suspension power that was just used, twice, to skip deposits toward the target that already exists.",
+    "There is no campaign. The Secretary of State's ballot measure contribution page for Proposition 2 reported 'No committees identified as of 08/02/2026' for both support and opposition, and CalMatters, drawing on Secretary of State data updated September 15, 2026, reported no registered committees and no independent expenditures on either side. Ballotpedia likewise identified none. A Public Policy Institute of California survey of 1,103 likely voters taken September 4 to 10, 2026, with a margin of error of 3.8 points, found 60 percent yes, 39 percent no, and 1 percent undecided. Voters will decide this one almost entirely on the ballot label, which is four words long and says nothing about the spending limit, unemployment insurance debt, or how emergencies get declared."
+  ],
+  "fiscal_impact": {
+    "state_cost": "No direct cost. Proposition 2 spends no money; it redirects existing General Fund revenue into reserves and debt payments rather than into services. The Legislative Analyst's Office attached no dollar figure to the measure. The California Budget and Policy Center estimates the tighter capital gains set-aside could take 'hundreds of millions of dollars, or even more than $1 billion' off the table in some years, and would have bound in six of the fourteen years from 2010-11 through 2023-24, each time for less than 1 to 2 percent of General Fund revenue.",
+    "state_savings": "Not quantified by the Legislative Analyst's Office. Two channels are plausible and unpriced: earlier paydown of pension, retiree health, and other liabilities reduces long-run costs, and retiring principal on the roughly $20 billion in federal unemployment insurance loans could 'modestly reduce the state's annual interest payments in the near term,' against General Fund interest the Budget Center says could total around $1 billion a year.",
+    "local_cost": "none. The measure governs state reserve, debt, and appropriations-limit rules only, and imposes no new duty on cities, counties, or special districts. Schools and community colleges are affected indirectly through Proposition 98 settle-up payments becoming an eligible use of set-aside revenue, but the Proposition 98 guarantee itself is unchanged.",
+    "revenue_change": "none. Proposition 2 creates no tax, changes no rate, and raises no revenue. It changes where existing revenue must go and when deposits count against the state appropriations limit.",
+    "ongoing_vs_one_time": "Ongoing and permanent as a set of constitutional rules, beginning with the 2027-28 fiscal year. Two components carry dates: the mandatory 50 percent debt-payment split runs through 2039-40 and becomes optional in 2040-41, and the appropriations-limit exclusions apply from 2027-28 onward with no sunset.",
+    "narrative": "The LAO's entire published estimate of this measure is one sentence: 'State budget reserves would be higher.' No dollar figure appears anywhere in the official analysis, and the reason is structural rather than evasive. Every number depends on future capital gains revenue, and the measure's own trigger is a threshold on how volatile that revenue turns out to be. What can be said with confidence is the direction and the mechanism. In strong years, more revenue is diverted from the budget's discretionary pool into the reserve and into the debt-payment half, both of which are constitutionally protected from ordinary appropriation. In weak years nothing changes, because the suspension power the state used in 2025-26 and 2026-27 survives intact. The headline figures leave out three things. First, the higher cap defers rather than creates savings, since money above the old cap already had to be set aside and spent on infrastructure. Second, the appropriations-limit change is a timing shift with a real fiscal consequence: under Article XIII B, revenue exceeding the limit for two consecutive years must be split half to taxpayers and half to schools on a per-pupil basis, so moving deposits out of the count in the deposit year makes that threshold harder to cross in exactly the years it would otherwise be crossed. Whether that is prudent saving or a cancelled rebate is the central contested question and is a judgment, not a fact. Third, the expanded debt list is zero-sum against itself. The Budget Center's caution is that set-aside revenues are limited, so directing them at unemployment insurance principal, Proposition 98 settle-up, or the Medi-Cal loan leaves fewer or no dollars for the pension and retiree health liabilities that were the original purpose, and those costs land on the General Fund later either way."
+  },
+  "taxes": {
+    "new_taxes": [],
+    "tax_changes": []
+  },
+  "spending": {
+    "new_spending_areas": [
+      "Budget Stabilization Account deposits, with the maximum balance raised from 10 percent to 20 percent of estimated General Fund proceeds of taxes",
+      "Federal loans made to the Unemployment Fund, newly eligible for the mandatory debt-payment half of set-aside revenue",
+      "Unfunded prior fiscal year Proposition 98 obligations, with the July 1, 2014 cutoff removed so that current and future settle-up obligations qualify",
+      "Accelerated recognition of loans to the Medical Providers Interim Payment Fund, the account that received a $4.4 billion General Fund transfer for Medi-Cal costs in 2025-26",
+      "Accelerated recognition of the costs described in Education Code Section 41206.04, the $6.2 billion 2022-23 school overpayment being written down at $500 million a year through 2039-40",
+      "Unfunded state pension liabilities and prefunding of other postemployment benefits, and pre-2004-05 mandate claims, both carried over from current law",
+      "Infrastructure and deferred maintenance, which continue to receive any set-aside dollars above the new 20 percent cap"
+    ],
+    "funding_source": "Existing General Fund revenue. No new tax, bond, or fee. The mandatory sources are a transfer of 1.5 percent of estimated General Fund revenues each year, unchanged by the measure, plus capital gains income tax revenue above 8 percent of General Fund proceeds of taxes, counted at face value up to 10 percent and at 150 percent above 10 percent, less the resulting Proposition 98 obligation."
+  },
+  "control_and_power": "No new agency is created and no program is handed to anyone, but three actors gain or keep decisive discretion. The Department of Finance produces every estimate that drives every transfer, including the capital gains estimate, the Proposition 98 offset, and the annual true-ups for the two preceding fiscal years, and it provides the schedule the Controller transfers on. Those estimates, not actual collections, determine the size of each deposit. The Controller executes the transfers and retains existing authority under subdivision (g) to use rainy day fund balances for General Fund daily cashflow. The Governor gains a procedural shortcut: under new Section 22(c), the May Revision or any successor budgetary revision itself constitutes the proclamation of a budget emergency whenever the constitutional conditions exist and the revision proposes suspending a transfer or drawing on a reserve, so no separate signed proclamation is needed. The Legislature keeps the choice of which eligible debts the mandatory 50 percent buys, a choice the measure widens considerably, and it retains the power to suspend required rainy day fund deposits during an emergency, which it exercised in both of the two budgets preceding this vote. The Legislature also controls by ordinary statute the Projected Surplus Temporary Holding Account that Proposition 2 would give a constitutional exemption from the spending limit, since the measure points at Government Code Section 16418.7 'or any successor to that account' rather than writing the account's rules into the Constitution.",
+  "loopholes": [
+    "The constitutional spending-limit exclusion for the Projected Surplus Temporary Holding Account is anchored to Government Code Section 16418.7 'or any successor to that account.' That statute was added by Stats. 2024, Ch. 997 and already amended by Stats. 2026, Ch. 84, so the rules governing an account granted a constitutional exemption of up to 10 percent of General Fund proceeds of taxes remain amendable by ordinary majority vote.",
+    "The statutory one-year limit on holding-account deposits is itself conditional. Section 16418.7 requires funds to 'remain in that account for no more than one year from the date of deposit' and return to the General Fund afterward 'unless the next Budget Act directs otherwise,' so the Budget Act can extend the hold. The Budget Center notes the one-year rule is 'a rule that could be changed by the Legislature.'",
+    "The 150 percent multiplier on capital gains revenue above 10 percent of General Fund proceeds of taxes requires the state to set aside more than the excess revenue that triggered the requirement. The surplus half of that obligation is satisfied out of ordinary General Fund revenue, a consequence the ballot summary describes only as 'additional savings in years when tax revenues are high.'",
+    "Proposition 2 raises the deposit target but leaves untouched the Section 22 power to suspend required deposits during a budget emergency. The LAO reports the state suspended a $1.6 billion initial deposit for 2025-26 and a $5.4 billion true-up in the 2026-27 budget package, the same package that placed this measure on the ballot. A higher target does not make a deposit harder to skip.",
+    "Section 20(c)(1)(B)(iii) provides that if the mandatory debt-payment half 'exceeds the total amount of the obligations and purposes described in clause (ii), the remainder shall be transferred to the Budget Stabilization Account.' Money labeled as debt paydown can end up as a reserve deposit instead.",
+    "The extension of mandatory debt payments to 2039-40 carries its own sunset. For 2040-41 onward, subparagraph (2)(C) says the Legislature 'may appropriate up to 50 percent' for those obligations, restoring exactly the optional posture that current law reaches in 2030-31.",
+    "The authorization to spend set-aside revenue on 'federal loans made to the Unemployment Fund' does not distinguish principal from interest. The Budget Center states that the measure 'does not specify whether Prop. 2 funds could be used to pay the interest as well as the principal on federal UI loans.'",
+    "Making Proposition 98 settle-up an eligible use does not create an obligation to pay it. The Budget Center notes that 'under current law, there is no required schedule for making settle-up payments, and Prop. 2 does not create one,' and that relying on set-aside revenue could take longer to retire the obligation because the set-aside shrinks in the same downturns that strain the guarantee.",
+    "New Section 22(c) converts a routine budget document into a legal proclamation. Because the May Revision serves as the proclamation whenever it proposes a suspension or withdrawal and the conditions exist, there is no separate, dated act by the Governor for the public or the courts to point at."
+  ],
+  "unexpected_provisions": [
+    "The measure amends how California's 1979 spending limit works. Neither the four-word ballot title nor the Attorney General's summary mentions Article XIII B, the Gann Limit, or appropriations subject to limitation.",
+    "Set-aside revenue could be used to repay federal loans to the state's Unemployment Fund, roughly $20 billion in principal that, under federal law, employers currently repay through automatic federal payroll tax increases. The Budget Center concludes this 'would shift a cost currently borne by businesses to the state.'",
+    "A statutory reserve account most voters have never heard of, the Projected Surplus Temporary Holding Account created in 2024, receives a constitutional exclusion from the spending limit of up to 10 percent of General Fund proceeds of taxes per year, roughly $25 billion at current revenue levels. The LAO reports the May 2026 Revision already proposed a first-time deposit of nearly $10 billion into it.",
+    "New Section 22(c) makes the Governor's May budget revision constitute the proclamation of a budget emergency, eliminating the separate proclamation. This change appears in neither the ballot title, the Attorney General's summary, nor the LAO's published analysis of the measure.",
+    "The July 1, 2014 cutoff on eligible unfunded Proposition 98 obligations is deleted, making current and future settle-up obligations eligible for the mandatory debt-payment half rather than only the backlog that existed in 2014 and was retired by 2019-20.",
+    "Accelerated recognition of loans to the Medical Providers Interim Payment Fund is added as an eligible use. That fund received a $4.4 billion General Fund transfer in the 2025-26 budget to cover Medi-Cal cost overruns, with repayment deferred to 2027-28.",
+    "Accelerated recognition of costs under Education Code Section 41206.04 is added as an eligible use. That is the $6.2 billion overpayment to schools arising from the 2023 storm-related tax deadline extension, scheduled to be written down at $500 million a year from 2027-28 through 2039-40.",
+    "Balances already in the rainy day fund are placed under the new rules by new Section 20(a)(1)(B), so the measure governs money deposited under the 2014 rules, not only future deposits.",
+    "The resolution names itself the Save for California's Future Act and contains a findings section declaring that 'nothing in this act is intended to change the calculation or funding of the minimum guarantee under Section 8 of Article XVI,' language a voter reading only the ballot label would not know exists.",
+    "ACA 20 was adopted on June 25, 2026 as part of the state budget package, not as standalone legislation, and was introduced and passed both houses the same day."
+  ],
+  "pros": [
+    "The official argument in favor, signed by Darrell Roberts of California Professional Firefighters, Assembly Budget Committee Chair Jesse Gabriel, and Maria S. Salinas of the Los Angeles Area Chamber of Commerce, argues the measure would 'DOUBLE THE STATE'S RESERVE REQUIREMENT, from 10 to 20 percent of General Fund revenues, so California has a real cushion, not a token one, when the next downturn hits.'",
+    "Supporters argue the measure disciplines spending rather than enabling it, because 'when tax revenues spike, this measure forces politicians to budget smarter by requiring the state to bank more of that windfall instead of committing it to new ongoing spending California can't sustain.'",
+    "Gov. Gavin Newsom framed it as basic stewardship: 'Putting money aside to protect ourselves from future uncertainties isn't just good government; it's common sense. California is strong and resilient, but we're not immune to economic headwinds.'",
+    "The California Budget and Policy Center, which is critical of several provisions, endorses the core effect, writing that a higher cap 'would provide a larger cushion for the state budget, helping state leaders to better protect vital services when revenues drop during economic downturns and reducing the need for draconian spending cuts that harm Californians.'",
+    "The Budget Center also supports the spending-limit change on the merits, arguing it removes a genuine perversity: under current rules, in years when revenues surge, 'state leaders cannot bolster California's fiscal resilience by further building up reserves, because doing so would put the state over the spending limit.'",
+    "The measure targets volatility where it originates. Because the largest swings come from capital gains taxes paid by high earners, tying a steeper set-aside to capital gains above 10 percent of General Fund taxes saves hardest in exactly the years the LAO describes as most likely to reverse, following the pattern of 2000, 2006, and 2021.",
+    "Extending mandatory debt payments ten years keeps roughly $1 billion to $2 billion a year working against pension, retiree health, and other liabilities that would otherwise fall on the General Fund later, and widening the eligible list lets those dollars retire whichever obligation is most pressing.",
+    "The budget-emergency change fixes a demonstrated timing failure. In 2025 the Governor's proclamation came on June 27, after the Legislature's June 15 constitutional deadline, forcing legislators to pass a budget premised on an emergency that had not yet been declared.",
+    "Supporters point out that the nonpartisan Legislative Analyst's Office 'has recommended that the state should be saving significantly more than current rules require,' and that the measure follows that advice.",
+    "The measure passed with the two-thirds supermajority required of a constitutional amendment, 59-8 in the Assembly and 29-2 in the Senate, and costs nothing: it creates no tax, authorizes no bond, and appropriates no money."
+  ],
+  "cons": [
+    "The official argument against, signed by Assembly Budget Committee Vice Chair David Tangipa, Sen. Steven Choi, and Reform California chairman Carl DeMaio, contends that 'what the politicians dishonestly call a rainy day fund is actually a SLUSH FUND' and that Proposition 2 'allows the politicians to gut the voter-imposed spending limit.'",
+    "Opponents argue the measure eliminates taxpayer rebates, saying 'state revenues that exceed constitutional spending limits must be returned to taxpayers. Proposition 2 creates a loophole, allowing politicians to shift billions into reserve accounts that no longer count towards the spending limit, making your rebate far less likely.'",
+    "The rebuttal to the argument in favor points to the measure's own legislative history: 'Within 24 hours of introducing this measure, many of the same politicians who praised it as a way to build reserves also supported legislation to suspend more than $5 billion in required deposits into the state's savings account.' The LAO's review of the 2026-27 budget confirms a suspended $5.4 billion true-up deposit, nearly 40 percent of that budget's solutions.",
+    "Opponents note the measure dedicates no money to the services its summary invokes: 'Supporters claim Prop. 2 will protect education, healthcare, and public safety. Currently, it doesn't dedicate any new dollars to any of those priorities.'",
+    "The Howard Jarvis Taxpayers Association, which recommends a no vote, concedes the mechanism partly works but calls it inadequate, writing that the measure 'doesn't address the weakening of the Gann Limit by Propositions 98 (1988) and 111 (1990)' and 'amounts to little more than a Band-Aid on a severed limb.'",
+    "Assemblymember Joe Patterson, who voted no, put the objection bluntly: 'We don't have a rainy day fund in California. All this does is create a bigger slush fund for money to be used the following years instead of returning the money to the taxpayer.'",
+    "From the opposite direction, the California Budget and Policy Center warns the unemployment insurance provision shifts a private cost onto the public, since using set-aside revenues to reduce that principal 'would shift a cost currently covered by businesses to the state' and 'do nothing to fix California's broken UI system.'",
+    "The same analysis notes the expanded debt list is self-competing. Set-aside revenues are limited, so spending them on unemployment insurance loans, Proposition 98 settle-up, or the Medi-Cal loan leaves 'fewer (or no) funds available to reduce unfunded pension and state retiree health liabilities, costs that would eventually be borne by the General Fund.'",
+    "The measure locks in the rule that mandatory debt payments cannot be reduced or suspended during a budget emergency for another decade. The Budget Center points to 2025, when the state closed a $15 billion gap by freezing Medi-Cal enrollment for certain immigrants and cutting clinic payments 'even as the debt payments went forward.'",
+    "The enlarged fund still cannot be used for the most likely shock. The definition of budget emergency is unchanged and excludes federal funding cuts, so the reserve could not be tapped to cushion the health care and food assistance losses from the 2025 federal reconciliation law.",
+    "Doubling the cap means the state reaches it less often, which by the Budget Center's reading leaves 'less spillover revenue available for infrastructure investments' over time, since above-cap dollars are the only ones the Constitution steers to infrastructure and deferred maintenance.",
+    "Voters get almost no organized scrutiny. No committee registered on either side, total contributions are zero, and the ballot label is four words that say nothing about the spending limit, unemployment insurance debt, or the change to how budget emergencies are declared."
+  ],
+  "who_supports": [
+    {
+      "name": "Gov. Gavin Newsom",
+      "type": "politician",
+      "notes": "Publicly backed the measure as part of the June 2026 budget package. A constitutional amendment does not require the Governor's signature to reach the ballot."
+    },
+    {
+      "name": "Assemblymember Jesse Gabriel",
+      "type": "politician",
+      "notes": "Lead Assembly author of ACA 20 and chair of the Assembly Budget Committee. Signed the official argument in favor in that capacity."
+    },
+    {
+      "name": "State Sen. Melissa Hurtado",
+      "type": "politician",
+      "notes": "Lead Senate author of ACA 20."
+    },
+    {
+      "name": "State Sen. John Laird",
+      "type": "politician",
+      "notes": "Lead Senate author of ACA 20 and chair of the Senate Budget and Fiscal Review Committee."
+    },
+    {
+      "name": "Assemblymember Avelino Valencia",
+      "type": "politician",
+      "notes": "Lead Assembly author of ACA 20."
+    },
+    {
+      "name": "Assembly Speaker Robert Rivas",
+      "type": "politician",
+      "notes": "Called the measure 'what responsible leadership looks like' and used its statutory name, the Save For California's Future Act."
+    },
+    {
+      "name": "Senate President pro Tempore Monique Limón",
+      "type": "politician",
+      "notes": "Argued the fund 'helps mitigate cuts to state programs in difficult budget years' and that boosting it protects programs working families need."
+    },
+    {
+      "name": "Democratic Party of California",
+      "type": "org",
+      "notes": "Party endorsement. Every Democrat voting in either house voted yes; 9 percent of Republicans voting did."
+    },
+    {
+      "name": "California Professional Firefighters",
+      "type": "org",
+      "notes": "President Darrell Roberts signed the official argument in favor. Public safety staffing is among the first items cut when state and local revenues fall."
+    },
+    {
+      "name": "Los Angeles Area Chamber of Commerce",
+      "type": "business",
+      "notes": "CEO Maria S. Salinas signed the official argument in favor. Notable because the measure would let the state assume unemployment insurance debt that federal law currently makes employers repay."
+    },
+    {
+      "name": "California Chamber of Commerce",
+      "type": "business",
+      "notes": "Statewide business association supporting the measure."
+    },
+    {
+      "name": "California Hospital Association",
+      "type": "org",
+      "notes": "CEO Carmela Coyle signed the rebuttal to the argument against. Hospitals and Medi-Cal payments are directly exposed to downturn-year budget cuts."
+    },
+    {
+      "name": "California Primary Care Association",
+      "type": "org",
+      "notes": "CEO Francisco J. Silva signed the rebuttal to the argument against. Community clinic payments were reduced in the 2025 budget shortfall."
+    },
+    {
+      "name": "California State Board of Education",
+      "type": "org",
+      "notes": "President Dr. Linda Darling-Hammond signed the rebuttal to the argument against."
+    },
+    {
+      "name": "League of Women Voters of California",
+      "type": "org",
+      "notes": "Nonpartisan civic organization that takes positions on ballot measures after member study."
+    }
+  ],
+  "who_opposes": [
+    {
+      "name": "Reform California",
+      "type": "org",
+      "notes": "Chairman Carl DeMaio signed both the official argument against and the rebuttal to the argument in favor. The only organization running a visible no campaign, though it has registered no ballot measure committee."
+    },
+    {
+      "name": "Howard Jarvis Taxpayers Association",
+      "type": "org",
+      "notes": "Recommends a no vote in its 2026 voter guide, while conceding the measure 'addresses the treatment of appropriations into and out of reserve funds in a way that makes sense from the perspective of addressing revenue volatility.' Its objection is that the measure does not restore the Gann Limit weakened by Propositions 98 and 111."
+    },
+    {
+      "name": "Assemblymember David Tangipa",
+      "type": "politician",
+      "notes": "Vice chair of the Assembly Budget Committee and lead signer of the official argument against."
+    },
+    {
+      "name": "State Sen. Steven Choi",
+      "type": "politician",
+      "notes": "Vice chair of the Senate Elections and Constitutional Amendments Committee; signed the official argument against."
+    },
+    {
+      "name": "Assemblymember Joe Patterson",
+      "type": "politician",
+      "notes": "Voted against placing the amendment on the ballot and characterized the reserve as a 'bigger slush fund.'"
+    },
+    {
+      "name": "Legislative Republicans",
+      "type": "other",
+      "notes": "Eight Assembly Republicans and two Senate Republicans voted no; one Assembly Republican voted yes. Eighteen Republicans across both houses did not vote."
+    }
+  ],
+  "authors": [
+    {
+      "name": "Jesse Gabriel",
+      "role": "Lead Assembly author"
+    },
+    {
+      "name": "Avelino Valencia",
+      "role": "Lead Assembly author"
+    },
+    {
+      "name": "Melissa Hurtado",
+      "role": "Lead Senate author"
+    },
+    {
+      "name": "John Laird",
+      "role": "Lead Senate author"
+    }
+  ],
+  "funding": {
+    "support_committees": [],
+    "oppose_committees": []
+  },
+  "nonpartisan_analysis": [
+    {
+      "source": "Legislative Analyst's Office",
+      "summary": "The LAO's entire fiscal estimate is one line, that state budget reserves would be higher, with no dollar figure. Its analysis explains that the measure continues required deposits until the fund reaches 20 percent of General Fund taxes instead of 10 percent, adds larger deposits when capital gains revenue is very high, extends mandatory extra debt payments from 2030 to 2040, and widens their permitted uses to school and community college payments, repayment of borrowing from other state funds, and certain federal loans. It also notes that rainy day fund deposits would stop counting toward the state appropriations limit until withdrawn, and that the same treatment applies to a separate surge-revenue account up to 10 percent of General Fund taxes per year. Its only other conclusion is that the state might make more debt payments than it otherwise would. The analysis does not mention the change to how a budget emergency is declared.",
+      "url": "https://lao.ca.gov/ballot/2026/prop2-110326.pdf"
+    },
+    {
+      "source": "California Budget and Policy Center",
+      "summary": "The most detailed nonpartisan treatment, and mixed. It supports the larger cushion and the spending-limit change, arguing current rules perversely prevent building reserves in exactly the strong-revenue years when the state nears the cap. It quantifies the capital gains change, finding it would have bound in six of the fourteen years from 2010-11 through 2023-24 at less than 1 to 2 percent of General Fund revenue each time, and could take hundreds of millions to over $1 billion off the table in some years. Its three main criticisms are that using set-aside revenue to repay federal unemployment insurance loan principal shifts to the state a cost federal law places on employers, that the expanded debt list competes with pension and retiree health paydown so the General Fund absorbs the difference later, and that the measure preserves two rules it considers harmful: the ban on suspending debt payments during an emergency, now extended ten years, and a definition of budget emergency that excludes federal funding cuts. It also notes the measure does not touch the Proposition 98 guarantee or the schools reserve.",
+      "url": "https://calbudgetcenter.org/resources/should-voters-approve-proposition-2-how-californias-rainy-day-fund-would-be-updated/"
+    },
+    {
+      "source": "Legislative Analyst's Office, 2026-27 spending plan overview",
+      "summary": "Not an analysis of the measure, but the essential context for it. The LAO reports that ACA 20 passed as part of the June 2026 budget package, and that the same package suspends a $5.4 billion required true-up deposit into the rainy day fund, the single largest category of budget solutions at nearly 40 percent of the total, following a $1.6 billion initial deposit for 2025-26 that had already been suspended. It projects the fund at $15.1 billion and total General Fund reserves at $19.6 billion at the end of 2026-27, with the Safety Net Reserve fully depleted and $9.2 billion in the schools reserve. It also records that the May 2026 Revision contained a first-time proposal to deposit nearly $10 billion into the Projected Surplus Temporary Holding Account and withdraw it the following year, the account Proposition 2 would exempt from the spending limit.",
+      "url": "https://lao.ca.gov/Publications/Report/5197"
+    },
+    {
+      "source": "Ballotpedia",
+      "summary": "Provides neutral background and the path to the ballot. ACA 20 was introduced and passed both houses on June 25, 2026, clearing the two-thirds requirement 59-8 in the Assembly with 12 not voting and 29-2 in the Senate with nine not voting. All voting Democrats supported it and 9 percent of voting Republicans did. It documents that the fund was created by Proposition 58 in 2004 and reformed by Proposition 2 in 2014, that the balance hit the 10 percent cap only in 2022-23 and 2023-24, and that the state withdrew $12.2 billion between 2024 and 2026 following Newsom's June 2024 budget emergency declaration. Ballotpedia identified no committees registered in support or opposition and reports $0 in total contributions on both sides. A Public Policy Institute of California survey of 1,103 likely voters taken September 4 to 10, 2026, with a 3.8 point margin of error, found 60 percent yes, 39 percent no, and 1 percent undecided.",
+      "url": "https://ballotpedia.org/California_Proposition_2,_Budget_Stabilization_Account_Cap_Increase_and_Gann_Limit_Changes_Amendment_(2026)"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Legislative Analyst's Office, Analysis of Proposition 2 (November 3, 2026 Ballot)",
+      "url": "https://lao.ca.gov/ballot/2026/prop2-110326.pdf",
+      "retrieved": "2026-09-19"
+    },
+    {
+      "title": "Legislative Analyst's Office, Proposition 2 ballot analysis page",
+      "url": "https://lao.ca.gov/BallotAnalysis/Proposition?number=2&year=2026",
+      "retrieved": "2026-09-19"
+    },
+    {
+      "title": "ACA 20 (2025-2026), Save for California's Future Act, full text",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260ACA20",
+      "retrieved": "2026-09-19"
+    },
+    {
+      "title": "ACA 20 (2025-2026) bill status, lead authors, and chaptering",
+      "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260ACA20",
+      "retrieved": "2026-09-19"
+    },
+    {
+      "title": "Government Code Section 16418.7, Projected Surplus Temporary Holding Account",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=GOV&sectionNum=16418.7",
+      "retrieved": "2026-09-19"
+    },
+    {
+      "title": "California Secretary of State, Official Voter Information Guide, Proposition 2",
+      "url": "https://voterguide.sos.ca.gov/propositions/2/",
+      "retrieved": "2026-09-19"
+    },
+    {
+      "title": "California Secretary of State, Official Voter Information Guide, Proposition 2 arguments and rebuttals",
+      "url": "https://voterguide.sos.ca.gov/propositions/2/arguments-rebuttals.htm",
+      "retrieved": "2026-09-19"
+    },
+    {
+      "title": "California Secretary of State, Voter Information Guide, Proposition 2 pamphlet pages",
+      "url": "https://vig.cdn.sos.ca.gov/2026/general/pdf/prop2.pdf",
+      "retrieved": "2026-09-19"
+    },
+    {
+      "title": "California Secretary of State, Qualified statewide ballot measures",
+      "url": "https://www.sos.ca.gov/elections/ballot-measures/qualified-ballot-measures",
+      "retrieved": "2026-09-19"
+    },
+    {
+      "title": "California Secretary of State, Proposition 2 ballot measure committee contribution totals",
+      "url": "https://www.sos.ca.gov/campaign-lobbying/helpful-resources/measure-contributions/2026-ballot-measure-contribution-totals/proposition-2-aca-20-gabriel-save-californias-future-act-res-ch-130-2026",
+      "retrieved": "2026-09-19"
+    },
+    {
+      "title": "California Budget and Policy Center, Should Voters Approve Proposition 2? How California's Rainy Day Fund Would Be Updated",
+      "url": "https://calbudgetcenter.org/resources/should-voters-approve-proposition-2-how-californias-rainy-day-fund-would-be-updated/",
+      "retrieved": "2026-09-19"
+    },
+    {
+      "title": "Legislative Analyst's Office, The 2026-27 Budget: Overview of the Spending Plan",
+      "url": "https://lao.ca.gov/Publications/Report/5197",
+      "retrieved": "2026-09-19"
+    },
+    {
+      "title": "Ballotpedia, California Proposition 2, Budget Stabilization Account Cap Increase and Gann Limit Changes Amendment (2026)",
+      "url": "https://ballotpedia.org/California_Proposition_2,_Budget_Stabilization_Account_Cap_Increase_and_Gann_Limit_Changes_Amendment_(2026)",
+      "retrieved": "2026-09-19"
+    },
+    {
+      "title": "CalMatters voter guide, Proposition 2 rainy day fund",
+      "url": "https://calmatters.org/california-voter-guide-2026/proposition-2-rainy-day-fund/",
+      "retrieved": "2026-09-19"
+    },
+    {
+      "title": "Howard Jarvis Taxpayers Association 2026 voting guide",
+      "url": "https://www.hjta.org/2026votingguide/",
+      "retrieved": "2026-09-19"
+    }
+  ],
+  "last_updated": "2026-09-19"
+}
