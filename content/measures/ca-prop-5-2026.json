@@ -1,0 +1,228 @@
+{
+  "id": "ca-prop-5-2026",
+  "jurisdiction": "state",
+  "election_date": "2026-11-03",
+  "number": "Proposition 5",
+  "title": "Changes Recall Election Process for Statewide Officers",
+  "status": "on_ballot",
+  "summary": "Proposition 5 removes the second question from a California recall election, the one that currently lets voters pick a same-day replacement candidate by simple plurality. If a state officer is recalled, the office instead becomes vacant and is filled under the state's ordinary vacancy rules: a special election for a recalled legislator, gubernatorial appointment for most other statewide executive offices, and, for a recalled Governor, automatic succession by the Lieutenant Governor, sometimes followed by a later special election. It does not change how many signatures are needed to force a recall onto the ballot in the first place.",
+  "what_it_really_means": [
+    "Nothing changes about how a recall gets on the ballot. Proposition 5 is a constitutional amendment, Senate Constitutional Amendment 1 by Sen. Josh Newman with Assemblymember Isaac Bryan as coauthor, that amends Sections 15 and 17 of Article II and Section 10 of Article V of the California Constitution. It leaves untouched the signature thresholds for qualifying a recall: 12 percent of the last vote for the office for executive officers and 20 percent for legislators and judges, plus the requirement that signatures come from at least five counties. What it changes is what happens after voters vote yes on question one, whether to remove the official.",
+    "Under current law, Article II Section 15(c) asks two questions on the same ballot: should the officer be recalled, and if so, who should replace them. The officer facing recall cannot be a candidate for their own replacement, and whoever gets a plurality of the second-question vote takes office immediately, regardless of how small that plurality is or how many people left the second question blank. Proposition 5 strikes that language and replaces it with a single sentence: if the majority votes to recall, the officer is removed and the office becomes vacant, filled 'in accordance with this Constitution and statute.' The recalled officer still cannot be appointed to fill the resulting vacancy, but, unusually for a measure billed as tightening the recall process, the new text repeals the separate ban on that same officer running as a candidate in whatever special election eventually fills the seat.",
+    "What 'filled in accordance with this Constitution and statute' means depends entirely on which office was recalled, and the three pathways are not equivalent in how much say voters get. A recalled state Senator or Assemblymember follows the existing vacancy process for legislative seats: the Governor calls a special election, typically consolidated with the next regularly scheduled election when possible, otherwise run standalone. A recalled officer in most other statewide executive offices, such as Attorney General, Treasurer, or Insurance Commissioner, is replaced the way any vacancy in those offices is already filled today when an officeholder dies or resigns: by gubernatorial appointment, with no direct vote at all. The Governor's own recall gets its own, separate rule.",
+    "Proposition 5 gives a recalled Governor's succession two different outcomes depending on timing, spelled out in new subdivision (b) of Article V Section 10. If the Governor is recalled before the close of the nomination period for the next statewide election during the first two years of the term, a special election is called, consolidated with the statewide primary and, if no candidate wins a majority there, a runoff between the top two finishers at the following general election; the winner serves the balance of the term. If the recall happens later in the term, the Lieutenant Governor simply becomes Governor for the rest of it, with no election at all. A recall in year one produces a statewide vote on a successor within roughly a year; a recall in year three hands the office to whoever already holds the Lieutenant Governorship, elected on a separate ticket, for however long remains.",
+    "The measure also moves who administers a gubernatorial or Secretary of State recall. Today, Article II Section 17 assigns the 'recall duties' of the Governor's office to the Lieutenant Governor and the Secretary of State's recall duties to the Controller. Proposition 5 reassigns the Governor's recall duties to the Secretary of State instead, because under the new succession rule the Lieutenant Governor is now the Governor's designated successor and administering the recall against the person you may be about to replace is a conflict the old assignment didn't have to consider. If the Governor and the Secretary of State are both targeted by recalls at the same time, the Controller administers both.",
+    "The clearest way to see what changes is the two most consequential state recalls in modern California history, both cited by name in the Legislature's own analysis and in the campaign arguments. In 2003, Gov. Gray Davis was recalled with 55.4 percent of the vote, and on the same ballot, Arnold Schwarzenegger won the replacement question with 48.58 percent of the vote among 135 candidates, more than double Cruz Bustamante's 31.47 percent; only about 8 percent of voters left question two blank. Because that recall happened roughly nine months into Davis's term, well inside 'the first two years,' Proposition 5's rule would not have let Schwarzenegger take office immediately. The Lieutenant Governor, Cruz Bustamante, would have become Governor while a special election was set up, consolidated with the March 2004 primary and, if needed, the November 2004 general, delaying any elected successor by months.",
+    "In 2021, Gov. Gavin Newsom survived the recall 61.9 percent to 38.1 percent. Of the 12.8 million ballots cast, 44 percent left the replacement question blank; of those who did mark a candidate, Larry Elder led with roughly 48 percent, which CalMatters calculated as about 3.5 million votes, or 28 percent of everyone who voted in the recall at all, a figure the official argument in favor of Proposition 5 cites directly. That recall happened in the third year of Newsom's term, outside the 'first two years' window, so under Proposition 5's rule, had the recall succeeded, there would have been no replacement election at all: the Lieutenant Governor at the time, Eleni Kounalakis, would have become Governor for the remainder of the term with no vote by anyone. The measure's supporters argue that prevents a candidate with roughly a quarter of the electorate's support from taking the state's highest office; its opponents argue it hands that office to someone voters chose for a different job on a different ballot.",
+    "One provision that predates this measure and that the campaign rhetoric on both sides glosses over: judicial recalls already worked essentially the way Proposition 5 extends to everyone else. The current constitutional text bars 'any candidacy for an office filled pursuant to subdivision (d) of Section 16 of Article VI,' meaning judges recalled from the Supreme Court or Courts of Appeal have never had a same-day successor election; their vacancies are filled by appointment. Proposition 5's 'closes a loophole' framing describes the executive and legislative recall process, not a wholesale new principle for the state.",
+    "For a change this structural, the campaign around it is unusually quiet in dollar terms. As of the most recent filing period ending June 30, 2026, no committee had registered to support or oppose Proposition 5 with the Secretary of State, and both Ballotpedia's and CalMatters's campaign finance trackers list zero raised and zero spent on either side. The fight is happening entirely in the ballot pamphlet: Senate Minority Leader Brian W. Jones and Assemblymember Joe Patterson signed both the argument and rebuttal against, and pointedly note that the measure's author, Sen. Newman, was himself recalled from his state Senate seat in 2018, framing the measure as personal as much as procedural. The League of Women Voters of California and California Common Cause, who backed the bill through the Legislature, signed the argument and rebuttal in favor. A Public Policy Institute of California poll of 1,103 likely voters taken September 4 to 10, 2026 found the measure trailing, 35 percent yes to 59 percent no."
+  ],
+  "fiscal_impact": {
+    "state_cost": "None guaranteed. The Legislative Analyst's Office finds the net fiscal effect unknown; a future recall could cost the state and counties millions of dollars if a standalone special election is required to fill a vacated legislative seat that cannot be consolidated with a regularly scheduled election.",
+    "state_savings": "None guaranteed. The LAO finds possible savings of millions of dollars per recall from no longer printing and mailing replacement-candidate ballot materials, which would occur when a Governor is recalled late in a term (no election at all) or when another statewide office is filled by appointment instead of an election.",
+    "local_cost": "None mandated today. County elections officials administer both current and proposed recall procedures; whether future recalls cost or save counties money depends on which office is recalled and whether a resulting special election can be consolidated with an already-scheduled election. Existing law already requires the Department of Finance to estimate recall costs for legislative review, with any remaining costs split between the Secretary of State's and counties' budgets.",
+    "revenue_change": "None. Proposition 5 creates no tax, fee, or revenue source of any kind.",
+    "ongoing_vs_one_time": "Neither. This is a procedural rule change with no scheduled cost or savings; it produces a fiscal effect only when and if a future recall qualifies for the ballot, and the size and direction of that effect depend on which office is recalled and how the resulting vacancy is filled.",
+    "narrative": "The Legislative Analyst's Office is unusually blunt that it cannot size this measure's fiscal impact in advance, because the effect depends entirely on facts that don't exist yet: how many recalls qualify in the future, which offices they target, and how each vacancy gets filled. The LAO's own framing sets an outer bound rather than a point estimate, describing potential state and local savings or costs 'potentially in the range of millions of dollars' per recall, and separately notes that whatever the number turns out to be, it represents less than one-tenth of one percent of the state's General Fund budget even in a year when a statewide recall occurs, which itself has happened only twice since 1913. The mechanism driving both the possible costs and the possible savings is the same: removing the second ballot question removes replacement-candidate ballot materials (a savings), but replacing that same-day vote with a later standalone special election, when one is required and cannot be consolidated with a regularly scheduled election, can cost more than the savings from a simpler recall ballot. Whether state or county government bears any resulting cost or captures any resulting savings is left to future legislative decisions on how to divide election costs, exactly as it is today."
+  },
+  "taxes": {
+    "new_taxes": [],
+    "tax_changes": []
+  },
+  "spending": {
+    "new_spending_areas": [],
+    "funding_source": "None. Proposition 5 creates no program and appropriates no funds. Existing law already requires the Department of Finance to estimate the cost of a state recall election, submit that estimate to the Legislature for funding review, and split any remaining cost between the Secretary of State's and counties' budgets; this measure does not change that framework."
+  },
+  "control_and_power": "Voters lose the direct, same-day vote on who replaces a recalled state officer; that decision moves to three different actors depending on the office. For a recalled legislator, voters still decide, but later, in a separate special election. For a recalled officer in most other statewide executive offices (Attorney General, Treasurer, Insurance Commissioner, and similar), the Governor gains unilateral appointment power over the vacancy, the same authority the Governor already holds for a resignation or death in that office but that a recall does not currently trigger. For a recalled Governor, the Lieutenant Governor gains automatic succession to the governorship for some or all of the remaining term, with no vote required if the recall happens more than roughly two years into the term; that outcome depends on the constitutional deadline defined by 'the close of the nomination period for the next statewide election during the first two years of the Governor's term.' Administrative authority over recall elections also shifts: the Secretary of State, not the Lieutenant Governor, now runs the recall process when the Governor is the target, and the Controller runs it when the Secretary of State is the target or when the Governor and Secretary of State are recalled simultaneously. The recalled officer loses the ability to be appointed to their own vacated seat but, unlike under current law, gains the ability to run as a candidate in any later special election to reclaim it.",
+  "loopholes": [
+    "The new ban on the recalled officer being appointed to fill their own vacancy is paired with the repeal of the existing ban on that same officer being a candidate in a later special election. A legislator recalled by a narrow margin could run to reclaim the same seat months later, something current law does not allow.",
+    "The Governor-succession rule turns entirely on one date, 'the close of the nomination period for the next statewide election during the first two years of the Governor's term.' A recall certified a few weeks before that date produces a statewide special election with voters choosing a successor within roughly a year; a recall certified a few weeks after produces no election at all and hands the office to the sitting Lieutenant Governor for the balance of the term, a materially different outcome from a narrow timing accident rather than a considered policy choice.",
+    "For statewide executive offices other than Governor, filling a post-recall vacancy by gubernatorial appointment means a Governor of one party can appoint a successor of their own choosing after voters of a different party's officeholder is recalled, converting what was an independently elected office into one effectively controlled by the Governor for the rest of the term.",
+    "The measure does not touch the signature thresholds, distribution requirements, or timing windows that let a recall qualify for the ballot in the first place. A voter who assumes 'recall reform' makes recalls themselves harder or easier to trigger would be mistaken; only what happens after a successful recall changes.",
+    "Recall administrative duties for a Governor's recall move from the Lieutenant Governor to the Secretary of State, and for a Secretary of State's recall from the Controller to the Controller (unchanged) unless both offices are targeted simultaneously, in which case the Controller administers both recalls at once, concentrating administrative control over two simultaneous top-of-ticket recalls in a single elected office."
+  ],
+  "unexpected_provisions": [
+    "The measure repeals the existing constitutional prohibition on a recalled officer running as a candidate in the special election that eventually fills their own vacated seat. A voter reading 'restores the recall to its original purpose' would not expect that a recalled official gains a new path back into the same office.",
+    "Judicial recalls, for the Supreme Court and Courts of Appeal under Article VI Section 16(d), already had no successor election under current law; the existing text specifically bars 'any candidacy' for those offices upon recall. Proposition 5's core argument, that a second-question plurality election creates a loophole, was never true for judges, whose vacancies have always been filled by appointment.",
+    "The measure reassigns who performs the administrative 'recall duties' of the Governor's office from the Lieutenant Governor to the Secretary of State, and specifies that if the Governor and Secretary of State are recalled at the same time, the Controller runs both recalls, a scenario neither the ballot summary nor the official arguments mention.",
+    "For any statewide executive office other than Governor, this measure hands the Governor appointment power over a recall vacancy that today does not exist, because today those offices are filled by direct election as part of the recall itself.",
+    "SCA 1 needed and received the two-thirds vote of both legislative chambers required for the Legislature to place a constitutional amendment on the ballot, but that supermajority was almost entirely partisan: the Senate passed it 32-8 and the Assembly 59-17, with Ballotpedia calculating 98.9 percent Democratic support against 4.0 percent Republican support, an unusually one-sided vote for a measure framed as a good-government reform."
+  ],
+  "pros": [
+    "Sen. Josh Newman and Assemblymember Isaac Bryan, the measure's authors, argue that 'the system in its current form offers bad actors an incentive to target an elected official with whom they disagree and to have the official replaced by someone who otherwise would not enjoy the support of a majority of voters,' and that Proposition 5 ensures recalls are 'democratic, fair, and not subject to political gamesmanship.'",
+    "The official argument in favor, signed by League of Women Voters co-president Lorrel Plimier, California Common Cause executive director Darius L. Kemp, and former Fair Political Practices Commission chair Dan Schnur, says the current two-question structure lets 'a candidate listed in question #2... win the office with far less than 50% of the votes cast,' which 'encourages political actors to target officials they couldn't defeat in a regular election.'",
+    "Supporters point to the 2021 Newsom recall as the clearest example: California taxpayers spent more than $200 million on an election that reconfirmed the outcome of the prior regular election, and had it succeeded, the leading replacement candidate would have taken office with support from only about 28 percent of all recall voters.",
+    "The League of Women Voters and California Common Cause argue the current system causes real voter confusion, since many voters do not realize whether they are permitted to vote on the replacement question after voting no on the recall question, which they say suppresses turnout on question two and undermines the legitimacy of whoever wins it.",
+    "Proposition 5 brings California closer to how most other states with recall provisions already operate. According to Ballotpedia, only six states, including California, use a same-day simultaneous successor election; most instead use a separate special election, appointment, or automatic succession, the models Proposition 5 adopts.",
+    "The rebuttal to the argument against states plainly that under the measure, 'if a Governor is recalled, the Lieutenant Governor... provides continuity of government until voters choose the next Governor through a regular election,' arguing this preserves stable governance while still letting voters remove a Governor by majority vote."
+  ],
+  "cons": [
+    "The official argument against, signed by Senate Minority Leader Brian W. Jones and Assemblymember Joe Patterson, states plainly: 'Proposition 5 will take away your voice and erode your ability to remove and replace failed or corrupt politicians from office,' and that it 'gives them even more [power]... by taking power away from you, the voters.'",
+    "Opponents argue that for most statewide offices, 'Sacramento political insiders would decide what happens next,' since the Governor would appoint a replacement rather than voters electing one, which the argument calls letting officials 'appoint another one of their friends or political allies to replace the one you just ousted.'",
+    "For legislative seats, opponents note the vacancy would sit unfilled until 'another costly, taxpayer-funded election... scheduled months later, leaving the office vacant and the people unrepresented,' and that the recalled politician could run again to regain the very seat voters just voted to take from them.",
+    "Election Integrity Project California, Inc. argued during the legislative process that because 'the Lieutenant Governor is almost always on the same partisan and ideological page as the Governor,' automatic succession would make a gubernatorial recall 'a frying pan vs the fire situation' and would 'monumentally suppress... the people's right to self-govern.'",
+    "The rebuttal to the argument in favor calls the 'protects democracy' framing exactly backwards, arguing the current system has 'worked for 100 years, ousting politicians who abuse their office and replacing them with whoever the voters decide will do better,' and that Proposition 5 'would create a loophole, not close one.'",
+    "Opponents connect the measure to the author's own history, noting Sen. Newman was recalled from his state Senate seat in 2018 after voting for a gas tax increase, and argue he is using his final term to 'rewrite the rules and protect politicians like him from any meaningful accountability.'",
+    "The Howard Jarvis Taxpayers Association's voter guide calls the measure 'a mockery of the recall process,' objecting that a recalled officeholder can now run in the special election that current law bars them from entering.",
+    "As of the most recent filing period, Public Policy Institute of California polling found the measure losing 35 percent to 59 percent among likely voters, the only one of the 2026 legislatively referred measures trailing by that margin in the same survey series that showed Propositions 1 and 3 comfortably ahead."
+  ],
+  "who_supports": [
+    {
+      "name": "State Sen. Josh Newman",
+      "type": "politician",
+      "notes": "Lead author of SCA 1. Was himself recalled from his state Senate seat in 2018 after voting for a gas tax increase, a fact opponents raise directly in the official rebuttal against the measure."
+    },
+    {
+      "name": "Assemblymember Isaac Bryan",
+      "type": "politician",
+      "notes": "Assembly coauthor of SCA 1."
+    },
+    {
+      "name": "Lt. Gov. Eleni Kounalakis",
+      "type": "politician",
+      "notes": "Supported the measure during the legislative process, per Ballotpedia; her own office's authority is directly affected by the succession rule the measure creates."
+    },
+    {
+      "name": "Secretary of State Shirley Weber",
+      "type": "politician",
+      "notes": "According to CalMatters, the proposal originated from Weber's office following the unsuccessful 2021 Newsom recall; she argued a recall election should decide only whether to remove an official, not who would replace them."
+    },
+    {
+      "name": "Democratic Party of California",
+      "type": "org",
+      "notes": "Party endorsement; the legislative vote for SCA 1 was overwhelmingly along party lines (98.9 percent Democratic support per Ballotpedia's partisan-direction analysis)."
+    },
+    {
+      "name": "California Common Cause",
+      "type": "org",
+      "notes": "Government-accountability advocacy group; executive director Darius L. Kemp signed the official ballot argument in favor."
+    },
+    {
+      "name": "League of Women Voters of California",
+      "type": "org",
+      "notes": "Nonpartisan civic organization; co-president Lorrel Plimier signed the official ballot argument in favor."
+    },
+    {
+      "name": "Indivisible CA: StateStrong",
+      "type": "org",
+      "notes": "Progressive advocacy organization listed among endorsers by CalMatters."
+    },
+    {
+      "name": "Dan Schnur",
+      "type": "other",
+      "notes": "Former chair of the California Fair Political Practices Commission; signed the official ballot argument in favor."
+    }
+  ],
+  "who_opposes": [
+    {
+      "name": "Senate Minority Leader Brian W. Jones",
+      "type": "politician",
+      "notes": "Signed both the official argument against Proposition 5 and the rebuttal to the argument in favor."
+    },
+    {
+      "name": "Assemblymember Joe Patterson",
+      "type": "politician",
+      "notes": "Signed both the official argument against Proposition 5 and the rebuttal to the argument in favor."
+    },
+    {
+      "name": "California Republican Party",
+      "type": "org",
+      "notes": "Party opposition; Ballotpedia's partisan-direction analysis found only 4.0 percent Republican support for SCA 1 in the Legislature."
+    },
+    {
+      "name": "Election Integrity Project California, Inc.",
+      "type": "org",
+      "notes": "Voter-ID and mail-ballot-restriction advocacy organization; submitted testimony during the legislative process arguing automatic Lieutenant Governor succession would suppress recall participation."
+    },
+    {
+      "name": "Howard Jarvis Taxpayers Association",
+      "type": "org",
+      "notes": "Anti-tax organization; its published voter guide calls the measure 'a mockery of the recall process.'"
+    },
+    {
+      "name": "Reform California",
+      "type": "org",
+      "notes": "Conservative advocacy organization listed by both Ballotpedia and CalMatters among opponents."
+    }
+  ],
+  "authors": [
+    {
+      "name": "Josh Newman",
+      "role": "Lead Senate author of SCA 1; state Senator, District 29"
+    },
+    {
+      "name": "Isaac Bryan",
+      "role": "Assembly coauthor of SCA 1; Assemblymember, District 55"
+    }
+  ],
+  "nonpartisan_analysis": [
+    {
+      "source": "Legislative Analyst's Office",
+      "summary": "The LAO describes Proposition 5 as replacing the recall's second, replacement-candidate question with the state's existing vacancy-filling rules for every office except Governor, which gets its own rule based on whether the recall occurs before or after the nomination-period deadline for the next statewide election during the Governor's first two years in office. It stresses that the net fiscal effect is unknown because it depends on the frequency and type of future recalls: possible costs come from standalone special elections needed to fill vacant legislative seats, and possible savings come from no longer printing and mailing replacement-candidate ballot materials. Either way, it estimates the fiscal effect at less than one-tenth of one percent of the state's General Fund budget. It also provides the historical baseline that only 11 of 182 state recall attempts since 1913 have qualified for the ballot, with six resulting in removal.",
+      "url": "https://lao.ca.gov/BallotAnalysis/Proposition?number=5&year=2026"
+    },
+    {
+      "source": "Ballotpedia",
+      "summary": "Provides the measure's full legislative history and background. SCA 1 was introduced January 30, 2023 by Sen. Josh Newman, passed the Senate 31-7 on February 1, 2024, passed an amended Assembly version 59-17 on August 30, 2024, and was concurred to by the Senate 32-8 on August 31, 2024, an overall vote Ballotpedia's partisan-direction analysis calculates as 98.9 percent Democratic support and 4.0 percent Republican support. It documents that California currently uses the same-day 'simultaneous election' method to choose recall successors, shared with only five other states (Arizona, Colorado, Michigan, Nevada, North Dakota, and Wisconsin) among the 19 states that allow state-level recalls, while most other recall states use separate special elections, appointment, or automatic succession, the models this measure adopts. It reports no committees registered in support of or opposition to the measure through the June 30, 2026 filing period, with $0 in contributions on both sides, and a Public Policy Institute of California poll of 1,103 likely voters taken September 4 to 10, 2026 showing 35 percent support, 59 percent opposed, and 5 percent undecided.",
+      "url": "https://ballotpedia.org/California_Proposition_5,_Eliminate_State_Officer_Recall_Successor_Elections_Amendment_(2026)"
+    },
+    {
+      "source": "CalMatters 2026 Voter Guide",
+      "summary": "Frames the measure as delaying the replacement of a recalled state official rather than eliminating a replacement outright, noting the recalled officer would be allowed to run in whatever later special election is held, and that the Lieutenant Governor would take over gubernatorial duties immediately if a Governor is recalled. It traces the measure's origin to a proposal from Secretary of State Shirley Weber's office after the 2021 Newsom recall, and to author Josh Newman's own experience being recalled in 2018. It reports no registered support or opposition committees and no independent expenditures as of its September 15, 2026 data update.",
+      "url": "https://calmatters.org/california-voter-guide-2026/proposition-5-recall-reform/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "California Secretary of State, Official Voter Information Guide, Proposition 5",
+      "url": "https://voterguide.sos.ca.gov/propositions/5/",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Secretary of State, Official Voter Information Guide, Proposition 5 arguments and rebuttals",
+      "url": "https://voterguide.sos.ca.gov/propositions/5/arguments-rebuttals.htm",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Legislative Analyst's Office, Proposition 5 ballot analysis (November 3, 2026)",
+      "url": "https://lao.ca.gov/BallotAnalysis/Proposition?number=5&year=2026",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Legislative Analyst's Office, Analysis of Proposition 5 (November 3, 2026 Ballot) (PDF)",
+      "url": "https://lao.ca.gov/ballot/2026/prop5-110326.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "SCA 1 (2023-2024), Elections: recall of state officers, full chaptered text",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240SCA1",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "SCA 1 (2023-2024) bill votes",
+      "url": "https://leginfo.legislature.ca.gov/faces/billVotesClient.xhtml?bill_id=202320240SCA1",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Secretary of State, Qualified statewide ballot measures",
+      "url": "https://www.sos.ca.gov/elections/ballot-measures/qualified-ballot-measures",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Ballotpedia, California Proposition 5, Eliminate State Officer Recall Successor Elections Amendment (2026)",
+      "url": "https://ballotpedia.org/California_Proposition_5,_Eliminate_State_Officer_Recall_Successor_Elections_Amendment_(2026)",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "CalMatters voter guide, Proposition 5 recall reform",
+      "url": "https://calmatters.org/california-voter-guide-2026/proposition-5-recall-reform/",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "CalMatters, 'And the winner in the California recall is? None of the above' (2021 replacement-candidate vote analysis)",
+      "url": "https://calmatters.org/politics/2021/09/california-recall-replacement-candidates/",
+      "retrieved": "2026-09-20"
+    }
+  ],
+  "last_updated": "2026-09-20"
+}
