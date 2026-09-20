@@ -5,7 +5,10 @@ import { listMeasureFiles, MEASURES_DIR, ROOT } from './validate.mjs';
 
 const SOURCES_DIR = path.join(ROOT, 'content', 'sources');
 const TIMEOUT_MS = 30_000;
-const USER_AGENT = 'vote-ballot-tracker/0.1 (static site source archiver)';
+// A custom UA gets a bot-challenge page (HTTP 202, empty body) from some sources, notably
+// Ballotpedia. A realistic browser UA is the difference between an archive and a placeholder.
+const USER_AGENT =
+  'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36';
 
 const EXTENSIONS = [
   ['application/pdf', '.pdf'],
@@ -55,7 +58,11 @@ async function archive(source, index, outDir) {
   const name = `${String(index + 1).padStart(2, '0')}-${slug(source.title)}`;
 
   const response = await fetch(source.url, {
-    headers: { 'user-agent': USER_AGENT },
+    headers: {
+      'user-agent': USER_AGENT,
+      accept: 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
+      'accept-language': 'en-US,en;q=0.9',
+    },
     redirect: 'follow',
     signal: AbortSignal.timeout(TIMEOUT_MS),
   });
