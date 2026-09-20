@@ -1,0 +1,423 @@
+{
+  "id": "ca-prop-4-2026",
+  "jurisdiction": "state",
+  "election_date": "2026-11-03",
+  "number": "Proposition 4",
+  "title": "Repeals Prohibition Against Public Funding of Election Campaigns",
+  "status": "on_ballot",
+  "summary": "Proposition 4 narrows California's 1988 ban on spending public money on candidate campaigns so that it covers only funds already earmarked for education, transportation, or public safety. It creates no program, appropriates no money, and names no revenue source; it makes public campaign financing legal for the state, counties, general-law cities, and districts, which may each decide separately whether to build a program. The Legislative Analyst's Office puts the only certain state cost at a few hundred thousand dollars a year for Fair Political Practices Commission legal staff to answer questions about how such programs may be designed.",
+  "what_it_really_means": [
+    "The ballot title says 'repeals prohibition,' but the statute does not delete the prohibition. It inverts it. Government Code Section 85300 currently reads that a public officer shall not expend, and a candidate shall not accept, any public moneys for the purpose of seeking elective office. As amended by Section 3 of SB 42, the same sentence reads that a public officer shall not expend, and a candidate shall not accept, any public funds for the purpose of seeking elective office 'if the funds are earmarked by any state or local entity for education, transportation, or public safety.' A flat ban on all public money becomes a ban on three categories of earmarked money. Every other public dollar, including undesignated general fund money at the state, county, city, and district level, becomes available for candidate campaigns for the first time since June 1988.",
+    "Nothing happens to anyone's taxes or ballot on the day this passes. Proposition 4 creates no fund, appropriates no dollar, and names no revenue source. The Legislative Analyst's Office is explicit: 'Proposition 4 does not create a public campaign finance system for the state or local governments directly,' and the cost of any future program 'would depend on which governments created such programs and how those programs were designed.' The only cost the LAO can size is a few hundred thousand dollars a year for the Fair Political Practices Commission to hire more legal staff, because state and local officials will ask the commission how to build programs that comply. That is less than one-tenth of one percent of the General Fund.",
+    "Who decides how any public campaign money is allocated is the question the ballot title does not touch, and the answer is that Proposition 4 decides almost none of it. Subdivisions (e)(2) and (e)(7)(A) of the amended section say expenditure limits and qualifying criteria are 'established by statute, ordinance, or charter.' A statute means the Legislature. An ordinance means a city council or a county board of supervisors. A charter means a local ballot measure. Nothing in the text requires voters to approve a local program: a city council can adopt one by ordinance on its own vote. The rebuttal to the argument against tells voters Proposition 4 gives 'every city, county, and the state the right to adopt public funding if local voters want it,' but the statute does not condition a program on a vote of the people.",
+    "The qualifying bar has a floor and, less obviously, a ceiling. Subdivision (e)(7)(A) requires that criteria 'require candidates to demonstrate broad-based support in their district, such as by requiring candidates to receive small-dollar contributions or vouchers from a specified number of voting-age residents.' That is the floor. Subdivision (e)(7)(B)(i) then says that if a program counts small-dollar contributors, 'the largest contribution the statute, ordinance, or charter may require for a contributor to be counted is ten dollars ($10),' and subdivision (e)(7)(C) says the criteria 'shall not include requirements that candidates receive a specified number of signatures or raise a specified total dollar amount of more than ten dollars ($10) per contributor.' That is the ceiling. A jurisdiction may demand as many qualifying donors as it likes, but it may not demand petition signatures and may not set the bar as a fundraising total. The number of donors is unconstrained in both directions, so the same clause that forbids a stiff dollar threshold also permits a jurisdiction to require thousands of $10 donors. The official argument against quotes the bare definition of 'strict criteria' to argue there are no real standards; the fuller answer is that the standards are procedural limits on what a future body may require, not a substantive threshold the measure itself sets.",
+    "Subdivision (f) is the provision least visible from the title and the hardest to read. A program 'may increase the expenditure limits for each qualified, voluntarily participating candidate,' but the increase 'shall not exceed an amount equal to the highest dollar amount of net supportive funds of any other candidate for the same office, plus the dollar amount of independent expenditures against the qualified, voluntarily participating candidate, minus the dollar amount of independent expenditures in support of' that candidate. 'Net supportive funds' is defined in (e)(5) as a candidate's available funds plus outside spending for them minus outside spending against them. In plain terms, a participating candidate who is being outspent, including by independent committees, can have their voluntary spending cap raised to match. What (f) authorizes is a higher ceiling on spending, not an additional grant of public money. The measure's own findings cite Arizona Free Enterprise v. Bennett (2011) 564 U.S. 721, the case in which the United States Supreme Court struck down Arizona's triggered matching-funds mechanism, quoting it only for the proposition that public financing can serve a significant governmental interest. Whether a triggered lift of a voluntary cap is distinguishable from a triggered payment has not been tested for this statute.",
+    "Voters are not locking all of this in equally. Subdivision (i) states that subdivisions (e), (f), and (h) 'may be amended by statute pursuant to subdivision (a) of Section 81012,' while 'the remaining subdivisions of this section may be amended only by a statute that complies with subdivision (b) of Section 81012.' Government Code Section 81012(a) allows amendment 'to further its purposes' by a two-thirds vote of each house signed by the Governor. Section 81012(b) requires a statute 'that becomes effective only when approved by the electors.' So the definitions, including 'strict criteria' and the $10 ceiling, the expenditure-limit escape hatch, and the Fair Political Practices Commission's exemption from running local programs, can all be rewritten in Sacramento without returning to voters. The narrowed prohibition in (a), the participation requirements in (b) through (d), and the nondiscrimination rule in (g) cannot. The two-thirds 'further its purposes' route is not a formality: in Howard Jarvis Taxpayers Assn. v. Newsom (2019), the Third District Court of Appeal held that SB 1107 of 2016, which tried to authorize public campaign financing by legislative amendment, contradicted the Political Reform Act's purposes and was invalid. That ruling is the reason this measure is on the ballot at all, and the reason the deleted text SB 42 strikes from Section 85300 is SB 1107's own language.",
+    "Something is bundled in that a voter reading the title would not find there, and it was printed in an unusual way. SB 42 amends a second statute, Government Code Section 85320, on foreign money in California elections. The bill carried two alternative versions of that amendment, numbered SEC. 4 and SEC. 4.1, and SEC. 6 of the bill made the choice contingent: if AB 953 was not enacted and effective on or before January 1, 2026, the Secretary of State would submit Sections 1, 2, 3, and 4 to voters; if AB 953 was enacted and amended Section 85320, the Secretary of State would submit Sections 1, 2, 3, and 4.1 instead. AB 953 was signed on October 1, 2025 and took effect January 1, 2026. The official text of proposed law printed in the Voter Information Guide therefore runs SECTION 1, SEC. 2, SEC. 3, SEC. 4.1, with no SEC. 4. The gap in the numbering voters see is not a typographical error; it is the record of which branch of that contingency fired.",
+    "What SEC. 4.1 does is twofold. First, it changes the penalty for foreign contributions. Existing Section 85320(e) makes a violation a misdemeanor and requires a fine 'equal to the amount contributed or expended.' The new (e)(1) keeps the misdemeanor, and a new (e)(2) provides that 'in addition to other penalties, a person who violates this section shall be fined an amount at least equal to the amount contributed or expended, but not exceeding an amount equal to three times the amount contributed or expended.' The Attorney General's title and summary describes this as tripling the maximum fine, which is accurate about the ceiling; the floor stays at one times the amount, and the previously fixed penalty becomes a range. Second, SEC. 4.1 carries forward AB 953's additions: 'foreign national' is added to the persons barred from contributing in subdivisions (a) and (b), defined in (c)(1)(A) as a person who is neither a United States citizen nor a lawfully admitted permanent resident, and (c)(1)(B) excludes from that definition a person with unexpired deferred action under the federal Deferred Action for Childhood Arrivals program. Those provisions are already California law; a yes vote re-enacts them with the voters' approval attached.",
+    "Two gaps in the text are worth a voter's attention because no source resolves them. First, subdivision (h) provides that the Fair Political Practices Commission 'is not responsible for the administration or enforcement of a system of public funding of candidates established by a local governmental agency.' It says local only, and it names no substitute enforcer. The LAO describes the commission's role as answering questions rather than administering or enforcing local programs. Who audits a local program's disbursements, and who claws money back from a candidate who violates its rules, is left to whoever writes that program. Second, the LAO notes the existing ban 'does not apply to city office elections in certain charter cities,' naming Los Angeles, San Francisco, Long Beach, Oakland, and Berkeley. That exemption comes from case law on municipal home rule, not from an exception written into Section 85300, and the amended subdivision (a) contains no charter-city carve-out on its face. Whether the new education, transportation, and public safety earmark restriction reaches the five charter cities already running programs is not answered by the text, the LAO analysis, or the ballot arguments.",
+    "One more item is textually accurate in the opposition's argument and easy to miss. The measure operates on 'elective office' as the Political Reform Act defines it, and Government Code Section 82023 provides that 'elective office' also includes membership on a county central committee of a qualified political party. A jurisdiction that chose to could therefore extend a public financing program to party central committee races. Nothing in Proposition 4 requires that, and nothing in it forbids it."
+  ],
+  "fiscal_impact": {
+    "state_cost": "A few hundred thousand dollars per year, ongoing, for the Fair Political Practices Commission to hire additional legal staff to answer questions from state and local governments about designing compliant programs, per the Legislative Analyst's Office. The LAO puts this at much less than one-tenth of 1 percent of the General Fund. Any state-level public financing program itself would be a separate, later decision with no cost estimated here.",
+    "state_savings": "none identified by the Legislative Analyst's Office",
+    "local_cost": "none mandated. No city, county, or district is required to create a program or spend anything. The LAO states that for governments that do choose to create programs, 'the cost of these programs could be significant.' Supporters' official ballot argument asserts the cost to a community that adopts one 'is as little as $1 per resident each year'; that figure appears in the argument in favor and is not a Legislative Analyst's Office estimate.",
+    "revenue_change": "none. Proposition 4 creates no tax, fee, or assessment and raises no revenue. The one revenue-adjacent change is a penalty range: the fine for illegal foreign contributions becomes at least one and up to three times the amount contributed, replacing a fixed fine equal to the amount.",
+    "ongoing_vs_one_time": "The Fair Political Practices Commission cost is ongoing and begins after passage. Every other cost is contingent on a future decision by the Legislature or a local governing body and would recur for as long as that body funds its program.",
+    "narrative": "This is a permission measure, and its fiscal profile reflects that. The measure appropriates nothing, so the LAO's whole quantified estimate is administrative: more legal staff at the Fair Political Practices Commission, a few hundred thousand dollars a year. The number a voter might actually want, what public campaign financing would cost California, is unknowable from the text because the text sets no grant size, no per-candidate cap, no aggregate program cap, and no sunset. The LAO says only that program costs 'could be significant.' The two sides fill that vacuum with different framings and neither is a state estimate: supporters cite roughly $1 per resident per year in the official argument in favor, and opponents call the measure a 'blank check' with 'NO LIMIT on how much taxpayer money a candidate can get.' Read against the statute, the opponents' description of what the text omits is accurate, and the supporters' point that no money moves without a further affirmative decision by an identifiable body is also accurate. The one real constraint the measure places on future spending is negative and narrow: money earmarked by any state or local entity for education, transportation, or public safety may not be used. Funds earmarked for anything else, and all unearmarked funds, are eligible, and the statute does not define 'earmarked.'"
+  },
+  "taxes": {
+    "new_taxes": [],
+    "tax_changes": []
+  },
+  "spending": {
+    "new_spending_areas": [
+      "Fair Political Practices Commission legal staffing to answer state and local government questions about designing public campaign finance programs: a few hundred thousand dollars per year, per the Legislative Analyst's Office. This is not appropriated by the measure and would run through the ordinary state budget process."
+    ],
+    "funding_source": "None specified. Proposition 4 appropriates no money and identifies no revenue source for any future program. It restricts only which existing public funds may be used, barring funds 'earmarked by any state or local entity for education, transportation, or public safety.' Any program's money would come from whatever source the Legislature, a city council, a board of supervisors, or a local charter amendment chose."
+  },
+  "control_and_power": "Proposition 4 transfers no money and creates no administering body. What it transfers is authority. The Legislature gains the power to create a statewide public campaign financing program by ordinary statute; every county board of supervisors, general-law city council, and local governmental agency gains the power to create one by ordinance; charter jurisdictions may do so by charter. Subdivisions (e)(2) and (e)(7)(A) place the design decisions that matter, the expenditure limit and the qualifying criteria, in those same bodies, and nothing in the text requires a local program to be ratified by voters. The bodies that would design these programs are composed of the officeholders eligible to receive the funds, which is the structural objection the opposition argument raises. Against that, subdivision (g) bars any program from discriminating 'based on party or according to whether a candidate is a challenger or an incumbent,' and (e)(7)(C) forbids qualifying criteria built on signature counts or on fundraising totals above $10 per contributor. Subdivision (h) removes the Fair Political Practices Commission from responsibility for administering or enforcing locally established programs and names no replacement; the Legislative Analyst's Office describes the commission's post-passage role as issuing guidance. Subdivision (i), read with Government Code Section 81012, splits amendment authority: the Legislature may rewrite the definitions in (e), the expenditure-limit formula in (f), and the commission exemption in (h) by a two-thirds vote that furthers the act's purposes, without returning to voters, while the narrowed prohibition in (a), the participation conditions in (b) through (d), and the nondiscrimination rule in (g) can be changed only by a statute the electors approve.",
+  "loopholes": [
+    "Subdivision (i) lets the Legislature amend subdivisions (e), (f), and (h) under Government Code Section 81012(a), a two-thirds vote that 'further[s] its purposes,' with no return to voters. That covers the definition of 'strict criteria' and its $10 contributor ceiling, the definition of 'expenditure limits,' the escape-hatch formula in (f), and the Fair Political Practices Commission's exemption from running local programs. The qualifying standards voters are told are 'strict' are among the parts the Legislature can later rewrite alone.",
+    "The statute bars the use of funds 'earmarked by any state or local entity for education, transportation, or public safety' but never defines 'earmarked.' Whether a general fund appropriation that happens to support schools or police is earmarked, and who decides, is not addressed in the text, the Legislative Analyst's Office analysis, or the ballot arguments.",
+    "Nothing in the text requires voter approval of a local program. Subdivisions (e)(2) and (e)(7)(A) permit expenditure limits and qualifying criteria to be set 'by statute, ordinance, or charter,' so a city council or board of supervisors may adopt a program by ordinance. The official rebuttal to the argument against tells voters that Proposition 4 lets communities adopt public funding 'if local voters want it.'",
+    "The instrument list is internally inconsistent. Subdivision (g) applies the nondiscrimination rule to 'public funding statutes, charters, ordinances, and resolutions,' but subdivisions (e)(2) and (e)(7)(A) permit expenditure limits and 'strict criteria' to be set only 'by statute, ordinance, or charter.' A program created by resolution would have no listed vehicle for setting the limits and criteria subdivision (b) requires.",
+    "The measure sets no cap on the amount of public money any one candidate may receive, no cap on a program's total cost, and no sunset or reauthorization date. Every dollar limit is left to the body that creates the program, which is the textual basis for the opposition's 'blank check' characterization.",
+    "Subdivision (h) removes the Fair Political Practices Commission from administering or enforcing locally established programs and designates no other enforcer. The text is silent on who audits local disbursements or recovers misused funds, and silent on enforcement of a future state-level program.",
+    "The existing ban's inapplicability to charter cities rests on municipal home rule case law rather than on any exception in Section 85300, and the amended subdivision (a) contains no charter-city carve-out. Whether the new education, transportation, and public safety earmark restriction binds Los Angeles, San Francisco, Long Beach, Oakland, and Berkeley, which already run programs, is unresolved on the face of the statute.",
+    "Subdivision (f) permits a participating candidate's spending cap to be raised in response to an opponent's funds and to independent expenditures. The measure's own findings cite Arizona Free Enterprise v. Bennett (2011) 564 U.S. 721, in which the United States Supreme Court invalidated Arizona's triggered matching-funds provision, and quote it only for a different proposition. The text raises a voluntary ceiling rather than paying out additional public money, and that distinction has not been tested for this statute.",
+    "The Political Reform Act defines 'elective office' in Government Code Section 82023 to include membership on a county central committee of a qualified political party, so a program adopted under Proposition 4 could extend public funds to party central committee races. The measure neither requires nor forbids this.",
+    "The text voters approve contains no severability clause and no conflicting-measures clause, unlike several other measures on the same ballot."
+  ],
+  "unexpected_provisions": [
+    "The measure amends a second statute that has nothing to do with public financing. Section 4.1 rewrites Government Code Section 85320 on foreign money, replacing a fixed fine equal to the amount contributed with a range of at least one and up to three times that amount, 'in addition to other penalties.' The Attorney General's summary describes this as tripling the maximum fine; the minimum fine is unchanged.",
+    "The same Section 4.1 carries forward AB 953's changes: 'foreign national' is added to the persons barred from contributing, defined as a person who is neither a United States citizen nor a lawfully admitted permanent resident, with an express exclusion for people holding unexpired deferred action under the federal Deferred Action for Childhood Arrivals program. These are already law as of January 1, 2026; a yes vote re-enacts them with voter approval.",
+    "The official text of proposed law printed for voters skips from SEC. 3 to SEC. 4.1 with no SEC. 4. SB 42 contained two alternative amendments to Section 85320 and its SEC. 6 made the choice contingent on whether AB 953 took effect by January 1, 2026. AB 953 was signed October 1, 2025, so SEC. 4 never took effect and the Secretary of State printed SEC. 4.1.",
+    "Subdivision (d)(2) imposes a permanent restriction that outlives the campaign: a candidate who receives public funds 'shall not, after their campaign ends, use any source of funds to repay a personal loan to their campaign.' The ban covers private money too, not only the public funds the title refers to.",
+    "Subdivision (e)(7)(C) forbids a program from requiring candidates to gather a specified number of signatures or to raise more than $10 per contributor as part of qualifying. Proposition 4 therefore caps how demanding a future jurisdiction may make its eligibility test in those two respects, while leaving the required number of $10 contributors entirely open.",
+    "Subdivision (f) allows a participating candidate's expenditure limit to be raised by a formula keyed to rival candidates' funds and to independent expenditures for and against, using a defined term, 'net supportive funds,' that appears nowhere in the ballot label, the Legislative Analyst's summary, or either official argument.",
+    "The prohibition is narrowed rather than repealed. The amended subdivision (a) still bars public officers and candidates from spending or accepting public funds for elective office when those funds are earmarked for education, transportation, or public safety, so a standing statutory prohibition survives passage.",
+    "The language SB 42 deletes from Section 85300 is the text SB 1107 added in 2016, which the Third District Court of Appeal held invalid in Howard Jarvis Taxpayers Assn. v. Newsom (2019). The measure cleans an inoperative provision out of the code at the same time it does its main work.",
+    "Section 2 of the measure writes eleven legislative findings into the enacted text, including citations to Johnson v. Bradley (1992) 4 Cal.4th 389, Buckley v. Valeo (1976) 424 U.S. 1, and Arizona Free Enterprise v. Bennett (2011) 564 U.S. 721, and to named academic studies. Because Government Code Section 81012(a) permits legislative amendment only to further the act's purposes, these findings become the benchmark against which future amendments are measured.",
+    "No committee had registered to support or oppose Proposition 4 as of the Secretary of State's reporting, so the ballot pamphlet arguments will be most voters' only organized exposure to either side."
+  ],
+  "pros": [
+    "The official argument in favor, signed by the League of Women Voters of California, the California Nurses Association, and State Senator Tom Umberg, grounds the case in scale: 'Since 2020, more than $1 billion has been spent on California state candidate races alone,' which supporters say gives special interests access and influence while drowning out ordinary voters.",
+    "Supporters argue the measure removes a barrier rather than spending money: it 'does not create a public financing program. It simply gives local governments the option to adopt one if they choose,' and by its own terms does not move a single dollar without a further decision by an identifiable body.",
+    "Sean McMorris of California Common Cause frames the effect on who can run: 'It's essentially leveling the playing field. It's also an attempt to diversify the candidate field, which gives voters more choice.'",
+    "State Senator Ben Allen, a lead author, argues public financing lets candidates 'focus more on voter appeal instead of donor appeal' and expands opportunities for more people to run.",
+    "Supporters point to experience elsewhere, citing candidates elected under similar systems in fourteen states and 26 localities, and to the five California charter cities already running programs under the existing exemption.",
+    "The measure writes in safeguards the ban never had: public funds cannot pay legal defense fees or fines under subdivision (c), cannot repay a candidate's personal campaign loan under subdivision (d), cannot come from money earmarked for education, transportation, or public safety under subdivision (a), and no program may favor incumbents or discriminate by party under subdivision (g).",
+    "The bundled amendment to Section 85320 triples the maximum fine for illegal foreign contributions and expenditures, which supporters present as strengthening penalties for foreign interference in California elections.",
+    "Supporters' official argument puts the cost to a community that adopts a program at 'as little as $1 per resident each year,' and the Legislative Analyst's Office identifies no cost at all beyond a few hundred thousand dollars a year in Fair Political Practices Commission staffing unless a government affirmatively acts."
+  ],
+  "cons": [
+    "The official argument against, signed by two former Fair Political Practices Commission members and the president of the California Hispanic Chambers of Commerce, calls the measure a 'BLANK CHECK': 'Proposition 4 has NO LIMIT on the number of candidates who can get taxpayer money and NO LIMIT on how much money they can get!' The statute does not set a per-candidate cap or a program cap.",
+    "Opponents note the measure permits candidates to take public funds and private money at once: 'Under Proposition 4, candidates can raise money from special interests AND get public funding too.' Nothing in the text conditions public funds on forgoing private contributions.",
+    "The argument against quotes the measure's own definition, '\"Strict criteria\" means the requirement set by statute, ordinance, or charter that candidates must meet to receive public funds,' and observes that no such statute, ordinance, or charter yet exists, so the criteria will be written later by the same officials eligible to receive the money.",
+    "David Kline of the California Taxpayers Association puts the objection in spending terms: 'People when they pay taxes want to pay for schools, fire departments, libraries, roads, that sort of thing. The last thing they want to pay for is a negative political ad.'",
+    "The Howard Jarvis Taxpayers Association argues from the principle rather than the design: 'Taxpayers should not have to pay the campaign expenses of candidates running for office or incumbents running for re-election,' and notes it won the litigation that struck down the Legislature's 2016 attempt at the same change.",
+    "Opponents argue the eligibility bar is low enough to draw many claimants, pointing to a recent primary in which 'there were more than 60 candidates for Governor,' and note the measure reaches county political party committee races. Government Code Section 82023 does include county central committee membership in 'elective office.'",
+    "The measure names no revenue source, so opponents argue the money necessarily displaces something: 'Less money for schools, less money for public safety, less money for healthcare.' The statute's only fiscal guardrail bars funds already earmarked for education, transportation, or public safety, which leaves every other fund available.",
+    "Subdivision (i) lets the Legislature later amend the definitions, the expenditure-limit formula, and the Fair Political Practices Commission exemption by a two-thirds vote without returning to voters, so several of the safeguards supporters cite are not locked in at the same level as the repeal itself.",
+    "Subdivision (h) exempts the Fair Political Practices Commission from administering or enforcing local programs and the measure designates no one else, leaving oversight of local disbursements to whichever body writes the program."
+  ],
+  "who_supports": [
+    {
+      "name": "State Sen. Tom Umberg",
+      "type": "politician",
+      "notes": "Lead author of SB 42 and a signer of the official ballot argument in favor."
+    },
+    {
+      "name": "State Sen. Ben Allen",
+      "type": "politician",
+      "notes": "Lead author of SB 42; the most quoted legislative advocate for the measure."
+    },
+    {
+      "name": "State Sen. Sabrina Cervantes",
+      "type": "politician",
+      "notes": "Lead author of SB 42."
+    },
+    {
+      "name": "League of Women Voters of California",
+      "type": "org",
+      "notes": "Co-President Lorrel Plimier signed the official ballot argument in favor. The organization takes ballot positions after member study."
+    },
+    {
+      "name": "California Nurses Association",
+      "type": "org",
+      "notes": "President Catherine Kennedy signed the official ballot argument in favor. A large union whose political spending is itself a significant source of private campaign money."
+    },
+    {
+      "name": "California Common Cause",
+      "type": "org",
+      "notes": "Government accountability organization; Executive Director Darius Kemp signed the rebuttal to the argument against."
+    },
+    {
+      "name": "Consumer Watchdog",
+      "type": "org",
+      "notes": "Executive Director Carmen Balber signed the rebuttal to the argument against."
+    },
+    {
+      "name": "California National Organization for Women",
+      "type": "org",
+      "notes": "President Camerina Davidson signed the rebuttal to the argument against."
+    },
+    {
+      "name": "California Clean Money Campaign",
+      "type": "org",
+      "notes": "Single-issue organization advocating public campaign financing; listed in the official argument in favor. Ballotpedia lists the California Clean Money Action Fund among supporters."
+    },
+    {
+      "name": "California Democratic Party",
+      "type": "org",
+      "notes": "Party endorsement. Every Democrat voting in either house voted yes on SB 42; no Republican did."
+    },
+    {
+      "name": "California Working Families Party",
+      "type": "org",
+      "notes": "Minor party endorsement, per Ballotpedia."
+    },
+    {
+      "name": "ACLU of California",
+      "type": "org",
+      "notes": "Civil liberties organization, per Ballotpedia."
+    },
+    {
+      "name": "End Citizens United",
+      "type": "org",
+      "notes": "National campaign finance reform organization, per Ballotpedia."
+    },
+    {
+      "name": "Represent.Us",
+      "type": "org",
+      "notes": "National anti-corruption organization, per Ballotpedia."
+    },
+    {
+      "name": "Californians for Fair Elections",
+      "type": "org",
+      "notes": "Named by Ballotpedia as leading the support campaign. No committee under this or any other name had reported contributions to the Secretary of State for this measure as of its August 2, 2026 posting."
+    },
+    {
+      "name": "Mental Health Advocacy Services",
+      "type": "org",
+      "notes": "Listed in the coalition named in the official argument in favor."
+    },
+    {
+      "name": "Social Security Works",
+      "type": "org",
+      "notes": "Listed in the coalition named in the official argument in favor."
+    },
+    {
+      "name": "Courage California",
+      "type": "org",
+      "notes": "Listed in the coalition named in the official argument in favor."
+    },
+    {
+      "name": "Indivisible California: Statestrong",
+      "type": "org",
+      "notes": "Listed in the coalition named in the official argument in favor."
+    },
+    {
+      "name": "Californians for Disability Rights",
+      "type": "org",
+      "notes": "Listed in the coalition named in the official argument in favor."
+    }
+  ],
+  "who_opposes": [
+    {
+      "name": "Dan Schnur, former Chair, Fair Political Practices Commission",
+      "type": "other",
+      "notes": "Signed both the official argument against and the rebuttal to the argument in favor. A former chair of the agency that would issue guidance under the measure."
+    },
+    {
+      "name": "Colleen McAndrews, former Commissioner, Fair Political Practices Commission",
+      "type": "other",
+      "notes": "Signed the official argument against."
+    },
+    {
+      "name": "California Taxpayers Association",
+      "type": "org",
+      "notes": "President Robert Gutierrez signed the rebuttal to the argument in favor. Its objection is that taxpayers should not fund political advertising."
+    },
+    {
+      "name": "Howard Jarvis Taxpayers Association",
+      "type": "org",
+      "notes": "President Jon Coupal signed the rebuttal to the argument in favor. The association won Howard Jarvis Taxpayers Assn. v. Newsom (2019), which struck down the Legislature's 2016 attempt to authorize public financing without voter approval, and is the reason this question is before voters."
+    },
+    {
+      "name": "California Hispanic Chambers of Commerce",
+      "type": "org",
+      "notes": "President Julian Canete signed the official argument against."
+    },
+    {
+      "name": "Family Business Association of California",
+      "type": "org",
+      "notes": "Named among opponents in the official argument against."
+    },
+    {
+      "name": "United Latinos Action",
+      "type": "org",
+      "notes": "Named among opponents in the official argument against."
+    },
+    {
+      "name": "California Republican Party",
+      "type": "org",
+      "notes": "Party opposition, per Ballotpedia. Every Republican voting on SB 42 in either house voted no."
+    },
+    {
+      "name": "California Chamber of Commerce",
+      "type": "business",
+      "notes": "Statewide business association listed by Ballotpedia among opponents."
+    },
+    {
+      "name": "Reform California",
+      "type": "org",
+      "notes": "Conservative advocacy organization listed by Ballotpedia among opponents. No committee registered in opposition has been identified."
+    }
+  ],
+  "authors": [
+    {
+      "name": "Tom Umberg",
+      "role": "Lead Senate author"
+    },
+    {
+      "name": "Ben Allen",
+      "role": "Lead Senate author"
+    },
+    {
+      "name": "Sabrina Cervantes",
+      "role": "Lead Senate author"
+    },
+    {
+      "name": "Josh Becker",
+      "role": "Principal Senate coauthor"
+    },
+    {
+      "name": "Catherine Blakespear",
+      "role": "Principal Senate coauthor"
+    },
+    {
+      "name": "Henry Stern",
+      "role": "Principal Senate coauthor"
+    },
+    {
+      "name": "Marc Berman",
+      "role": "Principal Assembly coauthor"
+    },
+    {
+      "name": "Ash Kalra",
+      "role": "Principal Assembly coauthor"
+    },
+    {
+      "name": "Alex Lee",
+      "role": "Principal Assembly coauthor"
+    },
+    {
+      "name": "Gail Pellerin",
+      "role": "Principal Assembly coauthor"
+    },
+    {
+      "name": "Jesse Arreguín",
+      "role": "Senate coauthor"
+    },
+    {
+      "name": "Dave Cortese",
+      "role": "Senate coauthor"
+    },
+    {
+      "name": "Jerry McNerney",
+      "role": "Senate coauthor"
+    },
+    {
+      "name": "Sasha Renée Pérez",
+      "role": "Senate coauthor"
+    },
+    {
+      "name": "Scott Wiener",
+      "role": "Senate coauthor"
+    },
+    {
+      "name": "Steve Bennett",
+      "role": "Assembly coauthor"
+    },
+    {
+      "name": "Matt Haney",
+      "role": "Assembly coauthor"
+    },
+    {
+      "name": "Liz Ortega",
+      "role": "Assembly coauthor"
+    },
+    {
+      "name": "Chris Rogers",
+      "role": "Assembly coauthor"
+    },
+    {
+      "name": "Pilar Schiavo",
+      "role": "Assembly coauthor"
+    },
+    {
+      "name": "Nick Schultz",
+      "role": "Assembly coauthor"
+    },
+    {
+      "name": "Jose Luis Solache Jr.",
+      "role": "Assembly coauthor"
+    }
+  ],
+  "funding": {
+    "support_committees": [],
+    "oppose_committees": []
+  },
+  "nonpartisan_analysis": [
+    {
+      "source": "Legislative Analyst's Office",
+      "summary": "The LAO describes the current Political Reform Act ban on public funds for candidates' campaigns and notes it does not reach city office elections in certain charter cities, naming Los Angeles, San Francisco, Long Beach, Oakland, and Berkeley. It stresses that Proposition 4 does not itself create a public campaign finance system, and that it 'sets broad rules for future state and local public campaign finance programs but leaves many key design decisions to future state and local decision makers.' On money, it concludes that program costs depend entirely on which governments act and how they design their programs, and that such costs 'could be significant,' while the only estimable state cost is a few hundred thousand dollars a year for the Fair Political Practices Commission to add legal staff to answer questions, much less than one-tenth of 1 percent of the General Fund. It notes the commission would issue guidance rather than administer or enforce local programs.",
+      "url": "https://lao.ca.gov/ballot/2026/prop4-110326.pdf"
+    },
+    {
+      "source": "Ballotpedia",
+      "summary": "Provides the legal history and the path to the ballot. The ban originates in Proposition 73, approved 58 to 42 percent in June 1988, which amended the Political Reform Act of 1974. The Legislature tried to lift it by statute in SB 1107 (2016); the Third District Court of Appeal held in Howard Jarvis Taxpayers Assn. v. Newsom (2019) that the amendment contradicted the act's primary purpose and was invalid, which is why voter approval is required now. SB 42 was introduced January 6, 2025, passed the Senate 28-10 on June 2, 2025, passed the Assembly 59-20 on September 12, 2025, was concurred in by the Senate 29-8 on September 13, 2025, and was signed by Gov. Gavin Newsom on October 2, 2025; every Democrat voting supported it and no Republican did. Ballotpedia has identified no committee registered to support or oppose the measure and reports $0 raised on both sides through reports covering June 30, 2026. A Public Policy Institute of California survey of 1,103 likely voters taken September 4 to 10, 2026 with a margin of error of 3.8 points found 42 percent yes, 53 percent no, and 5 percent undecided.",
+      "url": "https://ballotpedia.org/California_Proposition_4,_Allow_Public_Financing_of_Election_Campaigns_Measure_(2026)"
+    },
+    {
+      "source": "CalMatters 2026 voter guide",
+      "summary": "Summarizes the measure as authorizing state and local governments to establish public campaign funds if they choose, reversing a 1988 ban that applies to the state and most local governments, and notes that only five California cities currently have public financing for local offices. It lays out the supporters' case that public financing curbs private money's influence and helps candidates without wealthy backing, and the opponents' case that taxpayers would subsidize candidates they may not support, that funds could reach fraudulent candidates, and that building the systems is expensive. Its campaign finance tracker, drawing on Secretary of State data last updated September 15, 2026, reports no registered proposition committees and $0 raised and spent on both sides.",
+      "url": "https://calmatters.org/california-voter-guide-2026/proposition-4-public-fundraising/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "California Secretary of State, Official Voter Information Guide, Proposition 4",
+      "url": "https://voterguide.sos.ca.gov/propositions/4/",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Secretary of State, Official Voter Information Guide, Proposition 4 arguments and rebuttals",
+      "url": "https://voterguide.sos.ca.gov/propositions/4/arguments-rebuttals.htm",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Official Voter Information Guide, Proposition 4 title, summary, analysis, and arguments (PDF)",
+      "url": "https://vig.cdn.sos.ca.gov/2026/general/pdf/prop4.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Official Voter Information Guide, Proposition 4 text of proposed law as printed for voters (PDF)",
+      "url": "https://vig.cdn.sos.ca.gov/2026/general/pdf/prop4-text-proposed-laws.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Legislative Analyst's Office, Analysis of Proposition 4 (November 3, 2026 Ballot)",
+      "url": "https://lao.ca.gov/ballot/2026/prop4-110326.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Legislative Analyst's Office, Proposition 4 ballot analysis page",
+      "url": "https://lao.ca.gov/BallotAnalysis/Proposition?number=4&year=2026",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "SB 42 (2025-2026), California Fair Elections Act of 2026, chaptered bill text",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260SB42",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "SB 42 (2025-2026) bill status, authors, coauthors, votes, and chaptering",
+      "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB42",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Government Code Section 81012, amendment procedures for the Political Reform Act",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=GOV&sectionNum=81012",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Government Code Section 82023, definition of \"elective office\"",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=GOV&sectionNum=82023",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Secretary of State, Qualified statewide ballot measures",
+      "url": "https://www.sos.ca.gov/elections/ballot-measures/qualified-ballot-measures",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Secretary of State, Proposition 4 ballot measure contribution totals",
+      "url": "https://www.sos.ca.gov/campaign-lobbying/helpful-resources/measure-contributions/2026-ballot-measure-contribution-totals/proposition-4-sb-42-umberg-political-reform-act-1974-public-campaign-financing-california-fair-elections-act-2026-ch-245-2025",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Ballotpedia, California Proposition 4, Allow Public Financing of Election Campaigns Measure (2026)",
+      "url": "https://ballotpedia.org/California_Proposition_4,_Allow_Public_Financing_of_Election_Campaigns_Measure_(2026)",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "CalMatters voter guide, Proposition 4 public campaign financing",
+      "url": "https://calmatters.org/california-voter-guide-2026/proposition-4-public-fundraising/",
+      "retrieved": "2026-09-20"
+    }
+  ],
+  "last_updated": "2026-09-20"
+}
