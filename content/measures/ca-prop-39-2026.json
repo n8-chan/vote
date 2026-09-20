@@ -1,0 +1,347 @@
+{
+  "id": "ca-prop-39-2026",
+  "jurisdiction": "state",
+  "election_date": "2026-11-03",
+  "number": "Proposition 39",
+  "title": "Prohibits Citizens from Voting Unless They Present Government-Issued Identification",
+  "status": "on_ballot",
+  "summary": "Proposition 39 adds a new Section 3.1 to Article II of the California Constitution requiring every in-person voter to present government-issued identification and every vote-by-mail voter to write the last four digits of a government-issued ID number on their return envelope, replacing today's signature-only verification. It also requires election officials to use \"best efforts\" to verify that registered voters are U.S. citizens using government data, report county-by-county verification rates annually, and undergo a State Auditor compliance audit every odd-numbered year. The Legislative Analyst's Office estimates state and local implementation costs of tens of millions to low hundreds of millions of dollars a year, and the Legislature must still pass laws filling in details the initiative leaves undefined, including which specific documents qualify as ID.",
+  "what_it_really_means": [
+    "California is a universal vote-by-mail state: every registered voter automatically receives a mail ballot, and in the 2024 presidential election about 13 million of the roughly 16 million votes cast were by mail versus about 3 million in person, according to the Legislative Analyst's Office (LAO). Today both groups are verified the same way, by signature: in-person voters sign a roster and mail voters sign their return envelope, with elections officials checking mail signatures against the signature on file before counting the ballot. In-person signatures are typically not verified before the ballot is counted. Proposition 39 does not remove signature verification, but it layers a second, different check on top of it for both groups.",
+    "For in-person voters, the mechanism is straightforward: present government-issued identification at the polling place. For mail voters, the mechanism is different and easy to miss from the ballot title alone. The voter must first designate a specific government-issued ID during registration. That selection is then printed on the mail ballot envelope sent to them, and the voter must write the last four digits of that ID's number on the envelope before returning it. Election officials check that the digits match the ID on file. The constitutional text states flatly: \"Election officials shall only count a regular or provisional ballot after verifying the identity of the person voting pursuant to the requirements of this section.\" A mail ballot envelope that arrives without those four digits, or with digits that do not match, is a ballot the text does not authorize officials to count.",
+    "What happens to a voter who lacks qualifying ID or forgets to write the digits is the least-resolved part of the measure. The text allows for \"provisional\" ballots but subjects them to the identical verification requirement as regular ballots, without describing a cure process, a grace period, or an appeals mechanism for a voter to fix a missing or mismatched number after the fact. The LAO's own analysis states plainly that Proposition 39 \"requires the Legislature to pass additional laws to implement the measure\" and that lawmakers \"would need to clarify several details that are not defined in the proposition, like which forms of identification could be used.\" Until the Legislature acts, the practical answer to \"what happens if I don't have ID\" is not settled by the ballot measure itself.",
+    "The measure creates a free state-issued voter ID card, available on request, that can substitute for other government identification. This is new infrastructure the state does not currently operate for this purpose, and the LAO notes its ultimate cost depends on \"decisions around the design and requirements of the voter identification card and the number of cards requested,\" none of which the text specifies.",
+    "The ballot title voters will read, \"Prohibits Citizens From Voting Unless They Present Government-Issued Identification,\" describes only the identification piece. It says nothing about the measure's other operative section, which requires the Secretary of State and every county elections official to \"use best efforts to verify citizenship attestations using government data\" and to publish, every year, what percentage of each county's voter rolls have been citizenship-verified. Today, registrants attest to citizenship under penalty of perjury but that attestation is not independently checked against a government database as a matter of course. Proposition 39 does not name which database, list, or agency counts as sufficient \"government data,\" leaving the standard for compliance to future statute or agency practice.",
+    "The measure also requires the California State Auditor, an independent nonpartisan office, to audit state and every county's compliance with the entire section during each odd-numbered year and publish findings and recommendations. That is a new, recurring statewide audit obligation with no California precedent specific to election identification compliance.",
+    "One further bundled change: Governor Newsom signed SB 1174 in September 2024, barring any California city or county from adopting a local law requiring voter ID. Proposition 39, as a constitutional amendment, would supersede that statute statewide, running in the opposite direction, toward requiring ID everywhere rather than banning local ID mandates.",
+    "The measure is self-executing under subsection (c), meaning its core requirements are meant to take legal effect without waiting for a statute, and under the general rule for California ballot initiatives (Article II, Section 10(a)) that would ordinarily mean the day after the election, since the text of Section 3.1 itself does not specify a different operative date. But self-executing and fully operational are not the same thing here: the LAO is explicit that full implementation, including the ID forms accepted and the meaning of \"best efforts\" on citizenship checks, still requires the Legislature to legislate. That gap between a constitutional mandate that takes effect immediately and a set of implementing rules that do not yet exist is the central operational uncertainty of this measure for the 2028 election cycle and beyond.",
+    "Subsection (c) also gives \"citizens,\" not just the Attorney General or Secretary of State, standing to \"seek judicial review and remedy of the State's or any county's compliance with this section.\" That is a private right of action baked directly into the state constitution, letting any citizen sue a county that they believe is not complying with the ID or citizenship-verification requirements.",
+    "The measure's path to the ballot was contested twice in court. In July 2026, the campaign successfully collected 1.37 million signatures, well above the 874,641 required, and the initiative qualified in April 2026. After Attorney General Rob Bonta's office rewrote the official ballot title from the original circulating title, \"Establishes additional voter identification and citizenship verification requirements,\" to the sharper \"Prohibits citizens from voting unless they present government-issued identification,\" the campaign sued in Californians for Voter ID v. Weber; a Sacramento Superior Court judge ruled for the Secretary of State on August 6, 2026, finding the new title sufficient. In a separate suit, Rivas v. Weber, filed by Assembly Speaker Robert Rivas and Senate President Pro Tem Monique Limón, a different Sacramento Superior Court judge tentatively ruled the same day that specific claims in the proponents' official ballot argument, about the measure making elections more secure, were false and misleading given that the measure requires writing partial ID numbers on the outside of mail envelopes. Both rulings are matters of public record and are cited here as procedural fact, not as an assessment of the measure's merits."
+  ],
+  "fiscal_impact": {
+    "state_cost": "Tens of millions of dollars to low hundreds of millions of dollars per year, combined state and local, per the Legislative Analyst's Office. This is less than 0.25 percent of the state General Fund budget.",
+    "state_savings": "Some savings are possible from fewer registered voters if ineligible voters are removed or eligible voters without qualifying ID drop off the rolls, but the LAO states these savings \"likely would not exceed the costs of the measure.\"",
+    "local_cost": "Included in the combined tens-of-millions-to-low-hundreds-of-millions annual estimate; counties administer voter registration, ballot processing, and in-person ID checks and would bear a substantial share of the new workload.",
+    "revenue_change": "None. The measure creates no tax and generates no revenue.",
+    "ongoing_vs_one_time": "Ongoing. The LAO frames this as an annual cost that recurs every election cycle, not a one-time implementation expense, though the exact size depends on future decisions about the voter ID card program and legislative implementation.",
+    "narrative": "The LAO's own headline number, tens of millions to low hundreds of millions of dollars a year, is unusually wide because so much depends on choices nobody has made yet: what the free state voter ID card looks like, how many people request one, what counts as \"best efforts\" to verify citizenship, and what the Legislature decides counts as acceptable identification. The measure appropriates no funding of its own and specifies no cap on administrative costs. Counties, which already print and mail ballots to every registered voter under the state's all-mail system, would need new systems to record each voter's designated ID type, print it on the envelope, and check the digits against registration records for roughly 13 million mail ballots per presidential-cycle election, on top of building or expanding a citizenship-verification data-matching process and complying with a new biennial state audit. None of this is quantified beyond the LAO's range."
+  },
+  "taxes": {
+    "new_taxes": [],
+    "tax_changes": []
+  },
+  "spending": {
+    "new_spending_areas": [
+      "Free state-issued voter identification cards, provided on request to any eligible voter who asks",
+      "County and state systems to record each voter's designated ID type, print it on mail ballot envelopes, and verify the last four digits against registration records",
+      "Government-data citizenship verification processes for the Secretary of State and each county",
+      "State Auditor compliance audits of the state and every county, conducted every odd-numbered year"
+    ],
+    "funding_source": "State and local General Fund appropriations, to be determined by the Legislature through future implementing legislation; the measure authorizes no bond, dedicated tax, or specific appropriation of its own."
+  },
+  "control_and_power": "County elections officials gain the operational authority (and burden) of checking government ID at the polls and matching mail-envelope ID digits before any ballot, regular or provisional, may be counted. The Secretary of State and county elections officials jointly hold the duty to use \"best efforts\" to verify citizenship using government data and to publish annual county-by-county verification rates, with no single named data source designated, leaving that choice to future implementation. The Legislature is directed to \"promptly enact laws to implement this section,\" meaning the specifics of which ID documents qualify, how the state ID card program works, and what counts as best-efforts citizenship verification are all delegated to a future Legislature rather than fixed by the text voters are approving. The California State Auditor, an independent nonpartisan office, gains a new recurring mandate to audit state and county compliance every odd-numbered year and publish findings. Subsection (c) also grants any individual citizen standing to sue the state or a county in court over noncompliance with the section, a private enforcement power that exists alongside the Attorney General's ordinary authority.",
+  "loopholes": [
+    "The text requires elections officials to use \"best efforts\" to verify citizenship attestations \"using government data\" without naming a specific database, list, or agency, or defining what level of effort satisfies the standard. The LAO states this is one of several details the Legislature must still clarify.",
+    "The measure does not specify which documents qualify as \"government-issued identification.\" It defines the term only functionally, as documentation that allows \"conclusive verification of the voter's identity,\" leaving the actual list of acceptable IDs (driver's license, passport, student ID, tribal ID, and so on) to future legislation.",
+    "Provisional ballots are subject to the same verification requirement as regular ballots, but the text describes no cure process, deadline, or notice procedure for a voter to fix a missing or mismatched ID number after casting a mail ballot. Whether such a voter's ballot can ever be counted depends entirely on legislation that does not yet exist.",
+    "No cap or ceiling is placed on state or local administrative costs, on the design cost of the free voter ID card program, or on how many cards the state must issue.",
+    "The measure gives citizens the right to sue over the state's or a county's compliance but does not specify a remedy, timeline, or standard of review, leaving those questions to the courts or to implementing statute."
+  ],
+  "unexpected_provisions": [
+    "The ballot title voters see addresses only the identification requirement. The same section also requires the Secretary of State and every county to verify voters' citizenship using government data and to publicly report county-by-county citizenship-verification rates every year, a significant expansion of voter-roll administration not described in the title.",
+    "Creates a new, free, on-request state voter identification card program, a piece of government infrastructure the state does not currently operate.",
+    "Establishes a recurring State Auditor compliance audit of the state and every county every odd-numbered year, a new statutory audit obligation.",
+    "As a constitutional amendment, the measure would supersede SB 1174 (2024), which currently bars California cities and counties from adopting their own local voter-ID requirements, reversing the state's very recent policy direction on the subject.",
+    "Grants any individual citizen constitutional standing to sue the state or a county over noncompliance with the section, a private right of action that most ballot measures do not include.",
+    "The certified ballot title itself was the subject of a court challenge (Californians for Voter ID v. Weber) brought by the measure's own proponents, who argued the Attorney General's rewritten title was misleading; a Sacramento Superior Court judge upheld the title on August 6, 2026."
+  ],
+  "pros": [
+    "The official argument in favor, signed by the Democratic, Republican, and Independent coalition chairs of Californians for Voter ID (Margit Whitlock, Tafa Jefferson, and Joe Green), calls voter ID \"a common-sense reform to increase trust and participation\" and stresses that identification would be free and available in multiple accepted forms.",
+    "Julie Luckey, director of Californians for Voter ID, argues California is an outlier: \"Thirty-six states in the U.S. have implemented some form of voter identification requirement,\" and every European country, along with Canada, Japan, South Korea, India, Mexico, Brazil, and South Africa, requires photo ID for in-person voting.",
+    "Former California Secretary of State Bill Jones (R), who ran the state's elections, argues the current system has fewer checks than it used to: \"We automatically mail ballots to people who no longer live there and allow ballot harvesting that simply didn't exist when I ran elections... Prop. 39... does something more modest and more achievable: it makes California's system harder to doubt.\"",
+    "State Assemblymember Carl DeMaio, the initiative's chief legislative proponent, frames it as a trust-restoration measure: \"Voter ID as the best way to restore public trust and confidence in our elections.\"",
+    "The rebuttal to the argument against, signed by The Transparency Foundation's Johnathan Hale, the California Women's Leadership Association's Cynthia Kaui, and the Latino American Political Association's Ed Cervantes, argues the measure is \"bipartisan, not about Donald Trump or Gavin Newsom,\" and cites voter participation increases in other states after adopting ID laws.",
+    "Polling by UC Berkeley's Institute of Governmental Studies in April 2026 (registered voters) found majority support, 56 percent to 39 percent, for a described photo-ID voting requirement, though later polls closer to the election showed the race tightening or reversing."
+  ],
+  "cons": [
+    "The official argument against, signed by ACLU California Action executive director David Trujillo, Common Cause California state director Darius Kemp, and League of Women Voters of California co-president Lorrel Plimier, argues the measure creates costly new hurdles, including a requirement that mail ID numbers match exactly, that will block eligible voters.",
+    "The rebuttal to the argument in favor, signed by U.S. Senator Alex Padilla, California Nurses Association president Catherine Kennedy, and California School Employees Association president Adam Weinberger, states that \"Texas threw out 12 times more mail ballots than California\" under comparable rules and warns that writing partial ID numbers on ballot envelopes creates identity-theft exposure.",
+    "Andy Imparato, chief executive officer of Disability Rights California, argues the mail-ballot ID-number requirement \"turns voting into a bureaucratic obstacle course\" for the millions of Californians who vote by mail, and that new barriers will fall hardest on voters with disabilities.",
+    "Angelica Salceda of the ACLU of Northern California's Democracy, Speech, and Technology Project argues the state's existing verification points, at registration and via signature match, already confirm voter identity, making the new requirement duplicative rather than protective.",
+    "A Sacramento Superior Court judge tentatively ruled on August 6, 2026, in Rivas v. Weber that the proponents' official ballot argument claim about the measure making elections \"more secure\" was false and misleading, reasoning that requiring a partial government ID number on the outside of a mail envelope makes that information \"less private, and less secure,\" not more.",
+    "The Legislative Analyst's Office states the exact cost, and key operational details including which forms of ID qualify and what \"best efforts\" citizenship verification means, remain undefined pending future legislation, so voters are approving a mechanism whose final shape the Legislature, not this measure, will determine.",
+    "The League of Women Voters of California, in its published voter guide materials opposing the measure, and the ACLU, Common Cause, and Disability Rights California all argue the citizenship-verification and reporting requirement risks flagging eligible naturalized citizens through error-prone data matching, since the measure names no specific verification database or accuracy standard."
+  ],
+  "who_supports": [
+    {
+      "name": "Californians for Voter ID",
+      "type": "org",
+      "notes": "Lead campaign committee (Yes on 39). Director Julie Luckey is a public spokesperson for the measure."
+    },
+    {
+      "name": "Assemblymember Carl DeMaio (R)",
+      "type": "politician",
+      "notes": "Initiative co-proponent and the measure's most visible legislative champion; also chairs Reform California, a major funder of the Yes campaign."
+    },
+    {
+      "name": "State Sen. Tony Strickland (R)",
+      "type": "politician",
+      "notes": "Initiative co-proponent."
+    },
+    {
+      "name": "U.S. Rep. Ken Calvert (R)",
+      "type": "politician",
+      "notes": "Endorser; his campaign committee also donated to the Yes on 39 effort."
+    },
+    {
+      "name": "State Assemblymember Bilal (Bill) Essayli (R)",
+      "type": "politician",
+      "notes": "Endorser."
+    },
+    {
+      "name": "State Assemblymember Alexandra Macedo (R)",
+      "type": "politician",
+      "notes": "Endorser."
+    },
+    {
+      "name": "State Assemblymember David Tangipa (R)",
+      "type": "politician",
+      "notes": "Endorser."
+    },
+    {
+      "name": "Former Secretary of State Bill Jones",
+      "type": "politician",
+      "notes": "Former chief elections officer of California; argues the measure restores public confidence without solving every problem in the system."
+    },
+    {
+      "name": "California Republican Party",
+      "type": "org",
+      "notes": "Party endorsement."
+    },
+    {
+      "name": "Reform California",
+      "type": "org",
+      "notes": "Advocacy organization chaired by Carl DeMaio; its ballot-measure committee is one of the two major funders of the Yes campaign."
+    },
+    {
+      "name": "Howard Jarvis Taxpayers Association",
+      "type": "org",
+      "notes": "Anti-tax organization; endorses the measure."
+    },
+    {
+      "name": "Latino American Political Association",
+      "type": "org",
+      "notes": "Endorser; its president signed the rebuttal to the argument against."
+    },
+    {
+      "name": "California Women's Leadership Association",
+      "type": "org",
+      "notes": "Endorser."
+    },
+    {
+      "name": "The Transparency Foundation",
+      "type": "org",
+      "notes": "Endorser; its representative signed the rebuttal to the argument against."
+    },
+    {
+      "name": "Timothy C. Draper",
+      "type": "business",
+      "notes": "Founder of Draper Fisher Jurvetson; individual donor and endorser."
+    },
+    {
+      "name": "Richard Uihlein",
+      "type": "business",
+      "notes": "CEO of Uline Corporation; the campaign's largest individual donor, giving several million dollars to Yes on 39 committees."
+    },
+    {
+      "name": "Nicole Shanahan",
+      "type": "other",
+      "notes": "2024 vice-presidential candidate; endorser and donor."
+    }
+  ],
+  "who_opposes": [
+    {
+      "name": "No on Prop 39 - Californians for Voting Rights",
+      "type": "org",
+      "notes": "Lead campaign committee opposing the measure, sponsored by the California Donor Table and the ACLU of Northern California."
+    },
+    {
+      "name": "ACLU California Action",
+      "type": "org",
+      "notes": "Its executive director signed the official ballot argument against; the ACLU of Northern California is also a major funder of the No campaign."
+    },
+    {
+      "name": "Common Cause (California)",
+      "type": "org",
+      "notes": "Its state director signed the official ballot argument against."
+    },
+    {
+      "name": "League of Women Voters of California",
+      "type": "org",
+      "notes": "Nonpartisan civic organization; its co-president signed the official ballot argument against."
+    },
+    {
+      "name": "Disability Rights California",
+      "type": "org",
+      "notes": "Disability rights legal advocacy group; argues the mail-ballot ID-number requirement creates disproportionate barriers for voters with disabilities."
+    },
+    {
+      "name": "Planned Parenthood Affiliates of California",
+      "type": "org",
+      "notes": "Listed opponent."
+    },
+    {
+      "name": "Equality California",
+      "type": "org",
+      "notes": "LGBTQ+ civil rights organization; listed opponent."
+    },
+    {
+      "name": "California Teachers Association",
+      "type": "org",
+      "notes": "Listed opponent union."
+    },
+    {
+      "name": "SEIU California State Council",
+      "type": "org",
+      "notes": "Listed opponent union."
+    },
+    {
+      "name": "California Nurses Association",
+      "type": "org",
+      "notes": "Its president co-signed the rebuttal to the argument in favor."
+    },
+    {
+      "name": "California School Employees Association",
+      "type": "org",
+      "notes": "Its president co-signed the rebuttal to the argument in favor."
+    },
+    {
+      "name": "U.S. Sen. Alex Padilla (D)",
+      "type": "politician",
+      "notes": "Former California Secretary of State; co-signed the rebuttal to the argument in favor and campaigns against the measure."
+    },
+    {
+      "name": "Assembly Speaker Robert Rivas (D)",
+      "type": "politician",
+      "notes": "Co-plaintiff in Rivas v. Weber, the successful challenge to specific claims in the proponents' official ballot argument."
+    },
+    {
+      "name": "Senate President Pro Tem Monique Limón (D)",
+      "type": "politician",
+      "notes": "Co-plaintiff in Rivas v. Weber."
+    },
+    {
+      "name": "Xavier Becerra (D)",
+      "type": "politician",
+      "notes": "Gubernatorial candidate and former U.S. Secretary of Health and Human Services; former California Attorney General, opposes the measure."
+    },
+    {
+      "name": "Democratic Party of California",
+      "type": "org",
+      "notes": "Party endorsement against the measure."
+    }
+  ],
+  "authors": [
+    {
+      "name": "Carl DeMaio",
+      "role": "Initiative co-proponent; California State Assemblymember (R), filed with the Attorney General on July 16, 2025"
+    },
+    {
+      "name": "Tony Strickland",
+      "role": "Initiative co-proponent; California State Senator (R), filed with the Attorney General on July 16, 2025"
+    },
+    {
+      "name": "Donald DiCostanzo",
+      "role": "Initiative co-proponent, filed with the Attorney General on July 16, 2025; also a plaintiff, as a registered voter, in Californians for Voter ID v. Weber"
+    }
+  ],
+  "funding": {
+    "support_committees": [
+      {
+        "name": "Californians for Voter ID, Yes on 39",
+        "total_raised": "$12,267,145 in total contributions ($9,215,500 cash, $3,051,646 in-kind) through June 30, 2026, per Ballotpedia's compilation of Cal-Access filings. Combined support-side fundraising across both Yes on 39 committees had grown to roughly $28.2 million by September 15, 2026, per CalMatters' tracker of California Secretary of State data.",
+        "top_donors": [],
+        "source_url": "https://ballotpedia.org/California_Proposition_39,_Voter_Identification,_Citizenship_Verification,_and_Registered_Voter_List_Administration_Initiative_(2026)"
+      },
+      {
+        "name": "Reform California with Carl DeMaio",
+        "total_raised": "$4,903,515 in total contributions through June 30, 2026, per Ballotpedia's compilation of Cal-Access filings.",
+        "top_donors": [],
+        "source_url": "https://ballotpedia.org/California_Proposition_39,_Voter_Identification,_Citizenship_Verification,_and_Registered_Voter_List_Administration_Initiative_(2026)"
+      }
+    ],
+    "oppose_committees": [
+      {
+        "name": "No on Prop 39 - Californians for Voting Rights",
+        "total_raised": "$294,657 in total contributions through June 30, 2026, per Ballotpedia's compilation of Cal-Access filings. Combined opposition-side fundraising had grown to roughly $3.77 million by September 15, 2026, per CalMatters' tracker of California Secretary of State data.",
+        "top_donors": [
+          { "name": "ACLU of Northern California Issues Committee", "amount": "$261,602" },
+          { "name": "Disability Rights California", "amount": "$2,763" },
+          { "name": "Common Cause", "amount": "$2,125" }
+        ],
+        "source_url": "https://ballotpedia.org/California_Proposition_39,_Voter_Identification,_Citizenship_Verification,_and_Registered_Voter_List_Administration_Initiative_(2026)"
+      },
+      {
+        "name": "No on Prop 39 - VoteRiders Committee",
+        "total_raised": "$0 reported through June 30, 2026, per Ballotpedia's compilation of Cal-Access filings.",
+        "top_donors": [],
+        "source_url": "https://ballotpedia.org/California_Proposition_39,_Voter_Identification,_Citizenship_Verification,_and_Registered_Voter_List_Administration_Initiative_(2026)"
+      }
+    ]
+  },
+  "nonpartisan_analysis": [
+    {
+      "source": "Legislative Analyst's Office",
+      "summary": "The LAO describes Proposition 39 as adding a second identity check on top of California's existing signature-based system: in-person voters would present government ID, mail voters would write the last four digits of a designated government ID number on their return envelope, and officials would verify both before counting regular or provisional ballots. It notes the measure requires the state to issue free voter ID cards on request, requires elections officials to use best efforts to verify voters' citizenship using government data and report county verification rates annually, and requires the State Auditor to audit compliance every odd-numbered year. It states plainly that full implementation requires the Legislature to pass additional laws clarifying undefined details, including which forms of ID qualify and what counts as best efforts on citizenship verification. It estimates combined state and local costs of tens of millions to low hundreds of millions of dollars annually, under 0.25 percent of the General Fund, with the exact amount dependent on future legislative and administrative choices, and says any savings from removing ineligible or non-ID-holding voters would likely not offset those costs.",
+      "url": "https://lao.ca.gov/BallotAnalysis/Proposition?number=39&year=2026"
+    },
+    {
+      "source": "Ballotpedia",
+      "summary": "Provides the measure's path to the ballot: Assemblymember Carl DeMaio, Senator Tony Strickland, and Donald DiCostanzo filed the initiative on July 16, 2025; it received its original circulating title on September 19, 2025; the campaign submitted 1,367,961 signatures on March 2, 2026; and the measure qualified on April 24, 2026 with a projected 1,097,378 valid signatures against a requirement of 874,641. It documents two 2026 lawsuits: Californians for Voter ID v. Weber, in which the measure's own proponents unsuccessfully challenged the Attorney General's rewritten ballot title (ruling for the Secretary of State, August 6, 2026), and Rivas v. Weber, in which Assembly Speaker Robert Rivas and Senate President Pro Tem Monique Limón successfully argued that specific security claims in the proponents' official ballot argument were false and misleading (tentative ruling for plaintiffs, August 6, 2026). Through June 30, 2026, it reports $17.17 million raised by two support committees and about $295,000 by two opposition committees, and it lists named supporters and opponents including elected officials, unions, and advocacy organizations on both sides. Polling it compiled ranged from 56 percent support (UC Berkeley IGS, April 2026, registered voters) to 55 percent opposition (PPIC, September 2026, likely voters), reflecting a tightening and reversing race as the election approached.",
+      "url": "https://ballotpedia.org/California_Proposition_39,_Voter_Identification,_Citizenship_Verification,_and_Registered_Voter_List_Administration_Initiative_(2026)"
+    },
+    {
+      "source": "CalMatters 2026 Voter Guide",
+      "summary": "Describes the measure as requiring voters to show government-issued ID at the polls, requiring election officials to verify all registered voters' citizenship, and requiring mail voters to provide the last four digits of a government ID such as a driver's license number, noting California currently collects an ID number and Social Security number at registration but does not request ID at the polls. It presents supporters' argument that ID requirements will strengthen trust in elections and that most states already require some form of ID, against opponents' argument that ID requirements will make voting harder for people who lack a driver's license or supporting documents, particularly people with disabilities, low-income voters, and people who have recently moved. Its campaign finance tracker, current to September 15, 2026 and sourced from the California Secretary of State, showed about $28.2 million raised by support-side proposition committees and about $3.77 million by opposition-side committees, both figures substantially higher than the June 30, 2026 filings Ballotpedia compiled, reflecting continued fundraising as the election approached.",
+      "url": "https://calmatters.org/california-voter-guide-2026/proposition-39-voter-id/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "California Secretary of State, Official Voter Information Guide, Proposition 39",
+      "url": "https://voterguide.sos.ca.gov/propositions/39/",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Secretary of State, Official Voter Information Guide, Proposition 39 arguments and rebuttals",
+      "url": "https://voterguide.sos.ca.gov/propositions/39/arguments-rebuttals.htm",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Legislative Analyst's Office, Proposition 39 ballot analysis (November 3, 2026)",
+      "url": "https://lao.ca.gov/BallotAnalysis/Proposition?number=39&year=2026",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Attorney General, full initiative text, 25-0007A1 (Voter ID)",
+      "url": "https://oag.ca.gov/system/files/initiatives/pdfs/25-0007A1%20%28%28Voter%20ID%29%29.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Secretary of State, Qualified statewide ballot measures",
+      "url": "https://www.sos.ca.gov/elections/ballot-measures/qualified-ballot-measures",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Ballotpedia, California Proposition 39, Voter Identification, Citizenship Verification, and Registered Voter List Administration Initiative (2026)",
+      "url": "https://ballotpedia.org/California_Proposition_39,_Voter_Identification,_Citizenship_Verification,_and_Registered_Voter_List_Administration_Initiative_(2026)",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "CalMatters voter guide, Proposition 39 voter ID",
+      "url": "https://calmatters.org/california-voter-guide-2026/proposition-39-voter-id/",
+      "retrieved": "2026-09-20"
+    }
+  ],
+  "last_updated": "2026-09-20"
+}
