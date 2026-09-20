@@ -1,0 +1,290 @@
+{
+  "id": "ca-prop-37-2026",
+  "jurisdiction": "state",
+  "election_date": "2026-11-03",
+  "number": "Proposition 37",
+  "title": "Creates Loan Program for Middle-Income Buyers of Qualified New Homes",
+  "status": "on_ballot",
+  "summary": "Proposition 37 lets the California Housing Finance Agency sell up to $25 billion in revenue bonds to fund a new second-mortgage down payment assistance program for middle-income buyers of newly built homes. Eligible buyers, earning up to double their area's median income, could borrow up to 17 percent of the purchase price on top of a 3 percent down payment, with the loans repaid to private bond investors through the buyers' own monthly payments rather than through taxes. The initiative also bundles in a parallel \"qualified builder option\" that swaps standard construction-defect rules for a different regime, and lets the Legislature amend the statute later without another vote of the people.",
+  "what_it_really_means": [
+    "Nothing changes for a homebuyer on the day this passes. Proposition 37 authorizes CalHFA to issue bonds and stand up a program; it does not create the program itself. CalHFA has up to a year after the effective date to establish the \"middle-class homeownership loan,\" decide how much of the $25 billion to actually borrow and over what period, contract with private lenders to run it, and write the underwriting rules. The first buyer to close using this loan is realistically a year or more away.",
+    "The eligibility rules are narrower and more specific than the ballot title suggests. An applicant must have been a California resident for at least one year, must agree to occupy the home as a primary residence within 60 days of closing, must have household income at or below 200 percent of the area median income for a similarly sized household in the county or city where the home sits, and must put down at least 3 percent of the price. The Legislative Analyst's Office and the initiative's own text both note the buyer must be \"the first purchaser of the home,\" not a first-time homebuyer in the ordinary sense. Someone who already owns a house elsewhere, or has owned homes before, still qualifies as long as this particular unit has never been sold. The California Budget and Policy Center's own review of the text found no first-time-homebuyer requirement or equity-sharing obligation with the state anywhere in the measure.",
+    "\"Qualified new home\" is defined narrowly and its price ceiling floats with regional housing costs rather than being a fixed dollar figure. It covers newly constructed single-family homes, townhomes, row houses, condominiums, and manufactured homes, plus a first sale of a nonresidential building converted to residential use. The maximum purchase price is capped at 125 percent of the Federal Housing Finance Agency's conforming loan limit for a one-unit property in that county, which is why the Attorney General's summary lists a range of roughly $1 million to $1.5 million depending on county, adjusted annually. Because that cap and the 200-percent-of-area-median-income eligibility line both move with local prices, \"middle income\" reaches much higher in expensive counties: the California Budget and Policy Center calculates a family of four could earn up to about $375,800 in Santa Clara County and still qualify, versus about $166,800 in Madera County.",
+    "The loan itself is a second mortgage, not a grant, and it is not free money layered on top of a first mortgage without cost. CalHFA must set interest and terms to cover the bonds' interest cost and the program's administrative expenses, while also being required to keep those costs \"as low as possible.\" The measure requires the loans to be fixed-rate, bars lenders from charging prepayment penalties, caps origination fees at the greater of 0.5 percent of the purchase price or $290, and requires lenders to fall back on \"cash flow underwriting\" -- bank statements, pay stubs, verified assets, rental payment history -- for buyers who don't qualify on credit score alone. None of that changes the basic fact the League of Women Voters of California raises in its opposition argument: buyers would owe a second monthly payment, on top of their first mortgage, property taxes, insurance, and repairs, before voters know what interest rate, loan term, or payment size that second loan will actually carry.",
+    "The money is a revenue bond, not a general obligation bond, and that distinction matters for who bears the risk. Revenue bonds are repaid only from a specific income stream -- here, the homeowners' loan payments -- and are not backed by the state's general taxing power. If borrowers default, the loss falls on the private bond investors and the private lenders CalHFA contracts with, not on the General Fund. This is the basis for the \"zero cost to taxpayers\" claim in the official argument in favor, and the Legislative Analyst's Office confirms no direct state or local cost. But the LAO is equally explicit that real uncertainty remains: how much investors are actually willing to pay for $25 billion of these bonds, how the loans' cost compares with existing down payment assistance options, and whether the program increases home construction and homebuying at all rather than just subsidizing sales that would have happened anyway.",
+    "A significant piece of this measure has nothing to do with mortgages: it amends how construction-defect claims work for some new homes. Any developer may build homes eligible for the loan program, but a developer can additionally opt into a \"qualified builder option.\" Opting in requires meeting higher labor standards, including making the builder liable for labor-law violations committed by its own contractors and subcontractors, and gives a joint labor-management cooperation committee -- a union-affiliated body -- the right to sue over misclassification, unemployment insurance, payroll and wage reporting, and employer registration violations. In exchange, homes built under that option are governed by a different \"right to repair\" process: the buyer must first notify the builder of a defect's nature and location, the builder can respond directly before any litigation, and a court can stay a lawsuit and shift attorney's fees onto the homeowner if the required pretrial notice was not sent within 120 days. The Legislative Analyst's Office describes this alternate track as one that \"generally aim[s] to provide more flexibility to developers,\" which is a change to substantive consumer-protection law riding inside a housing-finance bond measure.",
+    "CalHFA, not the Legislature or voters, makes most of the operating decisions. It decides how much of the $25 billion to borrow and when, writes the underwriting criteria (loan limits, minimum credit scores, debt-to-income ratios), sets the interest rate homeowners pay, selects the private lenders who run the program day to day, and determines which homebuyers need the homeowner-education requirement before closing. It also confirms a builder's qualified-option status within 30 days of certification, a letter the builder can then use in its marketing and financing. An annual audit is required to review whether bond proceeds are being used for the initiative's stated purposes, which is oversight after the fact rather than a check on CalHFA's underlying discretion.",
+    "The measure weakens the normal protection against a Legislature revising a citizen initiative. Ordinarily a voter-approved statutory initiative in California can only be amended by the voters themselves unless the initiative text says otherwise. Proposition 37 says otherwise: it lets the Legislature alter the act by a bill passed with 60 percent of each house and signed by the Governor, as long as the amendment \"furthers the purposes\" of the act. That is a considerably lower bar than sending the question back to voters, and it means the specific numbers in this measure -- the 200-percent-of-area-median-income line, the 17-percent loan cap, the $25 billion ceiling -- are not as durable as a typical initiative's terms.",
+    "No source I reviewed describes what happens if buyer demand for these loans exceeds what CalHFA actually issues in bonds in a given year. The LAO lists investor appetite for the bonds as one of the unknowns that will determine the program's real-world scope, but neither the LAO's analysis nor Ballotpedia's summary of the operative text describes a waitlist, lottery, or other rationing rule if applications outpace available funding. That is a gap in the public record on this measure, not a claim I can resolve from what's published.",
+    "The people funding the campaign are the people who stand to gain from its mechanics. Per the FPPC's top-contributor tracking for the November 2026 election, the largest money behind Yes on 37 traces back to Homeownership for Families, sponsored by the California Association of Realtors -- and the measure requires every participating buyer to retain a real estate agent or broker, guaranteeing a commission on each transaction the program finances. Construction unions are the next largest bloc of support, and the measure is explicitly designed to finance only newly built homes, meaning every loan made under it pays for new construction rather than an existing-home purchase."
+  ],
+  "fiscal_impact": {
+    "state_cost": "none directly, per the Legislative Analyst's Office. CalHFA's administrative costs are built into the interest homeowners pay, not paid from the General Fund.",
+    "state_savings": "none identified by the Legislative Analyst's Office.",
+    "local_cost": "none. Cities and counties have no funding obligation under the measure.",
+    "revenue_change": "none. Proposition 37 creates no tax and changes no tax rate. It authorizes CalHFA to borrow and lend, with repayment coming from participating homebuyers rather than any tax source.",
+    "ongoing_vs_one_time": "An ongoing authorization rather than a one-time appropriation. CalHFA may issue up to $25 billion in bonds over whatever period it chooses, and each bond series is repaid over years or decades by the homeowners whose loans it funded.",
+    "narrative": "The headline number, $25 billion, is a ceiling CalHFA is authorized but not required to use, and the LAO's 'no direct state or local cost' finding rests on these being revenue bonds rather than general obligation bonds: the state's taxing power is not pledged, and if borrowers default the loss falls on private bond investors and the lenders CalHFA contracts with, not the General Fund. That is a real structural difference from a measure like a housing general obligation bond, where taxpayers are on the hook for repayment regardless of outcome. What the 'zero cost to taxpayers' framing in the official argument leaves out is not a hidden bill to the state, but genuine uncertainty about whether the program works as advertised. The LAO names three unresolved questions that determine the measure's actual scope: whether investors will buy $25 billion of these bonds at a workable interest rate, how the resulting loan cost compares with buyers' existing down payment assistance alternatives, and whether the program actually increases home construction and homebuying rather than subsidizing purchases that would have happened regardless. None of those questions has a fiscal answer yet, which is why the LAO's own estimate is limited to 'no direct state or local costs' rather than a projection of loans made or homes financed."
+  },
+  "taxes": {
+    "new_taxes": [],
+    "tax_changes": []
+  },
+  "spending": {
+    "new_spending_areas": [
+      "Middle-class homeownership loan program: a second-mortgage down payment assistance loan of up to 17 percent of a qualified new home's purchase price, administered by CalHFA and funded by up to $25 billion in revenue bonds"
+    ],
+    "funding_source": "State revenue bonds issued by CalHFA, in addition to CalHFA's existing bond authority for other housing programs. The bonds are repaid entirely from participating homebuyers' monthly loan payments; no state taxing power is pledged and no General Fund or local revenue is committed."
+  },
+  "control_and_power": "CalHFA holds the operating discretion this measure creates: it decides how much of the $25 billion to borrow and over what period, writes the underwriting criteria (loan limits, minimum credit scores, debt-to-income ratios), sets the interest rate charged to homeowners (required only to cover bond costs and administration while being kept 'as low as possible'), selects and contracts with the private lenders who run the program, determines which buyers need homeowner education before closing, and confirms within 30 days whether a builder qualifies for the 'qualified builder option.' The only after-the-fact check named in the measure is an annual audit reviewing whether bond proceeds are used for the initiative's purposes. Joint labor-management cooperation committees, not a state labor agency, get the private right to sue qualified-option builders over wage and labor-law violations. The Legislature keeps an unusual amendment power for a citizen initiative: it can alter the act by a bill passed with 60 percent of each house and signed by the Governor, without another vote of the people, so long as the change furthers the act's purposes. A competing-measures clause also gives this initiative control over any rival ballot measure authorizing revenue bonds for middle-class housing loans on the same ballot: if Proposition 37 gets more yes votes, it prevails in its entirety and the competing measure does not take effect.",
+  "loopholes": [
+    "The qualified-new-home price cap is set at 125 percent of the FHFA conforming loan limit for the county, a figure that rises automatically with regional home prices rather than staying fixed. In high-cost counties the eligible price reaches roughly $1.5 million and eligible household income reaches roughly double the local median, which the California Budget and Policy Center calculates as up to about $375,800 for a family of four in Santa Clara County, well above what most voters would picture as 'middle income.'",
+    "The buyer eligibility rule is that the borrower be the first purchaser of this specific home, not a first-time homebuyer. Someone who already owns, or has previously owned, other residential property can still qualify for the program as long as they have not previously purchased this particular unit.",
+    "The Legislature can amend the statute with a 60 percent vote in each house and the Governor's signature, without returning to voters, as long as the change furthers the act's purposes. That is a materially lower bar than the voter-approval requirement that ordinarily protects a citizen initiative from legislative revision.",
+    "No source reviewed, including the LAO's analysis and Ballotpedia's summary of the operative text, describes a waitlist, lottery, or other rationing mechanism for when buyer demand exceeds the bonds CalHFA actually issues in a given year. CalHFA controls the pace and size of issuance, but what happens to qualified applicants when a funding round is oversubscribed is not addressed in the public record on this measure.",
+    "The 'qualified builder option' substitutes a different right-to-repair process for standard construction-defect procedures, one the LAO itself describes as generally aiming 'to provide more flexibility to developers.' A homeowner buying a home built under this option faces pretrial notice deadlines, potential litigation stays, and possible attorney's-fee exposure that would not apply to a home built by a developer who stayed outside the option.",
+    "The measure requires every participating buyer to retain a licensed real estate agent or broker, guaranteeing a commission on each transaction the program finances, in a program whose largest funder is the state's realtor trade association."
+  ],
+  "unexpected_provisions": [
+    "Changes construction-defect ('right to repair') law for homes built under the qualified builder option: a notice-and-cure process, potential court stays of litigation, and attorney's-fee shifting against homeowners who miss a 120-day pretrial notice window -- a substantive change to consumer-protection law bundled inside a mortgage-finance measure.",
+    "Grants joint labor-management cooperation committees, rather than a state labor enforcement agency, the right to sue qualified-option builders directly over worker misclassification, unemployment insurance, payroll and wage reporting, and employer registration violations.",
+    "Requires every homebuyer using the program to retain a real estate agent or broker to complete the purchase.",
+    "Caps loan origination fees at the greater of 0.5 percent of the purchase price or $290 and bars any prepayment penalty -- specific consumer-lending terms not implied by the ballot title.",
+    "Requires lenders to fall back on 'cash flow underwriting' using bank statements, pay stubs, verified assets, and rental payment history for buyers who don't qualify on credit score alone.",
+    "Waives the ordinary rule that only voters can amend a statutory initiative; the Legislature may instead amend this act with a 60 percent vote in each house and the Governor's signature.",
+    "Includes a competing-measures clause that voids, in its entirety, any other ballot measure on the same statewide ballot authorizing revenue bonds for middle-class housing loans, if Proposition 37 receives more yes votes.",
+    "The $25 billion in bonds is authorized in addition to CalHFA's existing bond authority for its other housing assistance programs, not as a replacement or consolidation of them."
+  ],
+  "pros": [
+    "The official argument in favor, signed by Danny Curtin of the California Conference of Carpenters, Fiona Ma of CalHFA's board, and David West of the California State Commanders Veterans Council, frames the measure as 'ZERO COST TO TAXPAYERS' because the loans are funded by private bond investors and repaid by borrowers, not by the state.",
+    "California State Controller Malia Cohen is quoted in the official argument: 'Proposition 37 will boost homeownership without burdening taxpayers. As a state revenue bond, downpayment assistance loans are funded by private bond investors and repaid by home borrowers, not taxpayers.'",
+    "Supporters point to the scale of the affordability gap: with the statewide median home price above $930,000, a traditional 20 percent down payment can require saving more than $186,000, putting homeownership out of reach for people who can afford a monthly mortgage payment but not the upfront cash.",
+    "Former Assembly Speaker and Senate Majority Leader Robert Hertzberg, the initiative's sponsor, argues it targets supply rather than demand: 'I wanted to create something that would support the building of, and therefore supply, more middle-class housing... The subsidies raise prices, but they don't add supply.'",
+    "Tamara Suminski, president of the California Association of Realtors, argues the measure 'creat[es] pathways to homeownership for first-time home buyers and middle-class families throughout the state.'",
+    "Pete Rodriguez of the United Brotherhood of Carpenters argues it 'makes home ownership more affordable with low-interest down payment assistance loans and encourages new home construction, creating good-paying jobs and homeownership opportunities for California's working families.'",
+    "Consumer terms written into the measure -- fixed-rate loans, capped origination fees, no prepayment penalties, and a cash-flow underwriting fallback for buyers with limited credit history -- go beyond what a typical down payment assistance program guarantees.",
+    "No argument against Proposition 37 was submitted to the official Voter Information Guide, and Ballotpedia has not identified a registered opposition campaign as of this measure's most recent filing period."
+  ],
+  "cons": [
+    "Reform California argues the measure 'provides taxpayer-funded subsidies to developers without reforming costly mandates that make housing so expensive,' and warns it 'makes the State of California one of the biggest mortgage lenders in America overnight,' with 'taxpayers... left holding the bag for any losses' and campaign contributors positioned to get 'special contracts' under the program.",
+    "The League of Women Voters of California argues 'Prop 37 could help a family buy a home without making it affordable to keep,' since buyers would owe a second monthly payment on top of their first mortgage, property taxes, insurance, and repairs, and 'voters would not know the interest rate, loan term, or monthly payment before approving the program.'",
+    "The California Budget and Policy Center's review found the eligible income bands skew toward families with more financial resources, that Black and Latino families are underrepresented relative to white families within the eligible income ranges, and that the program excludes first-generation homebuyers who face the largest historical barriers to ownership.",
+    "The Budget and Policy Center also warns the restriction to newly built homes could push development onto land less suited for housing, including wildfire-prone or agricultural areas, rather than toward infill, and that new construction often carries added costs -- homeowners association dues, Mello-Roos assessments, higher wildfire-zone insurance -- that can erode the benefit of the down payment assistance.",
+    "The Legislative Analyst's Office is explicit that whether the program increases home construction and homebuying at all, rather than subsidizing transactions that would have occurred anyway, is unknown, as is whether investors will buy $25 billion of these bonds on workable terms.",
+    "The measure's single largest identified funding source is Homeownership for Families, sponsored by the California Association of Realtors, and it mandates that every buyer retain a real estate agent or broker, tying the program's design to the financial interests of one of its biggest backers.",
+    "The 'qualified builder option' swaps standard construction-defect procedures for a process the LAO says gives developers more flexibility, meaning buyers of homes built under that option get a different, and by the LAO's own description more builder-favorable, set of legal remedies than other new-home buyers."
+  ],
+  "who_supports": [
+    {
+      "name": "Robert Hertzberg",
+      "type": "politician",
+      "notes": "Initiative sponsor and proponent; former California Senate Majority Leader and Assembly Speaker."
+    },
+    {
+      "name": "Malia Cohen, California State Controller",
+      "type": "politician",
+      "notes": "Signer of the official ballot argument in favor, quoted on the revenue-bond funding structure."
+    },
+    {
+      "name": "Fiona Ma, California State Treasurer",
+      "type": "politician",
+      "notes": "Signer of the official ballot argument in favor as a CalHFA boardmember; CalHFA is the agency that would administer the program."
+    },
+    {
+      "name": "David West, California State Commanders Veterans Council",
+      "type": "other",
+      "notes": "Signer of the official ballot argument in favor."
+    },
+    {
+      "name": "Xavier Becerra",
+      "type": "politician",
+      "notes": "2026 gubernatorial candidate and former U.S. Secretary of Health and Human Services; publicly supports the initiative."
+    },
+    {
+      "name": "Matt Mahan",
+      "type": "politician",
+      "notes": "2026 gubernatorial candidate and Mayor of San Jose; publicly supports the initiative."
+    },
+    {
+      "name": "Katie Porter",
+      "type": "politician",
+      "notes": "2026 gubernatorial candidate and former U.S. Representative; publicly supports the initiative."
+    },
+    {
+      "name": "Tony Thurmond",
+      "type": "politician",
+      "notes": "2026 gubernatorial candidate and California Superintendent of Public Instruction; publicly supports the initiative."
+    },
+    {
+      "name": "Antonio Villaraigosa",
+      "type": "politician",
+      "notes": "2026 gubernatorial candidate; publicly supports the initiative."
+    },
+    {
+      "name": "Darrell Steinberg",
+      "type": "politician",
+      "notes": "Former Senate President pro Tempore and Sacramento Mayor; publicly backs the measure."
+    },
+    {
+      "name": "Democratic Party of California",
+      "type": "org",
+      "notes": "Party endorsement."
+    },
+    {
+      "name": "California Association of Realtors",
+      "type": "business",
+      "notes": "Trade association whose sponsored committee, Homeownership for Families, is the largest identified funder of the Yes on 37 campaign; the measure requires every participating buyer to retain a real estate agent or broker."
+    },
+    {
+      "name": "California Chamber of Commerce",
+      "type": "business",
+      "notes": "Statewide business association."
+    },
+    {
+      "name": "United Brotherhood of Carpenters and Joiners of America",
+      "type": "org",
+      "notes": "Construction trade union; contributed to the Yes on 37 support committee."
+    },
+    {
+      "name": "Northern California Carpenters Regional Council",
+      "type": "org",
+      "notes": "Construction trade union; contributed to the Yes on 37 support committee."
+    },
+    {
+      "name": "Western States Regional Council of Carpenters",
+      "type": "org",
+      "notes": "Construction trade union; contributed to the Yes on 37 support committee."
+    }
+  ],
+  "who_opposes": [
+    {
+      "name": "League of Women Voters of California",
+      "type": "org",
+      "notes": "Nonpartisan civic organization opposing the measure; argues the second-mortgage structure could make a home harder to keep even if easier to buy, and that voters won't know the loan's interest rate or terms before voting."
+    },
+    {
+      "name": "Reform California",
+      "type": "org",
+      "notes": "Conservative advocacy organization opposing the measure; argues it turns the state into a major mortgage lender and exposes taxpayers to losses, and that it benefits campaign contributors. No registered ballot measure committee against Proposition 37 has been identified by Ballotpedia."
+    }
+  ],
+  "authors": [
+    {
+      "name": "Robert M. Hertzberg",
+      "role": "Initiative proponent; cleared for circulation by the Secretary of State on October 21, 2025; former California Senate Majority Leader and Assembly Speaker"
+    }
+  ],
+  "funding": {
+    "support_committees": [
+      {
+        "name": "Yes on 37, California Homeownership",
+        "total_raised": "$29,550,000 in combined contributions reported to Yes on 37 and its principal funding vehicle, per the FPPC's top-10-contributor tracking for the November 2026 general election, retrieved September 2026. An earlier Ballotpedia compilation of Cal-Access filings covering an earlier reporting period showed $12,700,000 raised by this committee specifically; the larger FPPC figure reflects contributions reported closer to the September 24, 2026 filing deadline.",
+        "top_donors": [
+          { "name": "Homeownership for Families, sponsored by California Association of Realtors", "amount": "$14,850,000" },
+          { "name": "Building a Better California", "amount": "$6,000,000" },
+          { "name": "United Brotherhood of Carpenters & Joiners of America", "amount": "$800,000" },
+          { "name": "Western States Regional Council of Carpenters Issues Committee", "amount": "$450,000" },
+          { "name": "Northern California Carpenters Regional Council Issues PAC", "amount": "$450,000" }
+        ],
+        "source_url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/"
+      },
+      {
+        "name": "Homeownership for Families (sponsored by California Association of Realtors)",
+        "total_raised": "at least $7,000,000 from its two largest reported donors, per the FPPC; this committee is itself the largest contributor to Yes on 37, California Homeownership.",
+        "top_donors": [
+          { "name": "California Association of Realtors Issues Mobilization PAC (IMPAC)", "amount": "$5,000,000" },
+          { "name": "National Association of Realtors", "amount": "$2,000,000" }
+        ],
+        "source_url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/"
+      }
+    ],
+    "oppose_committees": [
+      {
+        "name": "No committee identified",
+        "total_raised": "no ballot measure committee opposing Proposition 37 has been identified by Ballotpedia or reached the FPPC's reporting threshold as of the most recent filing period.",
+        "top_donors": [],
+        "source_url": "https://ballotpedia.org/California_Proposition_37,_Second_Mortgage_Homebuyer_Program_and_Revenue_Bond_Initiative_(2026)"
+      }
+    ]
+  },
+  "nonpartisan_analysis": [
+    {
+      "source": "Legislative Analyst's Office",
+      "summary": "The LAO describes Proposition 37 as authorizing CalHFA to sell up to $25 billion in revenue bonds to create a 'middle-class homeownership loan' covering up to 17 percent of a qualifying home's price, on top of a required 3 percent buyer down payment. It finds no direct state or local cost because homeowner payments, not the General Fund, repay bond investors. Eligibility requires California residency, income no more than double the area's typical level, and the buyer being the first purchaser of a price-capped new home. The LAO flags three real unknowns that will determine the measure's actual scope and impact: how much investors want to buy the bonds, how the program's loan costs compare with other down payment assistance options, and whether the measure increases home construction and homebuying at all. It separately notes the measure allows a 'qualified builder option' under which developers accept higher labor standards in exchange for different construction-defect rules aimed at giving developers more flexibility.",
+      "url": "https://lao.ca.gov/ballot/2026/prop37-110326.pdf"
+    },
+    {
+      "source": "Ballotpedia",
+      "summary": "Details the full operative text: qualified buyers must be one-year California residents earning at or below 200 percent of area median income, occupy the home within 60 days, put down at least 3 percent, and retain a real estate agent or broker; a qualified home is newly built or a first-sale conversion, price-capped at 125 percent of the county's FHFA conforming loan limit. It documents the qualified builder option's trade of higher labor standards and joint labor-management enforcement for an alternate right-to-repair process, an initiative-amendment clause letting the Legislature alter the act by a 60 percent vote in each house plus the Governor's signature, and a competing-measures clause. Robert Hertzberg is identified as the sponsor and proponent, initiative #25-0013, which needed 546,651 valid signatures, reported over 900,000 signatures submitted by March 5, 2026, and was certified for the ballot. Campaign finance tracking through Ballotpedia's most recent processed filing period showed $16.2 million raised in support and no opposition committee identified. A Public Policy Institute of California survey of 1,103 likely voters taken September 4 to 10, 2026, with a margin of error of 3.8 points, found 61 percent yes, 35 percent no, and 3 percent undecided.",
+      "url": "https://ballotpedia.org/California_Proposition_37,_Second_Mortgage_Homebuyer_Program_and_Revenue_Bond_Initiative_(2026)"
+    },
+    {
+      "source": "California Budget and Policy Center",
+      "summary": "Questions whether Proposition 37 delivers the affordability it promises. It finds no first-time-homebuyer requirement or equity-sharing obligation in the text, and that eligible income thresholds vary enormously by county -- up to roughly $375,800 for a family of four in Santa Clara County. It warns the second-mortgage structure requires ongoing monthly repayment that 'could erode much of the benefit the downpayment assistance was meant to provide,' that eligible income bands are demographically skewed relative to California's population, that the new-construction requirement could push development onto land less suited for housing, and that new-construction costs like HOA dues and Mello-Roos assessments are not accounted for in the program's design. It concludes benefits are likely to accrue most to buyers who were already relatively well positioned to afford homeownership.",
+      "url": "https://calbudgetcenter.org/resources/will-proposition-37-make-homeownership-more-affordable-its-not-guaranteed/"
+    },
+    {
+      "source": "CalMatters 2026 Voter Guide",
+      "summary": "Summarizes the measure as authorizing CalHFA to borrow up to $25 billion for low-cost mortgages covering up to 17 percent of a newly constructed home's price, with private lenders rather than taxpayers bearing default risk. It presents supporters' framing that the program makes homeownership newly reachable without burdening taxpayers, against opponents' arguments that state involvement in mortgage lending is inappropriate, that the measure does not address the root causes of California's housing costs, and that it risks encouraging deeper personal debt rather than resolving affordability.",
+      "url": "https://calmatters.org/california-voter-guide-2026/proposition-37-homebuyers-loan/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Legislative Analyst's Office, Analysis of Proposition 37 (November 3, 2026 Ballot)",
+      "url": "https://lao.ca.gov/ballot/2026/prop37-110326.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Legislative Analyst's Office, Proposition 37 ballot analysis page",
+      "url": "https://lao.ca.gov/BallotAnalysis/Proposition?number=37&year=2026",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Secretary of State, Official Voter Information Guide, Proposition 37",
+      "url": "https://voterguide.sos.ca.gov/propositions/37/",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Secretary of State, Official Voter Information Guide, Proposition 37 arguments and rebuttals",
+      "url": "https://voterguide.sos.ca.gov/propositions/37/arguments-rebuttals.htm",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Official Voter Information Guide, Proposition 37 title, summary, Legislative Analyst's analysis, and arguments (PDF)",
+      "url": "https://vig.cdn.sos.ca.gov/2026/general/pdf/prop37.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Secretary of State, Qualified statewide ballot measures",
+      "url": "https://www.sos.ca.gov/elections/ballot-measures/qualified-ballot-measures",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Secretary of State, Proposed Initiative Enters Circulation, Creates Loan Program for Middle-Income Buyers of Qualified New Homes",
+      "url": "https://www.sos.ca.gov/administration/news-releases-and-advisories/2025-news-releases-and-advisories/proposed-initiative-enters-circulation-creates-loan-program-middle-income-buyers-qualified-new-homes-initiative-statute",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Ballotpedia, California Proposition 37, Second Mortgage Homebuyer Program and Revenue Bond Initiative (2026)",
+      "url": "https://ballotpedia.org/California_Proposition_37,_Second_Mortgage_Homebuyer_Program_and_Revenue_Bond_Initiative_(2026)",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Budget and Policy Center, Will Proposition 37 Make Homeownership More Affordable? It's Not Guaranteed",
+      "url": "https://calbudgetcenter.org/resources/will-proposition-37-make-homeownership-more-affordable-its-not-guaranteed/",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "CalMatters voter guide, Proposition 37 homebuyers loan",
+      "url": "https://calmatters.org/california-voter-guide-2026/proposition-37-homebuyers-loan/",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "FPPC, Top 10 Contributors List, November 2026 General Election",
+      "url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/",
+      "retrieved": "2026-09-20"
+    }
+  ],
+  "last_updated": "2026-09-20"
+}
