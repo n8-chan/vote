@@ -1,0 +1,284 @@
+{
+  "id": "ca-prop-38-2026",
+  "jurisdiction": "state",
+  "election_date": "2026-11-03",
+  "number": "Proposition 38",
+  "title": "Authorizes Bonds for Immunology Medical Research",
+  "status": "on_ballot",
+  "summary": "Proposition 38 lets California borrow $8.4 billion by selling general obligation bonds for immunology and immunotherapy research. Half the money, at least $2.1 billion of it earmarked for cancer, heart disease, and Alzheimer's research, goes automatically to a single nonprofit research institute the state has not yet named but that must meet criteria matching only one known California institution. The other half funds competitive grants to universities and nonprofits through a new council dominated by University of California campuses, and the state recoups 10 percent of any resulting licensing revenue until the bonds are repaid.",
+  "what_it_really_means": [
+    "Nothing about immunology research changes on the day this passes. Like every general obligation bond, Proposition 38 is permission to borrow, not a program. The California Immunology and Immunotherapy Finance Committee, made up of the Treasurer, the Controller, and the Director of Finance, decides when and how much to actually sell, the money lands in the new California Immunology and Immunotherapy Medical Research Fund, and the California Department of Public Health hands it out from there. The statute the initiative adds is modeled closely on Proposition 71 in 2004 and Proposition 14 in 2020, which together authorized $8.5 billion in bonds for the California Institute for Regenerative Medicine, the state's stem cell research agency. Proposition 38 repeats that structure almost section for section: an independent nonprofit research body, a scientific council instead of a state department making funding calls, and a fund that recycles licensing income back to the state.",
+    "Half the money is not up for competition. Health and Safety Code Section 130352, which the initiative adds, requires the Department of Public Health to give 50 percent of the bond proceeds, after administrative costs, to a single nonprofit medical research institute the department selects under criteria in Section 130353. Those criteria are unusually specific for a statute written before the recipient is named: the institute must have existed as a 501(c)(3) before January 1, 2025, must be affiliated with a University of California campus whose public healthcare system logs more than 35,000 inpatient admissions and 3.5 million outpatient visits a year, must occupy at least 200,000 square feet of research space by January 1, 2026, must have already raised at least $250 million in philanthropic commitments, and must have secured two separate $50 million commitments, one for a 'rapid vaccine development program' and one for a 'microbiome research program.' A CalMatters investigation found that, per UC's own 2025 medical center enrollment data, only UCLA's health system clears the patient-volume threshold, and that a UCLA spokesperson confirmed only one UCLA-affiliated nonprofit meets every criterion: the California Institute for Immunology and Immunotherapy. Its co-founder and board chair, Gary K. Michelson, personally filed this initiative with the Attorney General.",
+    "The institute's own numbers line up with the statute's numbers. The California Institute for Immunology and Immunotherapy was created as a nonprofit in 2022, is housed on UCLA-owned research park land, and has received at least $120 million from Michelson since then, including two donations of $50 million each earmarked for a rapid vaccine program and a microbiome program run with the UCLA Goodman-Luskin Microbiome Center, which Meyer Luskin, the measure's second-largest donor, helped establish. The institute reports $250 million in philanthropic commitments, matching the statute's threshold exactly, and plans a facility between 360,000 and 500,000 square feet, comfortably above the 200,000-square-foot floor. Four senior UCLA officials, including Chancellor Julio Frenk, sit on the institute's board, satisfying the statute's requirement that the institute's board include senior UC representatives. The Yes on 38 campaign disputes that the language targets any specific institute and says the criteria exist to ensure whoever is chosen is scientifically credible and operationally ready.",
+    "If no institute fits, the rules bend rather than the money going unspent. Section 130353(b)(2) says that if the Department of Public Health cannot find a nonprofit that both meets the criteria and is willing to sign a funding agreement, the department must modify the criteria, by the minimum amount necessary, until an eligible institute can be identified. The statute gives the department 90 days from the measure's effective date to select and sign with an institute, and only 90 more days after any criteria change. There is no public rulemaking process or additional voter approval attached to that modification power; the agency is instructed to keep adjusting the rules until a recipient qualifies for money the ballot itself never names anyone to receive.",
+    "The other half of the money is not a fully open competition either. The remaining bond proceeds fund grants awarded by a new Advisory and Accountability Research Council, but every grant agreement the council approves must, under Section 130357, require the recipient to offer the selected institute 'the opportunity to substantially participate in and collaborate on' the funded research, and to offer UCLA specifically that same opportunity for any clinical trials. Section 130356 additionally requires the council to 'confer with the institute' before making final funding decisions on any competing grant proposal. The single entity receiving $4.2 billion in guaranteed funding also has a formal advisory role over how the other $4.2 billion is awarded, and a right to insert itself into the research its competitors win funding to do.",
+    "The council that runs the competitive half is itself a UC-heavy body with permanent seats for one campus. Seven of the ten UC campuses, Berkeley, Davis, Irvine, Los Angeles, Riverside, San Diego, and San Francisco, each get a chancellor-appointed seat on a seven-member executive committee; Merced, Santa Barbara, and Santa Cruz get none. That executive committee then appoints 10 to 15 more members from nonprofit universities and research institutions, all of whom must be physicians, scientists, or researchers. Section 130355(d)(2) further specifies that the UCLA-appointed representative serves as the council's first chairperson by statute, not by vote of the body. Grants can only go to organizations that already have a seat on the council, so a qualifying institution must first win one of roughly 17 council seats before it can apply for a grant funded by the body it sits on.",
+    "The institute the state funds is deliberately placed outside the rules that normally come with public money. Section 130363(a) declares that 'notwithstanding any other provision of law, the institute shall not be deemed a public agency for any purpose under state law,' and specifically exempts it from the California Public Records Act, the Bagley-Keene open meeting law, and the Political Reform Act's conflict-of-interest rules that otherwise bind state-funded bodies. The council is not exempt from the Political Reform Act, but the statute writes in its own carve-outs: a council member cannot vote to fund their own employer, but may vote to fund a different organization 'in the same field as' their employer, and may vote on research into a disease they or a family member has. Government Code Section 1090, the state's self-dealing law, applies to the council only if a grant directly benefits a sitting member's own organization and that member fails to recuse.",
+    "Money moves to the institute before a single bond is sold. Section 130353(e) appropriates $100 million directly from the General Fund, independent of the bond authorization, as a start-up loan to the institute for its initial research program, to be repaid within 12 months out of the eventual bond proceeds. That is $100 million of General Fund cash committed on the measure's effective date, well before the Finance Committee has issued any bonds or the Department of Public Health has completed its statutory review of whether the selected institute is complying with its agreement.",
+    "The revenue-sharing and price-discount provisions are real but narrower than the campaign's framing suggests. Ten percent of any licensing, royalty, or commercialization revenue the institute or a grantee earns from funded research goes first to the General Fund until it covers the full cost of the bonds including interest, after which the same 10 percent flows into the research fund for future grants rather than to taxpayers. The Legislative Analyst's Office is explicit that this revenue is speculative: whether any research produces a marketable, patentable therapy, and how much it would earn, is unknown and could take decades to materialize, so 'some or all' of the bond cost being offset is a possibility built into the fiscal estimate, not a guarantee built into the statute. The mandated 20 percent discount for California patients only applies once a treatment is commercially sold, phased in using a national-average benchmark calculated after the first year of sales, and the statute allows the required minimum royalty a funding recipient must charge licensees to be waived down to 5 percent, from the default 10 percent, whenever the department decides a lower rate 'would further the purposes of this chapter.'",
+    "The Legislature's ability to fix any of this later is unusually narrow. Section 7 lets a two-thirds vote of both houses, with the Governor's signature, amend the act, but only if the amendment 'furthers the purposes of this act,' and it flatly bars the Legislature from ever amending 'the allocation and disbursement of bond proceeds or the purposes for which bond proceeds may be expended.' The 50-50 split between the named institute and the competitive grant pool, and the $4.2 billion earmark for cancer, heart disease, and Alzheimer's research, are therefore locked in not just against a simple-majority Legislature but against a two-thirds supermajority as well, for as long as the bond program exists."
+  ],
+  "fiscal_impact": {
+    "state_cost": "$500 million to $600 million per year for about 20 years to repay the $8.4 billion bond, per the Legislative Analyst's Office, offset in an uncertain amount and on an uncertain timeline if funded research generates licensing revenue.",
+    "state_savings": "none identified by the Legislative Analyst's Office, though it notes an indirect and uncertain effect: if funded research produces new treatments, average costs for state health programs such as Medi-Cal could rise or fall depending on the treatment.",
+    "local_cost": "none mandated. Cities, counties, and local health systems have no funding obligation under the measure.",
+    "revenue_change": "none from taxes; the measure creates no tax. It creates a contingent, uncertain revenue stream: 10 percent of any licensing or commercialization revenue from funded research, first applied to bond repayment and thereafter recycled into future research grants rather than returned to the General Fund as general-purpose revenue.",
+    "ongoing_vs_one_time": "One-time authorization to borrow up to $8.4 billion, issued in installments as the Finance Committee determines is necessary, creating ongoing annual debt service of roughly $500 million to $600 million for about 20 years. A separate $100 million General Fund appropriation to the selected institute takes effect immediately as a bridge loan, to be repaid from bond proceeds within 12 months.",
+    "narrative": "The Legislative Analyst's Office puts the bond's total cost at about 10 percent more than if the state paid cash up front, after adjusting for inflation, which is a smaller markup than the roughly 15 percent the LAO calculated for the housing bond (Proposition 1) on the same ballot, reflecting a shorter roughly 20-year repayment period rather than 25 or 30. An earlier preliminary fiscal estimate the LAO prepared in 2025, before the measure's final language was set, projected 25 years of repayment and a total cost above $12 billion; CalMatters cited that estimate in its reporting, and it differs from the office's final analysis for the printed ballot, which settled on about 20 years and $500 million to $600 million annually. What ties the headline debt-service figure to the campaign's self-funding claim is timing and certainty: the 10 percent revenue clawback is real and written into the statute, but the LAO stresses that how much revenue funded research generates, whether any of it reaches a marketable therapy at all, and how long that could take are all unknown, and could take decades to resolve. In the meantime, the $500 million to $600 million in annual debt service is not contingent on anything; it is paid automatically from the General Fund every year regardless of whether the institute's research ever generates a dollar back. The measure sets no cap on how administrative costs interact with the separate cost of issuing the bonds themselves, which State General Obligation Bond Law costs are excluded from the 2 percent administrative cap and paid from bond proceeds in addition to it."
+  },
+  "taxes": {
+    "new_taxes": [],
+    "tax_changes": []
+  },
+  "spending": {
+    "new_spending_areas": [
+      "A single, not-yet-named nonprofit research institute selected by the Department of Public Health: 50 percent of net bond proceeds, with at least $2.1 billion of that half required to go to cancer, heart disease, and Alzheimer's research specifically",
+      "Competitive research grants to public and nonprofit universities and research institutions represented on the Advisory and Accountability Research Council: the remaining 50 percent of net bond proceeds, with at least $2.1 billion of that half also required to go to cancer, heart disease, and Alzheimer's research",
+      "A $100 million General Fund start-up loan to the selected institute, appropriated immediately and independent of bond sales, repayable from bond proceeds within 12 months",
+      "State administrative costs for the Department of Public Health, the research council, the Citizens' Financial Accountability Oversight Committee, and the Controller: capped at 2 percent of disbursed funds, not counting bond-issuance costs paid separately under state bond law"
+    ],
+    "funding_source": "State general obligation bonds totaling $8.4 billion, repaid from the General Fund through a continuous appropriation under Health and Safety Code Section 130379. A portion of the cost may eventually be offset by a required 10 percent share of licensing and commercialization revenue from funded research, first applied to bond repayment and then recycled into future grants."
+  },
+  "control_and_power": "Two bodies split control, and neither is the Legislature. The Department of Public Health selects the single research institute that receives half the money, reviews its compliance every five years, and can terminate its funding agreement for substantial noncompliance, but the department's selection criteria can be legally loosened under Section 130353(b)(2) if no institute qualifies as written, and the department must still find and sign a recipient within a fixed 90-day window. The institute itself, once selected, is explicitly declared not a public agency under Section 130363(a) and is exempt from the Public Records Act, the Bagley-Keene open meeting law, and the conflict-of-interest provisions of the Political Reform Act that would otherwise apply to a body distributing over $4 billion in state money. The Advisory and Accountability Research Council, seated by seven UC chancellors plus 10 to 15 additional appointees, controls the competitive half of the funds, sets its own selection criteria and research priorities, and is legally required to confer with the funded institute before finalizing any competing grant award; its first chairperson is fixed by statute as the UCLA-appointed member. A separate California Immunology and Immunotherapy Finance Committee, composed of the Treasurer, Controller, and Director of Finance, decides only when and how much bond debt to issue, not how the money is spent. Oversight runs through the Controller, who reviews annual independent audits of the institute and of the council plus a random 10 percent sample of individual grantees, and through a six-member Citizens' Financial Accountability Oversight Committee that can recommend but not veto or reverse funding decisions. The Legislature's only lever is a two-thirds vote with the Governor's signature to amend the act, and Section 7 bars even that supermajority from ever changing the 50-50 fund split or the purposes bond proceeds may be spent on.",
+  "loopholes": [
+    "Section 130353(b)(2) lets the Department of Public Health modify its own eligibility criteria for the recipient institute, without additional voter approval or formal rulemaking beyond the department's own action, if no nonprofit meets the criteria as written and agrees to a funding agreement. The rules can be adjusted until a qualifying recipient is found for money the ballot measure never names anyone to receive.",
+    "Section 130356(e)(2) requires the grant council to 'confer with' the selected institute before finalizing funding decisions on competing grant proposals, and Section 130357(d)-(e) requires every grant recipient to offer the institute, and UCLA specifically for clinical trials, 'the opportunity to substantially participate in and collaborate on' the funded research. The entity receiving a guaranteed $4.2 billion has a formal role in deciding how the other $4.2 billion is spent.",
+    "Section 130363(a) exempts the recipient institute from being treated as a public agency for any purpose, including the Public Records Act, the open-meeting law, and the Political Reform Act's conflict-of-interest rules, despite it receiving and directing over $4 billion in state bond money.",
+    "The Political Reform Act carve-outs written into Section 130363(b) let a council member vote to fund an organization 'in the same field as' their own employer, and vote on research into a disease affecting themselves or a family member; Government Code Section 1090 applies to council grants only if the grant directly benefits the member's own organization and the member fails to recuse.",
+    "Section 130358(f)(1)(B) lets the required 10 percent minimum royalty rate on licensed intellectual property be reduced to as low as 5 percent, at the department's discretion in consultation with the institute, whenever a lower rate is found to 'further the purposes of this chapter,' with no published standard for that determination.",
+    "The Controller's independent audit requirement for grant recipients under Section 130361(b) covers the council itself and only a random 10 percent sample of individual grantees each year, so most grant recipients' individual spending is never independently audited in a given cycle.",
+    "The 2 percent cap on state administrative costs under Section 130354(a)(3) excludes bond-issuance costs, which State General Obligation Bond Law authorizes to be paid separately from bond proceeds and are not counted against that 2 percent.",
+    "Section 7 bars the Legislature, even acting with a two-thirds supermajority and the Governor's signature, from ever amending the allocation of bond proceeds between the institute and the grant council or the purposes for which proceeds may be spent, locking in the current split more durably than an ordinary statute."
+  ],
+  "unexpected_provisions": [
+    "Section 130353(e) appropriates $100 million directly from the General Fund as an immediate start-up loan to the selected institute, separate from and before any bond is sold, to be repaid from bond proceeds within 12 months.",
+    "Section 130357(g) caps indirect research costs, such as facilities and administrative overhead, at 20 percent of a grant, but allows that limit to rise by the amount of any matching funds a grantee contributes above 20 percent of the grant.",
+    "Section 130358(g) requires any employee, scientist, researcher, or contractor funded under the act who wants to publish or present results to submit the material to the funding institution at least 30 days before publication, and gives the institution the right to propose modifications or request a delay to protect patentable information.",
+    "Section 130353(c) allows the state to terminate the funding agreement with the selected institute for substantial noncompliance, but only after a five-year review cycle, notice, and a 'reasonable opportunity to remedy,' meaning noncompliance could persist for years before any consequence attaches.",
+    "Section 130385 declares that bond proceeds are not 'proceeds of taxes' under Article XIII B of the state Constitution, exempting their disbursement from the state's constitutional appropriations limit, the same treatment given to every other state general obligation bond.",
+    "The statute's 'Findings and Declarations' describe the funded institute as intended to become 'self-sustaining' and eventually 'require no public funding,' a stated goal about the recipient's future finances that is aspirational language rather than a binding requirement anywhere else in the operative text.",
+    "Grant agreements under Section 130357(e) require recipients to offer UCLA specifically, not just the funded institute, the opportunity to substantially participate in any clinical trials conducted with grant money, extending a named campus's role into research funded through the competitive track."
+  ],
+  "pros": [
+    "The YES on 38 campaign argues immunotherapies are already treating cancers and chronic conditions and that the measure invests in proven science to move cures 'from the lab to patients faster,' citing ongoing federal research funding cuts as a reason state investment is needed now.",
+    "The official argument in favor states the measure dedicates at least half its research funding to cancer, heart disease, and Alzheimer's disease, three of the leading causes of death and disability, and is designed to be self-funding over time through a mandatory 10 percent revenue-sharing requirement on any resulting licenses or royalties.",
+    "Supporters point to accountability measures written into the statute: a 2 percent cap on state administrative spending, mandatory annual public reports and independent financial audits of both the institute and the grant council, and a Citizens' Financial Accountability Oversight Committee with appointees from the State Auditor, Treasurer, Senate, and Assembly.",
+    "The mandatory 20 percent discount requirement means any treatment developed with the funding must be sold to California patients, hospitals, and insurers below the national average price, which supporters say ensures Californians benefit directly from research their bond dollars financed.",
+    "Rebuttal signers, including a cancer survivor and representatives of the Michael J. Fox Foundation and the American Nurses Association/California, argue breakthrough immunotherapies are already curing cancers that were untreatable a decade ago and that the self-funding and accountability mechanisms are 'locked into this measure,' not aspirational.",
+    "The measure requires grant recipients to purchase more than half their goods and services from California suppliers when reasonably possible, which supporters frame as an added economic benefit to the state alongside the research itself."
+  ],
+  "cons": [
+    "Opponent Robert M. Kaplan, a former associate director at the National Institutes of Health, argues in the official ballot argument against that the self-funding claim is speculative, that committing $500 million or more annually for roughly two decades of debt service strains the budget regardless of whether any research pays off, and that research priorities should be set through scientific review and public health planning rather than a ballot campaign.",
+    "The Howard Jarvis Taxpayers Association's voter guide states that a CalMatters analysis found the ballot language's eligibility criteria were tailored in a way that 'very likely excludes all but one institute in the entire state,' the California Institute for Immunology and Immunotherapy, whose co-founder is the measure's chief financial backer, calling it 'a clear case of self-dealing at the expense of taxpayers.'",
+    "The League of Women Voters of California argues bonds are the wrong financing tool for ongoing research, since the $500 million to $600 million in annual debt payments comes from the same General Fund that pays for schools, health care, and other public services, for about 20 years regardless of results.",
+    "Kaplan and the Orange County Register editorial board both argue that discoveries in basic and applied research take decades to reach patients and that universities and nonprofit research institutes rarely commercialize therapies on their own, making the bond's self-funding premise uncertain at best.",
+    "Kaplan's argument raises a design concern about the required 20 percent California price discount: it could give companies commercializing state-funded discoveries an incentive to prioritize launching and pricing in other states or countries first, before the discount requirement applies.",
+    "Political scientist Sarah Hill of Cal State Fullerton, cited in CalMatters' reporting, says the measure's numeric criteria are 'oddly specific' and that splitting the bond so half goes to open competition may be intended to draw voter attention away from the fact that the other half, over $4 billion, is effectively designated for one nonprofit before the measure even passes.",
+    "Kaplan proposes an alternative approach, a state-funded research agency modeled on the National Institutes of Health that would distribute funding through open competitive review rather than pre-set criteria that point to a single recipient."
+  ],
+  "who_supports": [
+    {
+      "name": "Gary K. Michelson",
+      "type": "other",
+      "notes": "Filed the initiative with the Attorney General on October 28, 2025. Billionaire co-founder and board chair of the California Institute for Immunology and Immunotherapy, the UCLA-affiliated nonprofit that a CalMatters analysis found is the only entity in the state matching the ballot language's criteria for the designated research institute. He and his affiliated Michelson Center for Public Policy are the campaign's largest funders."
+    },
+    {
+      "name": "Meyer Luskin",
+      "type": "business",
+      "notes": "CEO of Scope Industries and a co-founder of the California Institute for Immunology and Immunotherapy; the campaign's second-largest individual donor."
+    },
+    {
+      "name": "Democratic Party of California",
+      "type": "org",
+      "notes": "Party endorsement, per Ballotpedia."
+    },
+    {
+      "name": "ALS Association",
+      "type": "org",
+      "notes": "Listed supporter; a board trustee signed the official ballot argument in favor."
+    },
+    {
+      "name": "Alzheimer's Association",
+      "type": "org",
+      "notes": "Listed supporter; Alzheimer's Los Angeles board chair signed the official argument in favor."
+    },
+    {
+      "name": "American Association of Immunologists",
+      "type": "org",
+      "notes": "Professional scientific society listed as a supporter."
+    },
+    {
+      "name": "American Nurses Association of California",
+      "type": "org",
+      "notes": "Its president signed the rebuttal to the argument in favor."
+    },
+    {
+      "name": "California Black Health Network",
+      "type": "org",
+      "notes": "Listed supporter."
+    },
+    {
+      "name": "Michelson Center for Public Policy",
+      "type": "org",
+      "notes": "Gary Michelson's affiliated public policy organization; a major campaign funder alongside its 501(c)(4) counterpart, Michelson Center for Public Policy, Inc. - Yes on 38."
+    },
+    {
+      "name": "Kidney Cancer Association",
+      "type": "org",
+      "notes": "A board member signed the official argument in favor."
+    },
+    {
+      "name": "Michael J. Fox Foundation for Parkinson's Research",
+      "type": "org",
+      "notes": "A board member signed the rebuttal to the argument in favor."
+    },
+    {
+      "name": "City of Hope",
+      "type": "org",
+      "notes": "Cancer research and treatment institution listed as a supporting endorsement in CalMatters' voter guide."
+    },
+    {
+      "name": "Parkinson Association of Northern California",
+      "type": "org",
+      "notes": "Listed supporter."
+    },
+    {
+      "name": "Reform California",
+      "type": "org",
+      "notes": "Listed supporter, per Ballotpedia."
+    }
+  ],
+  "who_opposes": [
+    {
+      "name": "Robert M. Kaplan, Ph.D.",
+      "type": "other",
+      "notes": "Senior scholar at Stanford University School of Medicine's Clinical Excellence Research Center and former associate director of the National Institutes of Health. Signed the official ballot argument against and the rebuttal to the argument in favor; the only listed proponent of the No campaign."
+    },
+    {
+      "name": "Howard Jarvis Taxpayers Association",
+      "type": "org",
+      "notes": "Opposes in its published voter guide, citing the CalMatters analysis that the eligibility criteria appear to exclude every institute but one and calling it a case of self-dealing."
+    },
+    {
+      "name": "League of Women Voters of California",
+      "type": "org",
+      "notes": "Nonpartisan civic organization opposing the measure, citing the ongoing General Fund debt-service burden relative to other funding options."
+    },
+    {
+      "name": "Orange County Register Editorial Board",
+      "type": "org",
+      "notes": "Editorialized against the measure, arguing the debt service could instead fund homelessness, public safety, or tax relief, or fund the same research without interest costs if truly warranted."
+    }
+  ],
+  "authors": [
+    {
+      "name": "Gary K. Michelson",
+      "role": "Initiative proponent, filed with the Attorney General on October 28, 2025; co-founder and board chair, California Institute for Immunology and Immunotherapy"
+    }
+  ],
+  "funding": {
+    "support_committees": [
+      {
+        "name": "Yes on 38: Californians for Life-Saving Immunology Research and Cures, sponsored by the Michelson Center for Public Policy",
+        "total_raised": "$13,200,000 in contributions through June 30, 2026 per Ballotpedia's processed filings. FPPC's live top-contributor list, reflecting later reporting, shows this committee's largest contributor as a related sponsoring entity, Michelson Center for Public Policy, Inc. - Yes on 38, at $13,000,000, in addition to direct contributions already reported by Ballotpedia; the two sources describe overlapping but not identical totals because they reflect different filing periods.",
+        "top_donors": [
+          { "name": "Michelson Center for Public Policy, Inc. - Yes on 38 (sponsoring 501(c)(4) committee)", "amount": "$13,000,000" },
+          { "name": "Gary K. Michelson and Affiliated Entity Michelson Center for Public Policy", "amount": "$8,200,000" },
+          { "name": "Meyer Luskin", "amount": "$5,000,000" }
+        ],
+        "source_url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/"
+      },
+      {
+        "name": "Michelson Center for Public Policy, Inc. - Yes on 38 (nonprofit 501(c)(4))",
+        "total_raised": "$10,000,000, entirely from Gary K. Michelson, per FPPC's top-contributor list. This committee is a sponsoring entity that in turn contributed $13,000,000 to the main Yes on 38 ballot measure committee.",
+        "top_donors": [
+          { "name": "Gary K. Michelson", "amount": "$10,000,000" }
+        ],
+        "source_url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/"
+      }
+    ],
+    "oppose_committees": [
+      {
+        "name": "No on Proposition 38",
+        "total_raised": "Not yet reported at a level meeting FPPC's $1,000,000 reporting threshold for its top-contributor list as of the November 2026 election filings; Ballotpedia identifies this committee as leading the opposition campaign but reports no contribution total.",
+        "top_donors": [],
+        "source_url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/"
+      }
+    ]
+  },
+  "nonpartisan_analysis": [
+    {
+      "source": "Legislative Analyst's Office",
+      "summary": "The LAO's final analysis puts the General Fund cost of the $8.4 billion bond at $500 million to $600 million annually for about 20 years, about one-quarter of one percent of the General Fund budget, with total cost about 10 percent more than paying cash up front after adjusting for inflation. It describes the measure's structure plainly: half the bond funds go to a single research institute selected by the Department of Public Health against specified criteria, and half go to competitive grants awarded by a council of University of California and other institution representatives. It notes the state could recoup some costs if funded research generates marketable treatments, but that the amount, timing, and likelihood of that revenue are all uncertain and could take decades to materialize, and that indirect effects on state health program costs, such as Medi-Cal, could cut either way depending on what treatments result.",
+      "url": "https://lao.ca.gov/ballot/2026/prop38-110326.pdf"
+    },
+    {
+      "source": "Ballotpedia",
+      "summary": "Provides the measure's path to the ballot and neutral background. Gary K. Michelson filed the initiative on October 28, 2025; it was cleared for circulation January 2, 2026, and the Secretary of State reported it qualified on June 23, 2026, after the campaign submitted 912,308 signatures of which about 619,635 were valid or projected valid, against a requirement of 546,651. Ballotpedia traces the bond design to the two prior stem cell research bonds, Proposition 71 in 2004 and Proposition 14 in 2020, which together authorized $8.5 billion for the California Institute for Regenerative Medicine. Through June 30, 2026 the support committee reported $13.2 million raised and $12.06 million spent; no opposition committee had reported contributions as of that filing period. A Public Policy Institute of California survey of 1,103 likely voters taken September 4 to 10, 2026, with a margin of error of 3.8 points, found 55 percent yes, 42 percent no, and 3 percent undecided.",
+      "url": "https://ballotpedia.org/California_Proposition_38,_Immunology_and_Immunotherapy_Research_Funding_Initiative_(2026)"
+    },
+    {
+      "source": "CalMatters investigative reporting",
+      "summary": "A CalMatters analysis of the initiative's statutory eligibility criteria for the designated research institute, cross-checked against University of California enrollment data, UCLA press releases, and the institute's own donation disclosures, found the criteria closely track the California Institute for Immunology and Immunotherapy on every measurable point: UCLA is the only UC medical system exceeding the 3.5-million-outpatient-visit threshold; the institute reports the exact $250 million in philanthropic commitments the statute requires; its planned facility exceeds the 200,000-square-foot minimum; and Michelson's own $50 million donations to a vaccine program and a microbiome program match the statute's two named funding requirements almost verbatim. A UCLA spokesperson confirmed no other UCLA-affiliated nonprofit meets the criteria. The Yes on 38 campaign's spokesperson told CalMatters the criteria were not written for a specific institute but to ensure a qualified, well-resourced recipient.",
+      "url": "https://calmatters.org/politics/elections/2026/07/proposition-38-california/"
+    },
+    {
+      "source": "CalMatters 2026 Voter Guide",
+      "summary": "Describes Proposition 38 as an $8.4 billion research bond split evenly between a UC-affiliated nonprofit institute and competitive grants, with a mandatory 20 percent price discount for California patients and a 10 percent revenue-share requirement to help offset the bond's cost. It presents both campaign cases without resolving them: supporters framing the measure as a response to federal research funding instability and a source of accelerated cures, and opponents questioning why half the funding is effectively pre-committed to one institution and whether state-funded basic research can realistically be expected to produce marketable, revenue-generating treatments.",
+      "url": "https://calmatters.org/california-voter-guide-2026/proposition-38-research-bond/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "California Secretary of State, Official Voter Information Guide, Proposition 38",
+      "url": "https://voterguide.sos.ca.gov/propositions/38/",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Secretary of State, Official Voter Information Guide, Proposition 38 arguments and rebuttals",
+      "url": "https://voterguide.sos.ca.gov/propositions/38/arguments-rebuttals.htm",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Legislative Analyst's Office, Analysis of Proposition 38 (November 3, 2026 Ballot)",
+      "url": "https://lao.ca.gov/ballot/2026/prop38-110326.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Legislative Analyst's Office, Proposition 38 ballot analysis page",
+      "url": "https://lao.ca.gov/BallotAnalysis/Proposition?number=38&year=2026",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Attorney General, Initiative 25-0026 (Amendment 1), full text of the California Immunology Research and Cures Initiative",
+      "url": "https://oag.ca.gov/system/files/initiatives/pdfs/25-0026A1%20%28Immunology%29.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Secretary of State, Qualified statewide ballot measures",
+      "url": "https://www.sos.ca.gov/elections/ballot-measures/qualified-ballot-measures",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Ballotpedia, California Proposition 38, Immunology and Immunotherapy Research Funding Initiative (2026)",
+      "url": "https://ballotpedia.org/California_Proposition_38,_Immunology_and_Immunotherapy_Research_Funding_Initiative_(2026)",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "CalMatters, 'This CA proposition will send $4 billion to a single nonprofit. Who's behind it?'",
+      "url": "https://calmatters.org/politics/elections/2026/07/proposition-38-california/",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "CalMatters voter guide, Proposition 38 research bond",
+      "url": "https://calmatters.org/california-voter-guide-2026/proposition-38-research-bond/",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Fair Political Practices Commission, Top 10 Contributors List, November 2026 General Election",
+      "url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/",
+      "retrieved": "2026-09-20"
+    }
+  ],
+  "last_updated": "2026-09-20"
+}
