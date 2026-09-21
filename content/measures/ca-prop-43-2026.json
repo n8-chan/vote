@@ -1,0 +1,302 @@
+{
+  "id": "ca-prop-43-2026",
+  "jurisdiction": "state",
+  "election_date": "2026-11-03",
+  "number": "Proposition 43",
+  "title": "Limits Voters' Ability to Raise Revenues for Local Government Services. Legislative Constitutional Amendment.",
+  "status": "on_ballot",
+  "summary": "Proposition 43 adds Section 4.5 to Article XIII A of the California Constitution requiring that, starting January 1, 2027, any new, increased, or extended local special tax placed on the ballot by citizen initiative be approved by a two-thirds vote rather than the simple majority a 2017 court ruling had allowed. It also bars local governments from imposing any new ad valorem property tax beyond what Propositions 13 and 218 already permit. It does not touch general taxes, fees, assessments, or bonds, and it exists because the Legislature struck a deal with the Howard Jarvis Taxpayers Association to keep a broader, retroactive anti-tax initiative off the same ballot.",
+  "what_it_really_means": [
+    "The ballot title, 'Limits Voters' Ability to Raise Revenues for Local Government Services,' names the mechanism but not the specific gap it closes. Since 1996, Proposition 218 has required a two-thirds vote for local 'special taxes' — taxes dedicated to a specific purpose, as opposed to 'general taxes' that go into a jurisdiction's general fund. That two-thirds rule was always understood to apply when a city council, county board, or school board put a special tax on the ballot. In August 2017, the California Supreme Court ruled in California Cannabis Coalition v. City of Upland that a different Proposition 218 requirement (that general taxes appear only on general-election ballots) did not apply to taxes placed on the ballot by citizen initiative rather than by the governing body itself. Local officials and courts subsequently read Upland to imply that the two-thirds vote requirement for special taxes also does not bind citizen initiatives, opening a path for special taxes, including parcel taxes and dedicated sales taxes, to pass with a simple majority when circulated as a citizen petition rather than referred by the council. San Francisco used this reading to certify a 2018 commercial rent tax for childcare that fell short of two-thirds, and a 2021 appellate ruling upheld that the supermajority requirement did not apply to voter-initiated special taxes. Proposition 43 amends the constitution to close that path directly: effective January 1, 2027, any special tax 'including the electorate of a local government exercising the initiative power' needs a two-thirds vote, full stop.",
+    "A second, separate provision is bundled into the same new section and does not appear in the ballot title at all. New Article XIII A, Section 4.5(b) prohibits any local government from imposing an ad valorem tax on real property — a tax calculated as a percentage of a property's value — except for the voter-approved bond debt-service property taxes already authorized under Article XIII D. This closes off a theoretical path some jurisdictions have floated for structuring new revenue as a value-based property levy outside the existing Proposition 13 cap, and it applies regardless of vote threshold; such a tax would now be barred outright rather than merely subject to a higher vote requirement.",
+    "What is not touched matters as much as what is. Section 4.5(a) carves out three categories by cross-reference to existing constitutional sections: taxes covered by Section 4 of Article XIII A (special taxes referred by a two-thirds vote of the governing body itself, already at two-thirds), property-related assessments under Article XIII D Section 2(d), and property-related fees and charges under Article XIII D Section 3(a)(2). General taxes — those that fund a jurisdiction's general operations without a dedicated purpose — are untouched and remain at simple-majority approval whether referred by a council or by citizen initiative. Benefit assessments, regulatory fees for services like water and trash, and general obligation bonds backed by property tax are also unaffected; those already sit under Proposition 218's and Proposition 26's separate frameworks. A local government that wants new revenue without a two-thirds threshold retains the same general-tax and fee-based tools it had before this measure.",
+    "Proposition 43 exists because of a last-minute trade, not because the Legislature set out to write this policy. In 2026 the Howard Jarvis Taxpayers Association and the California Business Roundtable had already qualified a considerably more aggressive initiative for this same ballot: the California Two-Thirds Vote Requirement for Special Taxes and Charter City Real Estate Transfer Tax Prohibition Initiative. That measure would have imposed the same two-thirds requirement, but retroactively — invalidating any existing special tax approved by less than two-thirds — and would have capped charter-city real estate transfer taxes at the existing statutory rate of $0.275 per $500 of value, which would have wiped out higher transfer taxes that voters in cities including San Francisco and Los Angeles had separately approved. California law lets initiative sponsors withdraw a qualified measure up until 131 days before the election. On June 25, 2026, the legislative deadline day, the Legislature passed ACA 22 (which became Proposition 43), and in exchange HJTA and the Business Roundtable withdrew their initiative. The Legislature separately withdrew its own previously referred ACA 13, which would have required future supermajority-threshold initiatives to pass by that same higher threshold. Proposition 43, unlike the withdrawn initiative, is not retroactive and does not touch charter-city transfer taxes.",
+    "The measure's own lead author opposes it. Assemblymember Buffy Wicks (D-Oakland) authored ACA 22 and has publicly said she voted for it only to head off the harsher HJTA-Business Roundtable initiative: 'I authored ACA 22 not because I wanted it to become law — but because it was the only path left to get the more dangerous initiative off the ballot before time ran out.' The Legislature passed it 68-2 in the Assembly and 35-1 in the Senate, a near-unanimous vote for a measure most Democratic legislators voting yes did not want enacted, because a floor vote against it would have let the more damaging initiative proceed to the ballot instead. That legislative math is the real explanation for why a 'Legislature-referred' measure limits voters' own ability to raise local revenue: it was the least-bad option available under a hard deadline, not a considered policy judgment about the right vote threshold.",
+    "Who benefits from a higher bar tracks who funded the campaign to keep the harder-edged version off the ballot and now funds the campaign for this one. The California Business Roundtable Issues PAC is the largest identified donor to the Yes on Proposition 43 committee, and major commercial landlords — Douglas Emmett Properties and Kilroy Realty, both real estate investment trusts with large California office and commercial portfolios — are also top donors. Parcel taxes and dedicated special taxes are a common mechanism cities and school districts use to fund fire protection, libraries, and school facilities partly by taxing commercial property; a higher vote threshold makes those taxes harder to pass, which is a direct financial interest for large commercial property owners even though the measure is framed as a general taxpayer-protection measure.",
+    "The opposition coalition is organized labor and local-government-adjacent groups whose members deliver the services special taxes typically fund: firefighters, SEIU locals representing healthcare and public workers, the carpenters' union, AFSCME, and the League of California Cities' political arm. The League of Women Voters of California and the housing-nonprofit-aligned Non-Profit Housing Association of Northern California also oppose it, arguing (as the League put it) that 'a simple majority keeps these decisions with most voters and gives communities more flexibility to respond to changing needs.'",
+    "A Public Policy Institute of California survey of 1,103 likely voters taken September 4-10, 2026 found the measure trailing: 43 percent yes, 51 percent no, 6 percent undecided, with a margin of error of 3.8 points. That is notable because Proposition 43 needs only a simple majority of statewide voters to pass — it is the local special taxes it would govern that would newly need two-thirds, not this measure itself."
+  ],
+  "fiscal_impact": {
+    "state_cost": "none identified by the Legislative Analyst's Office. Proposition 43 does not affect state revenue, spending, or the state budget.",
+    "state_savings": "none",
+    "local_cost": "none directly imposed. The measure creates no new local spending obligation; its effect is on what local governments and their voters can raise, not what they must spend.",
+    "revenue_change": "Possible decrease in local government tax revenue over time. Raising the approval threshold from a simple majority to two-thirds for citizen-initiated special taxes will make some future local special tax measures fail that would otherwise have passed with 50 percent plus one. The Legislative Analyst's Office states the actual size of the effect 'is unknown and would depend on future decisions by local governments and voters' about which taxes to propose and how they are structured.",
+    "ongoing_vs_one_time": "Ongoing. This is a permanent change to the state constitution's vote-threshold rule for local special taxes proposed by citizen initiative, in effect for every relevant local ballot measure from January 1, 2027 onward.",
+    "narrative": "Because Proposition 43 changes a voting rule rather than levying or repealing a specific tax, the Legislative Analyst's Office cannot attach a dollar figure to it the way it can for a bond or a rate change. The fiscal effect is entirely contingent: it depends on how many local jurisdictions attempt citizen-initiated special taxes after 2027, how close those measures would have polled under a simple-majority rule, and how many of them would now fail at two-thirds that would have passed at a simple majority. Historically, two-thirds-vote special tax measures pass at meaningfully lower rates than simple-majority measures, so the practical effect falls hardest on lower-turnout, off-cycle local elections and on tax measures that poll in the high 50s to low 60s, the range where the threshold change is outcome-determinative. The measure does not reduce any currently collected revenue; the effect is entirely prospective and applies only to citizen-initiated special taxes proposed on or after January 1, 2027. General taxes, fees, assessments, and bonds — which fund a large share of local government activity — are entirely unaffected and remain available at their current approval thresholds."
+  },
+  "taxes": {
+    "new_taxes": [],
+    "tax_changes": [
+      "Raises the voter approval threshold from a simple majority to two-thirds (66.67 percent) for any new, increased, or extended local special tax placed on the ballot by citizen initiative, effective January 1, 2027. This closes a path opened by the 2017 California Cannabis Coalition v. City of Upland decision and subsequent lower-court rulings, which had allowed citizen-initiated special taxes to pass with a simple majority even though special taxes referred by a governing body already required two-thirds.",
+      "Prohibits local governments from imposing any new ad valorem tax on real property, except for the voter-approved bond debt-service property taxes already authorized under Article XIII D, regardless of vote threshold."
+    ]
+  },
+  "spending": {
+    "new_spending_areas": [],
+    "funding_source": "Not applicable. Proposition 43 creates no spending program; it changes the constitutional vote threshold and permissible tax structure for local special taxes and property taxes."
+  },
+  "control_and_power": "Proposition 43 removes power from local electorates acting through the citizen initiative process, and does so unevenly depending on how a local tax measure originates. A special tax referred to the ballot by a city council, county board of supervisors, or school board already required a two-thirds vote before this measure and still does. A special tax placed on the ballot directly by citizen petition, which under the post-Upland reading of Proposition 218 could pass with a simple majority, now requires the same two-thirds vote. No local governing body, and no local electorate exercising the initiative power, can lower that threshold for itself; the requirement is written into the state constitution and can only be changed by another statewide constitutional amendment. The measure also forecloses one category of local taxation outright: no local government may adopt a new ad valorem property tax beyond what Propositions 13 and 218 already allow, regardless of the vote margin it could achieve. Because the rule is constitutional rather than statutory, individual cities, counties, and school districts have no local option to opt out, and the State Legislature itself cannot restore majority-vote citizen initiatives for special taxes without another two-thirds vote in both houses and a subsequent statewide vote of the people.",
+  "loopholes": [
+    "The two-thirds requirement applies only to 'special taxes' as defined in Article XIII C Section 1: taxes dedicated to a specific purpose. A local government or citizen group that wants new revenue without clearing two-thirds can instead propose a general tax deposited into the general fund with no formal spending commitment, which still needs only a simple majority, at the cost of losing any binding legal commitment that the money funds a particular service.",
+    "Fees, charges, and assessments tied to a specific service or property benefit remain entirely outside this measure, per the existing Proposition 26 and Proposition 218 frameworks the amendment explicitly cross-references and leaves untouched (Article XIII C Section 2(d) and Article XIII D Section 3(a)(2)). A local government can fund the same activity a special tax would have funded, such as water, sewer, or stormwater services, through a fee or assessment procedure that does not require any voter supermajority at all, subject only to the substantive limits those articles already impose.",
+    "General obligation bonds backed by ad valorem property tax remain available under the carve-out for 'voter-approved bond debt-service' taxes in Article XIII D Section 3(a)(1), so a jurisdiction seeking large-scale capital funding can still use a bond measure (which itself typically requires a two-thirds vote for most local general obligation bonds, unaffected by this amendment) rather than an operating special tax."
+  ],
+  "unexpected_provisions": [
+    "A ban on new local ad valorem property taxes, unrelated to the vote-threshold change the ballot title describes, is bundled into the same new constitutional section. Voters approving a measure titled around vote thresholds for special taxes are also foreclosing an entire category of property taxation regardless of vote margin.",
+    "Proposition 43 exists only because the Legislature traded it for the withdrawal of a considerably harsher, retroactive HJTA/California Business Roundtable initiative that would have invalidated existing local special taxes approved below two-thirds and capped charter-city real estate transfer taxes. A voter who supports the general idea of a higher vote threshold but assumes this is the Legislature's preferred policy is not seeing the deal that produced it.",
+    "The measure's own lead legislative author, Assemblymember Buffy Wicks, publicly opposes its enactment despite having authored and voted for the constitutional amendment that placed it on the ballot, saying she did so only to remove a worse alternative from the same ballot.",
+    "The Legislature simultaneously withdrew a different, previously qualified measure, ACA 13, which would have required future supermajority-threshold ballot initiatives to themselves pass by that same higher threshold. That withdrawal was part of the same June 25, 2026 deadline-day package and is not disclosed by Proposition 43's own text or title."
+  ],
+  "pros": [
+    "Reform California and the Yes on Prop 43 campaign argue the measure restores the two-thirds vote requirement for local special taxes that Proposition 13 established in 1978 and that a 2017 court ruling had allowed some local governments to sidestep, closing what they call a loophole rather than creating a new restriction.",
+    "Jon Coupal, president of the Howard Jarvis Taxpayers Association, frames it as a taxpayer-protection measure: closing a path that let 'some special taxes to pass with less than the two-thirds vote required by Proposition 13.'",
+    "Robert Gutierrez of the California Taxpayers Association and other business signatories argue voters deserve the same high bar for citizen-initiated special taxes that already applies when a city council or school board proposes one, so that the threshold does not depend on which entity happens to place the tax on the ballot.",
+    "Supporters argue a two-thirds threshold protects taxpayers against dedicated-purpose taxes passed in low-turnout special elections, where a narrow and possibly unrepresentative electorate can bind a jurisdiction's revenue for years.",
+    "The measure does not raise any existing tax, ban existing general taxes or fees, or affect currently collected revenue; it is prospective only and preserves general-tax, fee, and assessment options at their existing approval thresholds.",
+    "Some supporters frame the deal itself as a win for predictability: by trading a bounded, non-retroactive amendment for withdrawal of a broader initiative that would have invalidated already-collected local tax revenue and capped charter-city transfer taxes, the Legislature avoided a much larger and more disruptive measure."
+  ],
+  "cons": [
+    "Assemblymember Buffy Wicks, the measure's own author, opposes its passage, calling it a defensive maneuver rather than good policy: 'I authored ACA 22 not because I wanted it to become law.'",
+    "The League of Women Voters of California argues the two-thirds threshold lets a minority of just over one-third of voters block a tax that most voters in a community support, reversing the default rule that a simple majority governs local ballot decisions.",
+    "Evolve California and other opponents argue the cumulative effect of Proposition 43 alongside other supermajority requirements will make California, in their words, 'the hardest place in the country to raise local revenue,' constraining cities, counties, and school districts facing rising costs and, in some cases, reduced federal funding.",
+    "The California Budget and Policy Center argues the measure could increase hardship in communities that most need new revenue for services such as fire protection, libraries, and school facilities, and notes counties and school districts facing federal funding cuts and enrollment declines are especially exposed to a higher bar for local self-help revenue.",
+    "Gubernatorial candidate Xavier Becerra argues the measure 'would hand special interests the power to block the resources our communities count on most: fire protection, safe roads, good schools,' framing it as empowering organized minority opposition rather than protecting ordinary taxpayers.",
+    "Opponents note the campaign's largest funders are commercial real estate interests, including the California Business Roundtable Issues PAC and real estate investment trusts Douglas Emmett Properties and Kilroy Realty, entities with a direct financial stake in blocking commercial-property-funded local special taxes, which they argue undercuts the measure's framing as a general taxpayer protection.",
+    "A Public Policy Institute of California poll from early September 2026 found the measure trailing 43 percent yes to 51 percent no among likely voters, suggesting the coalition that produced the legislative deal has not yet persuaded a majority of the broader electorate."
+  ],
+  "who_supports": [
+    {
+      "name": "Howard Jarvis Taxpayers Association",
+      "type": "org",
+      "notes": "Original sponsor, with the California Business Roundtable, of the harsher withdrawn 2026 initiative; now supports Proposition 43 as the negotiated substitute. President Jon Coupal is a lead public voice for the measure and signed the official rebuttal to the argument against."
+    },
+    {
+      "name": "California Business Roundtable",
+      "type": "business",
+      "notes": "Co-sponsor of the withdrawn initiative that produced this deal. Its Issues PAC is the largest identified donor to the Yes on Proposition 43 campaign."
+    },
+    {
+      "name": "California Taxpayers Association (CalTax)",
+      "type": "org",
+      "notes": "President Robert Gutierrez signed the official ballot argument in favor."
+    },
+    {
+      "name": "California Chamber of Commerce",
+      "type": "business",
+      "notes": "Statewide business association listed among supporting organizations."
+    },
+    {
+      "name": "California Republican Party",
+      "type": "org",
+      "notes": "Party endorsement; Republican legislators voted nearly unanimously for ACA 22 in the Legislature."
+    },
+    {
+      "name": "Reform California",
+      "type": "org",
+      "notes": "Conservative advocacy organization leading messaging for the Yes on Prop 43 campaign."
+    },
+    {
+      "name": "Family Business Association of California",
+      "type": "org",
+      "notes": "President Robert Rivinius signed the official ballot argument in favor."
+    },
+    {
+      "name": "California Hispanic Chambers of Commerce",
+      "type": "org",
+      "notes": "President Julian Canete signed the official ballot argument in favor."
+    },
+    {
+      "name": "California Small Business Association",
+      "type": "org",
+      "notes": "President Michael Hedges signed the official rebuttal to the argument against."
+    }
+  ],
+  "who_opposes": [
+    {
+      "name": "Assemblymember Buffy Wicks",
+      "type": "politician",
+      "notes": "Lead author of ACA 22, the resolution that became Proposition 43, yet publicly opposes its enactment, stating she authored it only to remove a harsher initiative from the ballot."
+    },
+    {
+      "name": "Xavier Becerra",
+      "type": "politician",
+      "notes": "2026 gubernatorial candidate and former U.S. Secretary of Health and Human Services; opposes the measure as empowering special interests to block local services funding."
+    },
+    {
+      "name": "Democratic Party of California",
+      "type": "org",
+      "notes": "Party opposition, notwithstanding that most Democratic legislators voted for the underlying constitutional amendment as part of the deal that removed the harsher initiative."
+    },
+    {
+      "name": "League of Women Voters of California",
+      "type": "org",
+      "notes": "Nonpartisan civic organization opposing on grounds that a two-thirds threshold lets a minority of voters override majority support for local tax measures."
+    },
+    {
+      "name": "Evolve California",
+      "type": "org",
+      "notes": "Housing and tax policy advocacy organization; argues the measure would make California the hardest state in which to raise local revenue."
+    },
+    {
+      "name": "California Professional Firefighters",
+      "type": "org",
+      "notes": "President Darrell Roberts signed the official ballot argument against; fire protection is commonly funded by local special taxes and parcel taxes."
+    },
+    {
+      "name": "SEIU California State Council for Working People",
+      "type": "org",
+      "notes": "Among the top funders of the No on Prop 43 opposition committee, alongside several individual SEIU locals."
+    },
+    {
+      "name": "League of California Cities",
+      "type": "org",
+      "notes": "Its CITIPAC political committee is a top-10 contributor to the No on Prop 43 campaign, representing cities that use local special taxes to fund services."
+    },
+    {
+      "name": "California Budget and Policy Center",
+      "type": "org",
+      "notes": "Nonpartisan fiscal policy research organization; published analysis opposing the measure on the grounds that it would reduce local governments' ability to meet residents' needs."
+    }
+  ],
+  "authors": [
+    {
+      "name": "Buffy Wicks",
+      "role": "Lead Assembly author of ACA 22, the legislative resolution that placed Proposition 43 on the ballot; publicly opposes the measure's enactment despite authoring it."
+    }
+  ],
+  "funding": {
+    "support_committees": [
+      {
+        "name": "Yes on Prop 43 - The Local Taxpayer Protection Act, sponsored by homeowners, businesses, and taxpayers",
+        "total_raised": "at least $13,973,217.78, the sum of its top 10 disclosed contributors per the FPPC's top-10 contributor list; the committee's full total raised was not separately confirmed",
+        "top_donors": [
+          { "name": "California Business Roundtable Issues PAC", "amount": "$9,850,000" },
+          { "name": "Protect Prop. 13 (Howard Jarvis Taxpayers Association)", "amount": "$1,038,217.78" },
+          { "name": "Kilroy Realty, LP", "amount": "$1,000,000" },
+          { "name": "Douglas Emmett Properties, LP", "amount": "$1,000,000" },
+          { "name": "1800 Capital, Inc.", "amount": "$500,000" },
+          { "name": "Jerry A. Greenberg", "amount": "$250,000" },
+          { "name": "McCourt Partners Real Estate, LLC", "amount": "$100,000" },
+          { "name": "Andrew Schwartzberg", "amount": "$100,000" },
+          { "name": "Moss Management Services, Inc.", "amount": "$85,000" },
+          { "name": "The Beverly Hills Estates Inc.", "amount": "$50,000" }
+        ],
+        "source_url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/"
+      }
+    ],
+    "oppose_committees": [
+      {
+        "name": "No on Prop 43 Stop the Local Taxpayer Deception Act, sponsored by labor organizations",
+        "total_raised": "at least $2,710,500.01, the sum of its top 10 disclosed contributors per the FPPC's top-10 contributor list; the committee's full total raised was not separately confirmed",
+        "top_donors": [
+          { "name": "SEIU Local 1021 Issues PAC", "amount": "$500,000" },
+          { "name": "SEIU Local 721 Issues & Initiatives", "amount": "$500,000" },
+          { "name": "Western States Regional Council of Carpenters Issues Committee", "amount": "$500,000" },
+          { "name": "SEIU California State Council For Working People", "amount": "$500,000" },
+          { "name": "California Professional Firefighters Ballot Issues Committee", "amount": "$250,500" },
+          { "name": "AFSCME California, AFL-CIO", "amount": "$150,000" },
+          { "name": "League of California Cities CITIPAC", "amount": "$100,000.01" },
+          { "name": "AFSCME California People Issues PAC", "amount": "$100,000" },
+          { "name": "NPH Action Fund Political Issues Committee", "amount": "$100,000" },
+          { "name": "SEIU Local 121 RN Health Care Fund", "amount": "$10,000" }
+        ],
+        "source_url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/"
+      }
+    ]
+  },
+  "nonpartisan_analysis": [
+    {
+      "source": "Legislative Analyst's Office",
+      "summary": "The LAO explains that special taxes referred by a local governing body already require a two-thirds vote, but recent court decisions allowed voter-proposed special taxes to pass with a simple majority. Proposition 43 closes that distinction: beginning January 1, 2027, any new, increased, or extended local special tax proposed by voters would require a two-thirds vote, the same threshold that already applies to governing-body-referred special taxes. On fiscal effects, the LAO states there is a possibility that local government tax revenues will not rise as much in the future because of the higher threshold, but that 'the actual revenue impact is unknown and would depend on future decisions by local governments and voters.'",
+      "url": "https://lao.ca.gov/BallotAnalysis/Proposition?number=43&year=2026"
+    },
+    {
+      "source": "Ballotpedia",
+      "summary": "Documents the measure's full constitutional text (new Article XIII A, Section 4.5), including both the two-thirds vote requirement for citizen-initiated special taxes and the separate, ballot-title-invisible ban on new local ad valorem property taxes. It details the legislative deal: ACA 22, authored by Assemblymember Buffy Wicks, passed the Assembly 68-2 and the Senate 35-1 on June 25, 2026, the ballot finalization deadline, in exchange for the Howard Jarvis Taxpayers Association and California Business Roundtable withdrawing a broader, retroactive initiative that would also have capped charter-city real estate transfer taxes and invalidated existing sub-two-thirds special taxes. It reports Wicks's public opposition to the measure she authored, campaign finance figures showing California Business Roundtable Issues PAC as the largest support-side donor, and a September 2026 PPIC poll showing the measure trailing 43 percent yes to 51 percent no among likely voters.",
+      "url": "https://ballotpedia.org/California_Proposition_43,_Two-Thirds_Vote_Requirement_for_Local_Special_Tax_Initiatives_and_Property_Tax_Initiative_Prohibition_Amendment_(2026)"
+    },
+    {
+      "source": "California Budget and Policy Center",
+      "summary": "Opposes Proposition 43, explaining that the two-thirds requirement would apply to special taxes proposed by citizen initiative across cities, counties, school districts, community college districts, and special districts, while general taxes remain at simple-majority approval. It highlights that parcel taxes are always classified as special taxes and would be affected, and argues the measure would let a roughly 35 percent minority block tax measures that a 65 percent majority supports, at a time when many local governments face federal funding cuts, enrollment declines, and rising costs.",
+      "url": "https://calbudgetcenter.org/resources/should-california-voters-approve-proposition-43/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Legislative Analyst's Office, Proposition 43 ballot analysis",
+      "url": "https://lao.ca.gov/BallotAnalysis/Proposition?number=43&year=2026",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Legislative Analyst's Office, Analysis of Proposition 43 (November 3, 2026 Ballot, PDF)",
+      "url": "https://lao.ca.gov/ballot/2026/prop43-110326.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Secretary of State, Official Voter Information Guide, Proposition 43",
+      "url": "https://voterguide.sos.ca.gov/propositions/43/index.htm",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Secretary of State, Official Voter Information Guide, Proposition 43 analysis",
+      "url": "https://voterguide.sos.ca.gov/propositions/43/analysis.htm",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Secretary of State, Official Voter Information Guide, Proposition 43 arguments and rebuttals",
+      "url": "https://voterguide.sos.ca.gov/propositions/43/arguments-rebuttals.htm",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Secretary of State, Proposition 43 text of proposed law (PDF)",
+      "url": "https://vig.cdn.sos.ca.gov/2026/general/pdf/prop43.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Secretary of State, Qualified statewide ballot measures",
+      "url": "https://www.sos.ca.gov/elections/ballot-measures/qualified-ballot-measures",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "ACA 22 (2025-2026), full text, leginfo.legislature.ca.gov",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202520260ACA22",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "ACA 22 (2025-2026) bill status, authors, and history",
+      "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260ACA22",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Ballotpedia, California Proposition 43, Two-Thirds Vote Requirement for Local Special Tax Initiatives and Property Tax Initiative Prohibition Amendment (2026)",
+      "url": "https://ballotpedia.org/California_Proposition_43,_Two-Thirds_Vote_Requirement_for_Local_Special_Tax_Initiatives_and_Property_Tax_Initiative_Prohibition_Amendment_(2026)",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Ballotpedia, California Two-Thirds Vote Requirement for Special Taxes and Charter City Real Estate Transfer Tax Prohibition Initiative (2026) (withdrawn initiative)",
+      "url": "https://ballotpedia.org/California_Two-Thirds_Vote_Requirement_for_Special_Taxes_and_Charter_City_Real_Estate_Transfer_Tax_Prohibition_Initiative_(2026)",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "CalMatters 2026 Voter Guide, Proposition 43: local tax threshold",
+      "url": "https://calmatters.org/california-voter-guide-2026/proposition-43-tax-threshold/",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Budget and Policy Center, Should California Voters Approve Proposition 43?",
+      "url": "https://calbudgetcenter.org/resources/should-california-voters-approve-proposition-43/",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Fair Political Practices Commission, Top 10 Contributors List, November 2026 General Election",
+      "url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Seamless Bay Area, Prop 43: The Anti-Tax Ballot Measure and Transit Funding",
+      "url": "https://www.seamlessbayarea.org/blog/2026/7/10/prop-43-the-anti-tax-ballot-measure-and-transit-funding",
+      "retrieved": "2026-09-20"
+    }
+  ],
+  "last_updated": "2026-09-20"
+}
