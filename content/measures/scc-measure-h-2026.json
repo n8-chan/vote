@@ -1,0 +1,158 @@
+{
+  "id": "scc-measure-h-2026",
+  "jurisdiction": "county",
+  "county": "Santa Clara",
+  "election_date": "2026-11-03",
+  "number": "Measure H",
+  "title": "City Charter Amendment - City Manager's Authority to Settle Claims",
+  "status": "on_ballot",
+  "summary": "Measure H asks City of Sunnyvale voters (not Santa Clara County as a whole) to amend Charter Section 1314 so the City Council, rather than state law, controls the maximum dollar amount the City Manager may approve to settle a legal claim against the City. Today that ceiling is fixed by California Government Code Section 935.4 at $50,000, a number set in 1989 and never adjusted. The measure does not set a new number itself; it authorizes the Council to set and later change the limit by ordinance, and the Council has already adopted a contingent ordinance that would take effect at $250,000 if voters approve.",
+  "what_it_really_means": [
+    "This is a City of Sunnyvale measure, not a Santa Clara County measure, even though it appears on the same countywide November 2026 ballot alongside county- and district-wide measures. It affects only registered voters within Sunnyvale city limits. Sunnyvale has three charter measures on this ballot, G, H, and I; this entry covers Measure H only. Measure G addresses public-works contracting method, and Measure I addresses how City Council vacancies are filled. All three came out of the same multi-year Charter Review Committee (CRC) process, and the City Attorney's Impartial Analyses of Measures G, H, and I were all filed the same day, August 18, 2026.",
+    "Charter Section 1314, in its current, unamended form (confirmed directly on the City's eCode360 municipal code site), reads only: \"Except as otherwise required by the provisions of State law applicable to chartered cities, claims and demands against the City shall be presented and audited as prescribed by ordinance.\" It does not itself set a dollar figure. The $50,000 ceiling comes from California Government Code Section 935.4, which the City Attorney's Impartial Analysis and the CRC's own report both quote directly: \"only a charter provision may authorize that employee to allow, compromise, or settle a claim against the local public entity if the amount to be paid... exceeds fifty thousand dollars ($50,000).\" Because Sunnyvale's Charter has never contained language overriding that default, City Manager settlement authority has been capped at $50,000 since at least 1989, and Sunnyvale Municipal Code Section 2.04.030 currently codifies that same $50,000 figure.",
+    "The dollar figure that will actually replace the $50,000 cap is not written into the ballot measure at all. The Charter amendment text itself, quoted in full in the CRC's report, adds new subsection (2): \"The City Council shall prescribe by ordinance the monetary limits for an employee to settle any claim or action against the City... No claim or action against the City may be settled for more than the amount set forth in the ordinance without the prior approval of the City Council.\" That is the entirety of what voters are approving: a delegation of authority, not a number. The number comes from a separate instrument. On July 28, 2026, the City Council introduced an ordinance amending Sunnyvale Municipal Code Section 2.04.030 to set the City Manager's settlement authority at $250,000; per the staff report (RTC No. 26-0699), that ordinance is written to become operative only if Measure H passes, and to be treated as repealed if it fails. A voter who reads only the ballot question would not know the specific number, $250,000, already exists as a signed-and-ready ordinance sitting behind the Charter question.",
+    "The $250,000 figure is notably higher than what the CRC itself recommended after its own analysis. The CRC's report states that CPI data from the State of California's Department of Industrial Relations puts $50,000 in 1989 at roughly $140,000 today in San Francisco Bay Area dollars, and after surveying other charter cities with similar provisions (Pasadena, Santa Monica, and Los Angeles, cited as having limits up to $100,000), the CRC concluded \"a new limit in the range of $100,000 to $150,000 would be appropriate\" and formally recommended $150,000 in a unanimous 10-0 vote. City staff and Council instead selected $250,000, five times the original 1989 cap, justified in the staff report not by inflation math but by matching a different figure entirely: the City Manager's existing authority to approve purchasing contracts up to $250,000 under Sunnyvale Municipal Code Section 2.08.040. The staff report frames this as \"administrative efficiency\" from aligning two unrelated authority limits, contract spending and legal-claim settlement, rather than as a calibration of what claims themselves now cost.",
+    "This covers \"claims and demands against the City\" broadly, the same language used in current Section 1314 and Government Code 935.4; sources reviewed do not carve out separate categories for lawsuit settlements, insurance claims, or workers' compensation, and none of the Impartial Analysis, the CRC report, or the staff report draws that distinction. The staff report does note that the City's claims program already involves a third-party claims administrator and is subject to annual claims audits by the California Joint Powers Risk Management Authority (CJPRMA), the City's excess insurer; those are existing safeguards, not new ones created by this measure. No new independent audit, disclosure, or reporting requirement tied specifically to the higher settlement authority appears in any source reviewed.",
+    "Oversight above the ordinance-set threshold is unchanged: if a proposed settlement exceeds whatever limit the ordinance sets, city staff still bring it to the City Council in a confidential closed session for approval or negotiation direction, exactly as happens today above $50,000. What changes is the volume of settlements that never reach the Council at all. Per the Impartial Analysis, the Council can revise the ordinance-set limit up or down at any time by adopting another ordinance, without a further Charter amendment and without returning to voters; the CRC report describes this as the intended design feature, since it \"allows the City Council to adjust the threshold as needed without requiring a charter amendment and ballot measure.\"",
+    "The measure is the product of the same Charter Review Committee process behind Measure G: a citizen committee appointed in December 2024, which studied this specific issue and voted 10-0 to recommend the amendment (with its own $150,000 figure) after reviewing comparable charter-city provisions, including Pasadena's 2024 Measure S, which added nearly identical language to Pasadena's Charter Section 1014 and passed with 86.44% voter approval. On May 19, 2026, Council directed staff to place three measures on the ballot, including one setting an initial settlement-authority limit of $250,000; on June 23, 2026, Council adopted Resolution No. 1369-26 calling the election on this and the companion measures. A voter reading only the ballot question would not know Council's chosen number diverges from its own citizen committee's unanimous recommendation, or that the same June 23, 2026 meeting placed all three Sunnyvale charter measures on the ballot together following spring 2026 FM3 polling that (per reporting on the related Measure G process) found support for the settlement-authority and contracting measures improved once explained, while a companion Council pay-raise measure tested below majority support and was dropped.",
+    "Unlike Measure G, which drew a filed argument against, a rebuttal, and a second rebuttal, no primary argument against Measure H was filed with the Registrar of Voters; the County's list of local measures marks the opposing-argument slot for Measure H \"(none filed).\" The only campaign argument voters will see in the County Voter Information Guide is the primary argument in favor, filed by Mayor Larry Klein and signed by Vice Mayor Richard Mehlinger, former Councilmember Gustav Larsson, and Councilmembers Linda Sell and Alysa Cisneros, all sitting or former City officials; no outside advocacy organization or business group is listed as filer or signer in the sources reviewed. The favor argument itself references \"in July, Council passed an ordinance to set this threshold to 250 thousand dollars if this measure passes,\" which is close to but not identical to the staff report's own account of a July 28 introduction; the ordinance's second-reading adoption date was not independently confirmed in sources reviewed."
+  ],
+  "fiscal_impact": {
+    "state_cost": "none. This is a City of Sunnyvale charter amendment governing which local authority sets a municipal settlement-authority ceiling; it creates no state obligation.",
+    "state_savings": "none identified.",
+    "local_cost": "The City's own staff report on the companion implementing ordinance states directly: \"There is no fiscal impact associated with adopting this ordinance.\" No source reviewed itemizes a separate cost for placing Measure H on the ballot.",
+    "revenue_change": "none. Measure H does not create, raise, lower, or redirect any tax, fee, or revenue source; it changes who sets the dollar ceiling on City Manager settlement authority and, via a companion ordinance, what that ceiling initially is.",
+    "ongoing_vs_one_time": "Ongoing. If approved, the amended Charter Section 1314 permanently shifts settlement-authority-setting power to the City Council by ordinance, and the companion ordinance setting the initial $250,000 limit takes effect and remains in force until a future Council changes it.",
+    "narrative": "No source reviewed puts a projected dollar figure on savings or costs from raising the settlement threshold. The primary argument in favor asserts the change will save \"taxpayer-funded staff hours\" and speed resolution of \"minor, routine\" claims by removing the need to agendize and hold closed sessions on cases under the new limit; the CRC report makes a similar administrative-efficiency case, citing reduced staff preparation time, reduced Council closed-session time, and the potential to resolve claims faster and thereby reduce accrued costs on time-sensitive matters. Neither source quantifies these savings. The fiscal case against a higher threshold, that more settlement dollars flow out without a Council vote or public closed-session record, is not addressed in dollar terms by any source reviewed, since no primary argument against Measure H was filed."
+  },
+  "taxes": {
+    "new_taxes": [],
+    "tax_changes": []
+  },
+  "spending": {
+    "new_spending_areas": [],
+    "funding_source": "Not applicable. Measure H does not appropriate, raise, or redirect any money. Legal claims against the City continue to be paid from the same claims and litigation budgets and excess-insurance coverage (through CJPRMA) as today; the measure only changes who sets the dollar threshold above which a settlement requires City Council approval."
+  },
+  "control_and_power": "Today, the $50,000 ceiling on City Manager settlement authority is fixed by state law, Government Code Section 935.4, and Sunnyvale's Charter contains no language overriding it, so only a full Charter amendment and voter approval can change the number. Measure H moves that power from the state default to the Sunnyvale City Council acting by ordinance: the Council gains permanent authority to set, and later revise up or down without another Charter amendment or public vote, the dollar limit above which the City Manager may not settle a claim without Council approval. Practically, the City Manager's own authority expands from $50,000 today to whatever figure the Council's ordinance sets, initially $250,000 under the ordinance the Council pre-adopted contingent on this measure passing. Above that Council-set figure, the City Council retains the same closed-session approval authority it exercises today; nothing changes in how those larger settlements are reviewed. The shift in control is therefore twofold: the City Manager (and delegated staff such as the Risk Manager) gains authority over a much larger band of settlements than today, and the City Council gains ongoing, unilateral authority to move that band's ceiling in the future without asking voters again.",
+  "loopholes": [
+    "The Charter amendment text sets no number and no cap on what number the Council may later choose; per the Impartial Analysis, \"the City Council could adjust this amount (up or down) in the future by adopting another ordinance; no further Charter amendment will be necessary.\" Voters are being asked to approve an open-ended delegation of authority, not a specific new ceiling, even though the ballot question and campaign materials are framed around the concrete $250,000 figure in the companion ordinance.",
+    "The $250,000 initial figure that will take effect was set by City staff and Council preference, not by the inflation-based analysis the Charter Review Committee itself performed. The CRC calculated that $50,000 in 1989 equals roughly $140,000 today and recommended $150,000 by unanimous 10-0 vote; the adopted companion ordinance instead uses $250,000, justified in the staff report as alignment with the City Manager's unrelated purchasing/contract-approval authority limit under Sunnyvale Municipal Code Section 2.08.040, not as a claims-cost calibration. Nothing in the Charter text or ballot question discloses that the number implementing this measure exceeds its own review committee's recommendation by $100,000.",
+    "Because the implementing ordinance is adopted and later revisable by the City Council alone, any future increase to the settlement-authority ceiling, however large, would not require another public vote, even though the underlying Charter authority Measure H grants is otherwise permanent absent a future Charter amendment to reverse it."
+  ],
+  "unexpected_provisions": [
+    "No primary argument against Measure H was filed with the Registrar of Voters; the County's official list of local measures marks the opposition slot \"(none filed).\" Unlike Measure G on the same ballot, which carries dueling arguments and rebuttals, voters reading the County Voter Information Guide for Measure H will see only the argument in favor, with no official rebuttal presenting a countervailing view.",
+    "The specific dollar figure that determines what the measure actually does in practice, $250,000, is not part of the ballot measure text voters are approving; it lives entirely in a separately adopted Sunnyvale Municipal Code ordinance (amending Section 2.04.030) that the City Council introduced on July 28, 2026, written to take effect only if Measure H passes. A voter who wants to know the real-world number behind this Charter change has to look past the ballot question to a city ordinance most voters will not see.",
+    "The $250,000 figure was chosen to match the City Manager's existing purchasing and contract-approval authority under Sunnyvale Municipal Code Section 2.08.040, a different category of city decision-making (procurement) than legal-claims settlement, rather than the CRC's own inflation-based $150,000 recommendation for this specific authority.",
+    "Measure H follows a template already adopted elsewhere: Pasadena's Charter Section 1014, added by Measure S in 2024 with 86.44% voter approval, uses language the CRC report describes as \"a proven model\" and that closely parallels the new Section 1314(2) language Sunnyvale voters are being asked to approve. Santa Monica and Los Angeles are cited as having adopted similar, though lower-limit, provisions."
+  ],
+  "pros": [
+    "Supporters, led by Mayor Larry Klein and Vice Mayor Richard Mehlinger in the primary argument in favor, argue the current $50,000 cap, set in 1989 and never adjusted, is outdated; they cite it as worth over $130,000 today after decades of inflation, meaning even minor administrative claims, such as a city vehicle clipping a fender, routinely exceed the threshold.",
+    "The argument in favor states the current system forces the elected City Council to repeatedly stop other work to agendize, review, and vote on minor, routine legal settlements in closed session, wasting taxpayer-funded staff hours, delaying fair resolutions for residents, and clutter public meetings.",
+    "Supporters argue the measure empowers the Council to set a realistic limit by ordinance, and note the Council has already set that limit at $250,000, aligning it with the City Manager's existing day-to-day purchasing and contract-approval authority under Municipal Code Section 2.08.040.",
+    "The argument in favor and the Charter Review Committee's report both emphasize that the City Council retains exclusive authority to review and approve all settlements above the ordinance-set limit, and that existing safeguards, a third-party claims administrator and annual CJPRMA claims audits, remain in place regardless of the threshold.",
+    "The measure follows a unanimous 10-0 recommendation from the citizen-appointed Charter Review Committee, which researched comparable provisions already in effect in other California charter cities, including Pasadena, Santa Monica, and Los Angeles, and modeled its recommended language on Pasadena's Charter Section 1014, added by a 2024 measure that passed with 86.44% of the vote."
+  ],
+  "cons": [
+    "Government Code Section 935.4 exists specifically to require a charter amendment, and therefore a public vote, before any California city can raise settlement authority above the $50,000 state default; Measure H removes that state-law backstop and replaces it with an ordinary Council ordinance vote, meaning future increases to the City Manager's settlement authority would never again require voter approval.",
+    "The $250,000 figure the City Council actually adopted is not the figure its own Charter Review Committee recommended after inflation analysis; the CRC's unanimous, 10-0 recommendation was $150,000, calibrated to what $50,000 in 1989 is worth today. The Council instead chose a higher number tied to an unrelated authority, the City Manager's purchasing and contract limit, a substitution no filed argument against the measure had the opportunity to challenge, since none was filed.",
+    "A higher settlement-authority ceiling means more taxpayer-funded settlements of legal claims against the City will be finalized by staff without ever reaching a City Council vote or closed-session deliberation, reducing the direct oversight and public decision-making record that currently exists for any claim between $50,000 and the new limit.",
+    "Because the Council can revise the ordinance-set limit at any time without a further Charter amendment or ballot measure, the $250,000 figure voters are effectively being asked to trust is not fixed; a future Council could raise it again without ever returning to voters, a design the Impartial Analysis and CRC report both describe as intentional flexibility rather than a concern, but which removes voters from future decisions about how much settlement authority the City Manager holds."
+  ],
+  "who_supports": [
+    {
+      "name": "Larry Klein",
+      "type": "politician",
+      "notes": "Sunnyvale Mayor; filer and signer of the primary argument in favor of Measure H."
+    },
+    {
+      "name": "Richard Mehlinger",
+      "type": "politician",
+      "notes": "Sunnyvale Vice Mayor, District 5; signer of the primary argument in favor of Measure H."
+    },
+    {
+      "name": "Gustav Larsson",
+      "type": "politician",
+      "notes": "Former Sunnyvale Councilmember; signer of the primary argument in favor of Measure H."
+    },
+    {
+      "name": "Linda Sell",
+      "type": "politician",
+      "notes": "Sunnyvale Councilmember, District 1; signer of the primary argument in favor of Measure H."
+    },
+    {
+      "name": "Alysa Cisneros",
+      "type": "politician",
+      "notes": "Sunnyvale Councilmember, District 2; signer of the primary argument in favor of Measure H."
+    }
+  ],
+  "authors": [
+    {
+      "name": "Larry Klein",
+      "role": "Sunnyvale Mayor; filer of the primary argument in favor of Measure H, following the City Council's vote to place the Charter Review Committee's recommended amendment on the ballot."
+    },
+    {
+      "name": "Richard Mehlinger",
+      "role": "Sunnyvale Vice Mayor; moved approval of the staff recommendation to place Measure H, alongside companion Measures G and I, on the ballot at the City Council's June 23, 2026 meeting; co-signer of the primary argument in favor."
+    }
+  ],
+  "nonpartisan_analysis": [
+    {
+      "source": "City of Sunnyvale City Attorney (Rebecca L. Moon), Impartial Analysis of Measure H",
+      "summary": "Confirms Measure H would amend Charter Section 1314 to let the City Council set, by ordinance, the maximum amount the City Manager may approve to settle a legal claim against the City, replacing the current state-law default of $50,000 (Government Code Section 935.4, set in 1989 and unadjusted for inflation). Confirms the Council could adjust this ordinance-set amount up or down in the future without a further Charter amendment. States that in August 2026 the Council adopted an ordinance, contingent on the measure passing, setting the City Manager's settlement authority at $250,000, matching the City Manager's existing contract-approval authority; settlements above the ordinance limit would still require City Council approval in closed session, unchanged from current practice. States the measure requires a simple majority to pass and that the Council placed it on the ballot on recommendation of the Charter Review Committee.",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-h-city-of-sunnyvale_charter-amendment_city-manager-settlement-ia_08-18-2026_redacted.pdf"
+    },
+    {
+      "source": "Ballotpedia, Sunnyvale, California, Measure H, City Manager's Claim Settlement Authority Measure (November 2026)",
+      "summary": "Reproduces the official ballot title and confirms Measure H was placed on the ballot through a vote of the Sunnyvale City Council and requires a simple majority to pass. As of the September 2026 retrieval date, Ballotpedia's page carried no independent analysis beyond the ballot title and standard California voting-procedure information, and no election results, the election not yet having occurred.",
+      "url": "https://ballotpedia.org/Sunnyvale,_California,_Measure_H,_City_Manager%27s_Claim_Settlement_Authority_Measure_(November_2026)"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Santa Clara County Registrar of Voters, List of Local Measures, November 3, 2026 General Election",
+      "url": "https://vote.santaclaracounty.gov/list-local-measures-4",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Measure H, City of Sunnyvale, City Charter Amendment - City Manager Settlement Authority, City Attorney's Impartial Analysis",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-h-city-of-sunnyvale_charter-amendment_city-manager-settlement-ia_08-18-2026_redacted.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Measure H, City of Sunnyvale, Primary Argument In Favor",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-h-city-charter-amenedment-city-manager-settlement-authority-argument-in-favor_08112026_redacted-v2.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "City of Sunnyvale, Report to Council RTC No. 26-0699, Introduction of Ordinance Amending Section 2.04.030 of the Sunnyvale Municipal Code Relating to City Manager Claims Settlement Authority (July 28, 2026)",
+      "url": "https://sunnyvaleca.legistar.com/LegislationDetail.aspx?ID=8144287&GUID=7FB77E45-179C-461C-807E-E57AD662D304&Options=&Search=&FullText=1",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "City of Sunnyvale, Charter Review Committee Report Excerpt - City Manager Authority to Settle Claims (Charter Section 1314), Attachment 2 to RTC No. 26-0699",
+      "url": "https://sunnyvaleca.legistar.com/View.ashx?M=F&ID=15709590&GUID=A242E4CA-5CF7-4CA8-AA4F-A7F51A0565DC",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "City of Sunnyvale Municipal Code, Charter Section 1314, Claims Against City (current text, via eCode360)",
+      "url": "https://ecode360.com/42744517#42744534",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Ballotpedia, Sunnyvale, California, Measure H, City Manager's Claim Settlement Authority Measure (November 2026)",
+      "url": "https://ballotpedia.org/Sunnyvale,_California,_Measure_H,_City_Manager%27s_Claim_Settlement_Authority_Measure_(November_2026)",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Citizen Portal, Sunnyvale council places three charter amendments on November ballot after weeks of review",
+      "url": "https://citizenportal.ai/articles/8310348/california/santa-clara-county/sunnyvale/sunnyvale-council-places-three-charter-amendments-on-november-ballot-after-weeks-of-review",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Citizen Portal, Sunnyvale council directs three charter amendments to November ballot, defers pay raise measure",
+      "url": "https://citizenportal.ai/articles/8047187/california/santa-clara-county/sunnyvale/sunnyvale-council-directs-three-charter-amendments-to-november-ballot-defers-pay-raise-measure",
+      "retrieved": "2026-09-21"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}
