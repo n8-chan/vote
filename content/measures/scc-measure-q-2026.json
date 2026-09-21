@@ -1,0 +1,174 @@
+{
+  "id": "scc-measure-q-2026",
+  "jurisdiction": "county",
+  "county": "Santa Clara",
+  "election_date": "2026-11-03",
+  "number": "Measure Q",
+  "title": "Cambrian School District Parcel Tax",
+  "status": "on_ballot",
+  "summary": "Measure Q creates a new $148-per-parcel annual tax in Cambrian School District for 8 years, raising an estimated $1,000,000 a year for academic programs, teacher retention, and class-size support, with annual inflation adjustments and a senior exemption. It requires two-thirds voter approval and arrives as the district's existing Measure BB/H parcel tax (currently $94.24 per parcel) is set to expire June 30, 2026, and as a separate, still-active 2001 parcel tax, Measure A, continues to be collected on top of whatever Measure Q's outcome is.",
+  "what_it_really_means": [
+    "The official ballot question reads: 'To protect the quality of education in our local elementary and middle schools, provide funding for core academic programs in math, science, engineering, technology, reading, writing and arts, attract/retain highly qualified teachers, and maintain manageable class sizes, shall Cambrian School District's measure be adopted, levying $148/parcel for 8 years, its continuance subject to voter approval, with senior exemptions, annual inflation adjustments, providing $1,000,000 annually in locally controlled funding that can't be taken by the State?' The district's own Measure Q page describes it as a new parcel tax rather than a renewal, but that framing needs context: Cambrian currently levies a separate parcel tax, Measure BB (a straight continuation, approved by voters in November 2024, of 2018's Measure H), at $94.24 per parcel, which sunsets June 30, 2026 per the district's Measure BB/H page. Measure Q does not carry the word 'renewal' in its ballot text and sets a different rate ($148, not $94.24) and a different legal identity, but its timing means it functions as Measure BB's practical successor: if Measure Q passes, the roughly $94.24/parcel BB tax lapses and a new $148/parcel tax begins for the district's 2027-28 fiscal year per the district's own FAQ.",
+    "That is not the whole parcel-tax picture. The district also still collects a third, older parcel tax, Measure A, approved by voters on March 6, 2001 (68.4% support), which authorized 'a new benefit assessment of up to $63 per parcel effective July 1, 2001, and adjusted annually by changes in the Consumer Price Index for the Bay Area' per the measure's full text on file with the district. Measure A's page confirms it remains active today (it still requires annual exemption renewals by May 31), but the district's public pages do not state its current, CPI-adjusted dollar rate, so the exact combined burden facing a Cambrian parcel owner if Measure Q passes (Measure A's current rate, whatever it now is, plus $148) is not stated anywhere in the sources reviewed. A voter who reads only the ballot question would have no way to know a second, indefinitely continuing parcel tax already exists and stacks on top of Measure Q.",
+    "The 'academic programs' funded are broadly, not narrowly, defined. The ballot text lists categories, math, science, engineering, technology, reading, writing, arts, teacher retention, and class size, and the district's FAQ adds counseling and academic intervention services and states 'all funds from Measure Q go straight to support teaching and classroom instruction,' with an explicit bar on spending on administrator salaries. There is no line-item spending plan, dollar allocation by category, or binding formula tying specific shares of the roughly $1,000,000 annual revenue to any one of the listed purposes; the Board of Trustees retains discretion each year to decide how much goes to which category within those broad limits.",
+    "State law (Government Code Section 50075.1) independently requires any California parcel tax to file an annual report to the governing board on funds collected and spent, regardless of ballot language. Cambrian's own materials describe going further than that statutory floor: the district's Measure Q and Measure A pages both describe 'annual independent audits' and 'public disclosure of how all funds are spent' as part of the tax's accountability structure. No source reviewed for this analysis, including the district's FAQ pages, mentions an independent citizens' bond-oversight-style committee (the kind mandatory under Education Code Section 15278 for a Proposition 39 general obligation bond) being created for Measure Q; the accountability mechanism described is an annual audit and public disclosure, not a standing citizen oversight body.",
+    "The senior exemption (property owners 65 and older) is opt-in. The Measure Q FAQ states 'a simple application process' is required and that residents who already hold an exemption under an existing Cambrian parcel tax do not need to reapply, but it gives no explicit annual deadline for new applicants to Measure Q itself; by contrast, the older Measure A's exemption has a firm May 31 annual deadline, submitted in person to the district office. Whether Measure Q's exemption inherits that same hard deadline, or a different one, is not stated in any source reached for this analysis.",
+    "The Registrar of Voters' Impartial Analysis and Primary Argument In-Favor for Measure Q are both filed as scanned, non-text-searchable PDFs; direct fetch and a text-extraction proxy both returned no readable content from either document, so this analysis could not independently verify the Impartial Analysis's own summary of the measure, its financial effect statement, or the full text of the argument in favor beyond what the county's own webpage (not the PDF) reproduces as the ballot question. No opposing argument was filed with the Registrar for Measure Q.",
+    "Measure Q arrives amid acute district financial stress that is not mentioned in the ballot question itself: the Board of Trustees voted on February 26, 2026 to close Sartorette Elementary School at the end of the 2025-26 school year, citing an unexpected enrollment decline between June and August 2025 that triggered efforts to cut $2.6 million from the 2026-27 budget, and a projected General Fund reserve below the state-required 3% minimum, per district budget-advisory-committee materials. The district's own Measure Q page cites having already consolidated from six schools to five, saving roughly $1 million annually, as context for why an additional locally controlled revenue source is being sought.",
+    "The Board of Trustees adopted Resolution 25-26-19, 'Calling for an Election for Voter Approval of an Education Parcel Tax,' at its June 18, 2026 meeting, per the board's public meeting agenda system; that agenda listing does not show the roll-call vote count, and the resolution document itself was not accessible as readable text in this research, so the exact vote margin by which the board placed Measure Q on the ballot could not be confirmed."
+  ],
+  "fiscal_impact": {
+    "state_cost": "none. The measure does not obligate state funds.",
+    "state_savings": "none identified.",
+    "local_cost": "none to other local government bodies. The cost falls on owners of taxable parcels within Cambrian School District: a new $148 per parcel per year charge (about $12.33/month), adjusted annually for inflation, for 8 years, subject to a senior exemption for qualifying homeowners 65 and older. This is in addition to the district's still-active, separately administered Measure A parcel tax (original rate $63/parcel in 2001, CPI-adjusted since; current rate not stated in sources reviewed), and would replace the roughly $94.24/parcel Measure BB tax that expires June 30, 2026 if Measure Q passes.",
+    "revenue_change": "A new, larger annual revenue stream for the district: approximately $1,000,000 per year, versus the expiring Measure BB tax's lower per-parcel rate (Measure BB's total annual yield was not stated in sources reviewed, but its per-parcel rate of $94.24 is roughly 64% of Measure Q's $148).",
+    "ongoing_vs_one_time": "Recurring annual levy for 8 years if approved, beginning with the 2027-28 fiscal year per the district's FAQ, with the rate adjusted annually for inflation and 'its continuance subject to voter approval' at the end of the term per the ballot text.",
+    "narrative": "Measure Q is a rate increase relative to the parcel tax it effectively succeeds: $148/parcel versus Measure BB's $94.24/parcel, a roughly 57% increase, layered onto (not instead of) the district's separate, indefinitely continuing Measure A parcel tax from 2001. Because it funds general-fund academic programs and staffing rather than facilities, there is no borrowing or interest cost, unlike a general obligation bond. Over its 8-year term, at $1,000,000 a year before inflation adjustments, Measure Q would raise roughly $8,000,000 cumulatively, a total the ballot question's per-year figure does not surface, and the true multi-year figure would run higher once annual inflation adjustments are applied. The measure comes as the district reports a General Fund reserve below the state-required 3% minimum and closed a school (Sartorette Elementary) in 2026 to address a $2.6 million budget gap, context that explains the urgency behind the request but is not disclosed in the ballot question itself."
+  },
+  "taxes": {
+    "new_taxes": [
+      "A new $148-per-parcel annual education parcel tax in Cambrian School District, for 8 years starting with the 2027-28 fiscal year, adjusted annually for inflation, with a senior exemption, raising an estimated $1,000,000 per year."
+    ],
+    "tax_changes": [
+      "Effectively succeeds, at a higher rate, the district's existing Measure BB parcel tax ($94.24/parcel, itself a straight continuation of 2018's Measure H), which sunsets June 30, 2026 regardless of whether Measure Q passes."
+    ]
+  },
+  "spending": {
+    "new_spending_areas": [
+      "Core academic programs: math, science, engineering, technology, reading, writing, and arts.",
+      "Recruitment and retention of qualified teachers.",
+      "Maintaining manageable class sizes.",
+      "Counseling and academic intervention services (per the district's FAQ, not stated in the ballot question itself)."
+    ],
+    "funding_source": "A new flat, per-parcel local tax ($148 per taxable parcel per year, inflation-adjusted) levied on real property within Cambrian School District and deposited to the district's general fund; not a bond, so it carries no borrowing or interest cost. It stacks on top of the district's existing, separately levied Measure A parcel tax."
+  },
+  "control_and_power": "The Cambrian School District Board of Trustees placed Measure Q on the ballot via Resolution 25-26-19, 'Calling for an Election for Voter Approval of an Education Parcel Tax,' adopted at the board's June 18, 2026 meeting (exact vote count not confirmed from sources reviewed); the measure itself then requires a two-thirds vote of the electorate to take effect. Once approved, the five-member Board of Trustees, not voters, decides each year how the roughly $1,000,000 raised is allocated across the listed purposes (core academics, teacher retention, class size, and, per the district's FAQ, counseling/intervention services), subject to the district's stated commitment to annual independent audits and public disclosure of spending, plus the state-law floor requiring an annual report on funds collected and spent (Government Code Section 50075.1). No source reviewed describes an independent citizens' oversight committee specific to Measure Q; the accountability mechanism described is an audit-and-disclosure regime, not a standing citizen body with its own review authority.",
+  "loopholes": [
+    "Measure Q is a new, additional parcel tax layered on top of the district's still-active Measure A (2001), whose current CPI-adjusted dollar rate is not disclosed on the district's own Measure A page; a voter reading only the Measure Q ballot question would not learn that a second, indefinitely continuing parcel tax already applies to the same parcel.",
+    "There is no binding, itemized spending plan tying specific dollar shares of the roughly $1,000,000 annual revenue to any of the listed purposes (academics, teacher retention, class size, counseling); the Board of Trustees has broad year-to-year discretion within those categories.",
+    "The Measure Q FAQ does not state an application deadline for its own senior exemption (unlike Measure A's firm May 31 in-person deadline), so a new applicant's timeline for securing the Measure Q exemption is unclear from sources reviewed.",
+    "The accountability mechanism is limited to annual independent audits and public disclosure, which is stronger than the bare statutory minimum (an annual report to the board) but is not the independent citizens' oversight committee legally required for a Proposition 39 general obligation bond; no source confirmed whether Cambrian's resolution creates any such committee for Measure Q.",
+    "No opposing argument was filed with the Registrar of Voters, so the official ballot pamphlet will contain only the case in favor, even though the Silicon Valley Taxpayers Association has publicly recommended a NO vote."
+  ],
+  "unexpected_provisions": [
+    "The ballot question does not mention that it is layered on top of a second, already-existing parcel tax (Measure A, 2001) that continues indefinitely regardless of Measure Q's outcome.",
+    "The ballot question does not disclose that it effectively replaces, at a roughly 57% higher per-parcel rate, the district's expiring Measure BB tax ($94.24/parcel), rather than being an isolated new charge with no prior-rate context.",
+    "The measure bundles several distinct funding purposes, core academics, teacher retention, class size, and (per the FAQ but not the ballot text) counseling/intervention services, into a single yes-or-no vote.",
+    "The measure arrives alongside the district's closure of Sartorette Elementary School in 2026 and a reported General Fund reserve below the state-required 3% minimum, financial-distress context that the ballot question does not disclose."
+  ],
+  "pros": [
+    "Measure Q funds are restricted to classroom instruction, academic programs, teacher retention, and class-size support, and are barred from paying administrator salaries.",
+    "The district commits to annual independent audits and public disclosure of spending, on top of the statutory minimum annual report all California parcel taxes require.",
+    "A senior exemption protects homeowners 65 and older who apply from paying the tax.",
+    "The funding is locally controlled and, per the ballot question, cannot be taken by the state, unlike some other state or federal funding streams.",
+    "No formal opposition argument was filed with the county, indicating limited organized local opposition to the specific measure text, even though at least one taxpayer organization opposes it on general tax-policy grounds.",
+    "The district faces a documented budget shortfall, having already closed a school and cut $2.6 million from its 2026-27 budget, which supporters can point to as evidence the funding need is real rather than speculative."
+  ],
+  "cons": [
+    "The Silicon Valley Taxpayers Association recommends a NO vote on Measure Q as part of its broader opposition to new local tax measures on the November 2026 Santa Clara County ballot.",
+    "Measure Q is a new tax that stacks on top of the district's existing, indefinitely continuing Measure A parcel tax (2001), whose current rate is not disclosed in district materials, so the full combined per-parcel burden on Cambrian property owners is not transparent from the ballot question alone.",
+    "At $148 per parcel, Measure Q represents roughly a 57% increase over the per-parcel rate of the Measure BB tax it effectively succeeds, a comparison the ballot question does not surface.",
+    "As a flat per-parcel tax, Measure Q charges the same amount to every taxed parcel regardless of property value, placing a proportionally larger burden on owners of smaller or lower-value properties than an ad valorem tax would.",
+    "The measure requires a two-thirds supermajority to pass, a high bar that lets a well-organized minority block it even if a simple majority of voters support it.",
+    "Neither the county's Impartial Analysis nor the Primary Argument In-Favor could be read in full for this research because both are filed as scanned, non-text-searchable PDFs, limiting independent verification of the county's own official analysis.",
+    "The Board of Trustees retains broad, unitemized discretion over how the roughly $1,000,000 raised annually is allocated across the measure's several stated purposes, with no binding spending formula."
+  ],
+  "who_supports": [
+    {
+      "name": "Cambrian School District Board of Trustees",
+      "type": "org",
+      "notes": "Adopted Resolution 25-26-19 placing Measure Q on the November 3, 2026 ballot at its June 18, 2026 meeting."
+    },
+    {
+      "name": "Protect Quality Education in Cambrian - Yes on Q 2026",
+      "type": "org",
+      "notes": "Campaign committee identified in support of Measure Q; no verified fundraising or donor data was found for this committee in sources reached for this analysis."
+    }
+  ],
+  "who_opposes": [
+    {
+      "name": "Silicon Valley Taxpayers Association",
+      "type": "org",
+      "notes": "Lists Measure Q among the Santa Clara County tax measures it recommends voters reject on the November 2026 ballot; no opposing argument was filed with the Registrar of Voters, so this is a public position rather than an official pamphlet argument."
+    }
+  ],
+  "authors": [
+    {
+      "name": "Dr. Beth Erickson",
+      "role": "Board President, Cambrian School District Board of Trustees, at the time Resolution 25-26-19 placing Measure Q on the ballot was adopted (June 18, 2026 meeting)."
+    },
+    {
+      "name": "Kristi Schwiebert",
+      "role": "Superintendent, Cambrian School District."
+    }
+  ],
+  "nonpartisan_analysis": [],
+  "sources": [
+    {
+      "title": "Santa Clara County Registrar of Voters, List of Local Measures, November 3, 2026 General Election (Measure Q entry, ballot question text, and links to Impartial Analysis and Primary Argument In-Favor)",
+      "url": "https://vote.santaclaracounty.gov/list-local-measures-4",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Santa Clara County Registrar of Voters, Impartial Analysis of Measure Q, Cambrian School District Parcel Tax (filed PDF; scanned/non-text-searchable, full text could not be extracted; the county's own link title identifies it as 'Cambrian SD Parcel Tax IA' despite the file's URL slug referencing an Alum Rock Union ESD bond measure)",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/alum-rock-union-esd-bond-measure-ia-nov-26-to-rov-final_redacted_0.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Santa Clara County Registrar of Voters, Primary Argument In-Favor of Measure Q (filed PDF; scanned/non-text-searchable, full text could not be extracted)",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-q_cambrian-school-district-parcel-tax_primary-argument-in-favor_redacted_final.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Cambrian School District, Measure Q - 2026 Parcel Tax",
+      "url": "https://cambriansd.org/departments/business-services/parcel-tax/measure-q-2026-parcel-tax",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Cambrian School District, Measure BB (formerly Measure H) Parcel Tax",
+      "url": "https://cambriansd.org/departments/business-services/parcel-tax/measure-bb-formerly-h",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Cambrian School District, Measure A Parcel Tax (2001)",
+      "url": "https://cambriansd.org/departments/business-services/parcel-tax/measure-a",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Cambrian School District, Measure A Complete Text (original 2001 ballot text, $63/parcel base rate, CPI-adjusted)",
+      "url": "https://resources.finalsite.net/images/v1772646118/cambriansdorg/vzbouihfbvyvcdtyvv86/MeasureACompleteText.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Cambrian School District, Parcel Tax overview page",
+      "url": "https://cambriansd.org/departments/business-services/parcel-tax",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Cambrian School District, Board of Trustees",
+      "url": "https://cambriansd.org/board-of-trustees",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Cambrian School District, Meet the Superintendent",
+      "url": "https://cambriansd.org/district-information/meet-the-superintendent",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Cambrian School District, Board of Trustees meeting agenda, June 18, 2026 (Resolution 25-26-19, Calling for an Election for Voter Approval of an Education Parcel Tax)",
+      "url": "https://cambrianpublic.ic-board.com/public_agendaview.aspx?mtgId=798",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Silicon Valley Taxpayers Association, 2026 voter guide (position of NO on Measure Q, Cambrian School District)",
+      "url": "https://www.svtaxpayers.org/",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Branham Bear Witness, Sartorette Elementary School to close (Cambrian School District budget crisis and school closure, February 2026)",
+      "url": "https://bhsbearwitness.org/2026/02/28/sartorette-elementary-school-to-close/",
+      "retrieved": "2026-09-21"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}
