@@ -1,0 +1,189 @@
+{
+  "id": "scc-measure-g-2026",
+  "jurisdiction": "county",
+  "county": "Santa Clara",
+  "election_date": "2026-11-03",
+  "number": "Measure G",
+  "title": "City Charter Amendment - Public Works Contracting",
+  "status": "on_ballot",
+  "summary": "Measure G asks City of Sunnyvale voters (not Santa Clara County as a whole) to amend Charter Section 1309, which today locks the City into \"design-bid-build\": a separate, sequential bid for design and a separate lowest-bid-wins contract for construction. The measure lets the City Council adopt an ordinance authorizing any public-works contracting or purchasing method allowed by California law, including design-build (one contractor for both design and construction, chosen partly on qualifications rather than price alone) and construction manager-at-risk. The measure sets no new dollar threshold itself; it hands the Council the authority to write the implementing rules later.",
+  "what_it_really_means": [
+    "This is a City of Sunnyvale measure, not a Santa Clara County measure, even though it appears on the same countywide November 2026 ballot alongside county- and district-wide measures. It affects only registered voters within Sunnyvale city limits. Sunnyvale has three charter measures on this same ballot, G, H, and I; this entry covers Measure G only. Measure H addresses the City Manager's authority to settle legal claims, and Measure I addresses how City Council vacancies are filled. All three originated from the same multi-year Charter Review Committee process, and the City Attorney's Impartial Analyses of Measures G, H, and I were all filed the same day, August 18, 2026.",
+    "Sunnyvale's Charter Section 1309, unamended language reviewed directly on the City's municipal code site, currently requires that any public-works project above a Council-set dollar threshold \"be let to the lowest responsive and responsible bidder\" after public bid notice. It does not permit the City to weigh a contractor's qualifications, technical approach, or track record; price is effectively the only criterion once a bidder clears the minimum bar of \"responsive and responsible.\" The Charter does give the Council two narrow outs even today: by four affirmative votes it can declare that City employees, rather than a contractor, will do the work more economically, or that a project is an urgent-necessity emergency; and public-utility work is exempt from bidding entirely. Outside those exceptions, design and construction must be bid and awarded as separate, sequential contracts, known as \"design-bid-build.\"",
+    "The City Attorney's Impartial Analysis is explicit that Section 1309 currently blocks Sunnyvale from using alternative delivery methods even where California state law already permits them for other public agencies. It names two specific alternatives the Charter currently forecloses: \"design-build,\" where a single entity holds one contract covering both design and construction and is selected through a qualifications-based process that can weigh factors other than the lowest bid, and \"construction manager-at-risk,\" where the City hires a construction manager for pre-construction and construction management within a guaranteed maximum price, with that manager absorbing any cost overrun above the guaranteed price. Measure G does not itself adopt either method. It removes the Charter-level prohibition and authorizes the Council to adopt an ordinance choosing which state-law-permitted methods Sunnyvale will use, and to set the rules for awarding, using, evaluating, and approving contracts under those methods.",
+    "The scope of what the Council could authorize by ordinance is broader than the ballot question's \"design-build\" framing suggests. The operative language, confirmed in both the ballot question itself and the Impartial Analysis, authorizes \"use of any purchasing or contracting method allowed by California law,\" not a fixed, named list. Design-build and construction manager-at-risk are the two methods the Impartial Analysis chooses to illustrate, both drawn from the primary argument in favor and general knowledge of California public-contracting law, but the Charter text voters are approving does not itself enumerate or cap the methods available; that determination is left entirely to a future Council ordinance not yet drafted or reviewed by voters.",
+    "The core tradeoff is the same one Measure C put to City of Santa Clara voters on this same ballot: replacing a hard, auditable price rule with a discretionary, multi-factor evaluation. Under the current lowest-responsible-bidder rule, once a bidder is qualified, the contract award is close to mechanical, whoever bid lowest wins, and a losing bidder or a watchdog can check the math. Under \"best value\" methods like design-build, the award depends on how City staff or Council weigh price against qualifications, experience, and technical approach, a judgment call that is harder to audit after the fact and that shifts real discretion over who gets a contract from an objective number to the evaluators. Both the primary argument in favor and its rebuttal frame this as delivering \"quality and value, not just lowest bid\"; both the primary argument against and its rebuttal frame the identical shift as trading an anti-corruption safeguard for a mechanism that can be captured by relationships and campaign contributions.",
+    "The measure also authorizes clarifying, non-substantive wording changes to the rest of Section 1309; the ballot question itself says so directly: the Council may \"make clarifying changes to the wording of Section 1309 that do not alter the meaning of the section.\" The Impartial Analysis confirms these are wording clarifications only and states they do not alter the section's meaning, but no source reviewed identifies what the specific wording changes are, since the current statutory text on the City's own code site is the pre-amendment version and the post-amendment text does not yet exist.",
+    "Both the primary argument in favor and its rebuttal tie the measure to a concrete legislative and comparative backdrop: California Senate Bill 935 (Senator Steven Choi), described in the rebuttal as passing with \"unanimous bipartisan support to permanently authorize local agencies to use design-build,\" and the claim that design-build has been used statewide in California for \"more than thirty years.\" No source reviewed independently verifies SB 935's exact provisions or vote count; that claim rests solely on the rebuttal's own assertion. A voter reading only the ballot question, framed as an abstract update to contracting authority, would not know the measure is explicitly positioned by its proponents as following a specific, named recent state law rather than as a freestanding local policy change.",
+    "The measure is the product of a Charter Review Committee that both the Impartial Analysis and news coverage describe as a multi-year process. Citizen Portal's coverage of the June 23, 2026 Council meeting reports the Council voted 7-0 (unanimous) to place three charter amendments, including this one, on the ballot, following a May 19, 2026 meeting where the Council reviewed FM3 polling of roughly 600 likely November voters and found support for the public-works and settlement-authority measures improved from modest to a clear majority once the changes were explained; a proposed City Council pay increase was deferred after that same polling showed it consistently under 50% support and was dropped from the ballot. A voter reading only the ballot question would not know the measure's public-facing placement followed professional polling on how to frame it, or that a companion pay-raise measure was tested and shelved in the same process.",
+    "Local reporting adds a practical framing beyond the Impartial Analysis: the Silicon Valley Voice quotes Assistant City Manager Connie Verceles describing the goal as helping the City \"cut down on costs and potentially accelerat[e] timelines\" on development projects, and quotes Vice Mayor Richard Mehlinger, a signer of the primary argument in favor, saying the change would help ensure \"the continued smooth and efficient functioning of Sunnyvale city government.\" Neither source ties the measure to a specific named project pipeline the way Santa Clara's Measure C argument in favor does with the George Haines International Swim Center and fire stations; no source reviewed identifies specific Sunnyvale projects that would be the first to use design-build or construction manager-at-risk authority if Measure G passes."
+  ],
+  "fiscal_impact": {
+    "state_cost": "none. This is a City of Sunnyvale charter amendment governing municipal procurement; it creates no state obligation.",
+    "state_savings": "none identified.",
+    "local_cost": "none identified beyond the normal cost of placing a measure on the ballot, which no source reviewed itemized separately for Measure G.",
+    "revenue_change": "none. Measure G does not create, raise, lower, or redirect any tax or fee; it changes public-works contracting method and procedure only.",
+    "ongoing_vs_one_time": "Ongoing. If approved, the amended Charter Section 1309 and any implementing ordinance the Council later adopts would govern Sunnyvale public-works contracting until further amended by voters or, for the ordinance layer, by the Council.",
+    "narrative": "Neither the City Attorney's Impartial Analysis nor the primary arguments filed for or against Measure G put a dollar figure on the measure's fiscal effect. The primary argument in favor asserts that design-build and similar methods \"save taxpayer money\" by reducing change orders, communication gaps, and construction delays under the current design-bid-build system, and that combining design and construction accountability under one contract reduces cost overruns; its rebuttal adds that the current system's costs show up \"in money, time, and litigation.\" The primary argument against and its rebuttal argue the opposite directionally, citing examples elsewhere, the Belmont Learning Center in Los Angeles Unified School District, the California High-Speed Rail Authority's design-build contract segments, and the Loma Prieta-related San Francisco-Oakland Bay Bridge East Span rebuild, as cases where design-build or best-value methods coincided with large cost overruns; the rebuttal in favor of the measure disputes the relevance of the Belmont Learning Center and Huizar examples specifically. No source reviewed offers an independent, Sunnyvale-specific cost-benefit estimate; the fiscal case in both directions rests on comparative examples from other jurisdictions, not a projection for Sunnyvale's own project pipeline."
+  },
+  "taxes": {
+    "new_taxes": [],
+    "tax_changes": []
+  },
+  "spending": {
+    "new_spending_areas": [],
+    "funding_source": "Not applicable. Measure G does not appropriate, raise, or redirect any money. Public works projects continue to be funded through the City's normal capital budget process; the measure only changes which contracting and procurement methods the City may use and who sets the rules for using them."
+  },
+  "control_and_power": "Today, Charter Section 1309 itself fixes the contracting method: public works projects above a Council-set dollar threshold must be awarded to the lowest responsive and responsible bidder under design-bid-build, with the Council retaining only narrow, Charter-specified outs (four-affirmative-vote findings for City-employee work or urgent-necessity emergencies, and a standing exemption for public-utility work). Measure G shifts that control from the Charter text itself to the City Council acting by ordinance: the Council gains the authority to choose which additional purchasing and contracting methods allowed by California law the City may use, and to set by ordinance the specific rules for awarding, using, evaluating, and approving contracts under those methods. Practically, this moves the locus of control over how public-works contracts are awarded from a fixed, voter-approved Charter rule to a Council-adopted ordinance that the Council can revise on its own in the future without a further public vote. Within any project category the future ordinance authorizes for \"best value\" or design-build treatment, the contract-award decision itself shifts from a mechanical lowest-price comparison to a discretionary, multi-factor evaluation controlled by whichever City staff or body the ordinance designates, a shift both the primary argument in favor and the primary argument against agree is the substantive effect, while disagreeing on whether it is a benefit or a risk.",
+  "loopholes": [
+    "The Charter amendment text itself does not name, define, or cap which \"purchasing or contracting method[s] allowed by California law\" the Council may adopt; the Impartial Analysis illustrates the change with design-build and construction manager-at-risk, but the ballot language voters are approving authorizes the Council to choose from the full universe of methods state law permits, not only those two. The actual list, and any limits on when \"best value\" or design-build supersedes lowest-bid, are left entirely to a future ordinance that does not yet exist and is not part of what voters are being asked to approve.",
+    "The measure separately authorizes \"clarifying changes to the wording of Section 1309 that do not alter the meaning of the section,\" per both the ballot question and the Impartial Analysis, without specifying what those wording changes are. Voters are asked to trust that changes made will not alter meaning, based on the City Attorney's characterization, without the amended text itself being available for comparison in the sources reviewed.",
+    "Because the future implementing ordinance is adopted by the City Council itself rather than requiring a further public vote, any \"best value\" evaluation criteria, weighting formulas, or documentation requirements the Council eventually adopts, and any later Council revisions to that ordinance, would not return to voters even though the underlying Charter authority Measure G grants is permanent absent a future Charter amendment."
+  ],
+  "unexpected_provisions": [
+    "The ballot question's plain-language framing centers on \"delivery of public works construction projects,\" but the underlying Charter authorization is written broadly enough to cover any state-law-permitted purchasing or contracting method, not just the design-build example most prominently discussed in the campaign arguments. A voter focused on the design-build framing in the primary argument in favor would not know the Charter text itself does not limit the Council to that one method.",
+    "Measure G is one of three charter amendments, Measures G, H, and I, that the Charter Review Committee and City Council placed on this same ballot together, following a shared multi-year review process and shared professional polling (FM3) of Sunnyvale voters in spring 2026. A proposed City Council pay-raise measure went through the same review and polling process but was deferred and did not appear on the ballot after polling showed it consistently below majority support; a voter encountering Measure G on its own would not know it was one surviving piece of a larger slate that included a shelved compensation measure.",
+    "The primary argument in favor and its rebuttal are signed exclusively by sitting City officials, Mayor Larry Klein, Vice Mayor Richard Mehlinger, and Councilmembers Murali Srinivasan, Charlsie Chang, and Eileen Le, plus one community member (Gail Rubino) and no outside advocacy organization, business association, or construction-industry group is listed as a filer or signer in the sources reviewed. The primary argument against, by contrast, was filed by a single former Sunnyvale councilmember, Michael S. Goldman, with one additional rebuttal signer (Andy Frazer); no organized opposition committee or advocacy group is identified in the sources reviewed.",
+    "The rebuttal in favor of Measure G directs readers to a campaign website, www.YES-on-GHI.com, covering all three Sunnyvale charter measures jointly, indicating a coordinated campaign presence across G, H, and I even though each appears as a legally separate ballot measure; no FPPC or Cal-Access filing for a corresponding committee was located in the sources reviewed."
+  ],
+  "pros": [
+    "Supporters, led by Mayor Larry Klein and Vice Mayor Richard Mehlinger in the primary argument in favor, argue the current Charter forces an outdated \"lowest-bid\" method that separates design from construction, causing communication gaps, costly mid-project change orders, and construction delays.",
+    "The argument in favor states design-build combines design and construction into one unified contract so the team that designs the project also builds it, which supporters say reduces errors, change orders, and budget overruns, and speeds up delivery of civic infrastructure with less community disruption.",
+    "Supporters argue the measure lets Sunnyvale weigh a contractor's specialized qualifications, track record, and technical expertise, not price alone, which they say produces higher-quality, longer-lasting infrastructure.",
+    "The rebuttal in favor emphasizes that design-build has been used in California for more than thirty years and cites California Senate Bill 935, described as passing with unanimous bipartisan support to permanently authorize local agencies to use design-build statewide, as evidence the method is established and legislatively endorsed, not experimental.",
+    "Supporters state the measure retains competitive bidding for everyday maintenance projects and requires that any alternative method be explicitly authorized by the City Council on a case-by-case basis under ordinances they characterize as strict and transparent.",
+    "The measure follows a unanimous recommendation from the citizen-led Charter Review Committee and a unanimous (7-0) City Council vote to place it on the ballot, which supporters point to as evidence of broad, non-partisan support for modernizing a Charter provision that predates modern project-delivery practice."
+  ],
+  "cons": [
+    "The primary argument against, filed by former Councilmember Michael S. Goldman, argues Measure G is \"purposely vague\" and would let the City award public-works contracts on subjective \"best value\" scoring instead of objective low-bid competition, removing what he characterizes as the current system's core anti-favoritism safeguard.",
+    "Opponents argue design-build eliminates the independent designer who currently has an incentive to flag problems and prevent corner-cutting by the builder, since under design-build the same entity designs and builds, leaving the builder effectively overseeing itself while taxpayers bear the added risk.",
+    "The argument against and its rebuttal cite specific out-of-state and in-state examples they say show the risks of best-value and design-build procurement, including the Los Angeles Belmont Learning Center's cost roughly doubling to over $300 million, former Los Angeles City Councilmember José Huizar's bribery conviction, a 2022 seven-year prison sentence for a former San Francisco Public Works Director for corruption involving competitive-bidding decisions, and large cost overruns on the California High-Speed Rail Authority's design-build segments and the San Francisco-Oakland Bay Bridge East Span replacement.",
+    "The rebuttal against the measure argues that shifting from objective lowest-bid awards to subjective best-value scoring gives City Council members discretion to effectively select contractors, which opponents argue creates a pathway for campaign donors and construction-industry political action committees to convert campaign contributions into public contracts.",
+    "Opponents note that Sunnyvale staff itself acknowledged in a 2016 report that design-build raises conflict-of-interest concerns, and argue that claims of reduced change orders under design-build originate from contractors who benefit financially from reduced competition, not from independent analysis.",
+    "The rebuttal in favor of Measure G directly disputes two of the opposition's central examples, arguing the Belmont Learning Center's cost overruns stemmed primarily from LAUSD's decision to site the project on an active earthquake fault and former oil field rather than from the design-build method itself, and that Huizar's corruption conviction involved dealings with private real-estate developers rather than public works contractors; voters weighing the argument against should note this is a contested, not settled, factual dispute between the two campaign filings."
+  ],
+  "who_supports": [
+    {
+      "name": "Larry Klein",
+      "type": "politician",
+      "notes": "Sunnyvale Mayor; filer and signer of the primary argument in favor of Measure G and its rebuttal; submitted the rebuttal to the argument against."
+    },
+    {
+      "name": "Richard Mehlinger",
+      "type": "politician",
+      "notes": "Sunnyvale Vice Mayor, District 5; signer of the primary argument in favor and its rebuttal; quoted in Silicon Valley Voice coverage supporting the measure as helping city government function smoothly and efficiently."
+    },
+    {
+      "name": "Murali Srinivasan",
+      "type": "politician",
+      "notes": "Sunnyvale Councilmember, District 3; signer of the primary argument in favor and its rebuttal."
+    },
+    {
+      "name": "Charlsie Chang",
+      "type": "politician",
+      "notes": "Sunnyvale Councilmember, District 4; signer of the primary argument in favor of Measure G."
+    },
+    {
+      "name": "Eileen Le",
+      "type": "politician",
+      "notes": "Sunnyvale Councilmember, District 6; signer of the rebuttal to the argument against Measure G."
+    },
+    {
+      "name": "Gail Rubino",
+      "type": "other",
+      "notes": "Identified as a Sunnyvale housing advocate; signer of the primary argument in favor of Measure G."
+    },
+    {
+      "name": "Mary Bradley",
+      "type": "other",
+      "notes": "Identified as a community leader; signer of the rebuttal to the argument against Measure G, added as an authorized new signer."
+    }
+  ],
+  "who_opposes": [
+    {
+      "name": "Michael S. Goldman",
+      "type": "politician",
+      "notes": "Former Sunnyvale City Councilmember; filer and sole primary signer of the primary argument against Measure G and its rebuttal; operates the referenced blog MeetingTheTwain.blogspot.com opposing the measure."
+    },
+    {
+      "name": "Andy Frazer",
+      "type": "other",
+      "notes": "Signer of the rebuttal to the primary argument in favor of Measure G, opposing the measure."
+    }
+  ],
+  "authors": [
+    {
+      "name": "Larry Klein",
+      "role": "Sunnyvale Mayor; filer of the primary argument in favor of Measure G and lead author of its rebuttal, following the City Council's unanimous vote to place the Charter Review Committee's recommended amendment on the ballot."
+    },
+    {
+      "name": "Richard Mehlinger",
+      "role": "Sunnyvale Vice Mayor; moved approval of the staff recommendation to place Measure G (and the companion Measures H and I) on the ballot at the City Council's June 23, 2026 meeting; co-signer of the primary argument in favor."
+    }
+  ],
+  "nonpartisan_analysis": [
+    {
+      "source": "City of Sunnyvale City Attorney (Rebecca L. Moon), Impartial Analysis of Measure G",
+      "summary": "Confirms Measure G would amend Charter Section 1309 to let the City use alternative methods, such as design-build and construction manager-at-risk, to select public-works contractors, and would authorize the City Council to adopt an ordinance regulating the award, use, evaluation, and approval of contracts using such methods. Confirms the current Charter mandates design-bid-build with award to the lowest responsive and responsible bidder based on price alone, and that this requirement blocks alternative delivery methods even where California state law otherwise permits them. States the measure also makes non-substantive clarifying wording changes to Section 1309, and that it requires a simple majority (50% plus one) of those voting on the measure to pass. States the Council placed the measure on the ballot on recommendation of a Charter Review Committee of appointed Sunnyvale residents.",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-g-city-of-sunnyvale_charter-amendment-ia_08-18-2026_redacted.pdf"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Santa Clara County Registrar of Voters, List of Local Measures, November 3, 2026 General Election",
+      "url": "https://vote.santaclaracounty.gov/list-local-measures-4",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Measure G, City of Sunnyvale, City Charter Amendment - Public Works Contracting, City Attorney's Impartial Analysis",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-g-city-of-sunnyvale_charter-amendment-ia_08-18-2026_redacted.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Measure G, City of Sunnyvale, Primary Argument In Favor",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-g-city-charter-amendment-public-works-contract-primary-arguemnt-in-favor_redacted.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Measure G, City of Sunnyvale, Primary Argument Against",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-g-city-charter-amendment-public-works-contract-primary-arguemnt-against_redacted.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Measure G, City of Sunnyvale, Rebuttal to Primary Argument In Favor",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-g-city-charter-amendment-public-works-contract-rebuttal-to-primary-argument-in-favor_redacted.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Measure G, City of Sunnyvale, Rebuttal to Primary Argument Against",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-g-city-charter-amendment-public-works-contract-rebuttal-to-primary-argument-against_redacted.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "City of Sunnyvale Municipal Code, Charter Section 1309 (current text, via eCode360)",
+      "url": "https://ecode360.com/42744529",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "City of Sunnyvale Municipal Code, Chapter 2.09, Public Works Contracting Ordinance (implementing Charter Section 1309, via eCode360)",
+      "url": "https://ecode360.com/42710281",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Citizen Portal, Sunnyvale council places three charter amendments on November ballot after weeks of review",
+      "url": "https://citizenportal.ai/articles/8310348/california/santa-clara-county/sunnyvale/sunnyvale-council-places-three-charter-amendments-on-november-ballot-after-weeks-of-review",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Citizen Portal, Sunnyvale council directs three charter amendments to November ballot, defers pay raise measure",
+      "url": "https://citizenportal.ai/articles/8047187/california/santa-clara-county/sunnyvale/sunnyvale-council-directs-three-charter-amendments-to-november-ballot-defers-pay-raise-measure",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Silicon Valley Voice, Sunnyvale to Ask Voters to Change City Charter",
+      "url": "https://www.svvoice.com/sunnyvale-to-ask-voters-to-change-city-charter/",
+      "retrieved": "2026-09-21"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}
