@@ -1,0 +1,266 @@
+{
+  "id": "scc-measure-d-2026",
+  "jurisdiction": "county",
+  "county": "Santa Clara",
+  "election_date": "2026-11-03",
+  "number": "Measure D",
+  "title": "Downtown Parking Plaza Ordinance (Citizen-Sponsored Initiative)",
+  "status": "on_ballot",
+  "summary": "Measure D is a City of Los Altos citizen initiative, not a countywide measure, that appears on the county ballot because it is administered by the Santa Clara County Registrar. It would bar the city from selling, leasing, conveying, declaring surplus, or making physical or use changes that reduce parking, tree canopy, or public access on any of the ten city-owned Downtown Parking Plazas unless voters separately approve it, with a narrow carve-out for affordable housing already planned on two of the ten plazas. It was placed on the ballot by a resident petition after the City Council committed to a park, underground parking, and a performing-arts theater on two of the plazas.",
+  "what_it_really_means": [
+    "This is a City of Los Altos measure, not a Santa Clara County measure, even though it is processed and printed by the county Registrar of Voters alongside genuinely countywide measures like Measure RTM. It only affects registered voters within Los Altos city limits and only governs the ten city-owned Downtown Parking Plazas, numbered 1 through 10, defined in the City Attorney's Impartial Analysis as the 'publicly-accessible, open and surface parking lots located in the Downtown area which are owned by the City.'",
+    "The measure did not originate with the City Council. It is a citizen initiative: residents Barbara Loebner, a former Los Altos Parks and Recreation Commissioner, and Lucinda 'Cindy' Langley-Andrews, a former Los Altos School District teacher, filed the Notice of Intent to Circulate with the City Clerk on March 17, 2026, according to reporting by Los Altos-focused outlet Vicki Ferrando Real Estate. Volunteers with the campaign committee 'For Downtown Los Altos' (FPPC #1490375) spent roughly thirty days in April 2026 gathering signatures in person, since state law requires ink signatures for this kind of petition; they submitted 3,097 signatures against a requirement of roughly 2,200, and the county's sample review projected about 2,676 as valid, well above threshold. Facing the option to adopt the ordinance outright, commission a state-required fiscal and legal impact report, or send it to voters, the City Council chose to commission the report and then voted to place the measure on the November ballot rather than adopt it directly.",
+    "The trigger was a specific, already-underway redevelopment plan, not an abstract worry about future development. The city's 2018 Downtown Vision plan called for a hotel, offices, apartments, parks, a theater, and a parking garage across the ten plazas. In 2023 the council signed an agreement reserving a plaza between 2nd and 3rd Streets for a performing-arts theater with the Los Altos Stage Company. In February 2025 the council voted 4-1 to spend roughly $2.3 million in restricted park-impact-fee funds on a Watry Design Inc. contract to plan a park with underground parking on Plazas 1 and 2, specifically the two plazas immediately behind Main Street storefronts. It was this contract, and the theater plan layered on top of it, that Los Altos Daily Post reporting and the campaign's own statements identify as what triggered the petition drive, not the separately decided affordable-housing designation on Plazas 7 and 8.",
+    "Measure D does not touch the housing question its opponents center their campaign on. Plazas 7 and 8 were declared surplus land in August 2024 and designated for subsidized housing under a process governed by California's Surplus Land Act, independent of anything voters decide this November; that designation credits the city's state-mandated Housing Element with 124 units (63 moderate-income, 61 above-moderate-income) on those two plazas. Measure D's own text exempts these two plazas by name, permitting 'affordable housing on City-designated Parking Plazas 7 and 8' without a vote. Everything the campaign's opposition literature warns about regarding housing capacity, HCD compliance, and the Builder's Remedy concerns the other eight plazas and the general question of what happens if a future non-housing project on those eight plazas gets blocked at the ballot box, not a housing project the measure itself prevents.",
+    "The ordinance closes what would otherwise be an obvious loophole: a long-term ground lease or development agreement handing a plaza to a private developer without a formal 'sale.' The City Attorney's Impartial Analysis states the prohibition covers not just selling, leasing, or conveying the plazas outright, but also 'entering into a development agreement or similar agreement that would allow a third-party to take action prohibited by it.' A city that wanted to route around the ordinance by granting a 99-year ground lease to a private operator rather than selling the land outright would still need voter approval, because the ordinance defines the prohibited actions by their practical effect (loss of public parking, tree canopy, or public control) rather than by the legal form of the transaction.",
+    "The measure reaches further than parking-lot preservation; it also functions as a tree-protection ordinance bundled into a parking-plaza measure, something a voter reading only the ballot title's reference to 'protected trees' might undercount. The Impartial Analysis lists, as a separately prohibited action requiring a vote, any modification that would 'negatively affect protected trees or tree canopy' on the plazas, independent of any effect on parking itself. The city's own downtown plazas host roughly 120 mature Chinese pistache and other heritage trees, and campaign materials from the allied advocacy group ForLosAltos put the potential loss from the current park design at roughly a third of that canopy.",
+    "The measure also restricts the city's ability to solve its own parking problem by building more parking. Because Measure D requires a vote before 'constructing any capital project that permanently diminishes the availability of public parking' and separately before 'modifying them by adding additional levels,' a city plan to replace surface parking with a taller parking structure, the kind of project that could preserve or increase total parking capacity while reducing the surface footprint, would itself require voter approval under the plain text of the ordinance as described in the Impartial Analysis. The ordinance does not distinguish between redevelopment that reduces net parking and redevelopment that increases it through vertical construction; both trigger the vote requirement because both count as 'modifying' or 'adding levels' to a plaza.",
+    "The affordable-housing exception is narrower than campaign materials on either side fully spell out, and the ambiguity is documented by the city's own required pre-election analysis rather than invented by either campaign. The state-mandated 2026 Ballot Measure Impact Analysis (the '9212 Report'), quoted in the Impartial Analysis, found that although 'there is an exception for affordable housing on Plazas 7 and 8, it is not clear if mixed-income housing or other development programs that include affordable housing could be approved without a subsequent Ballot Measure.' In other words, the carve-out may cover only development that is entirely, or nearly entirely, income-restricted affordable housing; a mixed-income project combining market-rate and affordable units on the same two plazas could fall back under the general vote requirement, a reading the 9212 Report itself flags as unresolved rather than settled by the ordinance's text.",
+    "The dispute over what Measure D does to the city's state Housing Element compliance is real and unresolved, not settled by either campaign's framing. In an August 28, 2026 letter to Development Services Director Stephanie Williams, state housing official Brian Heaton of the Department of Housing and Community Development (HCD) wrote that if voters adopt the ordinance, the city 'will be required to amend its Housing Element to analyze the ordinance as a potential governmental constraint on housing development,' including whether the ten plazas remain appropriate sites at all. Separately, the pro-housing nonprofit YIMBY Law sent the city a June 15, 2026 letter stating it is 'prepared to sue Los Altos the instant this measure is adopted' on a theory that the ordinance would violate SB 330, a state law limiting local housing-approval delays; City Manager Gabriel Engeland told the council on September 8, 2026 that staff consider 'this YIMBY Law litigation theory a credible threat,' separate from the HCD letter, that could expose roughly 1,000 units' worth of compliance obligations. Engeland was explicit that the HCD letter alone does not automatically trigger the Builder's Remedy, the state provision letting developers bypass local zoning in cities found out of Housing Element compliance; it starts a Housing Element amendment process with HCD review, and only a finding of substantial noncompliance during or after that process could open the door to the Builder's Remedy. Los Altos already carries roughly 640 surplus housing units above its 1,958-unit state mandate in its certified Housing Element, which the pro-D campaign and one city council commenter cite as a buffer even if the ten plazas are removed from the site inventory, while Councilmember Pete Dailey argues the arithmetic is more constrained than that buffer suggests once specific income categories, not just raw unit totals, are accounted for.",
+    "Under current law, absent Measure D, the City Council alone decides what happens to the ten plazas, subject only to state housing and surplus-land law. A 'No' vote, per the Impartial Analysis, 'will preserve the City's discretion to use the Parking Plazas for any use permitted by local, state, and/or federal law.' A 'Yes' vote transfers a defined, fairly broad category of decisions, sale, lease, surplus declaration, parking-reducing capital projects, added parking levels, tree-canopy-affecting modifications, and enabling third-party agreements, from the five-member elected council to a citywide majority vote, while leaving maintenance, repair, farmers markets, short-term events, and the already-decided Plazas 7/8 affordable housing outside the vote requirement.",
+    "Litigation cost, not a dollar figure attached to the plazas themselves, is the measure's clearest quantifiable fiscal exposure, and neither the Impartial Analysis nor the 9212 Report puts a number on it. If the ordinance passes and is challenged in court, the Impartial Analysis states 'the City would be required to pay defense costs of the challenge and potentially indemnify the proponents,' funded from the General Fund, and the city 'would also be required to defend the Ballot Measure and any implementation of the Ballot Measure, until ended by voters.' That defense obligation is a function of general California election law governing citizen initiatives, not a provision Measure D itself creates, but it is a real and unquantified cost driver the Impartial Analysis specifically flags given the YIMBY Law threat already on file."
+  ],
+  "fiscal_impact": {
+    "state_cost": "none. This is a City of Los Altos land-use ordinance; it creates no state General Fund obligation.",
+    "state_savings": "none identified.",
+    "local_cost": "No dollar figure was quantified in the City Attorney's Impartial Analysis or the sources reviewed. The Impartial Analysis states the city would bear litigation defense costs, and potentially indemnification costs for the initiative's proponents, from the General Fund if the ordinance is challenged in court, a scenario YIMBY Law has already threatened via a June 15, 2026 letter regardless of whether Measure D passes. Separately, the city's Housing Element amendment process that HCD says would be triggered by passage carries its own unquantified staff and consultant cost.",
+    "revenue_change": "none. Measure D does not create, raise, lower, or redirect any tax, fee, or other government revenue; it is a land-use and voter-approval procedure measure.",
+    "ongoing_vs_one_time": "Ongoing. If approved, the voter-approval requirement applies to any future sale, lease, surplus declaration, parking-reducing capital project, added parking level, or tree-canopy-affecting modification on the ten plazas indefinitely, until repealed or amended by a future citywide vote.",
+    "narrative": "Measure D has no tax or appropriation component; its fiscal exposure is indirect, running through litigation risk and Housing Element compliance process costs rather than through the ordinance's own text. The roughly $2.3 million the City Council already committed in February 2025 to Watry Design for park and underground-parking concept work on Plazas 1 and 2 comes from restricted park-impact-fee funds and predates Measure D by more than a year; that money is already obligated regardless of the November outcome, though a 'Yes' vote would mean any resulting capital project cannot proceed without a subsequent citywide vote, potentially stranding some or all of that up-front design spending if voters later reject the specific project. Neither the Impartial Analysis nor the 9212 Report estimates what a Housing Element amendment process or a YIMBY Law lawsuit would cost the city, leaving voters to weigh a real but unquantified risk against the ordinance's stated goal of preventing future unbudgeted capital commitments like the Watry Design contract from proceeding without a public vote."
+  },
+  "taxes": {
+    "new_taxes": [],
+    "tax_changes": []
+  },
+  "spending": {
+    "new_spending_areas": [],
+    "funding_source": "Not applicable. Measure D does not appropriate, raise, or redirect any money. It restricts what the City Council can do with the ten downtown parking plazas without a public vote; any capital project on the plazas, such as the roughly $2.3 million Watry Design park and underground-parking contract already under contract with restricted park-impact-fee funds, continues to be funded through the city's normal capital and park-impact-fee budget process, subject to the new vote requirement for projects the ordinance covers."
+  },
+  "control_and_power": "Today, the five-member elected Los Altos City Council has sole discretion over the ten city-owned Downtown Parking Plazas, subject only to state housing and surplus-land law; it has used that discretion to commit a plaza to a theater operator (2023), contract roughly $2.3 million for a park-and-underground-parking design (2025), and declare two plazas surplus for affordable housing (2024). Measure D would transfer a defined set of decisions on the other eight plazas, and any use of Plazas 7 and 8 beyond the already-designated affordable housing, from the Council to a citywide majority vote: selling, leasing, or conveying any plaza; declaring one surplus; any capital project that permanently reduces public parking; adding parking levels; modifications that harm protected trees or tree canopy; and any development agreement or similar third-party arrangement that would accomplish any of the above. The Council retains unilateral authority over maintenance, repair, and hosting farmers markets or similar short-term events, and retains its existing authority over the Plazas 7 and 8 affordable-housing process, which state Surplus Land Act law already constrains independent of this measure. If the ordinance is challenged in court, state election law (not the ordinance's own text) gives the initiative's private proponents standing to defend it and requires the city to fund that defense from its General Fund, effectively giving five private citizens who cannot be voted out of office some practical control over how the city responds to future litigation about the plazas.",
+  "loopholes": [
+    "The 9212 Report commissioned by the city itself, quoted in the City Attorney's Impartial Analysis, found it 'is not clear if mixed-income housing or other development programs that include affordable housing could be approved [on Plazas 7 and 8] without a subsequent Ballot Measure,' meaning the affordable-housing exception may not extend to a mixed-income project that combines market-rate and affordable units on the same two plazas, an ambiguity the ordinance's text does not resolve.",
+    "Because the ordinance prohibits any 'development agreement or similar agreement that would allow a third-party to take action prohibited by it,' the more obvious workaround of leasing a plaza to a private developer under a long-term ground lease rather than selling it is already closed off by the text as read in the Impartial Analysis; sources reviewed identified no remaining structural loophole permitting a functional transfer of plaza control without a vote.",
+    "The measure blocks 'modifying them by adding additional levels' without distinguishing between a project that reduces total parking (for example, replacing surface parking with housing) and a project that would increase total parking capacity through vertical construction (a taller parking structure); both require a citywide vote under the plain text described in the Impartial Analysis, which arguably works against the ordinance's own parking-preservation goal in the specific case where the city wants to build more parking, not less.",
+    "Neither the Impartial Analysis nor the 9212 Report specifies a process, deadline, or public disclosure requirement for how or when the city must determine whether a given plaza still belongs in its Housing Element site inventory following an HCD-triggered amendment process; the timeline and substantive standard for that determination are left to future negotiation between the city and HCD rather than fixed by the measure."
+  ],
+  "unexpected_provisions": [
+    "The ordinance functions as a tree-canopy protection measure as much as a parking-preservation measure: any modification 'that would negatively affect protected trees or tree canopy' on the plazas requires a citywide vote, independent of any effect on parking availability, a provision a voter focused only on the 'parking plaza' framing in the ballot title might not expect.",
+    "The measure restricts the city's ability to add parking capacity through vertical construction, not just its ability to remove parking; 'modifying them by adding additional levels' requires a vote under the ordinance's text even where the underlying project would replace surface parking with a larger parking structure.",
+    "Passage would trigger a mandatory Housing Element amendment process with the state Department of Housing and Community Development, according to an August 28, 2026 letter from HCD official Brian Heaton, because the city's certified Housing Element currently credits the ten plazas with 124 housing units (63 moderate-income, 61 above-moderate-income); this consequence flows from state housing law interacting with the ordinance, not from anything stated in the ballot question voters see.",
+    "A pro-housing nonprofit, YIMBY Law, has already notified the city in writing that it intends to sue immediately if the measure passes, arguing a violation of state law (SB 330) limiting local constraints on housing approvals; city staff told the council on September 8, 2026 that they consider this litigation theory a credible threat separate from the Housing Element issue, exposing the city to legal costs the Impartial Analysis says the General Fund would have to bear regardless of the underlying merits.",
+    "Under general California election law rather than any provision unique to this ordinance, the initiative's private proponents gain a practical role in defending the measure in any future lawsuit, and the city must fund that defense and potentially indemnify the proponents from its General Fund, a consequence the Impartial Analysis discloses but that does not appear anywhere in the ballot question's text."
+  ],
+  "pros": [
+    "Supporters argue Measure D simply gives Los Altos residents the right to vote on permanent changes to public downtown parking plazas before the city sells, trades, leases, conveys, declares 'surplus land,' or otherwise permanently changes their current use, per the official primary argument in favor filed by former Parks and Recreation Commissioner Barbara Loebner and others.",
+    "The measure is housing-friendly by design, supporters say: voter approval is not required for the state-mandated affordable housing already planned on Plazas 7 and 8, and the city would retain full authority to maintain, improve, landscape, and use all ten plazas for parking, festivals, parades, farmers markets, and other community events without a vote.",
+    "Supporters, including former mayors Lou Becker and Ron Packard, argue the city can still propose any project for voter consideration, including a park, parking garage, or performing arts center; the measure does not block these projects, it requires the community's approval as a final step before they proceed.",
+    "The pro-D rebuttal argument states California law already protects citizen-sponsored initiatives with a right to defend themselves in court because government officials may not defend them, framing the litigation-cost provision the Impartial Analysis flags as a pre-existing legal safeguard rather than something Measure D newly grants its proponents, and denies the measure authorizes proponents to initiate taxpayer-funded lawsuits.",
+    "Supporters argue the measure is consistent with existing Los Altos policy: voter approval is already required by local ordinance for the disposition of parks, open space, and the 18-acre Civic Center property, and Measure D simply extends that same principle to the city-owned downtown parking plazas.",
+    "Supporters, including downtown property and business owners such as Draeger's Market owner Richard Draeger, argue the ten plazas are valuable public assets whose tree-lined, convenient parking supports local businesses and the city's sales-tax base, and that a decision of this permanence and importance deserves a community vote rather than resting with any single city council."
+  ],
+  "cons": [
+    "Opponents, in the official primary argument against filed by former Mayor Mary Prochnow, Los Altos Village Association President Shannon Geary, and others, call Measure D 'a costly mistake' that will require a citywide election before future changes can move forward, delaying improvements and discouraging investment in downtown even for projects unrelated to housing.",
+    "Opponents argue the measure is poorly drafted and legally ambiguous, warning it jeopardizes the city's state-approved Housing Element; if HCD finds the city out of compliance, opponents say the state could require new housing sites in residential neighborhoods or along corridors like El Camino Real, San Antonio Road, or Foothill Expressway, potentially exposing the city to the Builder's Remedy and a loss of local zoning control, as has occurred in neighboring Palo Alto and Menlo Park.",
+    "Opponents' rebuttal argument states the measure does not actually protect existing parking, because when Plazas 7 and 8 build the state-mandated housing already planned there, the city could lose up to 266 spaces and would be unable to replace that parking without a separate, costly citywide election, since parking-capacity-restoring construction on other plazas would itself require a vote.",
+    "Opponents argue the measure gives its own private proponents a special role in litigation over the ordinance, funded by taxpayers, with what they characterize as 'zero accountability' since those proponents cannot be voted out of office the way elected council members can.",
+    "The City's own staff, presenting to the council on September 8, 2026, and YIMBY Law's June 2026 letter both warn the ordinance could trigger costly litigation; opponents cite this alongside a June 15, 2026 letter in which YIMBY Law states it is 'prepared to sue Los Altos the instant this measure is adopted,' framing the legal exposure as avoidable if voters reject the measure.",
+    "Councilmember Pete Dailey, not a signer of the official argument but an outspoken opponent at council meetings, has said that if Measure D passes he will immediately propose allowing multifamily housing in Los Altos's single-family residential neighborhoods, or alternatively allowing buildings up to 20 stories downtown, to preserve Housing Element compliance, a scenario Measure D supporters call a scare tactic and city staff describe as one of several uncertain paths rather than an automatic outcome."
+  ],
+  "who_supports": [
+    {
+      "name": "Barbara Loebner",
+      "type": "other",
+      "notes": "Former Los Altos Parks and Recreation Commissioner; co-filer of the Notice of Intent to Circulate (March 17, 2026) and filer of the official primary argument in favor of Measure D."
+    },
+    {
+      "name": "Lucinda 'Cindy' Langley-Andrews",
+      "type": "other",
+      "notes": "Former Los Altos School District teacher; co-filer of the Notice of Intent to Circulate and a named campaign spokesperson quoted in Palo Alto Daily Post coverage as 'Cindy Andrews.'"
+    },
+    {
+      "name": "Lou Becker",
+      "type": "politician",
+      "notes": "Former Los Altos Mayor; listed supporter under the official primary argument in favor."
+    },
+    {
+      "name": "Ron Packard",
+      "type": "politician",
+      "notes": "Former Los Altos Mayor; listed supporter under the official primary argument in favor."
+    },
+    {
+      "name": "Draeger's Market (Richard Draeger)",
+      "type": "business",
+      "notes": "Downtown Los Altos grocer; owner Richard Draeger is quoted supporting a community vote before permanent changes to the plazas."
+    },
+    {
+      "name": "For Downtown Los Altos",
+      "type": "org",
+      "notes": "Primary campaign committee for Measure D, FPPC #1490375, operating as yeslosaltos.org; ran the April 2026 signature drive."
+    },
+    {
+      "name": "ForLosAltos",
+      "type": "org",
+      "notes": "Allied resident advocacy group (forlosaltos-now.com) campaigning separately to 'Pause the Park' project on Plazas 1 and 2 and supporting Measure D as a broader public-lands voter-approval principle, though it is not the official ballot-argument campaign committee."
+    }
+  ],
+  "who_opposes": [
+    {
+      "name": "Mary Prochnow",
+      "type": "politician",
+      "notes": "Former Los Altos Mayor; signer of the official primary argument against Measure D."
+    },
+    {
+      "name": "Shannon Geary",
+      "type": "other",
+      "notes": "Los Altos resident and President of the Los Altos Village Association; signer of the official primary argument against Measure D."
+    },
+    {
+      "name": "Los Altos Village Association",
+      "type": "org",
+      "notes": "Downtown merchants' association; named alongside the League of Women Voters as urging a 'No' vote in the anti-Measure D rebuttal argument."
+    },
+    {
+      "name": "League of Women Voters (Los Altos-area chapter)",
+      "type": "org",
+      "notes": "Named in the official rebuttal argument against Measure D as jointly urging voters to 'Vote no on D.'"
+    },
+    {
+      "name": "Robert Curtis Cole",
+      "type": "politician",
+      "notes": "Past Los Altos Mayor; filer and signer of the official primary argument against Measure D."
+    },
+    {
+      "name": "Pete Dailey",
+      "type": "politician",
+      "notes": "Sitting Los Altos City Councilmember; not a signer of the official argument but the most vocal council opponent, warning at a September 2026 meeting that passage could force the city to allow multifamily housing in single-family neighborhoods or high-rise buildings downtown."
+    }
+  ],
+  "authors": [
+    {
+      "name": "Barbara Loebner",
+      "role": "Initiative co-proponent; co-filed the Notice of Intent to Circulate with the Los Altos City Clerk on March 17, 2026, and filed the official primary argument in favor of Measure D."
+    },
+    {
+      "name": "Lucinda 'Cindy' Langley-Andrews",
+      "role": "Initiative co-proponent; co-filed the Notice of Intent to Circulate on March 17, 2026, and is quoted as campaign spokesperson 'Cindy Andrews' in Palo Alto Daily Post reporting on the measure's origins."
+    }
+  ],
+  "funding": {
+    "support_committees": [
+      {
+        "name": "For Downtown Los Altos (FPPC #1490375)",
+        "total_raised": "not itemized or totaled in sources reviewed; the committee's own website states donations are used exclusively for the Measure D campaign and that contributions of $100 or more require public donor disclosure, but no aggregate total-raised figure or itemized donor list was found in a Cal-Access or FPPC filing during this review.",
+        "top_donors": [],
+        "source_url": "https://www.forlosaltos-now.com/"
+      }
+    ],
+    "oppose_committees": [
+      {
+        "name": "No on Measure D (nomeasured.org)",
+        "total_raised": "not yet reported in sources reviewed; no FPPC committee ID, total-raised figure, or donor list was found on the campaign's public website or in the other sources reviewed during this research.",
+        "top_donors": [],
+        "source_url": "https://www.nomeasured.org/"
+      }
+    ]
+  },
+  "nonpartisan_analysis": [
+    {
+      "source": "Los Altos City Attorney (Jolie Houston), Impartial Analysis of Measure D",
+      "summary": "Confirms Measure D is a voter-sponsored initiative that would add Municipal Code Chapter 14.92, defining the ten Downtown Parking Plazas and prohibiting, absent a majority vote, selling, leasing, or conveying them; changing their use in a way that diminishes public parking; declaring them surplus land; capital projects that permanently diminish parking availability; adding parking levels; modifications harming protected trees or tree canopy; or third-party development agreements accomplishing any prohibited action. Confirms permitted exceptions are limited to maintenance/repair, farmers markets and short-term events, and state-mandated affordable housing on Plazas 7 and 8. Quotes the city's 2026 Ballot Measure Impact Analysis (9212 Report) finding it unclear whether mixed-income housing on Plazas 7 and 8 would qualify for the exception, and states that if challenged in court, the city must pay defense costs and potentially indemnify the initiative's proponents from the General Fund, citing a June 15, 2026 YIMBY Law letter threatening immediate litigation if the measure passes.",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-d-city-of-los-altos-ia-08-18-2026_redacted.pdf"
+    },
+    {
+      "source": "Ballotpedia",
+      "summary": "Covers Measure D as a citizen initiative on the Los Altos ballot requiring a simple majority vote, describing the measure as prohibiting the city from selling, leasing, conveying, or declaring as surplus land the Downtown Parking Plazas, or authorizing new uses or physical alterations, unless approved by a majority of voters, noting it qualified through a successful citizen petition rather than a council referral.",
+      "url": "https://ballotpedia.org/Los_Altos,_California,_Measure_D,_Require_Voter_Approval_for_Parking_Plaza_Development_Measure_(November_2026)"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Santa Clara County Registrar of Voters, List of Local Measures, November 3, 2026 General Election",
+      "url": "https://vote.santaclaracounty.gov/list-local-measures-4",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Measure D, City of Los Altos Citizen-Sponsored Initiative, City Attorney's Impartial Analysis",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-d-city-of-los-altos-ia-08-18-2026_redacted.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Measure D, City of Los Altos Citizen-Sponsored Initiative, Primary Argument In Favor",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-d-city-of-los-altos-citizen-sponsored-intiiative_argument-in-favor_08102026_redacted.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Measure D, City of Los Altos Citizen-Sponsored Initiative, Primary Argument Against",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-d-city-of-los-altos-citizen-sponsored-intiiative_argument-against_08102026_redacted.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Measure D, City of Los Altos, Rebuttal to Argument In Favor",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-d-city-of-los-altos-rebuttal-to-argument-in-favor-08-18-2026_redacted-v2.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Measure D, City of Los Altos, Rebuttal to Argument Against",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-d-city-of-los-altos-rebuttal-to-argument-against-08-18-2026_redacted.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Ballotpedia, Los Altos, California, Measure D, Require Voter Approval for Parking Plaza Development Measure (November 2026)",
+      "url": "https://ballotpedia.org/Los_Altos,_California,_Measure_D,_Require_Voter_Approval_for_Parking_Plaza_Development_Measure_(November_2026)",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Palo Alto Daily Post, Los Altos ballot proposal stops parking lot plans",
+      "url": "https://padailypost.com/2026/04/09/los-altos-ballot-proposal-stops-parking-lot-plans/",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Palo Alto Daily Post, State housing officials offer an opinion about Los Altos ballot proposal",
+      "url": "https://padailypost.com/2026/09/06/42161/",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Palo Alto Daily Post, Councilman raises stakes in battle over Measure D",
+      "url": "https://padailypost.com/2026/09/14/councilman-raises-stakes-in-battle-over-measure-d/",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Los Altos Town Crier, Los Altos staff breaks down impacts of Measure D",
+      "url": "https://www.losaltosonline.com/news/los-altos-staff-breaks-down-impacts-of-measure-d/article_fdbfddd5-abb5-4880-86a7-d4c2264fd3cd.html",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Los Altos Town Crier, Los Altos council OK's $2.3 million contract for downtown park, underground parking",
+      "url": "https://www.losaltosonline.com/news/los-altos-council-ok-s-2-3-million-contract-for-downtown-park-underground-parking/article_a8fdb482-ee24-11ef-ad9d-17ca22491a8e.html",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Vicki Ferrando Real Estate, The Two Downtown Los Altos Plazas Measure D Doesn't Touch",
+      "url": "https://vickiferrando.com/blog/the-two-downtown-los-altos-plazas-measure-d-doesnt-touch",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "City of Los Altos, Citizen Initiative on Downtown Parking Plaza Ordinance - Measure D",
+      "url": "https://www.losaltosca.gov/783/Citizen-Initiative-Downtown-Parking-Plaz",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "City of Los Altos, Measure D",
+      "url": "https://www.losaltosca.gov/793/Measure-D",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "For Downtown Los Altos (Yes on Measure D campaign), ForLosAltos",
+      "url": "https://www.forlosaltos-now.com/",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "No on Measure D",
+      "url": "https://www.nomeasured.org/",
+      "retrieved": "2026-09-20"
+    }
+  ],
+  "last_updated": "2026-09-20"
+}
