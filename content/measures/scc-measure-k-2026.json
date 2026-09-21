@@ -1,0 +1,184 @@
+{
+  "id": "scc-measure-k-2026",
+  "jurisdiction": "county",
+  "county": "Santa Clara",
+  "election_date": "2026-11-03",
+  "number": "Measure K",
+  "title": "City of Milpitas Local Funding Measure (Business Tax Update)",
+  "status": "on_ballot",
+  "summary": "Measure K asks City of Milpitas voters to replace the city's business tax, whose per-employee rate structure has not changed since 1976, with a new tax based on each business's gross receipts. Every business would pay a flat rate of $25 to $400 depending on its size, and businesses with more than $700,000 in annual gross receipts would additionally pay 0.025% to 0.035% on the portion of receipts above that threshold. The measure applies only to businesses, not residents, is projected to raise about $3 million a year for the city's general fund, and needs only a simple majority to pass because it is a general tax.",
+  "what_it_really_means": [
+    "Milpitas has taxed businesses under the same basic formula since 1976: a business pays based on which industry category it falls into (the City Attorney's Impartial Analysis gives \"retail,\" \"manufacturing,\" and \"beauty salon\" as examples) and how many employees it has. Measure K, per Resolution No. 9533 (adopted by the City Council on August 3, 2026) and the ordinance attached to it as Exhibit A, repeals that entire structure (Milpitas Municipal Code Title III, Chapter 1) and replaces it with a new Title III, Chapter 10, which taxes gross receipts instead of headcount. \"Gross receipts,\" as defined in the ordinance (section III-10-2.140), means essentially all money a business takes in from operating in Milpitas, without subtracting expenses, payroll, rent, or cost of goods; it excludes only specific items like refunds, sales tax already collected, bad debt, and payments passed through to subcontractors or non-affiliated agents. Because the tax is levied on top-line revenue rather than profit, a high-revenue, thin-margin business (a distributor or contract manufacturer, for example) is taxed the same as a high-margin business with identical gross receipts, even if its actual profitability is far lower.",
+    "The new tax has two components, both spelled out in the Business Tax Schedule at ordinance section III-10-3.20. Every business pays a flat rate that rises with its gross receipts tier: $25 under $25,000; $115 from $25,000 to $100,000; $250 from $100,000 to $250,000; and $400 for everything at or above $250,000, a ceiling that does not rise further no matter how large the business gets. On top of that flat $400, businesses with more than $700,000 in gross receipts pay a marginal rate on the portion of receipts above $700,000: $0.25 per $1,000 between $700,000 and $10 million, $0.30 per $1,000 between $10 million and $25 million, and $0.35 per $1,000 above $25 million. Applying that schedule to a large Milpitas employer, for example a manufacturer or biotech/tech tenant with $500 million in annual gross receipts, works out to roughly $173,000 a year in total tax (the flat $400, plus $2,325 on the $700,000-to-$10-million slice, $4,500 on the $10-million-to-$25-million slice, and about $166,250 on the remaining $475 million above $25 million) - an effective rate of about 0.035% of gross receipts. That is a large absolute increase in dollar terms over what such an employer likely paid under the old per-employee flat-category system, but it remains a small fraction of that company's revenue; the ordinance does not publish what any specific large Milpitas employer pays today, so this deep dive cannot state the size of that increase precisely. The measure's own findings (Resolution No. 9533, whereas clauses) assert that under the current system, some smaller businesses pay over 70 times more per employee than larger businesses and corporations pay; that comparison is the city's own justification for the change, and no independent study or underlying data supporting the 70-times figure was found in the sources reviewed for this analysis.",
+    "The city attorney's Impartial Analysis and the ordinance both confirm the tax is a general tax: proceeds go into the City's general fund, are usable for any lawful municipal purpose, and are not legally earmarked to the specific priorities named in the ballot question (fiscal stability, neighborhood safety and cleanliness). Because it is general rather than special, Government Code sections 53723 and 53724 (cited directly in Resolution No. 9533) set the approval threshold at a simple majority of those voting, not the two-thirds supermajority required for a special tax dedicated to a specific purpose. The Notice of Ballot Measure states this explicitly: \"The ballot measure proposes a general-purpose tax and requires 50% + 1 voter approval to pass.\" Most core city services, including police, fire, ambulance, street and sidewalk repair, and parks and recreation, are funded from this same general fund, and the general fund budget is set by the City Council through the normal annual budget process, not by this measure.",
+    "The ordinance does not take effect immediately even if voters approve it in November 2026. Per the Impartial Analysis, the new gross receipts tax would go into effect January 1, 2028, roughly fourteen months after the election. A business commencing operations in Milpitas on or after that date pays a flat first-year tax of $115 regardless of its actual gross receipts, not reconciled or refunded once real receipts are known (ordinance section III-10-3.10(b)); the tax formula based on actual gross receipts only applies starting in a business's second year of operation.",
+    "The ordinance builds in two mechanisms that change how much a business pays over time without requiring voters to approve anything further. First, section III-10-3.30 (\"Automatic Adjustment\") indexes every flat rate in the schedule to inflation starting July 1, 2029, using the Consumer Price Index for the San Francisco-Oakland-Hayward area; the Director of Finance calculates and publishes the new rate each year, and the ordinance specifies rates can never be adjusted downward below the prior rate. Second, and separately, section III-10-3.40 (\"Adjustment by Council Action\") lets the City Council, by resolution or ordinance and without another public vote, modify the Business Tax rate at any time, so long as no flat rate or gross-receipts rate the Council sets ever exceeds the ceiling already fixed in the voter-approved schedule (as adjusted for inflation under section III-10-3.30). In practice this means voters are approving the maximum rate schedule; the Council can set actual rates anywhere at or below that ceiling, including raising them toward it, without coming back to the ballot. This is the same basic structure Santa Clara County voters will see in Gilroy's Measure B (a council-adjustable rate under a voter-set ceiling), though Milpitas's ceiling is fixed by the specific dollar and percentage figures in the schedule itself rather than left as an open percentage range.",
+    "The ordinance exempts certain categories of taxpayer outright: nonprofit and religious organizations, veterans (under conditions set in the ordinance), family caregivers, businesses engaged only in occasional transactions, and City-sponsored events (ordinance Section 7, sections III-10-7.70 through III-10-7.120). Neither the ballot question nor the Impartial Analysis spells out the specific eligibility conditions for these exemptions; voters approving the measure are not shown that detail on the ballot itself. Separately, the ordinance defines \"Related Entities\" (section III-10-2.180) to mean commonly owned and integrated business units, including any businesses that file combined tax returns together under California law, and treats any group of Related Entities as a single \"Person\" for purposes of the tax. That prevents a business from splitting into multiple smaller legal entities purely to keep each one under a lower gross-receipts tier and pay less in flat-rate and marginal tax; it is a base-broadening, anti-avoidance provision rather than an exemption.",
+    "The City Council placed the measure on the ballot unanimously, 5-0 (Mayor Carmen Montano, Vice Mayor Barbadillo, and Councilmembers Chua, Lam, and Lien all voting aye), on August 3, 2026, via Resolution No. 9533. City Manager Willie Hopkins is quoted in coverage from the Milpitas Beat and PublicCEO stating the measure followed a six-month engagement effort with the business community, including a City Manager's Small Business Roundtable, community surveys, and informational mailers, and that the city needs additional local funding to address illegal dumping and neighborhood blight, homelessness, aging water and sewer infrastructure, and storm drains. Coverage from Hoodline places this in the context of a structural budget deficit the city projected at $28.5 million, later trimmed to $24.2 million through other adjustments; that broader deficit figure is background reported by Hoodline, not a figure stated in the ballot question, the Impartial Analysis, or Resolution No. 9533 itself.",
+    "Both a primary argument in favor and a primary argument against were filed with the Santa Clara County Registrar of Voters, along with a rebuttal to each. The argument in favor was filed by Jeannie Young and signed by Mario Bess (President, SEIU Local 1699), Brian Thanh (President, Milpitas Police Officers Association), and small business owners Steve Roberts, Martha C. Perez, and Kimberly Paras; it argues large corporations should \"finally pay their fair share\" and that the measure does not raise taxes on residents or homeowners. The argument against was filed by Elizabeth C. Brierly, Director of the Silicon Valley Taxpayers Association (a countywide taxpayer advocacy group, the same organization that filed the primary argument against Gilroy's Measure B), and signed by Joe Dehn, Chair of the Libertarian Party of Santa Clara County; it argues, as a matter of economic theory, that \"businesses don't pay taxes\" because they pass tax costs along to customers through higher prices, to employees through lower wages, or to shareholders through lower investment returns, and warns the increase could push some Milpitas business owners to relocate. The rebuttal to the argument against (signed by Steve Roberts, Martha C. Perez, Kimberly Paras, and community leader Norma Morales) calls the opposition an \"out-of-town Special Interest group\" and reasserts that Measure K lowers taxes for the smallest businesses; the rebuttal to the argument in favor (signed by Elizabeth C. Brierly and taxpayer Laura Thor) repeats the argument against's core \"businesses don't pay taxes\" framing. No search found a registered FPPC/Cal-Access campaign committee, and no dollar figures for money raised or spent in support of or opposition to Measure K, as of the September 2026 retrieval date for this analysis."
+  ],
+  "fiscal_impact": {
+    "state_cost": "none. This is a City of Milpitas general tax measure; it creates no state General Fund obligation.",
+    "state_savings": "none identified.",
+    "local_cost": "none mandated on the county. No dollar estimate for the City of Milpitas's cost of placing the measure on the November 2026 ballot was found in the sources reviewed for this analysis.",
+    "revenue_change": "Increases City of Milpitas General Fund revenue by approximately $3,000,000 annually once the new gross-receipts tax takes effect, per the ballot question and Resolution No. 9533. Hoodline reporting cites the City's current business-tax revenue under the existing per-employee system at approximately $400,000 annually, meaning the measure is projected to roughly multiply the city's business tax revenue by a factor of about seven, though the sources reviewed do not independently verify that $400,000 baseline figure.",
+    "ongoing_vs_one_time": "Ongoing tax revenue for the City of Milpitas's General Fund with no stated sunset; the ballot question states the tax continues \"until ended by voters.\" The flat-rate components of the tax schedule are automatically adjusted for inflation each year starting July 1, 2029, per ordinance section III-10-3.30, so the revenue base itself grows over time independent of any further Council or voter action.",
+    "narrative": "The measure does not begin generating revenue immediately. Even if approved in November 2026, the ordinance's tax provisions do not take effect until January 1, 2028, a roughly fourteen-month gap. Once in effect, the projected $3,000,000-a-year figure printed in the ballot question is the headline number, but it is a projection tied to the full Business Tax Schedule in ordinance section III-10-3.20, not a fixed or guaranteed amount; because the City Council can adjust rates up or down within the ceiling set by that schedule under section III-10-3.40 without further voter approval, actual future-year revenue depends in part on decisions the Council will make after this election. Because the tax is a general tax deposited into the City's general fund, none of this revenue is legally earmarked to the specific priorities named in the ballot question (fiscal stability, neighborhood safety, and cleanliness); it is fungible with the rest of the city's general operating budget."
+  },
+  "taxes": {
+    "new_taxes": [],
+    "tax_changes": [
+      "Repeals Milpitas's existing business tax (Municipal Code Title III, Chapter 1), a per-employee, per-industry-category flat-fee structure whose rates have not changed since 1976, and replaces it with a new gross-receipts-based Business Tax (new Title III, Chapter 10), effective January 1, 2028: every business pays an annual flat rate of $25 to $400 depending on its gross-receipts tier, and businesses with more than $700,000 in annual gross receipts additionally pay 0.025% to 0.035% on the portion of receipts above that threshold, with the flat-rate components automatically adjusted for inflation starting July 1, 2029, and the City Council authorized to adjust rates within the voter-approved ceiling by resolution without further voter approval."
+    ]
+  },
+  "spending": {
+    "new_spending_areas": [
+      "General Fund city services named in the ballot question as illustrative examples, not a legal earmark, per the City Attorney's Impartial Analysis and Resolution No. 9533: maintaining fiscal stability, neighborhood safety and cleanliness, cleaning up and preventing illegal dumping and neighborhood blight, addressing homelessness, replacing aging water and sewer lines, repairing storm drains, increasing local good-paying jobs, and keeping neighborhood streets and sidewalks clean and well-maintained."
+    ],
+    "funding_source": "New gross-receipts-based Business Tax revenue paid only by businesses operating in Milpitas, deposited into the City's general fund and usable for any lawful municipal purpose, not legally restricted to the categories named in the ballot question."
+  },
+  "control_and_power": "Beyond the initial Business Tax Schedule voters are asked to approve (ordinance section III-10-3.20), the City Council gains two forms of ongoing authority over the actual rate businesses pay, neither of which requires another vote of the people. First, under section III-10-3.30, the flat-rate components of the schedule automatically rise each year starting July 1, 2029 in step with the CPI for the San Francisco-Oakland-Hayward area, calculated and published by the Director of Finance; rates can never be adjusted downward below the immediately prior rate under this mechanism. Second, and more significantly, under section III-10-3.40 the City Council may, by resolution or ordinance and without voter approval, modify the flat rate or the gross-receipts rate at any time, as long as no rate it sets exceeds the ceiling already fixed in the voter-approved schedule (as adjusted for inflation). This means the November 2026 vote sets a maximum, not a fixed rate; the City Council, not the voters, controls where within that range the actual rate sits in any given year. Administratively, the ordinance also gives the Director of Finance authority to adopt rules and regulations for allocating gross receipts between in-City and out-of-City business activity (section III-10-4.20) and to reallocate a taxpayer's reported gross receipts upon examination of its return, with disclosure to the taxpayer only upon written request. The money itself carries no earmark, oversight board, or spending formula: because it is a general tax deposited into the general fund, the City Council retains full discretion, through the normal annual budget process, over how the revenue is spent, notwithstanding the specific services listed in the ballot question. The City Council placed this measure on the ballot unanimously, 5-0 (Resolution No. 9533, August 3, 2026).",
+  "loopholes": [
+    "The ballot question and both filed arguments repeatedly describe the tax as funding specific services (fiscal stability, neighborhood safety and cleanliness, water and sewer lines, storm drains, jobs, clean streets), but the City Attorney's Impartial Analysis confirms this is a general tax deposited into the general fund and usable for \"any lawful municipal purpose\"; the named priorities are examples, not a binding earmark, and the City Council retains full discretion over how the revenue is actually spent.",
+    "The City Council can adjust the Business Tax rate up or down at any time by simple resolution, without another public vote, as long as the rate never exceeds the ceiling set by the schedule voters are approving (ordinance section III-10-3.40); the November 2026 vote fixes a maximum rate, and the actual year-to-year rate businesses pay within that ceiling is a decision made by city officials after the election.",
+    "The tax is levied on gross receipts, defined broadly to include essentially all money a business takes in without deducting expenses, payroll, or cost of goods sold; a high-revenue, low-margin business is taxed the same as a high-margin business with identical gross receipts, so the tax burden does not track profitability even though it is framed as making \"larger businesses\" pay more.",
+    "The flat-rate component of the tax caps at $400 for any business with $250,000 or more in gross receipts; only the marginal gross-receipts rate (0.025% to 0.035%) continues to scale with size above the $700,000 threshold, and that top marginal rate itself is capped at 0.035%, meaning very large employers pay a small fraction of their gross receipts in tax even as their absolute dollar tax bill grows substantially larger than under the old per-employee system.",
+    "The ordinance's exemptions for nonprofit and religious organizations, veterans, family caregivers, occasional transactions, and City-sponsored events (ordinance Section 7) are not described in the ballot question or summarized in the Impartial Analysis beyond a passing mention that \"certain businesses, like non-profits,\" are exempt; the specific eligibility conditions are not disclosed to voters on the ballot."
+  ],
+  "unexpected_provisions": [
+    "Even if voters approve Measure K in November 2026, the new tax does not take effect until January 1, 2028, roughly fourteen months later; the existing per-employee business tax structure continues to apply until then.",
+    "A business that first commences operating in Milpitas on or after January 1, 2028 pays a flat $115 in its first Tax Year regardless of its actual gross receipts, with no adjustment, proration, or refund based on the business's real revenue; the gross-receipts-based formula only applies starting in that business's second year.",
+    "The ordinance treats any group of commonly owned, integrated \"Related Entities\" (including any businesses required to file a combined California tax return together) as a single \"Person\" for purposes of calculating which gross-receipts tier applies, preventing a business from splitting into multiple smaller entities to stay under a lower tax tier.",
+    "Starting July 1, 2029, the flat-rate portions of the tax schedule automatically increase each year with inflation (CPI for the San Francisco-Oakland-Hayward area), calculated and published by the City's Director of Finance, without any further Council or voter action; the ordinance specifies these automatic adjustments can never reduce a rate below its prior level.",
+    "The Director of Finance is authorized to adopt rules governing how a multi-jurisdiction business allocates its gross receipts between activity inside and outside Milpitas, and may reallocate a taxpayer's reported gross receipts upon examining its return; the taxpayer receives the basis for that reallocation only if it makes a written request.",
+    "No search of FPPC/Cal-Access campaign finance records, conducted as part of this analysis, found a registered support or opposition committee for Measure K as of the September 2026 retrieval date, despite the measure carrying financial stakes for identifiable Milpitas employers."
+  ],
+  "pros": [
+    "The tax applies only to businesses; the ballot question, the Impartial Analysis, and both filed arguments agree it does not raise taxes on Milpitas residents or homeowners who are not business owners.",
+    "Supporters, including SEIU Local 1699 and the Milpitas Police Officers Association, argue the current per-employee tax structure is fundamentally unfair because some small businesses currently pay over 70 times more per employee than large corporations, and that Measure K corrects this by shifting to a gross-receipts model where larger businesses pay substantially more in absolute terms.",
+    "The measure is expected to roughly multiply the city's business tax revenue, from an estimated $400,000 a year today to approximately $3,000,000 a year once in effect, at a time the city has cited a multi-million-dollar structural budget deficit, without asking residents to pay more.",
+    "Revenue stays with the City of Milpitas, must be invested locally, and is subject to annual independent audit and public disclosure, per the ordinance and the Impartial Analysis.",
+    "The measure was placed on the ballot by a unanimous City Council vote after a stated six-month engagement process with the business community, including a Small Business Roundtable, and the rebuttal argument in favor states Measure K specifically lowers taxes for the smallest businesses."
+  ],
+  "cons": [
+    "The official primary argument against, filed by the Silicon Valley Taxpayers Association, argues as a matter of economic principle that businesses do not ultimately bear new taxes themselves but pass the cost along to customers through higher prices, to employees through lower wages, or to shareholders through lower returns, meaning the practical burden of Measure K may fall on people other than the \"large corporations\" the measure targets.",
+    "Because the tax is levied on gross receipts rather than profit, a business with large revenue but thin margins is taxed the same as an equally large, more profitable business, and opponents warn in the rebuttal argument that rising costs could push some Milpitas business owners to relocate to cities that tax them less.",
+    "The City Council can raise the actual rate charged, within the ceiling set by the voter-approved schedule, at any time by simple resolution rather than through another public vote, meaning the exact tax burden businesses face in future years is a decision made by city officials after this election, not something voters directly approve step by step.",
+    "Because the money goes into the general fund as a general tax, it is not legally restricted to the services listed in the ballot question, so voters have no enforceable guarantee the revenue will fund what the ballot title promises.",
+    "The new tax does not take effect until January 1, 2028, a roughly fourteen-month gap after the election, and the flat-rate portion of the tax is set to automatically increase with inflation starting in 2029 without further voter input."
+  ],
+  "who_supports": [
+    {
+      "name": "Milpitas City Council",
+      "type": "politician",
+      "notes": "Placed Measure K on the ballot unanimously, 5-0, via Resolution No. 9533 (August 3, 2026): Mayor Carmen Montano, Vice Mayor Barbadillo, and Councilmembers Chua, Lam, and Lien."
+    },
+    {
+      "name": "SEIU Local 1699",
+      "type": "org",
+      "notes": "President Mario Bess signed the official primary argument in favor of Measure K."
+    },
+    {
+      "name": "Milpitas Police Officers Association",
+      "type": "org",
+      "notes": "President Brian Thanh signed the official primary argument in favor of Measure K."
+    }
+  ],
+  "who_opposes": [
+    {
+      "name": "Silicon Valley Taxpayers Association",
+      "type": "org",
+      "notes": "Countywide taxpayer advocacy organization; Director Elizabeth C. Brierly filed and signed the official primary argument against Measure K and the rebuttal to the argument in favor. The same organization filed the primary argument against Santa Clara County's Gilroy Measure B in the same election."
+    },
+    {
+      "name": "Libertarian Party of Santa Clara County",
+      "type": "org",
+      "notes": "Chair Joe Dehn co-signed the official primary argument against Measure K."
+    }
+  ],
+  "authors": [
+    {
+      "name": "Carmen Montano",
+      "role": "Mayor of Milpitas; presided over and signed City Council Resolution No. 9533 (adopted 5-0 on August 3, 2026) placing Measure K on the ballot."
+    },
+    {
+      "name": "Willie Hopkins",
+      "role": "City Manager of Milpitas; per Milpitas Beat and PublicCEO reporting, led the roughly six-month business-community engagement process, including a Small Business Roundtable, that shaped the measure's design before it was brought to the Council."
+    }
+  ],
+  "nonpartisan_analysis": [
+    {
+      "source": "City of Milpitas City Attorney (Christian M. Curtis), Impartial Analysis of Measure K",
+      "summary": "Confirms Measure K replaces the City's existing per-employee, per-industry-category business tax (adopted in 1976 and unchanged since) with a new tax based on gross receipts, effective January 1, 2028. Publishes the full Business Tax Schedule: a flat rate of $25 to $400 by tier, plus a marginal rate of 0.025% to 0.035% on gross receipts above $700,000, automatically increased for inflation. States the ordinance exempts certain businesses, including nonprofits, and that proceeds remain in the general fund, subject to annual audit, and usable for any lawful municipal purpose rather than earmarked to specific services. Confirms this is a general tax placed on the ballot by the City Council.",
+      "url": "https://www.milpitas.gov/DocumentCenter/View/10603/Milpitas-2026-Business-Tax-Impartial-Analysis-PDF"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Santa Clara County Registrar of Voters, List of Local Measures, November 3, 2026 General Election",
+      "url": "https://vote.santaclaracounty.gov/list-local-measures-4",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "City of Milpitas, Notice of Ballot Measure on the November 3, 2026 Ballot (exact ballot question text; general tax, 50%+1 vote requirement)",
+      "url": "https://www.milpitas.gov/DocumentCenter/View/10529/2026-Notice-of-Ballot-Measure-PDF",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "City of Milpitas, City Attorney's Impartial Analysis of Measure K (Christian M. Curtis)",
+      "url": "https://www.milpitas.gov/DocumentCenter/View/10603/Milpitas-2026-Business-Tax-Impartial-Analysis-PDF",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "City of Milpitas, Resolution No. 9533, A Resolution of the City Council Submitting to the Voters an Ordinance to Modernize and Modify the Method of Levying the Business Tax (adopted August 3, 2026, includes full ordinance text as Exhibit A)",
+      "url": "https://www.milpitas.gov/DocumentCenter/View/10527/Resolution-No-9533-Adding-a-Measure-to-the-Ballot-PDF",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Measure K, City of Milpitas, Primary Argument in Favor (Jeannie Young, filer; Mario Bess, Brian Thanh, Steve Roberts, Martha C. Perez, Kimberly Paras, signers)",
+      "url": "https://www.milpitas.gov/DocumentCenter/View/10571/Primary-Argument-in-Favor-PDF",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Measure K, City of Milpitas, Primary Argument Against (Elizabeth C. Brierly, Silicon Valley Taxpayers Association, filer; Joe Dehn, Libertarian Party of Santa Clara County, co-signer)",
+      "url": "https://www.milpitas.gov/DocumentCenter/View/10570/Primary-Argument-Against-PDF",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Measure K, City of Milpitas, Rebuttal to Argument Against (Jeannie Young, filer; Steve Roberts, Martha C. Perez, Kimberly Paras, Norma Morales, signers)",
+      "url": "https://www.milpitas.gov/DocumentCenter/View/10604/Rebuttal-to-Argument-Against-PDF",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Measure K, City of Milpitas, Rebuttal to Argument in Favor (Elizabeth C. Brierly, Silicon Valley Taxpayers Association, filer; Joe Dehn, Laura Thor, signers)",
+      "url": "https://www.milpitas.gov/DocumentCenter/View/10605/Rebuttal-to-Argument-in-Favor-PDF",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "City of Milpitas, Measure K: Milpitas Local Funding Measure (city informational page)",
+      "url": "https://www.milpitas.gov/1447/Measure-K-Milpitas-Local-Funding-Measure",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "City of Milpitas, Milpitas City Council Unanimously Places Business Tax Update on November 3rd Ballot (news release)",
+      "url": "https://www.milpitas.gov/m/NewsFlash/Home/Detail/358",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Hoodline, Milpitas Puts Business Tax Overhaul on November Ballot to Fix Aging Pipes",
+      "url": "https://hoodline.com/2026/08/milpitas-puts-business-tax-overhaul-on-november-ballot-to-fix-aging-pipes/",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "The Milpitas Beat, Milpitas City Council votes to put business tax measure on November ballot",
+      "url": "https://milpitasbeat.com/milpitas-city-council-votes-to-put-business-tax-measure-on-november-ballot/",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "PublicCEO, Milpitas City Council unanimously places business tax update and local funding measure on Nov. 3 ballot",
+      "url": "https://www.publicceo.com/2026/08/milpitas-city-council-unanimously-places-business-tax-update-and-local-funding-measure-on-november-3-ballot/",
+      "retrieved": "2026-09-21"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}
