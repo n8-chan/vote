@@ -1,0 +1,142 @@
+{
+  "id": "scc-measure-c-2026",
+  "jurisdiction": "county",
+  "county": "Santa Clara",
+  "election_date": "2026-11-03",
+  "number": "Measure C",
+  "title": "Public Works Charter Amendment",
+  "status": "on_ballot",
+  "summary": "Measure C asks City of Santa Clara voters (not Santa Clara County as a whole) to rewrite the public-works contracting rules in the City Charter, unchanged since 1952. It would raise the dollar threshold that triggers City Council approval and formal competitive bidding from $1,000 to $250,000, and would let the City use \"best value\" contracting methods, such as design-build, instead of always awarding to the lowest bidder. Below $250,000 the City Manager, not the Council, would approve public works contracts and any use of City employees to do the work.",
+  "what_it_really_means": [
+    "This is a City of Santa Clara measure, not a Santa Clara County measure, even though it appears on the same countywide November 2026 ballot and this site otherwise covers county-level measures. It only appears on ballots cast by registered voters who live within Santa Clara city limits; it has no effect on unincorporated county areas or on any other city in the county. The rest of this analysis follows the City Attorney's Impartial Analysis and the City's own published FAQ on the measure.",
+    "The headline change is a 250-fold increase in the dollar amount that triggers City Council review: from $1,000 to $250,000. Under the current Charter Section 1310, last touched in 1952, the City Council must individually approve any public works contract over $1,000, and must also approve any use of City employees (rather than a contractor) on a project worth more than $1,000. Measure C would replace that with a two-tier system: contracts and City-employee work under $250,000 (\"Minor Projects\") would be approved administratively by the City Manager; $250,000 and up (\"Major Projects\") would still require a Council vote. The City's own FAQ frames this partly as harmonization rather than a new grant of discretion: the City says its threshold for Council approval of most other goods and services purchases is already $250,000, and Measure C would bring public-works contracting in line with that existing figure rather than setting a novel number. Whether $1,000, an amount that has never been adjusted for 73 years of inflation, was ever a meaningful check is a separate question from whether $250,000 is the right modern number; no source reviewed models how many current public-works contracts fall between those two figures or how much Council review time this removes in practice, beyond the general claim that it reduces \"significant staff time costs.\"",
+      "The substantive change voters should weigh most carefully is not the dollar threshold but the bidding standard. Today, Charter Section 1310 requires that public works contracts be awarded to the lowest responsible bidder, a comparatively hard, price-based rule: whoever bids the lowest price, while being minimally qualified to do the work, wins. Measure C keeps that as the default (\"retaining provisions for awards of standard contracts to the lowest responsive and responsible bidder,\" per the ballot question itself) but authorizes the City Council to instead adopt \"best value\" contracting methods, most notably design-build, where a single team is awarded both design and construction work based on a mix of price, qualifications, experience, and other factors the City weighs, not price alone. The Impartial Analysis and the City's FAQ both confirm that under best-value methods \"the City may evaluate contractor qualifications and other factors in addition to price, as allowed by the implementing ordinance,\" and that the contract still goes through a competitive process but to whichever bidder the City determines offers \"the best overall value,\" not necessarily the cheapest one. That is a real shift in the nature of the decision: a strict lowest-bidder rule constrains staff and Council discretion to an objective, auditable number; a best-value framework substitutes a weighted, judgment-based evaluation that City staff (for Minor Projects) or City Council (for Major Projects) control, and that is harder for an outside party to second-guess after the fact.",
+      "Design-build itself is not exotic; it is already used by California general law cities and by many charter cities, including San José, according to the primary argument in favor. What is new here is that Santa Clara's own Charter has forbidden it since 1952 by mandating separately bid design and construction contracts awarded on lowest price. Measure C removes that Charter-level prohibition and delegates the actual design-build rules, and the criteria for when \"best value\" applies instead of lowest-bidder, to a future ordinance the City Council would adopt at a public meeting after the election. Voters are being asked to approve the framework and the ceiling, not the finished procurement rules; the weighting formula for design-build selections, the list of situations that qualify for an exception to formal bidding, and the specific safeguards around \"best value\" awards do not exist yet and are not part of the text voters are voting on. The Impartial Analysis, the FAQ, and the primary argument in favor all describe this as intentional: \"more specific implementing rules would be prepared by City staff, presented for Council adoption, and incorporated into the City Code\" only after voters approve the Charter amendment.",
+      "The measure's own FAQ and Impartial Analysis identify the exceptions to competitive bidding only in general terms: \"limited exceptions to formal bidding requirements when justified,\" with the sole example given being situations \"where only a limited number of contractors are qualified to perform the required work.\" Neither document specifies who determines that an exception is justified, what standard applies, or what public notice or documentation is required before a Minor Project (City Manager-approved, so under $250,000) bypasses competitive bidding altogether. This is the clearest loophole in the measure as written: the Charter text itself does not define the boundaries of \"justified,\" leaving that entirely to the ordinance that has not yet been drafted.",
+      "Both the primary argument in favor and City messaging tie the measure to a specific, large pipeline of upcoming projects rather than treating it as an abstract governance tweak. The argument in favor states the City is \"preparing to deliver more than $400 million in critical infrastructure improvements,\" and both the argument and the City's FAQ cite the George Haines International Swim Center (ISC) and fire station construction and repairs as concrete near-term projects that could use the new contracting flexibility. A voter reading only the ballot question, which is written in abstract procedural language about thresholds and bidding methods, would not know that the immediate practical effect is to change how the City awards contracts for named, planned capital projects already in the pipeline, not merely to update a dormant Charter provision.",
+      "Measure C is what survived a much larger, abandoned effort. City officials and a 13-member Charter Review Committee spent more than a year and held 11 public meetings and 31 subcommittee sessions developing a comprehensive Charter overhaul covering many more provisions than public works procurement. On July 14, 2026, the City Council declined to place that comprehensive package on the ballot and instead unanimously approved sending only this narrower public-works measure to voters. Councilmember Kevin Park argued the narrower approach would be easier for voters to understand and criticized the broader package's rushed timeline; Mayor Lisa Gillmor separately criticized the comprehensive package's approach of leaving broad parameters to future ordinances rather than defining them in the Charter itself, the same basic structure Measure C itself now uses for its own implementing rules, though sources reviewed do not show her raising that specific objection to the narrower public-works version, which the Council ultimately passed without recorded dissent. Councilmember Suds Jain, the lead author and filer of the primary argument in favor, pushed specifically to preserve the procurement changes when the broader package was set aside, arguing the flexibility would help the City \"complete projects faster and avoid contractors inflating bids\" due to unpriced risk under the current lowest-bidder-only system.",
+      "No primary argument against Measure C was filed with the Registrar of Voters, and no organized opposition campaign or committee was identified in the sources reviewed. The Council's final vote to place this version of the measure on the ballot was unanimous (7-0), and the primary argument in favor was signed only by sitting councilmembers and Charter Review Committee members, not by any outside advocacy group or business association. That does not mean there is no case against the measure; it means no one filed one for the Voter Information Guide. The likely case against, based on the mechanics described above rather than any named opponent's statement, is that the measure trades an easily audited, price-only rule and mandatory Council-level review for a much larger dollar threshold and a discretionary, judgment-based \"best value\" standard whose actual criteria are deferred to a future ordinance that has not been written, drafted, or reviewed by voters."
+  ],
+  "fiscal_impact": {
+    "state_cost": "none. This is a City of Santa Clara charter amendment governing municipal procurement; it creates no state obligation.",
+    "state_savings": "none identified.",
+    "local_cost": "none identified beyond the normal cost of placing a measure on the ballot, which no source reviewed itemized separately for Measure C.",
+    "revenue_change": "none. Measure C does not create, raise, lower, or redirect any tax or fee; it changes procurement and contract-approval procedure only.",
+    "ongoing_vs_one_time": "Ongoing. If approved, the amended Charter provisions and the implementing ordinance the Council later adopts would govern all future public works contracting until further amended by voters.",
+    "narrative": "Measure C has no tax or spending component; it is a governance and procurement-process measure. The only quantified fiscal claim in the sources reviewed is qualitative and directional: the City Attorney's Impartial Analysis and the City's FAQ both state the measure is \"projected to generate cost savings\" from reduced staff time no longer needed to bring sub-$250,000 contracts and City-employee work authorizations to the Council for individual approval, and that \"best value\" methods like design-build may generate further savings on some projects by reducing change orders and disputes over design errors. Neither document puts a dollar figure on either kind of savings, and the FAQ explicitly cautions that design-build savings are \"not guaranteed.\" No source reviewed estimates the administrative cost of drafting and adopting the implementing ordinance that the measure requires before its new rules take practical effect."
+  },
+  "taxes": {
+    "new_taxes": [],
+    "tax_changes": []
+  },
+  "spending": {
+    "new_spending_areas": [],
+    "funding_source": "Not applicable. Measure C does not appropriate, raise, or redirect any money. Public works projects continue to be funded through the City's normal capital budget process; the measure only changes who approves the contracts for that already-budgeted work and what bidding method can be used."
+  },
+  "control_and_power": "Today, City Council approval is required for any public works contract, or any use of City employees on public works, valued over $1,000, under Charter Section 1310 (1952). Measure C shifts that approval authority: the City Manager would approve \"Minor Projects\" (contracts and City-employee work under $250,000), while the City Council would retain approval authority only for \"Major Projects\" ($250,000 and up). The City Council also gains, and must itself exercise, the authority to adopt an implementing ordinance at a public meeting that will define the specific bidding exceptions, the criteria for \"best value\" and design-build awards, and the purchasing procedures that give the Charter amendment practical effect; until that ordinance exists, the exact scope of City Manager and Council discretion beyond the dollar threshold is not fixed by anything voters are being asked to approve. Within the categories the ordinance eventually sets, day-to-day contract-award judgment for Minor Projects moves from a public Council vote to an internal City Manager decision, and for either tier, a best-value award (once the ordinance authorizes it for a given project type) shifts the actual award decision from an objective lowest-price comparison to a discretionary, multi-factor evaluation controlled by City staff or Council rather than determined mechanically by bid price.",
+  "loopholes": [
+    "The Charter text itself does not define what makes an exception to formal competitive bidding \"justified\"; the only example given anywhere in the sources reviewed, including the City Attorney's Impartial Analysis and the City's FAQ, is a case where \"only a limited number of contractors are qualified to perform the required work.\" The actual standard, approval process, and any public disclosure requirement for invoking that exception are left entirely to the implementing ordinance, which does not yet exist.",
+    "\"Best value\" contracting is authorized by the measure but not defined by it. The Impartial Analysis and FAQ describe it only as evaluating \"contractor qualifications and other factors in addition to price, as allowed by the implementing ordinance,\" without specifying what those factors are, how they are weighted against price, or what prevents a best-value process from functioning as a way to award work to a preferred or better-known contractor over a lower and equally qualified bid.",
+    "Because the City Manager, not the City Council, would approve all Minor Projects (everything under $250,000, which per the City's own comparison is the same threshold already used for ordinary goods and services purchases), the great majority of individual public-works contract decisions would move out of public Council votes and into internal administrative approval, with no source reviewed identifying a substitute public-reporting or audit mechanism specific to this measure."
+  ],
+  "unexpected_provisions": [
+    "The $250,000 threshold is not unique to public works under this measure; the City's FAQ states it was chosen specifically to match the threshold the City already uses for Council approval of \"all other City goods and services.\" A voter focused only on the public-works ballot title would not know this number was picked to align with an existing, unrelated purchasing threshold rather than derived independently for construction projects.",
+    "The measure also raises, by the same 250-fold amount, the threshold above which City Council approval is required for the City to use its own employees (rather than an outside contractor) to perform public works. This \"force account\" authority is not mentioned in the ballot question text itself.",
+    "Measure C is the sole survivor of a much larger comprehensive City Charter overhaul that a 13-member Charter Review Committee spent over a year developing through 11 public meetings and 31 subcommittee sessions. The City Council scrapped that broader package on July 14, 2026, and sent only the public-works procurement piece to voters; a voter unfamiliar with that history would not know from the ballot question that this measure began life as one section of a much larger reform effort.",
+    "Both the primary argument in favor and City messaging tie the measure to specific, already-identified projects, more than $400 million in planned infrastructure work including the George Haines International Swim Center rebuild and fire station construction, that would likely be among the first to use the new design-build and best-value authority, information not present in the ballot question's procedural language.",
+    "No primary argument against Measure C was filed with the Registrar of Voters, and the City Council's final vote to place it on the ballot was unanimous (7-0); voters will see only the argument in favor in the Voter Information Guide, with no filed rebuttal from an opposing perspective."
+  ],
+  "pros": [
+    "Supporters, led by Councilmember Suds Jain in the primary argument in favor, argue the current Charter limits the City to Design-Bid-Build, which requires a project to be fully designed before any contractor bids, often delaying complex projects because contractors price unknown risks into their bids or decline to bid at all, resulting in fewer bidders, higher costs, and unnecessary delays.",
+    "The argument in favor states design-build is already permitted for all California general law cities and many charter cities, including San José, and that it allows construction to begin before every design detail is finalized, reducing delays while City oversight keeps costs transparent and shares project risk between the contractor and the City.",
+    "The City's FAQ states the measure would reduce staff time currently spent bringing very minor public works contracts, those just over the outdated $1,000 threshold, to the full City Council for individual approval, freeing Council time for genuinely major decisions.",
+    "The $250,000 Council-approval threshold would align public works procurement with the threshold the City already uses for approving other goods and services, removing what supporters describe as an inconsistency rather than a new category of unchecked spending.",
+    "The measure retains competitive bidding as the default and keeps City Council approval mandatory for any contract of $250,000 or more, so supporters argue oversight is preserved for the projects large enough to matter most, while City Manager approval for smaller projects still must follow the policies and requirements of a Council-adopted ordinance.",
+    "The measure passed the City Council unanimously (7-0) after review by, and a unanimous recommendation from, the City's Charter Review Committee, which supporters point to as evidence of broad-based, non-partisan support for updating a contracting framework unchanged since 1952."
+  ],
+  "cons": [
+    "No primary argument against Measure C was filed with the Registrar of Voters, so voters will not see an organized opposition case in the Voter Information Guide; the points below are drawn from the mechanics described in the City Attorney's Impartial Analysis and the City's own FAQ, not from a named opponent's statement.",
+    "The measure replaces a strict, easily audited lowest-responsible-bidder rule with a \"best value\" standard for projects the City Council authorizes to use it, substituting an objective price comparison for a discretionary, multi-factor evaluation whose specific criteria and weighting are left to a future ordinance that does not yet exist and that voters are not being asked to approve directly.",
+    "Raising the Council-approval threshold 250-fold, from $1,000 to $250,000, moves the large majority of individual public-works contract decisions out of public Council votes and into internal City Manager approval, reducing the number of contract decisions that receive a public vote and a public record of Council deliberation.",
+    "The Charter text's only stated example of a justified exception to competitive bidding, a limited pool of qualified contractors, is vague, and the measure does not itself specify what process, documentation, or public notice would apply when the City invokes that exception for a Minor Project under City Manager authority.",
+    "Because the measure's practical effect depends on an implementing ordinance the City Council has not yet drafted, voters are being asked to approve a Charter-level framework and a dollar ceiling now, while the actual rules governing design-build criteria, bidding exceptions, and best-value evaluation are decided later by the Council alone, without a further public vote."
+  ],
+  "who_supports": [
+    {
+      "name": "Sudhanshu \"Suds\" Jain",
+      "type": "politician",
+      "notes": "Santa Clara City Councilmember, District 5; filer and lead author of the primary argument in favor of Measure C; pushed to separate the public-works procurement changes from the larger, abandoned comprehensive Charter overhaul."
+    },
+    {
+      "name": "Karen Hardy",
+      "type": "politician",
+      "notes": "Santa Clara City Councilmember, District 3; co-signer of the primary argument in favor of Measure C."
+    },
+    {
+      "name": "Albert Gonzalez",
+      "type": "politician",
+      "notes": "Santa Clara Vice Mayor, District 1; co-signer of the primary argument in favor of Measure C."
+    },
+    {
+      "name": "Eric Crutchlow",
+      "type": "other",
+      "notes": "Member of the City's Charter Review Committee; co-signed the primary argument in favor as an individual voter, not in an official committee capacity."
+    },
+    {
+      "name": "Eric Jensen",
+      "type": "other",
+      "notes": "Member of the City's Charter Review Committee; co-signed the primary argument in favor as an individual voter, not in an official committee capacity."
+    }
+  ],
+  "authors": [
+    {
+      "name": "Sudhanshu \"Suds\" Jain",
+      "role": "Santa Clara City Councilmember, District 5; led the effort to place the narrower public-works procurement measure on the ballot after the comprehensive Charter overhaul was set aside, and is the filer of the primary argument in favor."
+    }
+  ],
+  "nonpartisan_analysis": [
+    {
+      "source": "City of Santa Clara City Attorney (Glen R. Googins), Impartial Analysis of Measure C",
+      "summary": "Confirms Measure C would amend City Charter Section 1310 (1952) to raise the City Council approval threshold for public works contracts and City-employee work from $1,000 to $250,000, with the City Manager approving contracts and employee-work authorizations below that amount. Confirms competitive bidding remains the default, with exceptions allowed if justified, and that contracts continue to be awarded to the lowest responsive/responsible bidder except where the City Council authorizes \"best value\" mechanisms such as design-build. States the measure requires a simple majority (50% plus one) to pass, and that specific implementing rules would be developed by staff and adopted by Council ordinance only after voter approval.",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/meaure-c-city-of-santa-clara-public-works-impartial-analysis_08072026_redacted.pdf"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Santa Clara County Registrar of Voters, List of Local Measures, November 3, 2026 General Election",
+      "url": "https://vote.santaclaracounty.gov/list-local-measures-4",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Measure C, City of Santa Clara, Public Works Charter Amendment, City Attorney's Impartial Analysis",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/meaure-c-city-of-santa-clara-public-works-impartial-analysis_08072026_redacted.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Measure C, City of Santa Clara, Public Works Charter Amendment, Primary Argument In Favor",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-c-city-of-santa-clara-public-works-charter-amendment-in-favor_07282026_redacted.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "City of Santa Clara, Measure C Proposed Charter Amendment Information (ballot question and FAQ)",
+      "url": "https://www.santaclaraca.gov/our-city/government/city-committees/charter-review-committee-charter-project/charter-review-committee-charter-project-measure-proposed-charter-amendment-information",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Local News Matters, Santa Clara scales back charter proposal, sends public works measure to voters",
+      "url": "https://localnewsmatters.org/2026/08/03/santa-clara-scales-back-charter-proposal-sends-public-works-measure-to-voters/",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "San José Spotlight, Santa Clara voters to weigh public works change in November",
+      "url": "https://sanjosespotlight.com/santa-clara-voters-to-weigh-public-works-change-in-november/",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Silicon Valley Voice, Charter Changes Still Divisive at Santa Clara City Council Meeting",
+      "url": "https://www.svvoice.com/charter-changes-still-divisive-at-santa-clara-city-council-meeting/amp/",
+      "retrieved": "2026-09-20"
+    }
+  ],
+  "last_updated": "2026-09-20"
+}
