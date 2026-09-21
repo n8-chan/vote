@@ -1,0 +1,159 @@
+{
+  "id": "scc-measure-o-2026",
+  "jurisdiction": "county",
+  "county": "Santa Clara",
+  "election_date": "2026-11-03",
+  "number": "Measure O",
+  "title": "Alum Rock Union Elementary School District Parcel Tax",
+  "status": "on_ballot",
+  "summary": "Measure O renews and extends Alum Rock Union Elementary School District's existing $310-per-parcel education tax for seven more years, raising an estimated $6.5 million annually for special-education services, reading/writing/math/science programs, teacher retention, and support for students experiencing housing instability. It requires two-thirds voter approval and keeps the parcel rate unchanged rather than raising it. The district's other November 2026 measure, Measure P, is a separate $100 million general obligation bond requiring only 55% approval; the two are distinct mechanisms on the same ballot.",
+  "what_it_really_means": [
+    "The official ballot question voters will mark reads: 'With funds that cannot be taken by State or Federal Government officials, shall Alum Rock Union Elementary School District's measure to protect services for students with disabilities; improve reading, writing, math and science programs; attract and retain highly qualified teachers; and support students experiencing housing instability be adopted, by replacing the current tax at $310 per parcel for seven years, while raising $6.5 million annually with senior exemptions, and public disclosure of all spending?' The key word is 'replacing': the district's Board of Trustees, in Resolution No. 01-26/27 (considered at the July 16, 2026 board meeting), describes Measure O as a measure that 'replaces and extends Measure I of 2018,' the district's current parcel tax. This is not a new tax and not a rate increase; it continues the existing $310-per-parcel charge, due to expire, for seven additional years.",
+    "The parcel tax is flat: every taxed parcel in the district pays the same $310 per year regardless of the property's assessed value, square footage, or use. A small single-family lot and a large commercial or multi-unit parcel owe the identical amount, which makes a flat parcel tax structurally regressive relative to property value compared to an ad valorem tax like a general obligation bond's debt-service levy (the mechanism behind the district's companion Measure P). This is inherent to how California parcel taxes work under Government Code Section 50079 and is not unique to Alum Rock, but it is not obvious from the ballot label's dollar figures alone.",
+    "A senior exemption exists. The district's current exemption program, administered by its Business Services department for the existing Measure I tax, lets homeowners who are at least 65 years old by July 1 of the fiscal year apply for a full exemption. The application, along with supporting documents, must be submitted to the district by June 30 of the prior fiscal year; there is also a separate refund-request form for seniors who paid before their exemption was processed. Nothing in the sources reviewed suggests this process changes for Measure O beyond carrying the exemption mechanism forward, since the measure explicitly continues 'with senior exemptions.' The exemption is opt-in and requires an annual application by a hard deadline; homeowners who qualify by age but miss the June 30 cutoff pay the full $310 for that year regardless of income.",
+    "The ballot question's only stated accountability mechanism is 'public disclosure of all spending.' California parcel-tax law (Government Code Section 50075.1) separately requires the district to file an annual report to its governing board showing the amount of funds collected and expended and the status of the projects funded, regardless of what the ballot label says. That is a lighter accountability structure than the independent citizens' bond oversight committee mandatory for Proposition 39 general obligation bonds (like the district's companion Measure P): a parcel tax under Government Code Section 50075 et seq. is not required by state law to create such a committee. The county's Impartial Analysis and the primary argument in favor of Measure O are both filed as scanned, non-text-searchable PDFs on the Registrar's site, and repeated attempts to extract their text (direct fetch, a text-extraction proxy, and a translation-proxy workaround) all returned no readable content; whether ARUSD's resolution voluntarily creates a citizens' oversight committee beyond the statutory annual report could not be confirmed from any source reached for this analysis.",
+    "No opposing argument was filed with the Registrar of Voters for Measure O, per the county's list of available documents for the measure (only a 'Primary Argument In-Favor' and the Impartial Analysis are listed, with an explicit note that no opposing argument exists). That does not mean the measure is uncontroversial: the Silicon Valley Taxpayers Association's countywide 2026 voter guide recommends a NO vote on Measure O, describing it as part of roughly $1.7 billion in cumulative new local tax measures the organization opposes across Santa Clara County that November, and separately recommends NO on the district's companion Measure P bond.",
+    "The four funding categories in the ballot question, special-education services, core academic programs, teacher retention, and support for students experiencing housing instability, are bundled into a single up-or-down vote. A voter who supports funding special education but objects to other categories cannot separate them; approving or rejecting Measure O approves or rejects all four purposes together.",
+    "Alum Rock Union Elementary School District has had a period of governance turnover concurrent with this measure reaching the ballot: the district hired Dr. Marnie Hazelton as superintendent on a three-year contract through June 30, 2029, around the same summer the board finalized the parcel tax and bond resolutions, and the same board has taken other narrowly divided (3-2) votes in 2026, including postponing a health-services contract and shifting from at-large to area-specific trustee elections. None of the sources reviewed connect this turnover directly to Measure O's spending plan, but it is relevant context for voters weighing the district's capacity to administer and report on the funds transparently."
+  ],
+  "fiscal_impact": {
+    "state_cost": "none. The measure does not obligate state funds.",
+    "state_savings": "none identified.",
+    "local_cost": "none to other local government bodies. The cost falls on owners of taxable parcels within Alum Rock Union Elementary School District, who continue paying the existing $310 per parcel per year (unchanged from the current Measure I rate) for seven more years, subject to a senior exemption for qualifying homeowners 65 and older who apply annually by June 30.",
+    "revenue_change": "Continues, rather than increases, an existing revenue stream: approximately $6.5 million per year to the district's general fund, the same order of magnitude the current $310 parcel tax already raises.",
+    "ongoing_vs_one_time": "Recurring annual levy for seven years if approved, continuing without interruption from the expiration of the current Measure I tax through roughly the 2032-33 to 2033-34 fiscal year range (exact start/end fiscal years were not stated in any source reached).",
+    "narrative": "Because Measure O keeps the parcel rate at $310, unchanged from the current tax, its fiscal effect on property owners is continuity, not a new burden: those already paying the tax keep paying the same amount, and those who would have seen it expire keep paying it for seven more years instead of the levy ending. The approximately $6.5 million raised annually funds general-fund programs, not a facilities bond, so there is no borrowing, no interest cost, and no long-dated debt-service schedule of the kind that applies to the district's companion Measure P bond. The main number the ballot label does not spell out is the total seven-year take: at roughly $6.5 million a year, that is approximately $45.5 million in cumulative parcel-tax revenue over the renewal period, an aggregate figure not stated in the ballot question itself."
+  },
+  "taxes": {
+    "new_taxes": [],
+    "tax_changes": [
+      "Extends the existing $310-per-parcel education parcel tax in Alum Rock Union Elementary School District, originally Measure I (2018), for seven more years at the same $310 rate (not an increase), continuing to raise an estimated $6.5 million annually, with a senior exemption available to homeowners 65 and older who apply annually by June 30."
+    ]
+  },
+  "spending": {
+    "new_spending_areas": [
+      "Services protecting programs for students with disabilities (special education).",
+      "Reading, writing, math, and science academic programs.",
+      "Recruitment and retention of qualified teachers.",
+      "Support for students experiencing housing instability."
+    ],
+    "funding_source": "A flat, per-parcel local tax ($310 per taxable parcel per year, unchanged from the current rate) levied on real property within Alum Rock Union Elementary School District and deposited to the district's general fund; not a bond, so it carries no borrowing or interest cost."
+  },
+  "control_and_power": "The Alum Rock Union Elementary School District Board of Trustees placed Measure O on the ballot via Resolution No. 01-26/27, which per the district's own July 16, 2026 board meeting materials required a two-thirds vote of the five-member board (four 'aye' votes) to call the election; the measure itself then requires a two-thirds vote of the electorate to take effect. Once approved, the Board of Trustees, not voters, controls how the roughly $6.5 million raised annually is allocated across the four stated purposes (special education, core academics, teacher retention, and housing-instability support), subject only to the ballot question's promise of 'public disclosure of all spending' and the state-law requirement (Government Code Section 50075.1) that the district file an annual report on funds collected and expended. Unlike the district's companion Measure P general obligation bond, which as a Proposition 39 bond must have an independent citizens' bond oversight committee under Education Code Section 15278 et seq., no source reached for this analysis confirmed whether Measure O establishes an equivalent citizens' oversight body; the county's Impartial Analysis, which would normally describe any such committee, could not be read because it is filed as a non-text-searchable scanned PDF.",
+  "loopholes": [
+    "The parcel tax is flat per parcel ($310 regardless of a property's assessed value, size, or use), so it falls more heavily, relative to property value, on owners of smaller or lower-value parcels than on owners of large or high-value ones, a structural feature of parcel taxes under Government Code Section 50079 rather than something specific to this measure's drafting.",
+    "The senior exemption is opt-in and must be re-applied for (or at minimum re-verified) with supporting documents by June 30 each year under the district's existing process for its current parcel tax; a qualifying senior who misses the deadline pays the full $310 that year.",
+    "The measure's stated accountability mechanism is limited to 'public disclosure of all spending' and the statutory annual report required of all California parcel taxes; whether the district's resolution additionally creates an independent citizens' oversight committee, as is legally mandatory for its companion Measure P bond but not for a parcel tax, could not be confirmed because the county's Impartial Analysis and the district's full resolution text were not accessible as readable text in this research.",
+    "No opposing argument was filed with the Registrar of Voters, so the official ballot pamphlet voters receive will contain only the case in favor of Measure O, even though at least one countywide taxpayer organization (Silicon Valley Taxpayers Association) has publicly recommended a NO vote."
+  ],
+  "unexpected_provisions": [
+    "The measure bundles four distinct funding purposes, special education services, core academic programs, teacher retention, and support for students experiencing housing instability, into a single yes-or-no vote; a voter cannot approve some purposes while rejecting others.",
+    "The same November 3, 2026 ballot carries a second, unrelated Alum Rock Union Elementary School District measure, Measure P, a $100 million general obligation bond requiring only 55% approval (versus Measure O's two-thirds threshold) and funded through property-tax-secured borrowing rather than a flat parcel charge; voters should not assume the two measures share a mechanism, rate structure, or vote threshold simply because they appear on the same district's ballot in the same election."
+  ],
+  "pros": [
+    "The measure continues, rather than raises, the existing $310 parcel tax rate, so approval does not increase what current taxpayers already pay; it only avoids the tax's expiration.",
+    "Funds are directed at explicitly named vulnerable populations, students with disabilities and students experiencing housing instability, alongside core reading, writing, math, and science instruction and teacher retention.",
+    "A senior exemption protects homeowners 65 and older who apply on time from paying the tax.",
+    "The measure promises public disclosure of all spending, and state law independently requires the district to file an annual report on funds collected and expended.",
+    "No formal opposition argument was filed with the county, indicating limited organized local opposition to the specific measure text, even though some organizations oppose it on general tax-policy grounds."
+  ],
+  "cons": [
+    "The Silicon Valley Taxpayers Association recommends a NO vote, citing the cumulative burden of Measure O alongside the district's own $100 million Measure P bond and other countywide tax measures on the same ballot.",
+    "As a flat per-parcel tax, Measure O charges the same $310 to every taxed parcel regardless of property value, which places a proportionally larger burden on owners of smaller or lower-value properties than an ad valorem tax would.",
+    "The measure requires a two-thirds supermajority to pass, a high bar that lets a well-organized minority block renewal even if a simple majority of voters support it.",
+    "Neither the county's Impartial Analysis nor the district's full resolution text could be read in full for this research because both are filed as scanned, non-text-searchable PDFs, so voters relying on typical online research tools to verify the measure's oversight and accountability details beyond the ballot question itself may find those documents similarly hard to access.",
+    "The district has had recent governance turbulence, including a new superintendent hired on the eve of this measure reaching the ballot and other narrowly divided 3-2 board votes on unrelated matters in 2026, which is relevant context for voters assessing the district's administrative capacity even though no source ties it directly to Measure O's spending plan."
+  ],
+  "who_supports": [
+    {
+      "name": "Alum Rock Union Elementary School District Board of Trustees",
+      "type": "org",
+      "notes": "Adopted Resolution No. 01-26/27 placing Measure O on the November 3, 2026 ballot, per the board's July 16, 2026 meeting materials."
+    }
+  ],
+  "who_opposes": [
+    {
+      "name": "Silicon Valley Taxpayers Association",
+      "type": "org",
+      "notes": "Recommends a NO vote on Measure O in its 2026 countywide voter guide, listing it among local tax measures it opposes alongside the district's companion Measure P bond; no opposing argument was filed with the Registrar of Voters, so this is a public position rather than an official pamphlet argument."
+    }
+  ],
+  "authors": [
+    {
+      "name": "Linda Chavez",
+      "role": "Board President, Alum Rock Union Elementary School District Board of Trustees, at the time Resolution No. 01-26/27 placing Measure O on the ballot was considered (July 16, 2026 meeting)."
+    },
+    {
+      "name": "Andres Quintero",
+      "role": "Board Vice President, Alum Rock Union Elementary School District Board of Trustees."
+    },
+    {
+      "name": "Dr. Marnie Hazelton",
+      "role": "Superintendent, Alum Rock Union Elementary School District, hired on a three-year contract through June 30, 2029."
+    }
+  ],
+  "nonpartisan_analysis": [],
+  "sources": [
+    {
+      "title": "Santa Clara County Registrar of Voters, List of Local Measures, November 3, 2026 General Election (Measure O entry, ballot question text, and links to Impartial Analysis and Primary Argument In-Favor)",
+      "url": "https://vote.santaclaracounty.gov/list-local-measures-4",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Santa Clara County Registrar of Voters, Impartial Analysis of Measure O, Alum Rock Union Elementary School District Parcel Tax (filed PDF; scanned/non-text-searchable, full text could not be extracted)",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/ia-measure-o-alum-rock-union-esd-parcel-tax-stamped_redacted.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Santa Clara County Registrar of Voters, Primary Argument In-Favor of Measure O (filed PDF; scanned/non-text-searchable, full text could not be extracted)",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-o_alum-rock-union-parcel-tax_primary-argument-in-favor_redacted-v2.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Alum Rock Union Elementary School District, Revised Board Book for the July 16, 2026 Board of Trustees meeting, including Resolution No. 01-26/27 (parcel tax election order) and Resolution No. 02-26/27 (Measure P bond election order)",
+      "url": "https://resources.finalsite.net/images/v1783969179/arusdorg/erw8skmkorhi8ophndji/RevBoardBookJuly16th.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Alum Rock Union Elementary School District, Parcel Tax Exemption (senior exemption process for the district's current Measure I parcel tax)",
+      "url": "https://www.arusd.org/departments/business-services/parcel-tax-exemption",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Alum Rock Union Elementary School District, Board of Trustees",
+      "url": "https://www.arusd.org/about-us/board-of-trustees",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Alum Rock Union Elementary School District, Superintendent",
+      "url": "https://www.arusd.org/about-us/superintendent",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Silicon Valley Taxpayers Association, 2026 voter guide (position of NO on Measure O and Measure P, Alum Rock Union Elementary School District)",
+      "url": "https://www.svtaxpayers.org/",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "San Jose Spotlight, East San Jose school district hires new superintendent",
+      "url": "https://sanjosespotlight.com/east-san-jose-school-district-hires-new-superintendent",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "San Jose Spotlight, East San Jose school district plans workforce housing",
+      "url": "https://sanjosespotlight.com/east-san-jose-school-district-plans-workforce-housing",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "San Jose Spotlight, UPDATE: East San Jose school district delays controversial health contract",
+      "url": "https://sanjosespotlight.com/east-san-jose-school-district-considers-controversial-health-contract",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "San Jose Spotlight, East San Jose school district redraws its boundaries",
+      "url": "https://sanjosespotlight.com/east-san-jose-school-district-redraws-its-boundaries",
+      "retrieved": "2026-09-21"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}
