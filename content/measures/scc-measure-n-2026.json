@@ -1,0 +1,151 @@
+{
+  "id": "scc-measure-n-2026",
+  "jurisdiction": "county",
+  "county": "Santa Clara",
+  "election_date": "2026-11-03",
+  "number": "Measure N",
+  "title": "Los Gatos-Saratoga Union High School District School Bonds",
+  "status": "on_ballot",
+  "summary": "Measure N authorizes the Los Gatos-Saratoga Union High School District to issue up to $321,000,000 in general obligation bonds for facility repairs and upgrades at Los Gatos High School and Saratoga High School only. It requires 55% approval and is projected to cost property owners approximately $30 per $100,000 of assessed value, an estimated $23,000,000 collected annually while bonds are outstanding.",
+  "what_it_really_means": [
+    "The ballot question voters will see, as reproduced in the Silicon Valley Taxpayers Association's voter guide, asks whether 'Los Gatos-Saratoga Union High School District's measure (N) be adopted, authorizing $321,000,000 in bonds at legal rates, levying approximately $30 per $100,000 assessed value ($23,000,000 annually) while bonds are outstanding, with oversight, annual audits, and local control.' That single sentence compresses a bond program that, on the district's own fact sheet, could touch nearly every building system at both high schools: roofs, restrooms, plumbing, electrical, heating and cooling, parking lot and drop-off safety, science/technology/arts/math/robotics/career-technical classrooms and labs, cafeterias, indoor athletic facilities, and physical education classrooms.",
+    "Unlike some district bonds that fund a single undifferentiated project list across many campuses, this measure covers only two sites, Los Gatos High School and Saratoga High School, both operated by the same district. The district's own materials state the measure 'would include a detailed project list outlining how bond measure funds could be used at each high school,' meaning there is a project-level breakdown by campus. However, that project list and any dollar allocation between the two campuses was not published on the district's public-facing pages or accessible county filings as of this writing; the two publicly available fact sheets (dated by internal version stamps to March and June 2026) describe the eligible categories of work but assign no dollar figures to either school. Voters approving this measure are not voting on a disclosed dollar split between Los Gatos High and Saratoga High.",
+    "The district frames $30 per $100,000 of assessed value as the headline rate, with roughly $23,000,000 collected annually while bonds are outstanding, both figures repeated consistently across the district's own materials and the Silicon Valley Taxpayers Association's independent voter guide. What neither of those sources discloses, and what this file could not independently verify, is the bond program's total repayment cost (principal plus interest) over its full multi-decade life, or the final fiscal year in which the tax would still be collected. California's Elections Code Sections 9400-9405 require every school bond measure to be accompanied by a Tax Rate Statement disclosing exactly these figures, comparable to the $623.3 million total debt service disclosed for the neighboring Gilroy Unified Measure M bond on the same ballot; the Santa Clara County Registrar of Voters page listing this measure returned a 403 error to automated access during this research, and no cached or third-party copy of the underlying Tax Rate Statement could be located. That means the true multi-decade cost of borrowing for Measure N is not confirmed here and should not be assumed to be close to the $321 million principal figure alone.",
+    "The 55% vote threshold applies because this is a Proposition 39 (2000) bond, which trades a lower approval bar (versus the two-thirds required for pre-2000 school bonds) for statutory accountability requirements written into the measure: an independent citizens' oversight committee, mandatory annual financial and performance audits, and a bar on using proceeds for administrator salaries, pensions, or other operating expenses. The district's fact sheet states this explicitly: 'by law, every penny from the proposed measure must be spent on Los Gatos High School and Saratoga High School, and no funds could be taken by the State.'",
+    "The district is simultaneously carrying an earlier bond program, Measure E, for which it maintains an active Citizens' Bond Oversight Committee. Measure N would require its own oversight structure under Education Code Section 15278 et seq., though district materials do not specify whether the Measure N oversight committee would be a new body or share members with the existing Measure E committee, a common practice among California districts running concurrent bond authorizations.",
+    "The 2024 Measure A parcel tax (a separate, non-bond revenue source funding teacher retention and STEM programs) already taxes the same parcels within the district. Measure N is a distinct, additional property-tax obligation layered on top of that parcel tax and the district's existing Measure E bond debt service; the combined local tax burden on a given parcel is not stated in a single figure anywhere in the materials reviewed."
+  ],
+  "fiscal_impact": {
+    "state_cost": "none directly. The measure does not obligate the state, though qualifying facilities under this local bond may help the district compete for state School Facility Program matching grants, a separate, discretionary state appropriation not guaranteed by this measure.",
+    "state_savings": "none identified.",
+    "local_cost": "Los Gatos-Saratoga Union High School District property owners pay via an ad valorem property tax levy. District materials and the Silicon Valley Taxpayers Association's voter guide state an estimated rate of approximately $30 per $100,000 of assessed valuation, generating an estimated $23,000,000 annually while bonds are outstanding, against $321,000,000 in principal authorized. The total debt service (principal plus interest) over the life of the bonds was not disclosed in any source accessible for this research; the county's Tax Rate Statement, which would contain that figure under Elections Code Sections 9400-9405, could not be retrieved.",
+    "revenue_change": "Increases property tax revenue collected from Los Gatos-Saratoga Union High School District parcels by an estimated $23,000,000 annually while bonds are outstanding, per the ballot question language; this is the local ad valorem levy needed to service the bonds, not a new general-purpose tax.",
+    "ongoing_vs_one_time": "The $321 million bond authorization would be issued in multiple series over time as the district needs project funds, not all at once. Repayment is a recurring annual property tax obligation for as long as bonds remain outstanding; the exact final repayment year was not disclosed in any source located for this research.",
+    "narrative": "The publicly available figures for Measure N, the $321 million principal, the $30 per $100,000 average rate, and the $23 million annual collection estimate, are consistent across the district's own fact sheets and the independent Silicon Valley Taxpayers Association voter guide, giving reasonable confidence in those three numbers. What is missing from every source reviewed is the total cost of borrowing over the bond's full life. On a comparably sized November 2026 Santa Clara County school bond, Gilroy Unified's Measure M, the disclosed total debt service was more than double the principal amount borrowed ($623.3 million repaid against $295 million borrowed). Voters should expect a similar multiplier is plausible for Measure N given comparable bond structures and interest-rate environments, but that figure is not confirmed here because the underlying Tax Rate Statement was not accessible; the county Registrar of Voters page returned an access error and no third-party copy could be found."
+  },
+  "taxes": {
+    "new_taxes": [
+      "An ad valorem property tax levy on all taxable property within Los Gatos-Saratoga Union High School District boundaries, imposed to repay up to $321,000,000 in general obligation bonds. District and third-party sources estimate a rate of approximately $30 per $100,000 of assessed valuation, generating roughly $23,000,000 annually while bonds are outstanding."
+    ],
+    "tax_changes": []
+  },
+  "spending": {
+    "new_spending_areas": [
+      "Repairing leaky roofs at Los Gatos High School and Saratoga High School.",
+      "Updating failing restrooms and replacing failing plumbing, electrical, heating, and cooling systems at both campuses.",
+      "Addressing traffic and safety concerns at school parking lots and pick-up/drop-off areas.",
+      "Modernizing science, technology, arts, math, robotics, and career technical education classrooms and labs.",
+      "Renovating aging cafeterias, indoor athletic facilities, and physical education classrooms.",
+      "A district-stated 'detailed project list' allocating specific projects to each of the two high schools, the contents and per-school dollar breakdown of which were not published in the sources reviewed for this file."
+    ],
+    "funding_source": "General obligation bonds secured by an ad valorem property tax on real property within Los Gatos-Saratoga Union High School District, issued in multiple series over time up to the $321,000,000 authorized principal amount, requiring 55% voter approval under Proposition 39 (2000)."
+  },
+  "control_and_power": "The Los Gatos-Saratoga Union High School District Board of Trustees decides which projects on the bond's project list are funded and in what order, and controls the pace and structure of bond issuance up to the $321,000,000 ceiling. State law (California Education Code Section 15278 et seq.) requires the Board to form an independent citizens' oversight committee to confirm that bond proceeds are spent only on listed facilities projects and never on administrator salaries or other operating expenses, and to receive the results of state-mandated annual independent financial and performance audits. Consistent with the pattern in comparable California school bonds, such a committee's statutory role does not extend to setting project priorities, approving individual expenditures before they are made, or reallocating money between projects, decisions that remain with the Board; this file could not confirm whether Measure N's oversight committee will be newly formed or will share membership with the district's existing Measure E Citizens' Bond Oversight Committee, since district materials do not specify. By law, per the district's own fact sheet, spending is legally restricted to the two named campuses, Los Gatos High School and Saratoga High School, and the State cannot redirect bond proceeds elsewhere.",
+  "loopholes": [
+    "The district's own materials describe a 'detailed project list outlining how bond measure funds could be used at each high school,' but that list and any dollar split between Los Gatos High School and Saratoga High School were not published in any source accessible for this research. As with comparable California school bonds, it is standard for such lists to include broad catch-all categories and to disclaim that listed order reflects funding priority; this file could not confirm whether Measure N's project list carries that same disclaimer because the list itself was not located.",
+    "The total cost of borrowing (principal plus interest) over the life of the bonds is not disclosed in any source reviewed. Only the $321 million principal, the roughly $30 per $100,000 average rate, and the roughly $23 million annual collection estimate are publicly confirmed; the Tax Rate Statement that would disclose total debt service under Elections Code Sections 9400-9405 could not be retrieved.",
+    "This file could not confirm whether Measure N's citizens' oversight committee will be newly constituted or share membership with the district's existing Measure E oversight committee, a detail the district's public materials do not address."
+  ],
+  "unexpected_provisions": [
+    "The measure funds work at only two campuses, both high schools, rather than the whole-district scope typical of unified K-12 bond measures on the same ballot (compare Gilroy Unified's Measure M, which spans 14 campuses); a voter unfamiliar with the district's structure might not realize Los Gatos-Saratoga Union High School District operates exclusively these two comprehensive high schools.",
+    "The district discloses that qualifying under this bond may help it compete for California School Facility Program state matching grants, a benefit not evident from the ballot question's focus on the $321 million local authorization alone."
+  ],
+  "pros": [
+    "District materials describe school facilities, some more than 100 years old, with dry rot, leaky roofs, and outdated plumbing and electrical systems, framing the bond as necessary to avoid ongoing costly emergency repairs.",
+    "The measure carries the accountability structure required of all Proposition 39 school bonds: mandatory annual independent audits, a citizens' oversight committee, and an explicit prohibition on using proceeds for administrator salaries or benefits, all stated in the district's own materials.",
+    "By law, every dollar raised must be spent at Los Gatos High School or Saratoga High School and cannot be redirected by the State, keeping the funding local and campus-specific.",
+    "Los Gatos and Saratoga High Schools are described by the district as among the highest-performing schools in the state and nation, which supporters argue justifies continued local investment in aging facilities to sustain that performance.",
+    "The 55% threshold, rather than a two-thirds supermajority, reflects the accountability safeguards Proposition 39 (2000) requires in exchange for the lower bar, the standard tradeoff for California school facilities bonds."
+  ],
+  "cons": [
+    "The true multi-decade cost of borrowing, principal plus interest, is not disclosed anywhere in the sources reviewed for this measure, unlike some comparable November 2026 Santa Clara County bonds where the total debt service was published and found to exceed double the principal amount.",
+    "The Silicon Valley Taxpayers Association opposes Measure N and includes it among the November 2026 Santa Clara County tax and bond measures it recommends a no vote on.",
+    "The bond adds a new property tax obligation on top of the district's existing Measure A parcel tax and Measure E bond debt service already levied on the same parcels; no source reviewed states the combined local tax burden in one figure.",
+    "The district's own materials promise a 'detailed project list' allocating funds between the two high schools, but that list, and therefore any assurance about how the $321 million will actually be divided between Los Gatos High and Saratoga High, was not publicly accessible for this analysis."
+  ],
+  "who_supports": [
+    {
+      "name": "Los Gatos-Saratoga Union High School District Board of Trustees",
+      "type": "org",
+      "notes": "Voted to place the measure on the November 2026 ballot, per the district's own published fact sheets describing the bond as Board-approved."
+    }
+  ],
+  "who_opposes": [
+    {
+      "name": "Silicon Valley Taxpayers Association",
+      "type": "org",
+      "notes": "Lists Measure N among the November 2026 Santa Clara County tax and bond measures it recommends a no vote on."
+    }
+  ],
+  "authors": [
+    {
+      "name": "Theresa Bond",
+      "role": "Board President, Los Gatos-Saratoga Union High School District Board of Trustees."
+    },
+    {
+      "name": "Katherine Tseng",
+      "role": "Board Vice President, Los Gatos-Saratoga Union High School District Board of Trustees."
+    },
+    {
+      "name": "Shawn Mortensen",
+      "role": "Board Clerk, Los Gatos-Saratoga Union High School District Board of Trustees."
+    },
+    {
+      "name": "Steve Chen",
+      "role": "Trustee, Los Gatos-Saratoga Union High School District Board of Trustees."
+    },
+    {
+      "name": "Heath Rocha",
+      "role": "Superintendent, Los Gatos-Saratoga Union High School District."
+    }
+  ],
+  "nonpartisan_analysis": [],
+  "sources": [
+    {
+      "title": "Santa Clara County Registrar of Voters, List of Local Measures, November 3, 2026 General Election",
+      "url": "https://vote.santaclaracounty.gov/list-local-measures-4",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Los Gatos-Saratoga Union High School District, Local Funding informational page (Measure N)",
+      "url": "https://www.lgsuhsd.org/about-us/local-funding",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Los Gatos-Saratoga Union High School District, Local Funding FAQs",
+      "url": "https://www.lgsuhsd.org/about-us/local-funding/faqs",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Los Gatos-Saratoga Union High School District, Local Funding Fact Sheet (pre-vote version, 'considering placing' language)",
+      "url": "https://resources.finalsite.net/images/v1774202853/km8pcxpnmgdvib11cof7/FactSheet_TCX_LosGatos-SaratogaHighSD1_1a.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Los Gatos-Saratoga Union High School District, Local Funding Fact Sheet (post-vote version, 'has voted to place' language)",
+      "url": "https://resources.finalsite.net/images/v1784218484/kfq73r5mw8gcvezlyis4/FactSheet_TCX_LosGatos-SaratogaHighSD1_1b.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Silicon Valley Taxpayers Association, home page listing November 2026 Santa Clara County measure recommendations, including Measure N ballot question text and No recommendation",
+      "url": "https://www.svtaxpayers.org/",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Los Gatos-Saratoga Union High School District, Meet the Board of Trustees",
+      "url": "https://www.lgsuhsd.org/about-us/board-of-trustees/meettheboard",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Los Gatos-Saratoga Union High School District, Measure E Bond Oversight Committee",
+      "url": "https://www.lgsuhsd.org/about-us/community-involvement/measure-e-bond-oversight-committee",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "California Fair Political Practices Commission, November 2026 General Election, Pending & Circulating Ballot Measure Committees (no Los Gatos-Saratoga Measure N committee found)",
+      "url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/november-2026-pending-circulating-ballot/",
+      "retrieved": "2026-09-21"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}
