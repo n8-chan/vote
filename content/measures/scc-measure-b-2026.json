@@ -1,0 +1,145 @@
+{
+  "id": "scc-measure-b-2026",
+  "jurisdiction": "county",
+  "county": "Santa Clara",
+  "election_date": "2026-11-03",
+  "number": "Measure B",
+  "title": "Transient Occupancy Tax",
+  "status": "on_ballot",
+  "summary": "Measure B asks City of Gilroy voters to raise the Transient Occupancy Tax (hotel tax) from its current 9%, unchanged since 1983, to a voter-approved ceiling of 13%. The measure itself only enacts an immediate increase to 11%; from there the City Council can raise or lower the rate by simple resolution, without another vote, as long as it never exceeds 13%. The tax is paid only by hotel, motel, and short-term rental guests staying 30 days or less, and proceeds go into the city's General Fund.",
+  "what_it_really_means": [
+    "The ballot question makes this sound like a single up-or-down choice between 9% and 13%, but the measure does not set the rate at 13%. Per the City Attorney's Impartial Analysis, a \"Yes\" vote enacts an immediate increase from 9% to 11%, effective January 1, 2027. Separately, it amends Chapter 25A of the Gilroy City Code to let the City Council adjust the rate upward or downward by simple resolution at any future public meeting, with no further vote of the people required, provided the rate never exceeds 13%. Voters are approving a ceiling and an initial rate, not a fixed 13% tax; the actual rate Gilroy visitors pay in any given year, between 11% and 13%, is a decision the Council makes on its own after the election.",
+      "The mechanics are spelled out in the ordinance text attached to City Council Resolution No. 2026-30 (Exhibit A, amending Section 25A.2 of the Gilroy City Code): \"On and as of January 1, 2027, and continuing thereafter until further change by City Council resolution, the amount of the tax imposed (the tax rate) is eleven percent (11%)... Any further changes to the tax rate may be made by City Council resolution, provided that the rate shall not exceed thirteen percent (13%). Any such change to the tax rate shall take effect no sooner than sixty (60) days following the adoption of the resolution... If at any time no Council resolution setting a different tax rate is in effect, then the tax rate shall be eleven percent (11%).\" That default clause sets 11% as the rate that applies absent Council action, but nothing in the ordinance or the Impartial Analysis writes in a hard floor below 11% for future resolutions; the only enforceable numeric limit voters are locking in is the 13% ceiling.",
+    "The tax applies to \"persons staying in hotels, short-term rentals, or other lodging for a period of 30 days or less,\" per the Impartial Analysis, which means Airbnb-style short-term rental stays are taxed identically to traditional hotel and motel stays, not just conventional lodging businesses. Gilroy residents do not pay it directly; it falls on visitors, consistent with the argument in favor's framing that \"visitors use our streets, parks, and police and fire services\" without otherwise contributing to their cost. A February 2026 Gilroy Dispatch report on the proposal noted that some local hotel operators raised concerns at a city council meeting about competition and sales impacts a higher rate could cause, a business-side consideration the ballot question and both filed arguments do not address.",
+    "Legally, this is a general tax: the Impartial Analysis states plainly that \"Monies received from the Hotel Tax are deposited into the City of Gilroy general fund and may be used for any lawful purpose,\" and lists street/pothole repairs, park and recreation programs, emergency preparedness, and police and fire response only as examples (\"City services funded could include, for example...\"). The ballot question itself leads with the same list of services under the banner \"To maintain critical City services,\" which reads like a dedicated, earmarked funding stream. It is not one. Because it is a general tax rather than a special tax restricted to a specific purpose, it only needed a simple majority to pass under Proposition 218, rather than the two-thirds supermajority California requires for a special tax; that lower threshold is a direct consequence of the money being legally unrestricted, not a separate concession.",
+    "The dollar figures cited in the campaign trace to different points in the rate range, not to a single number. A February 2026 city staff report, reported by the Gilroy Dispatch ahead of the Council's decision to place the measure on the ballot, estimated the existing 9% rate generates about $1.8 million a year, and that a 13% rate could raise about $2.6 million a year, an increase of roughly $800,000. By the time the primary argument in favor was filed in August 2026, Mayor Greg Bozzo's argument put the incremental figures at approximately $300,000 a year in new revenue at the initial 11% rate, rising to approximately $700,000 a year in new revenue only if the Council eventually raises the rate to the full 13% ceiling, the number printed in the ballot question itself. Because the ordinance only immediately enacts 11%, the $700,000 headline figure is not guaranteed; it depends on a future Council resolution that has not yet been adopted. Placing the measure on the ballot itself was estimated by city staff to cost up to $100,000, a one-time cost not mentioned in the ballot question or either argument.",
+    "The path to the ballot began with a February 9, 2026 City Council meeting at which the Council directed staff to return with a ballot question; staff's report at that time noted Gilroy's 9% rate was one of the lowest Transient Occupancy Tax rates among Santa Clara County cities, that the county average is roughly 12%, and that some councilmembers suggested a rate closer to 11%, similar to neighboring Morgan Hill's, would be more appropriate as a starting point. The Council formally placed the measure on the ballot by adopting Resolution No. 2026-30 on May 4, 2026, by a 6-1 vote: council members Cline, Fugazzi, Hilton, Marques, Ramirez, and Mayor Bozzo voted yes; council member Bracco voted no. No source reviewed explains Bracco's specific objection, since Council meeting discussion beyond the resolution text and the Dispatch's February preview was not available in the sources reviewed.",
+    "Both sides filed arguments with the Registrar of Voters. The primary argument against, filed by Silicon Valley Taxpayers Association president Mark W.A. Hinkle, calls the measure a \"huge, 31 PERCENT tax hike\" (a figure consistent with the relative increase from 9% to the 13% ceiling, roughly (13-9)/13), argues the city should already be funding \"critical\" services like police, fire, and pothole repair through its regular budget rather than a new tax, and frames the increase as discouraging visitors and family members who travel to Gilroy. Mayor Bozzo's rebuttal to that argument characterizes the increase as \"modest: two percentage points, from 9% to 11%,\" emphasizes the 13% figure as a \"strict, voter-approved ceiling\" rather than the immediate rate, and notes the opposition argument \"is signed by an outside, countywide advocacy group — not local officials accountable to Gilroy voters\" (the Silicon Valley Taxpayers Association organizes countywide, not exclusively in Gilroy). No rebuttal to the primary argument in favor was filed, so voters will see the city's rebuttal to the opposition in the Voter Information Guide but not any opposition rebuttal to the city's own argument.",
+    "The ballot question's claim that the revenue \"cannot be taken by Sacramento\" is accurate in the narrow sense that Transient Occupancy Tax is a locally imposed, locally collected, and locally retained tax under Revenue and Taxation Code Section 7280, unlike property tax, parts of which the state has redirected between local governments and schools in past budget cycles (before Proposition 1A's 2004 protections). No source reviewed, including the Impartial Analysis or either filed argument, identifies any specific current threat of state seizure that this language is responding to; it functions as reassurance about a structural feature of how TOT law already works rather than a new protection the measure creates."
+  ],
+  "fiscal_impact": {
+    "state_cost": "none. This is a City of Gilroy general tax measure; it creates no state General Fund obligation.",
+    "state_savings": "none identified.",
+    "local_cost": "none mandated on the county; placing the measure on the November 2026 ballot cost the City of Gilroy up to approximately $100,000, per the February 2026 city staff report cited by the Gilroy Dispatch.",
+    "revenue_change": "Increases City of Gilroy General Fund revenue. The city's existing 9% rate generates approximately $1.8 million annually, per a February 2026 staff estimate. The immediate 11% rate the measure enacts is estimated to generate approximately $300,000 a year in new revenue over the current 9% baseline, per the primary argument in favor; the ballot question's headline figure of approximately $700,000 a year in new revenue, and the February staff estimate of total revenue near $2.6 million a year, both assume the Council eventually raises the rate to the full 13% ceiling, which is not guaranteed by this measure alone.",
+    "ongoing_vs_one_time": "Ongoing tax revenue for the City of Gilroy's General Fund, with no sunset date specified; the measure states the tax continues \"until ended by voters.\" The city's up-to-$100,000 cost of running the ballot measure is one-time.",
+    "narrative": "Three different dollar figures appear across the sources for this measure, and they describe three different things: the city's current 9%-rate revenue (~$1.8 million/year, February 2026 staff estimate), the revenue increase from the rate this measure actually enacts on January 1, 2027 (11%, ~$300,000/year in new money, per the August 2026 argument in favor), and the revenue increase if the City Council later exercises its resolution authority to raise the rate to the 13% ceiling (~$700,000/year in new money, the figure printed in the ballot question itself). A yes vote guarantees only the first step, the move to 11%; the $700,000 figure voters see on the ballot is a ceiling scenario contingent on a future Council vote that this measure does not require the Council to take. Because the tax is deposited into the General Fund rather than a restricted account, none of these figures is earmarked to the specific services named in the ballot question; the money is fungible with the rest of the city's general operating budget."
+  },
+  "taxes": {
+    "new_taxes": [],
+    "tax_changes": [
+      "Raises the ceiling on the City of Gilroy's Transient Occupancy Tax (hotel tax) from 9% to a voter-approved maximum of 13%, immediately setting the rate at 11% effective January 1, 2027, and authorizing the City Council to adjust the rate anywhere between the default 11% and the 13% ceiling by simple resolution, without further voter approval, with any change taking effect no sooner than 60 days after Council adoption."
+    ]
+  },
+  "spending": {
+    "new_spending_areas": [
+      "General Fund city services named in the ballot question as illustrative examples only, not a legal earmark, per the City Attorney's Impartial Analysis: street and pothole repair, park and recreation programs, emergency preparedness for storms, flooding, and wildfires, and police and fire response."
+    ],
+    "funding_source": "New Transient Occupancy Tax (hotel tax) revenue paid by hotel, motel, and short-term rental guests staying 30 days or less, deposited into the City of Gilroy's General Fund and usable for any lawful municipal purpose, not legally restricted to the categories named in the ballot question."
+  },
+  "control_and_power": "The measure itself sets an immediate 11% rate effective January 1, 2027. Beyond that, the City Council, acting by simple resolution at a public meeting rather than through another public vote, gains ongoing authority to raise or lower the Transient Occupancy Tax rate at will, as long as it never exceeds the 13% ceiling voters are approving; any rate change takes effect no sooner than 60 days after the Council adopts the resolution, but no additional voter approval, supermajority Council vote, or automatic index is required for future increases up to that ceiling. If no Council resolution setting a different rate is in effect, the rate defaults back to 11%, but the ordinance does not establish a floor below which the Council cannot set the rate, so the 60-day notice period is the only procedural check on future changes in either direction within the 9%-to-13% range implied by the measure. The money itself is not controlled by any earmark, oversight board, or spending formula: because it is a general tax deposited into the General Fund, City Council retains full discretion, through the annual budget process, over how the revenue is spent, notwithstanding the specific services listed in the ballot question. The City Council placed this measure on the ballot by a 6-1 vote (Resolution No. 2026-30, May 4, 2026), with council member Bracco dissenting; no source reviewed documents the reason for that dissent.",
+  "loopholes": [
+    "The ballot question and both filed arguments repeatedly describe the tax as funding specific services (\"street/pothole repair,\" \"park and recreation programs,\" \"emergency preparedness,\" \"police and fire response\"), but the City Attorney's Impartial Analysis confirms this is a general tax deposited into the General Fund and usable for \"any lawful purpose\"; the named services are examples, not a binding earmark, and the City Council retains full discretion over how the revenue is actually spent through the normal budget process.",
+    "The measure's own operative text enacts an 11% rate, not the 13% the ballot headline advertises; the $700,000-a-year revenue figure printed in the ballot question depends on the City Council later adopting a separate resolution to raise the rate to the full ceiling, something this measure authorizes but does not require or schedule.",
+    "The ordinance sets a 13% ceiling and a default rate of 11% (the rate that applies if no Council resolution is in effect), but does not write in an enforceable floor for a rate the Council actively sets by resolution; nothing in the text or the Impartial Analysis specifies a minimum below which the Council cannot set the rate, though no source reviewed suggests the Council intends to set it below 11%.",
+    "Future rate changes require only a City Council resolution at a public meeting with a 60-day delay before taking effect, not a supermajority Council vote, additional public notice beyond a normal agendized item, or another election, meaning the practical check on the Council raising the rate toward 13% over time is political accountability at the next city election rather than a structural requirement in the measure itself."
+  ],
+  "unexpected_provisions": [
+    "This is legally a general tax whose proceeds voters cannot direct to the specific services named in the ballot question; a voter who supports the measure specifically to fund police, fire, or pothole repair has no legal guarantee the money will be spent that way rather than on any other lawful city purpose.",
+    "The tax applies to short-term rental stays (for example, Airbnb-style listings), not only traditional hotels and motels, at the same rate.",
+    "The City Council's vote to place the measure on the ballot was not unanimous: six council members supported Resolution No. 2026-30 and one, council member Bracco, voted against it, a dissent not mentioned anywhere in the ballot question or either filed argument.",
+    "Running the ballot measure itself is estimated to cost the City of Gilroy up to $100,000, a cost not disclosed in the ballot question.",
+    "Even if approved in November 2026, the ordinance's tax-collection provisions do not take effect until January 1, 2027; the measure is legally \"adopted\" ten days after the vote is certified, but Gilroy does not begin collecting the higher rate until the new calendar year.",
+    "No rebuttal to the primary argument in favor was filed with the Registrar of Voters, while the city (via Mayor Bozzo) did file a rebuttal to the primary argument against; voters will read only one side's rebuttal in the County Voter Information Guide."
+  ],
+  "pros": [
+    "The tax is paid only by hotel, motel, and short-term rental guests staying 30 days or less; Gilroy residents pay no part of it directly, and supporters argue visitors who use city streets, parks, and public safety services during their stay should help fund them.",
+    "Gilroy's hotel tax rate has not changed since 1983 and, at 9%, is among the lowest in Santa Clara County, where the countywide average is roughly 12%; supporters argue the city is leaving revenue on the table that comparable neighboring cities already collect.",
+    "Revenue stays with the City of Gilroy and cannot be redirected by the state, and the measure requires annual independent audits of the funds collected, which supporters frame as a transparency and accountability safeguard.",
+    "The measure lets the City Council adjust the rate up to the 13% ceiling without the cost and delay of a future ballot measure, while voters retain control of the maximum rate that can ever be charged.",
+    "At the 13% ceiling, the tax could generate approximately $700,000 a year, according to the primary argument in favor, funding that supporters say is meaningful for a city of Gilroy's size at no direct cost to residents."
+  ],
+  "cons": [
+    "The official primary argument against, filed by the Silicon Valley Taxpayers Association, calls the increase to the 13% ceiling a \"31 PERCENT tax hike\" and argues it will discourage visitors, including family and friends traveling to Gilroy for personal reasons, not only business travelers.",
+    "Opponents argue the City Council should already be funding \"critical\" services like street repair, police, and fire response through the existing annual budget, and that needing a new tax to cover them reflects a budget-priority failure rather than a genuine funding gap.",
+    "Because the money goes into the General Fund as a general tax, it is not legally restricted to the services listed in the ballot question, so voters have no enforceable guarantee the revenue will fund what the ballot title promises.",
+    "The City Council can raise the rate from the initial 11% up to the full 13% ceiling on its own, by simple resolution, without another public vote, meaning the tax burden visitors ultimately pay is a decision made by city officials after the election rather than something voters directly approve step by step.",
+    "The measure itself cost the city an estimated up to $100,000 to place on the ballot, and some local hotel operators raised concerns at a February 2026 council meeting about competitive and sales impacts a higher rate could have on their business.",
+    "The City Council's decision to place the measure on the ballot was not unanimous; one council member, Bracco, voted against Resolution No. 2026-30."
+  ],
+  "who_supports": [
+    {
+      "name": "Greg Bozzo",
+      "type": "politician",
+      "notes": "Mayor of Gilroy; filer and sole signer of the official primary argument in favor of Measure B and of the rebuttal to the primary argument against."
+    }
+  ],
+  "who_opposes": [
+    {
+      "name": "Silicon Valley Taxpayers Association",
+      "type": "org",
+      "notes": "Countywide taxpayer advocacy organization; president Mark W.A. Hinkle filed and signed the official primary argument against Measure B."
+    }
+  ],
+  "authors": [
+    {
+      "name": "Greg Bozzo",
+      "role": "Mayor of Gilroy; signed City Council Resolution No. 2026-30 (adopted 6-1 on May 4, 2026) placing Measure B on the ballot, and is the filer/signer of the official primary argument in favor and the rebuttal to the argument against."
+    }
+  ],
+  "nonpartisan_analysis": [
+    {
+      "source": "City of Gilroy City Attorney (Andrew L. Faber), Impartial Analysis of Measure (X)",
+      "summary": "Confirms the measure initially raises the Transient Occupancy Tax from 9% to 11%, effective upon the ordinance's operative provisions, and separately authorizes the City Council to adjust the rate up or down by resolution, without a further vote of the people, provided the rate never exceeds 13%. States that Hotel Tax proceeds are deposited into the City's General Fund and may be used for any lawful purpose, listing street/pothole repairs, park and recreation programs, emergency preparedness, and police and fire response only as examples. Confirms the tax applies to hotels, short-term rentals, and other lodging for stays of 30 days or less, and that the measure requires a simple majority to pass.",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-b-city-of-gilroy_ia_8.7.26_redacted.pdf"
+    },
+    {
+      "source": "Ballotpedia",
+      "summary": "Describes Measure B as a City of Gilroy referral raising the hotel tax from 9% to 13%, placed on the ballot through a vote of the Gilroy City Council, requiring a simple majority to pass, with the full ordinance text available via the city's Resolution No. 2026-30.",
+      "url": "https://ballotpedia.org/Gilroy,_California,_Measure_B,_Hotel_Tax_Increase_Measure_(November_2026)"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Santa Clara County Registrar of Voters, List of Local Measures, November 3, 2026 General Election",
+      "url": "https://vote.santaclaracounty.gov/list-local-measures-4",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Measure B, City of Gilroy, Transient Occupancy Tax, City Attorney's Impartial Analysis (Andrew L. Faber)",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-b-city-of-gilroy_ia_8.7.26_redacted.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Measure B, City of Gilroy, Primary Argument In Favor (Mayor Greg Bozzo)",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-b-city-of-gilroy_primary-argument_in-favor_8.7.26_redacted.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Measure B, City of Gilroy, Transient Occupancy Tax, Primary Argument Against (Silicon Valley Taxpayers Association, Mark W.A. Hinkle)",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-b-city-of-gilroy-transient-occupancy-tax-argument_against-08-11-2026_redacted.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Measure B, City of Gilroy, TOT, Rebuttal to Argument Against (Mayor Greg Bozzo)",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-b-city-of-gilroy-tot-rebuttal-against-08-17-2026_redacted.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "City of Gilroy, Resolution No. 2026-30, A Resolution of the City Council of the City of Gilroy Submitting to the Qualified Voters of the City of Gilroy a Measure Increasing the Rate of the City's Transient Occupancy (Hotel) Tax from 9% to a Not to Exceed Maximum Rate of 13% (adopted May 4, 2026, includes full ordinance text as Exhibit A)",
+      "url": "https://www.cityofgilroy.org/DocumentCenter/View/20494/2026-30_Resolution_Transient_Occupancy_Tax_Ballot_Measure",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Ballotpedia, Gilroy, California, Measure B, Hotel Tax Increase Measure (November 2026)",
+      "url": "https://ballotpedia.org/Gilroy,_California,_Measure_B,_Hotel_Tax_Increase_Measure_(November_2026)",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Gilroy Dispatch, City council considers Gilroy hotel tax increase",
+      "url": "https://gilroydispatch.com/city-council-considers-gilroy-hotel-tax-increase/",
+      "retrieved": "2026-09-20"
+    }
+  ],
+  "last_updated": "2026-09-20"
+}
