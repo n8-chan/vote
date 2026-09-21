@@ -1,0 +1,219 @@
+{
+  "id": "ca-prop-42-2026",
+  "jurisdiction": "state",
+  "election_date": "2026-11-03",
+  "number": "Proposition 42",
+  "title": "Prohibits New State Personal Property Taxes and Certain Retroactive State Taxes. Initiative Constitutional Amendment.",
+  "status": "on_ballot",
+  "summary": "Proposition 42 adds a new article to the California Constitution barring any new state tax, enacted on or after January 1, 2026, on the ownership or control of retirement holdings, individually owned assets, and other personal property, a category defined broadly enough to cover nearly everything a person owns other than real estate. It separately bars new state taxes from applying retroactively, including taxes based on a person's residency on a date before the tax took effect, with a narrow exception letting the Legislature impose a retroactive tax reaching back up to 365 days during a declared emergency. Like its companion Proposition 41, it carries a same-ballot nullification clause naming no measure but aimed squarely at Proposition 40's wealth tax, and both are funded chiefly by Google co-founder Sergey Brin's Building a Better California.",
+  "what_it_really_means": [
+    "The measure's internal title, printed in the initiative text itself, is the 'Retirement and Personal Savings Protection Act of 2026' — a broader and more sympathetic frame than the ballot title voters will actually read, which mentions only 'personal property taxes' and 'retroactive state taxes.' Section 4 adds a new Article VIII to the Constitution with two operative bans. Section 1 forbids any state law or constitutional provision enacted on or after January 1, 2026 from imposing a tax on the 'ownership or control' of 'retirement holdings, individually owned assets, and other forms of personal savings, whether held directly or indirectly.' Section 3(a) defines that phrase expansively: pensions; 401(k), 403(b), and all other retirement accounts; mutual funds; and 'all personal property, whether tangible or intangible,' explicitly including financial assets, investment accounts, business interests, digital assets, intellectual property, and personal belongings. Combined with Section 1(c)'s carve-out of real property (already governed by Proposition 13's separate rules), the effect is that essentially every category of wealth a Californian can hold that isn't land or a building is placed off-limits to any new state ownership tax, not just retirement accounts as the popular framing suggests.",
+      "Two things keep this from banning existing personal property taxes voters already pay. Section 1(b) grandfathers in 'any tax that was in effect, imposed, and first collected on or before December 31, 2025' — which is why the vehicle license fee that car and truck owners already pay the DMV, and the property tax business owners already pay counties on equipment, per the LAO's own background section, are untouched. What the measure blocks is a future extension of that kind of tax to a new class of property, such as financial-asset ownership, which the LAO notes is not taxed today at all. The measure does not touch income taxes, capital-gains taxes when assets are sold, or existing property taxes; Section 2(d) of the findings explicitly acknowledges Californians already pay all of those.",
+      "Section 2 of the new Article VIII does the retroactive-tax work, and it reaches further than the 'certain retroactive taxes' language in the ballot title implies. Subdivision (a)(1) bars any state law or constitutional provision enacted on or after January 1, 2026 from creating tax liability 'based on conduct, activities, or a status that occurred or was present prior to the effective date' of that law. Subdivision (a)(2) then adds a specific extension: this also covers 'a tax that is imposed on a taxpayer based upon their residency status on a date prior to the effective date of the tax.' That residency clause is not a generic drafting flourish. Proposition 40, on this same ballot, imposes its one-time wealth tax specifically on billionaires who 'were residents of California on January 1, 2026,' per the LAO's own Proposition 40 analysis — a design that looks backward to a fixed date to determine who owes the tax. Proposition 42's residency-retroactivity ban targets exactly that mechanism, whether or not Proposition 40 itself is found to fall within it.",
+      "The retroactive-tax ban has one exception, and it is available only to the Legislature, not to citizen initiatives. Section 2(c) permits a legislatively enacted tax to reach back up to 365 days before the statute takes effect, but only if the Governor has declared either a natural-disaster emergency (fire, flood, storm, civil disorder, earthquake, volcanic eruption, or foreign attack) or a fiscal emergency under Article IV, and only if the tax's revenue is 'expressly limited' to responding to that emergency. A voter initiative — the same tool Proposition 40 and this measure itself use — gets no such exception under Section 2; any retroactive element in a future initiative is barred outright, emergency or not.",
+      "Section 3(b) defines 'tax' for the whole article by cross-reference to Article XIII A, Section 3(b) of the existing Constitution — the definition Proposition 26 (2010) established to distinguish a tax from a regulatory fee, charge, or assessment tied to a specific service or benefit. That cross-reference means fees, charges, and bond-financed revenue continue to sit outside both bans in this measure entirely, exactly as they sit outside Proposition 41's parallel restrictions; a future revenue mechanism built as a fee rather than a tax on ownership is unaffected regardless of what property it reaches.",
+      "Section 5 is the mechanism that gives the measure teeth beyond its own four corners, and it mirrors Proposition 41's Section 5 almost exactly. It provides that if this measure appears on the same ballot as another initiative that would tax the ownership of retirement holdings, individually owned assets, or personal savings, or that would impose retroactive tax liability of the kind Section 2 bars, that other initiative 'shall be deemed to be in conflict' with Proposition 42. Whichever measure wins more affirmative votes prevails 'in their entirety,' and 'all the provisions of the other measure shall be null and void' — even if the losing measure separately cleared a majority of yes votes on its own. Proposition 40 is never named, but the LAO's own 'Potential Interactions With Other Propositions' box states plainly that if Proposition 42 outpolls Proposition 40, 'Proposition 40 could be stopped from becoming law even if it gets yes votes from a majority of voters,' because courts could find the two measures in conflict.",
+      "Section 9, titled 'Legal Defense,' is unrelated to taxes and would not be anticipated from the ballot title. It is worded identically to Proposition 41's Section 9: if the act is challenged in court and the Governor and Attorney General decline to defend it 'to the fullest extent possible,' the Attorney General must appoint independent outside counsel, funded by a continuous, uncapped General Fund appropriation 'without regard to fiscal years.' It is a standing claim on state money to fund private litigation that overrides the sitting Attorney General's own legal judgment about whether and how to defend a law.",
+      "Proposition 42 is not a standalone measure in origin or funding. Both it and Proposition 41 were filed by the same attorney, Kurt R. Oneto, and both are financed overwhelmingly by Building a Better California, the committee whose largest identified donor is Sergey Brin, alongside Kleiner Perkins chairman L. John Doerr III. Building a Better California registered in support of both measures and, per Ballotpedia, also contributed to campaigns for other 2026 measures including Propositions 1, 37, and 45. Proposition 41 already carries a Section 5 aimed at Proposition 40 over the Gann-Limit spending question; Proposition 42 carries a second, differently worded Section 5 aimed at the same Proposition 40 over the wealth tax's residency-based design and its treatment of personal property. A single 'yes' vote for the wealth tax on Proposition 40 can be defeated by either of two same-ballot measures outpolling it, not one."
+  ],
+  "fiscal_impact": {
+    "state_cost": "None identified by the Legislative Analyst's Office. The measure creates no new program and requires no state administration.",
+    "state_savings": "None identified. The measure does not reduce any existing state cost.",
+    "local_cost": "None identified by the Legislative Analyst's Office. The measure operates on state tax law, not local government.",
+    "revenue_change": "Uncertain reduction. The LAO states the measure 'restricts the options the state has to raise taxes in the future,' which 'could make it somewhat harder for the state to raise taxes' and 'could reduce future tax revenues,' but says 'when and by how much future revenues would be reduced is unclear.' The measure itself raises, lowers, or redirects no existing tax; its effect is entirely on what future taxes the state may enact.",
+    "ongoing_vs_one_time": "Not applicable in the ordinary sense, since the measure creates no revenue or spending stream itself. Its effect is a permanent, ongoing constitutional constraint on future tax legislation and future citizen initiatives.",
+    "narrative": "The LAO's entire fiscal-effects section is a single sentence: a 'possibility that tax revenues will not go up as much in the future,' with timing and magnitude both explicitly called unclear. That brevity reflects that, unlike Proposition 41's audit apparatus, Proposition 42 has no budget of its own; it is a pure restriction on future lawmaking. The number that actually matters for near-term fiscal stakes is not in Proposition 42's own analysis at all but in Proposition 40's: the LAO estimates Proposition 40's wealth tax would raise 'tens of billions of dollars' over several years. Proposition 42's fiscal significance is contingent and binary — it has no effect on the budget unless it outpolls Proposition 40 or a similar future measure on the same ballot, in which case the forgone revenue is whatever that measure would have raised, not any amount stated in Proposition 42's own fiscal estimate."
+  },
+  "taxes": {
+    "new_taxes": [],
+    "tax_changes": [
+      "Creates a permanent constitutional bar on any new state tax, enacted on or after January 1, 2026, on the ownership or control of retirement holdings, individually owned assets, or other personal property, other than real property and other than taxes already in effect and first collected on or before December 31, 2025.",
+      "Creates a permanent constitutional bar on any new state tax applying retroactively to past conduct, activities, status, or past residency, with a narrow exception allowing the Legislature (not citizen initiatives) to enact a tax reaching back up to 365 days during a Governor-declared natural-disaster or fiscal emergency, with revenue limited to that emergency."
+    ]
+  },
+  "spending": {
+    "new_spending_areas": [],
+    "funding_source": "None. The measure creates no spending program; Section 9's General Fund appropriation is limited to legal defense costs if the act is challenged in court and the Governor and Attorney General decline to defend it."
+  },
+  "control_and_power": "The measure removes a tool from both the Legislature and the citizen-initiative process going forward: after January 1, 2026, neither can enact a tax on ownership of personal property (other than real property) or a retroactive tax, with only the Legislature retaining a narrow emergency exception for retroactivity. Section 5's conflicting-measure clause hands unusual power to relative vote share on the same ballot rather than a simple majority threshold: a same-ballot initiative that taxes personal-property ownership or imposes the kind of retroactivity this measure bars can win a majority of the vote and still be nullified in its entirety if Proposition 42 receives more affirmative votes. Section 9 gives the Attorney General a mandatory duty, not a discretionary choice, to appoint and fund independent outside counsel to defend the act if the Attorney General's own legal judgment would otherwise lead the state not to defend it, funded by an uncapped, standing General Fund appropriation outside the normal budget process, insulating the measure from a future Attorney General's litigation discretion.",
+  "loopholes": [
+    "The ban applies only to a 'tax' as defined by cross-reference to Article XIII A, Section 3(b), the definition Proposition 26 (2010) uses to distinguish a tax from a regulatory fee, charge, or assessment tied to a specific service or benefit. A future revenue mechanism on personal property ownership structured as a fee or charge rather than a tax, or financed through bond proceeds, falls outside both of this measure's bans entirely.",
+    "Both bans apply only to taxes 'enacted on or after January 1, 2026.' Any existing personal property tax already in effect and first collected on or before December 31, 2025 — the vehicle license fee and business equipment property tax the LAO cites as current examples — is grandfathered in and untouched, however that tax is later increased in rate (the measure bars new taxes on ownership, not rate increases to a grandfathered tax's existing base).",
+    "Section 3(a)'s definition of covered property is broad but is limited to what a person 'owns' — it does not on its face reach taxes structured around use, transaction, transfer, or realization events (such as a sale, a transfer at death, or a transaction tax) rather than mere ownership or control, leaving those tax designs potentially outside the ban even where they functionally reach the same assets.",
+    "Section 2(c)'s emergency exception for retroactive taxes is available only to statutes 'passed by the Legislature,' not to citizen initiatives, and requires the Governor's own declaration of an emergency as a precondition — meaning the Legislature's retroactivity option depends entirely on a factual and political determination the Legislature does not control.",
+    "Section 5's conflicting-measure clause is triggered by any other initiative that would tax ownership of the defined personal-property categories or impose retroactive liability of the kind Section 2 bars; it does not require the conflicting measure to be about a similar subject overall, so it could reach a future same-ballot initiative on a wholly different topic that happens to include an incidental ownership tax or retroactive provision.",
+    "Section 9's independent-counsel trigger depends on the Governor and Attorney General failing to defend the act 'to the fullest extent possible,' a standard the text does not define, leaving open who decides when the state's defense fell short of that standard before independent counsel and General Fund spending are triggered."
+  ],
+  "unexpected_provisions": [
+    "Section 9 ('Legal Defense') has nothing to do with property or retroactive taxes. It compels the Attorney General to appoint outside independent counsel, funded by a continuous, uncapped General Fund appropriation 'without regard to fiscal years,' to defend the act in court if the Governor and Attorney General do not defend it to the drafters' satisfaction. Nothing in the ballot title discloses this.",
+    "The measure's internal title is the 'Retirement and Personal Savings Protection Act of 2026,' a framing centered on retirement security that is considerably narrower than the actual scope of Section 3(a)'s definition, which reaches business interests, digital assets, and intellectual property alongside pensions and IRAs.",
+    "Section 2(a)(2)'s ban on taxes based on 'residency status on a date prior to the effective date of the tax' is not disclosed anywhere in the ballot title as targeting a specific mechanism, but it maps directly onto how Proposition 40, on the same ballot, defines who owes its wealth tax: billionaires who 'were residents of California on January 1, 2026,' per the LAO's Proposition 40 analysis.",
+    "Section 5 makes this measure and Proposition 40 mutually contingent based on which gets more yes votes, without naming Proposition 40 anywhere in the ballot title or summary; the LAO's own analysis states plainly that if Proposition 42 outpolls Proposition 40, courts could stop Proposition 40 from taking effect even if a majority of voters approved it.",
+    "Proposition 41, also on this ballot and also funded by Building a Better California, contains a separate, differently worded Section 5 also aimed at Proposition 40, over its Gann Limit exemption rather than its wealth-tax or residency design. A voter approving Proposition 42 is engaging with a second, related same-ballot nullification fight that Proposition 42's own title does not disclose."
+  ],
+  "pros": [
+    "Supporters, including the California Small Business Association, AMVETS Department of California, and the California Senior Alliance in the official ballot argument, say the measure protects 401(k)s, pensions, IRAs, and other savings from new taxes on money that has already been taxed once when earned, preventing what they call double taxation.",
+    "Backers argue California families already face some of the highest taxes and cost of living in the country, and that the state should not add a tax on the mere ownership of retirement holdings and personal savings on top of existing income, capital-gains, and property taxes.",
+    "A broad coalition signing the rebuttal to the argument against, including California Professional Firefighters, the State Building and Construction Trades Council, and the Peace Officers Research Association of California, argues the measure closes what they describe as a constitutional loophole that could otherwise let government tax accumulated savings rather than income.",
+    "Supporters argue the retroactive-tax ban protects basic fairness in financial planning, letting individuals, families, and businesses rely on the tax rules in place when they make retirement and investment decisions rather than facing tax liability imposed after the fact for past conduct or past residency.",
+    "The measure imposes no new tax and no direct cost on any individual taxpayer; its proponents frame it as purely protective, foreclosing future taxes rather than creating or raising any existing one."
+  ],
+  "cons": [
+    "SEIU-United Healthcare Workers West, sponsor of the competing Proposition 40 wealth tax, argues in the official ballot argument that Proposition 42 'isn't really about protecting retirement savings' but is designed to make the billionaire tax on Proposition 40 unenforceable, pointing to Section 5's mutual-nullification clause and the measure's residency-based retroactivity ban as evidence its real target is Proposition 40's design.",
+    "Opponents note Proposition 42's dominant funder is Google co-founder Sergey Brin through Building a Better California, the same committee funding the companion Proposition 41, and argue both measures exist to defeat a one-time tax on a few hundred billionaires rather than to generally protect the retirement savings of ordinary Californians, who are not the population with assets large enough to plausibly be targeted by a future wealth tax.",
+    "The Democratic Party of California and SEIU-UHW West both oppose the measure, with SEIU-UHW West member Erica Olivo Reynoso arguing in Ballotpedia-reported comments that Propositions 41 and 42 'were put on the ballot to trick voters into making a billionaire tax impossible to enforce' rather than to protect taxpayers generally.",
+    "Because Section 3(a)'s definition of protected property is so broad, extending to business interests, digital assets, and intellectual property alongside retirement accounts, opponents could argue the measure forecloses far more tax policy options for the Legislature and future voters than the 'retirement and personal savings' framing suggests.",
+    "The measure's Section 5 nullification clause means a tax initiative that wins a majority of the vote, such as Proposition 40, can still be voided in its entirety if Proposition 42 gets more yes votes, a result that departs from the ordinary rule that a ballot measure passing with a simple majority takes effect.",
+    "The retroactive-tax ban's emergency exception is available only to the Legislature and only during a Governor-declared emergency, meaning voters lose the ability to ever propose a retroactive tax through the initiative process themselves, even for the same kinds of emergencies the Legislature could respond to."
+  ],
+  "who_supports": [
+    {
+      "name": "California Small Business Association",
+      "type": "org",
+      "notes": "Signed the official ballot argument in favor, alongside AMVETS Department of California and the California Senior Alliance."
+    },
+    {
+      "name": "California Professional Firefighters",
+      "type": "org",
+      "notes": "Signed the rebuttal to the argument against, alongside the State Building and Construction Trades Council of California and the Peace Officers Research Association of California."
+    },
+    {
+      "name": "State Building and Construction Trades Council of California",
+      "type": "org",
+      "notes": "Co-signed the rebuttal to the argument against."
+    },
+    {
+      "name": "California Taxpayers Association (CalTax)",
+      "type": "org",
+      "notes": "Listed by Ballotpedia among organizations endorsing Proposition 42."
+    },
+    {
+      "name": "Reform California",
+      "type": "org",
+      "notes": "Listed by Ballotpedia among endorsing organizations and a contributing committee to the Yes on 42 effort."
+    },
+    {
+      "name": "Sergey Brin",
+      "type": "other",
+      "notes": "Google co-founder; per the FPPC's top-contributor list, the largest identified individual donor behind Building a Better California, the committee supplying the great majority of the Yes on 42 campaign's money. Also the dominant funder of the companion Proposition 41."
+    },
+    {
+      "name": "L. John Doerr, III",
+      "type": "other",
+      "notes": "Chairman of Kleiner Perkins; identified by the FPPC as a top donor to Building a Better California alongside Sergey Brin."
+    }
+  ],
+  "who_opposes": [
+    {
+      "name": "SEIU-United Healthcare Workers West",
+      "type": "org",
+      "notes": "Sponsor of the competing Proposition 40 wealth tax and the lead organized opponent of Proposition 42. Suzanne Jimenez signed the official ballot arguments against, framing the measure as designed to nullify Proposition 40's wealth tax."
+    },
+    {
+      "name": "U.S. Senator Bernie Sanders",
+      "type": "politician",
+      "notes": "Named as an opponent of Proposition 42 by campaign materials; has criticized Sergey Brin's financing of the companion measures."
+    },
+    {
+      "name": "Democratic Party of California",
+      "type": "org",
+      "notes": "Listed by Ballotpedia among organizations opposing Proposition 42."
+    }
+  ],
+  "authors": [
+    {
+      "name": "Kurt R. Oneto",
+      "role": "Initiative proponent and filer of record; partner at Nielsen Merksamer LLP, the same attorney who filed the companion Proposition 41. Filed the initiative with the Attorney General's office on December 8, 2025."
+    }
+  ],
+  "funding": {
+    "support_committees": [
+      {
+        "name": "Yes on 42 - Protect Retirement & Life Savings",
+        "total_raised": "$60,072,537.26 (FPPC top-contributor list, current as of September 17, 2026)",
+        "top_donors": [
+          { "name": "Building a Better California", "amount": "$60,050,000 (this committee's own largest donors, per the FPPC, are Sergey Brin and L. John Doerr, III)" },
+          { "name": "Reform California with Carl De Maio - Ballot Measure Committee", "amount": "$22,537.26" }
+        ],
+        "source_url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/"
+      }
+    ],
+    "oppose_committees": [
+      {
+        "name": "Yes on 40 - Billionaire Tax Now – No on 41 & 42, Sponsored by Service Employees International Union - United Healthcare Workers West",
+        "total_raised": "$31,782,967.10 (FPPC top-contributor list, current as of September 17, 2026; this committee simultaneously supports Proposition 40 and opposes both Proposition 41 and Proposition 42, so the FPPC marks these figures with an asterisk meaning the same contributions are reported against each measure and cannot be broken out by measure)",
+        "top_donors": [
+          { "name": "Service Employees International Union, United Healthcare Workers West (Nonprofit 501(c)(5))", "amount": "$22,048,461.16" },
+          { "name": "SEIU United Health Care Workers West Political Issues Committee", "amount": "$7,499,505.94" },
+          { "name": "SEIU United Health Care Workers West Political Action Committee", "amount": "$2,000,000" }
+        ],
+        "source_url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/"
+      }
+    ]
+  },
+  "nonpartisan_analysis": [
+    {
+      "source": "Legislative Analyst's Office",
+      "summary": "The LAO describes Proposition 42 as prohibiting new state taxes on the ownership of financial assets or other personal property, and as limiting the situations in which a ballot measure or the Legislature can raise a tax retroactively. Its background section confirms that the state and local governments already tax certain personal property, such as vehicle license fees and business equipment, based on value, while ownership of financial assets like stocks is not currently taxed at all, only income from them. Its fiscal-effects section is limited to a single finding: a 'possibility that tax revenues will not go up as much in the future,' with timing and size both called unclear. Critically, it flags under 'Potential Interactions With Other Propositions' that if Proposition 42 receives more yes votes than Proposition 40 on the same ballot, courts could find the two measures in conflict and stop Proposition 40 from taking effect even if a majority of voters approved it.",
+      "url": "https://lao.ca.gov/BallotAnalysis/Proposition?number=42&year=2026"
+    },
+    {
+      "source": "Ballotpedia",
+      "summary": "Documents that the initiative was filed by Kurt R. Oneto on December 8, 2025, cleared for signature gathering February 11, 2026, and qualified for the ballot June 24, 2026, with 1,044,143 of 1,638,055 submitted signatures projected valid against a requirement of 874,641. It confirms Building a Better California, funded primarily by Sergey Brin and L. John Doerr, is the dominant funder of the Yes on 42 campaign and also funds the companion Proposition 41, and that both measures were filed to compete with Proposition 40, the SEIU-UHW-sponsored wealth tax on residents with net worth over $1 billion. As of Ballotpedia's review, no committee had registered specifically in opposition to Proposition 42, though the Democratic Party of California and SEIU-UHW West oppose it, with SEIU-UHW West member Erica Olivo Reynoso stating Propositions 41 and 42 'were put on the ballot to trick voters into making a billionaire tax impossible to enforce.' Ballotpedia's own campaign-finance snapshot, taken at an earlier date than the FPPC top-contributor list cited above, reported lower cumulative committee totals (around $49-53 million depending on the reporting date) and separately itemized Sergey Brin's cumulative giving at $82 million and Doerr's at $10 million across the donor's full contribution history rather than a single current committee total; that figure differs from the FPPC's committee-level total because the two sources measure different things (cumulative donor giving versus current committee receipts) as of different dates.",
+      "url": "https://ballotpedia.org/California_Proposition_42,_Prohibit_New_Taxes_on_Retirement_Holdings,_Personal_Assets,_and_Savings_and_Limit_Retroactive_Taxes_Initiative_(2026)"
+    },
+    {
+      "source": "CalMatters 2026 Voter Guide",
+      "summary": "Summarizes Proposition 42 as barring new state taxes on personal property ownership, including investment accounts and business interests, and barring retroactive taxes based on past activities, while identifying its central purpose as blocking Proposition 40's billionaire tax if Proposition 42 outpolls it. It quotes SEIU-UHW's characterization that the measure is not really about protecting everyday people's savings but is 'a way for billionaires to avoid paying a one-time tax on their huge wealth,' and identifies Sergey Brin and Reform California among the measure's major supporters and SEIU-United Healthcare Workers West and the California Democratic Party among its major opponents.",
+      "url": "https://calmatters.org/california-voter-guide-2026/proposition-42-property-taxes/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Legislative Analyst's Office, Proposition 42 ballot analysis",
+      "url": "https://lao.ca.gov/BallotAnalysis/Proposition?number=42&year=2026",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Secretary of State, Official Voter Information Guide, Proposition 42",
+      "url": "https://voterguide.sos.ca.gov/propositions/42/",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Secretary of State, Official Voter Information Guide, Proposition 42 arguments and rebuttals",
+      "url": "https://voterguide.sos.ca.gov/propositions/42/arguments-rebuttals.htm",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Secretary of State, Official Voter Information Guide, text of proposed laws including Proposition 42 (PDF)",
+      "url": "https://vig.cdn.sos.ca.gov/2026/general/pdf/prop42-text-proposed-laws.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Secretary of State, Qualified statewide ballot measures",
+      "url": "https://www.sos.ca.gov/elections/ballot-measures/qualified-ballot-measures",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Ballotpedia, California Proposition 42, Prohibit New Taxes on Retirement Holdings, Personal Assets, and Savings and Limit Retroactive Taxes Initiative (2026)",
+      "url": "https://ballotpedia.org/California_Proposition_42,_Prohibit_New_Taxes_on_Retirement_Holdings,_Personal_Assets,_and_Savings_and_Limit_Retroactive_Taxes_Initiative_(2026)",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "CalMatters 2026 Voter Guide, Proposition 42: Property taxes",
+      "url": "https://calmatters.org/california-voter-guide-2026/proposition-42-property-taxes/",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Fair Political Practices Commission, Top 10 Contributors List, November 2026 General Election",
+      "url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Legislative Analyst's Office, Proposition 40 ballot analysis (for cross-reference on residency-based wealth tax design)",
+      "url": "https://lao.ca.gov/BallotAnalysis/Proposition?number=40&year=2026",
+      "retrieved": "2026-09-20"
+    }
+  ],
+  "last_updated": "2026-09-20"
+}
