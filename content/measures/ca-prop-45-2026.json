@@ -1,0 +1,272 @@
+{
+  "id": "ca-prop-45-2026",
+  "jurisdiction": "state",
+  "election_date": "2026-11-03",
+  "number": "Proposition 45",
+  "title": "Modifies Environmental Review for Certain Projects. Initiative Statute.",
+  "status": "on_ballot",
+  "summary": "Proposition 45 adds a new chapter to the California Environmental Quality Act (CEQA) that eligible applicants can opt into for eight categories of \"essential\" projects: housing, clean energy, water systems, medical treatment facilities, first-responder and wildfire-prevention facilities, broadband, education facilities, and most transportation. For projects using it, the measure sets binding deadlines for environmental review, permitting, and court challenges, caps public comment periods that current law only sets a floor for, lets the applicant develop a single project alternative instead of the agency developing several, narrows tribal consultation to federally recognized tribes, and limits what courts can review and order when a project's CEQA compliance is challenged.",
+  "what_it_really_means": [
+    "Nothing about CEQA's substantive standards changes, and using this chapter is optional. An applicant for an eligible project can choose the new procedures, the old procedures, or a mix, and a lead agency keeps full authority to approve, deny, or require the no-project alternative regardless of which track the applicant picks. What Proposition 45 changes is procedure: how long agencies have to decide, how many alternatives get studied, how long the public gets to comment, which tribes get consulted, and how much a court can second-guess or unwind the result. The measure's own findings state it \"maintains state and federal clean air, clean water, and environmental protection laws,\" and that claim is accurate as far as it goes, because CEQA's substantive review requirement is not repealed, only its procedural mechanics for eligible projects.",
+    "Eligibility is defined narrowly in one place, Public Resources Code Section 21028, and the boundaries matter more than the ballot title suggests. Eight categories qualify: essential housing, clean energy, water, public health (medical treatment facilities only), public safety (first-responder facilities and wildfire risk reduction, but not jails or detention facilities), broadband, education facilities, and transportation (but not high-speed rail). Only two exclusions apply chapter-wide: no jail or other detention facility, and no new oil or natural gas production facility. Beyond that, each category carries its own carve-out: clean energy excludes nuclear power; water excludes the Delta Conveyance Project by name; transportation excludes the entire high-speed rail system by name. Those three exclusions read as deliberate concessions to specific, named political fights, not neutral line-drawing.",
+      "Essential housing is defined with almost no limiting principle at all. The statute's list is \"residential units only,\" mixed-use development, transitional and supportive housing, farmworker housing, group living accommodations, student housing, senior housing units \"of any size,\" any subdivision or common-interest development of residential units or unimproved lots, and any conversion of a commercial building to residential use. There is no income limit, no affordability requirement, no unit-count floor or ceiling anywhere in this definition. A market-rate luxury subdivision or a senior condominium tower qualifies exactly as easily as a low-income apartment complex. The chapter is titled the \"Building an Affordable California Act,\" but nothing in the housing definition ties the streamlined process to affordability; it applies to housing of every kind and price point.",
+    "A specific and legally significant gap concerns data centers. Richard Frank, a senior fellow at the UC Davis School of Law's California Environmental Law & Policy Center, and land use attorney Matthew McKerley, argued in the official ballot pamphlet debate that the drafters \"explicitly excluded a long list of controversial projects\" by name, including high-speed rail, the Delta Conveyance Project, nuclear generation, jails, immigration detention facilities, prisons, and oil and gas facilities, and that data centers are \"conspicuously absent\" from that exclusion list. I read the definitions article myself and confirmed no data center exclusion exists anywhere in the text. Under the statutory-construction principle they invoke, a court could read that silence as intentional. Mechanically, a data center is not itself one of the eight named essential-project categories, but Section 21028(m)(1)(B) defines an essential project to include \"all related and ancillary public, private, and utility infrastructure\" that a utility or agency requires to serve a qualifying project, including electric and telecommunication infrastructure. A data center bundled into an application built around qualifying clean-energy or broadband infrastructure, such as an on-site microgrid or a broadband buildout, is the scenario Frank and McKerley are describing.",
+    "The labor standard applied to essential housing is weaker than the standard applied to every other category, and this asymmetry sits inside the definitions themselves rather than anywhere the ballot title would surface it. Each of the other seven categories, clean energy, water, public health, public safety, broadband, education, and transportation, carries an explicit sentence in its own definition: the project \"shall comply with all labor requirements described in Section 21183.5\" of the Public Resources Code, the prevailing-wage and skilled-and-trained-workforce standard used in prior CEQA streamlining statutes such as the Jobs and Economic Improvement Through Environmental Leadership Act. Essential housing project, defined immediately before that recurring clause first appears, has no such sentence. Instead, a separate provision in Section 21015(c) applies prevailing wage to essential housing only for \"buildings over 85 feet in height above grade.\" A garden-style apartment complex or a subdivision of single-family homes using this chapter is not bound by the labor standard that every other essential-project category must meet.",
+    "The timelines are real and specific, not aspirational. A public agency has 30 days to find an application complete or it is deemed complete automatically; 90 days to determine a project is exempt; 365 business days to certify an environmental impact report once the application is complete; 180 days for a negative declaration; and public comment on an EIR is capped at 45 days (20 days for a negative declaration), reversing current law, which sets those numbers as a floor rather than a ceiling. A lawsuit challenging an essential project's approval must be filed within 30 days of the notice of determination and resolved, including any appeal, within 270 days, extendable by the court on its own initiative by up to 90 more days, and beyond that only by written consent of the plaintiff, the agency, and the applicant.",
+    "Tribal consultation is narrower under this chapter than under existing CEQA, in a way the ballot title does not disclose. Section 21028(e)(2) provides that for an essential project, the term \"California Native American tribe\" used throughout CEQA's tribal-consultation statutes \"shall instead mean, and be read as,\" a \"consulting tribe,\" defined as one that appears on the federal government's list of federally recognized tribes under the Federally Recognized Indian Tribe List Act of 1994. Existing CEQA consultation law draws on the state Native American Heritage Commission's broader list, which includes California tribes that are not federally recognized. Under this chapter, those tribes lose the formal consultation right they would otherwise have.",
+    "The judicial-review changes are the measure's structural core. A challenge to an essential project's approval is limited to whether the agency complied with \"objective existing laws,\" defined as standards involving no personal or subjective judgment and knowable by both sides before the application was filed, reviewed only for substantial evidence, a more deferential standard than the independent judgment courts can currently apply to some CEQA determinations. The administrative record a court may consider is limited to documents the agency was required to make public, public comments, and the agency's and applicant's responses to those comments, narrower than the \"whole record\" standard. If a court finds a violation, it may issue a writ halting only the noncompliant part, phase, or activity while the agency corrects it; the statute expressly bars a court from ordering an agency to rescind its approval of the project. Once a phase is approved and either goes unchallenged or is upheld, no later action may challenge the implementation, construction, or subsequent approval of that project or portion of it. The practical effect is a ratchet: the more of a project that survives an initial, time-limited court window, the less a court can ever undo later, even if new problems surface once construction begins.",
+    "A rider tucked into Section 21014(f) lets an application already pending, and not yet finally approved, be withdrawn and resubmitted under this chapter after it takes effect, while preserving the vested rights the applicant already built up under the Subdivision Map Act, the Housing Accountability Act, the Builder's Remedy, and the Housing Crisis Act of 2019, dated back to the original filing. A project already partway through review under the existing, stricter rules can switch to the new, faster track without losing its place in line. Nothing in the ballot title signals that this measure reaches backward into applications already in the pipeline."
+  ],
+  "fiscal_impact": {
+    "state_cost": "High tens of millions of dollars annually in the initial years, potentially exceeding $100 million annually, according to the Legislative Analyst's Office. This is a combined state-and-local estimate covering new guideline development, tighter deadline compliance systems, and increased state court workload to meet the 270-day litigation timeline.",
+    "state_savings": "None quantified for the near term. The LAO notes that narrower judicial review could reduce future CEQA litigation volume, lowering agency and court costs over time, but does not attach a dollar figure to that possibility.",
+    "local_cost": "Folded into the LAO's combined high-tens-of-millions-to-$100-million-plus estimate rather than broken out separately. Local lead and responsible agencies bear new administrative costs to build completeness-review, timeline-tracking, and mandatory-hearing processes for essential project applications, offset in part by fees they may charge applicants.",
+    "revenue_change": "None directly. The measure creates no tax. Section 21014(j) preserves, rather than creates, public agencies' existing authority to charge applicants cost-recovery fees for processing essential-project applications. The LAO separately flags an unquantified, indirect possibility that faster project completion could raise property and other tax revenue if it results in more construction overall.",
+    "ongoing_vs_one_time": "Mixed. The high-tens-of-millions-to-$100-million-plus figure is the LAO's estimate of initial costs tied to standing up new guidelines, case-tracking systems, and court capacity. The LAO separately warns of a longer-term fiscal effect, positive or negative, that is larger and harder to predict, and that persists for as long as the streamlined process is used.",
+    "narrative": "The LAO is explicit that the measure's larger fiscal question cannot be resolved in advance: whether faster review and narrower litigation exposure lead to more essential projects being built, which would lower government project costs and could raise tax revenue, or whether the same changes let projects with genuine unmitigated environmental impacts through, which would raise the costs government agencies bear responding to those impacts later. Both effects run through the same mechanism, faster approval with less judicial second-guessing, and the LAO declines to say which dominates. What the near-term number leaves out is that fee offsets described by the LAO only apply to the cost of processing eligible applications and resolving eligible lawsuits; they do not offset the state court system's broader capacity costs to meet a mandatory 270-day resolution window across every essential-project case filed statewide."
+  },
+  "taxes": {
+    "new_taxes": [],
+    "tax_changes": []
+  },
+  "spending": {
+    "new_spending_areas": [
+      "State and local agency systems and staff to write new essential-project eligibility guidelines and to track completeness, environmental-review, and court deadlines under the chapter's fixed timelines",
+      "State court system capacity to resolve essential-project CEQA lawsuits, including appeals, within the mandatory 270-day window (extendable to 360 days at court discretion)"
+    ],
+    "funding_source": "State and local general funds cover initial implementation costs, partly offset by fees public agencies may charge project applicants under Section 21014(j) and by existing fees on parties who file CEQA lawsuits."
+  },
+  "control_and_power": "Lead and responsible agencies keep final authority to approve, deny, or require the no-project alternative for any essential project; the chapter states explicitly that it does not diminish that authority and preordains no outcome. Applicants gain new procedural leverage: whether to invoke this chapter at all is the applicant's choice, and if an agency misses a deadline the applicant can grant more time or force a hearing at which the agency must issue a final decision. Courts lose discretion in two specific ways: their review of whether an approval complies with CEQA is limited to \"objective existing laws\" assessed only for substantial evidence rather than independent judgment, and their remedy power is capped at halting the noncompliant part of a project, with rescission of an approval barred outright. Tribal consultation rights that would otherwise run to any California tribe on the state Native American Heritage Commission's list are narrowed, for essential projects only, to tribes on the federal government's list of federally recognized tribes.",
+  "loopholes": [
+    "Data centers appear nowhere in the chapter's list of eight essential-project categories or in its list of excluded project types (jails, detention facilities, new oil and gas production, plus the category-specific exclusions of nuclear power, the Delta Conveyance Project, and high-speed rail). Because Section 21028(m)(1)(B) folds in \"related and ancillary\" infrastructure a utility or agency requires to serve a qualifying project, a data center bundled with qualifying clean-energy or broadband infrastructure could be argued into essential-project treatment, a reading two named legal analysts flagged in the official ballot pamphlet debate.",
+    "Essential housing carries no income, affordability, or unit-count limitation anywhere in its statutory definition. A market-rate subdivision or luxury senior housing development qualifies for the same streamlined review, comment-period caps, and litigation limits as low-income or supportive housing, despite the chapter's title, the Building an Affordable California Act.",
+    "Essential housing is the only one of the eight project categories whose definition omits the \"shall comply with all labor requirements described in Section 21183.5\" clause that binds every other category. Prevailing wage applies to essential housing only for buildings over 85 feet in height above grade, per Section 21015(c), leaving low- and mid-rise housing, the bulk of what gets built, outside that labor standard.",
+    "Section 21014(f) lets an application already pending and not yet finally approved be withdrawn and resubmitted under this chapter's looser procedures after it takes effect, while keeping the vested-rights date the applicant already secured under the Housing Accountability Act, the Builder's Remedy, and related law, letting an in-process project switch to faster rules without losing queue priority.",
+    "The chapter sets no ceiling on the fees a public agency may charge an applicant under Section 21014(j) to cover its costs of processing an essential-project application; the only constraint referenced is the general cost-of-service limits of Articles XIII A and XIII C of the state constitution, leaving the actual fee level to agency discretion."
+  ],
+  "unexpected_provisions": [
+    "The chapter narrows tribal consultation specifically for essential projects to tribes on the federal government's Federally Recognized Indian Tribe List, replacing existing CEQA's broader reliance on the state Native American Heritage Commission's list, which includes California tribes that are not federally recognized. Those tribes lose the formal consultation right for any project processed under this chapter.",
+    "Section 21014(d) makes the chapter apply to \"all public agencies\" and specifies that where it conflicts with any other law, including a charter city's own ordinances, this chapter controls, a statewide preemption not evident from a ballot title about environmental review timelines.",
+    "Prevailing wage for essential housing kicks in only for buildings over 85 feet in height, a threshold nowhere mentioned in the ballot title or summary, while every other essential-project category is bound to the broader Section 21183.5 labor standard without any size exception.",
+    "\"Essential clean energy project\" reaches beyond wind and solar to include small hydroelectric generation of 30 megawatts or less, carbon capture and storage infrastructure, clean hydrogen production not derived from fossil fuel feedstock, and microgrids, categories a voter reading \"clean energy\" on the ballot title would not necessarily anticipate.",
+    "Once an essential project's approval is either unchallenged or upheld in court, Section 21027(d) bars any later action challenging that project's implementation, construction, or subsequent approvals, even for issues that surface only once construction is underway, so long as they fall within the scope of what was already approved.",
+    "Applications for essential projects submitted before this chapter takes effect may be withdrawn and resubmitted to use the new procedures without losing previously vested rights, meaning the measure reaches backward into projects already under review rather than applying only to future filings."
+  ],
+  "pros": [
+    "Dan Dunmoyer, president and CEO of the California Building Industry Association, argues permitting delays are \"one of the biggest drivers of our affordability crisis,\" and that the measure \"cuts unnecessary delays so homes can be built faster and at lower cost.\"",
+    "Jennifer Barrera, president and CEO of the California Chamber of Commerce, the measure's sponsor, argues Californians are \"ready for solutions\" to bureaucratic red tape and that the state can \"protect the environment and good-paying jobs while delivering the essential projects California urgently needs.\"",
+    "Jenna Abbott, executive director of the California Council for Affordable Housing, argues the measure \"does not eliminate CEQA,\" that every project must still comply with existing environmental law, and that cities and counties still decide what gets approved in their communities.",
+    "Supporters point to binding, enforceable timelines, a 365-business-day EIR deadline and a 270-day court resolution window, as a concrete fix to a process they say currently has no hard limits on how long review and litigation can drag on.",
+    "The measure explicitly disclaims repealing any federal or state environmental statute by name, including the Endangered Species Act, the Clean Water Act, the Clean Air Act, and the California Coastal Act, addressing a common criticism of past CEQA-reform efforts.",
+    "A geographically and ideologically broad coalition backs the measure, including business groups, the Howard Jarvis Taxpayers Association, the NAACP California/Hawaii State Conference, and Assemblymember Buffy Wicks, a Democrat, suggesting support extends past the measure's business-community sponsor."
+  ],
+  "cons": [
+    "Joe Lyou, president of the Coalition for Clean Air, and fellow signers of the official ballot argument against, contend the measure \"limits both the environmental review of major new development projects and the public's right to be heard.\"",
+    "Miguel Miguel, director of Sierra Club California, argues the real purpose is to \"eliminate a lot of the environmental safeguards that have existed for a long time\" and that capping public comment periods and alternatives analysis cuts out \"the true voices of people who have concerns.\"",
+    "Chris Hannan, president of the State Building and Construction Trades Council of California, a major construction union, opposes the measure despite its framing as a jobs-and-housing measure, arguing it would \"dismantle key protections under California's landmark environmental law.\"",
+    "Howard Penn, executive director of the Planning and Conservation League, calls it \"a power grab that lets polluters build what they want, where they want,\" warning it removes the strongest tool local communities have to keep hazardous projects away from homes and schools.",
+    "Legal analysts Richard Frank and Matthew McKerley warn that because data centers are not on the list of expressly excluded project types, unlike high-speed rail, the Delta Conveyance Project, nuclear power, jails, and oil and gas facilities, courts could read that omission as bringing data centers within the streamlined process.",
+    "Essential housing carries no affordability requirement and, unlike every other essential-project category, is not bound to the chapter's standard labor requirements below 85 feet in building height, undercutting the \"affordable California\" framing in the chapter's own title.",
+    "The judicial-review changes bar courts from ever ordering an agency to rescind an approval, even where a violation of CEQA is found, and immunize later project phases from challenge once an earlier phase goes unchallenged or is upheld, a significant narrowing of the remedy available to project opponents.",
+    "The Legislative Analyst's Office cannot say whether the measure's net fiscal and environmental effect is positive or negative, warning that faster approvals could either lower government costs through more efficient project delivery or raise them by letting projects with unmitigated environmental impacts through."
+  ],
+  "who_supports": [
+    {
+      "name": "California Chamber of Commerce",
+      "type": "business",
+      "notes": "Sponsor of the measure. Filed by Kurt R. Oneto, a Nielsen Merksamer LLP attorney who also filed Proposition 41 for CalChamber, on the Chamber's behalf."
+    },
+    {
+      "name": "California Building Industry Association",
+      "type": "org",
+      "notes": "Statewide homebuilder trade association; its issues committee is one of three registered support committees and its members are the developers who would use the essential-housing streamlining."
+    },
+    {
+      "name": "Associated General Contractors of California",
+      "type": "org",
+      "notes": "Construction industry trade association."
+    },
+    {
+      "name": "California Business Roundtable",
+      "type": "business",
+      "notes": "Coalition of large California employers."
+    },
+    {
+      "name": "California Hospital Association",
+      "type": "org",
+      "notes": "Represents hospitals that would build under the essential public-health-project category."
+    },
+    {
+      "name": "California Water Association",
+      "type": "org",
+      "notes": "Represents investor-owned water utilities that would build under the essential-water-project category."
+    },
+    {
+      "name": "California Council for Affordable Housing",
+      "type": "org",
+      "notes": "Housing policy advocacy organization; executive director Jenna Abbott is a named public advocate for the measure."
+    },
+    {
+      "name": "Howard Jarvis Taxpayers Association",
+      "type": "org",
+      "notes": "Anti-tax organization; notable because it opposed Proposition 1 on the same ballot but supports Proposition 45."
+    },
+    {
+      "name": "NAACP California/Hawaii State Conference",
+      "type": "org",
+      "notes": "Civil rights organization; also listed as a Proposition 1 supporter."
+    },
+    {
+      "name": "Assemblymember Buffy Wicks",
+      "type": "politician",
+      "notes": "Democratic legislator and a lead author of the Proposition 1 housing bond; her support for Proposition 45 crosses party lines from the measure's largely business-community coalition, even as the Democratic Party of California opposes it."
+    }
+  ],
+  "who_opposes": [
+    {
+      "name": "Sierra Club California",
+      "type": "org",
+      "notes": "Statewide environmental organization; director Miguel Miguel is a named public opponent."
+    },
+    {
+      "name": "Coalition for Clean Air",
+      "type": "org",
+      "notes": "President Joe Lyou signed the official ballot argument against."
+    },
+    {
+      "name": "Democratic Party of California",
+      "type": "org",
+      "notes": "Party opposition, notable given that individual Democratic legislators, including Assemblymember Buffy Wicks, support the measure."
+    },
+    {
+      "name": "State Building and Construction Trades Council of California",
+      "type": "org",
+      "notes": "Major construction trade union council; its opposition is notable because the measure is framed around speeding construction of housing and infrastructure. President Chris Hannan is a named public opponent."
+    },
+    {
+      "name": "California Professional Firefighters",
+      "type": "org",
+      "notes": "Statewide firefighters' union; its opposition is notable given the measure includes wildfire-risk-reduction projects among its essential-project categories."
+    },
+    {
+      "name": "California Federation of Teachers",
+      "type": "org",
+      "notes": "Statewide teachers' union."
+    },
+    {
+      "name": "Planning and Conservation League",
+      "type": "org",
+      "notes": "Executive director Howard Penn is a named public opponent, describing a coalition of more than 250 environmental justice, civil rights, and public health organizations opposed to the measure."
+    },
+    {
+      "name": "Clean Water Action",
+      "type": "org",
+      "notes": "Water and environmental advocacy organization."
+    },
+    {
+      "name": "California Environmental Voters",
+      "type": "org",
+      "notes": "Environmental political advocacy organization, formerly the California League of Conservation Voters."
+    }
+  ],
+  "authors": [
+    {
+      "name": "Kurt R. Oneto",
+      "role": "Initiative proponent and filer of record, on behalf of the California Chamber of Commerce; partner at Nielsen Merksamer LLP, a California law firm specializing in ballot-measure and initiative law that has represented proponents or opponents of more than 435 California ballot measures."
+    }
+  ],
+  "funding": {
+    "support_committees": [
+      {
+        "name": "Yes on 45 - Building a More Affordable California",
+        "total_raised": "$25,950,000 (FPPC top-contributor list, current as of September 17, 2026)",
+        "top_donors": [
+          { "name": "Building a Better California", "amount": "$10,000,000" },
+          { "name": "California Building Industry Association Issues Committee", "amount": "$5,350,000" },
+          { "name": "California Building Industry Association", "amount": "$2,250,000" },
+          { "name": "CalChamber Non-Donor Funds", "amount": "$2,000,000" },
+          { "name": "Edison International & Affiliated Entities", "amount": "$2,000,000" }
+        ],
+        "source_url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/"
+      }
+    ],
+    "oppose_committees": [
+      {
+        "name": "No on Prop 45 - Sponsored by Labor, Health and Environmental Organizations",
+        "total_raised": "$14,534,607.25 (FPPC top-contributor list, current as of September 17, 2026)",
+        "top_donors": [
+          { "name": "Clean and Healthy California", "amount": "$7,034,750" },
+          { "name": "Wendy Schmidt", "amount": "$5,000,000" },
+          { "name": "State Building & Construction Trades Council entities", "amount": "$1,999,857.25" },
+          { "name": "District Council of Iron Workers PAC", "amount": "$500,000" }
+        ],
+        "source_url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/"
+      }
+    ]
+  },
+  "nonpartisan_analysis": [
+    {
+      "source": "Legislative Analyst's Office",
+      "summary": "The LAO describes Proposition 45 as creating optional new procedures for eligible \"essential\" projects that tighten time limits for CEQA and permitting review, change parts of the CEQA review process (including a 365-business-day EIR deadline, agency-fixed application requirements, a single applicant-developed alternative, narrower tribal consultation, and maximum rather than minimum public comment periods), and narrow the scope and remedies available in CEQA lawsuits, including barring courts from halting an entire project. It estimates initial state and local government costs in the high tens of millions of dollars annually, potentially exceeding $100 million, partly offset by applicant and litigant fees, with longer-term fiscal effects that are uncertain but could be more significant, positive if faster review leads to more completed projects and higher tax revenue, negative if it leads to approved projects with unmitigated environmental impacts.",
+      "url": "https://lao.ca.gov/BallotAnalysis/Proposition?number=45&year=2026"
+    },
+    {
+      "source": "Ballotpedia",
+      "summary": "Provides the measure's full text, a detailed flowchart of the proposed CEQA process, and campaign finance data. It documents that Kurt Oneto filed the initiative for the California Chamber of Commerce on October 21, 2025, that the Committee to Build an Affordable California submitted 942,967 signatures by April 27, 2026, and that at least 652,788 were verified valid by June 16, 2026. It records supporters including the California Building Industry Association, California Chamber of Commerce, Howard Jarvis Taxpayers Association, NAACP California/Hawaii State Conference, and Assemblymember Buffy Wicks, and opponents including Sierra Club California, the Democratic Party of California, the State Building and Construction Trades Council of California, and the California Federation of Teachers. It quotes legal analysts Richard Frank and Matthew McKerley's argument that the measure's silence on data centers, unlike its explicit exclusion of high-speed rail, the Delta Conveyance Project, nuclear power, jails, and oil and gas facilities, could be read by courts as including data centers in its coverage.",
+      "url": "https://ballotpedia.org/California_Proposition_45,_Changes_to_Environmental_Review_Process_for_Certain_Projects_Initiative_(2026)"
+    },
+    {
+      "source": "CalMatters 2026 Voter Guide",
+      "summary": "Summarizes the measure as accelerating CEQA review for essential projects through a 365-day environmental review deadline and a 270-day court-resolution requirement, covering housing, infrastructure, schools, broadband, and wildfire mitigation. It lists supporters including the California Chamber of Commerce, California Hospital Association, and Agricultural Council of California, and opponents including Sierra Club California, Clean Water Action, Communities for a Better Environment, the California Democratic Party, and the Western Center on Law & Poverty, framing the core dispute as whether faster review meaningfully protects environmental and public health safeguards or primarily benefits developers and industry.",
+      "url": "https://calmatters.org/california-voter-guide-2026/proposition-45-environmental-review/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Legislative Analyst's Office, Analysis of Proposition 45 (November 3, 2026 Ballot)",
+      "url": "https://lao.ca.gov/ballot/2026/prop45-110326.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Legislative Analyst's Office, Proposition 45 ballot analysis page",
+      "url": "https://lao.ca.gov/BallotAnalysis/Proposition?number=45&year=2026",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Secretary of State, Official Voter Information Guide, Proposition 45",
+      "url": "https://voterguide.sos.ca.gov/propositions/45/index.htm",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Secretary of State, Official Voter Information Guide, Proposition 45 arguments and rebuttals",
+      "url": "https://voterguide.sos.ca.gov/propositions/45/arguments-rebuttals.htm",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Secretary of State, Proposition 45 text of proposed law, \"Building an Affordable California Act\" (PDF)",
+      "url": "https://vig.cdn.sos.ca.gov/2026/general/pdf/prop45-text-proposed-laws.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Secretary of State, Qualified statewide ballot measures",
+      "url": "https://www.sos.ca.gov/elections/ballot-measures/qualified-ballot-measures",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Ballotpedia, California Proposition 45, Changes to Environmental Review Process for Certain Projects Initiative (2026)",
+      "url": "https://ballotpedia.org/California_Proposition_45,_Changes_to_Environmental_Review_Process_for_Certain_Projects_Initiative_(2026)",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "CalMatters 2026 Voter Guide, Proposition 45: Environmental review",
+      "url": "https://calmatters.org/california-voter-guide-2026/proposition-45-environmental-review/",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Fair Political Practices Commission, Top 10 Contributors List, November 2026 General Election",
+      "url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/",
+      "retrieved": "2026-09-20"
+    }
+  ],
+  "last_updated": "2026-09-20"
+}
