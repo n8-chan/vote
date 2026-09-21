@@ -1,0 +1,321 @@
+{
+  "id": "scc-measure-rtm-2026",
+  "jurisdiction": "county",
+  "county": "Santa Clara",
+  "election_date": "2026-11-03",
+  "number": "Measure RTM",
+  "title": "Connect Bay Area Transit Initiative (Regional Transit Measure)",
+  "status": "on_ballot",
+  "summary": "Measure RTM is a five-county regional ballot measure appearing simultaneously in Santa Clara, Alameda, Contra Costa, San Mateo, and San Francisco counties. It would impose a 14-year sales tax, 0.5% in the first four counties and 1% in San Francisco, projected to raise about $980 million a year to prevent service cuts at BART, Caltrain, VTA, SamTrans, AC Transit, and Muni, fund local transit and road repaving, and pay for rider-facing improvements. It passes or fails on one combined regional vote count, not on how Santa Clara County voters vote alone.",
+  "what_it_really_means": [
+    "This is not a Santa Clara County measure in the way Measure A or Measure B would be; it is a single regional measure that happens to appear on the Santa Clara ballot because Santa Clara is one of the five counties inside the newly created Public Transit Revenue Measure District. The district was established by Senate Bill 63 (2025), the Connect Bay Area Act, and its governing board is literally the same body that governs the Metropolitan Transportation Commission (MTC) — the same commissioners, wearing a second hat. The Santa Clara County Registrar of Voters is administering the local mechanics (printing the label, collecting arguments) but the measure's fate is decided by the combined vote total across all five counties, not by Santa Clara alone. The Registrar's own impartial analysis states plainly: 'The tax would become effective if approved by a majority of those voting on the measure throughout the entire District.' A Santa Clara County voter could vote no and still be taxed if San Francisco, Alameda, Contra Costa, and San Mateo voters approve it by enough of a margin, and vice versa.",
+    "The measure did not originate as a bill the Legislature referred to voters. SB 63 only authorized the district and set the outer bounds (tax rate ceiling, 14-year sunset, expenditure-plan structure); the actual ballot measure was written and qualified as a citizen initiative. Two named proponents, Emily Loper (Senior Vice President of Public Policy at the Bay Area Council) and Lian Chang (a campaign organizer), filed the notice of intent to circulate on January 16, 2026, represented by the law firm Olson Remcho. The Connect Bay Area campaign reported collecting over 235,000 valid signatures, well above the roughly 187,000 to 205,000 required depending on the count cited. Because it qualified as an initiative rather than a governing-board referral, it needs only a simple majority of the district-wide vote to pass, not the two-thirds supermajority that would normally apply to a special tax placed on the ballot by a legislative body. Opponents call this a deliberate use of the initiative process to dodge the higher threshold; supporters point out that voter initiatives have always required only a majority under Proposition 218 case law (the Upland decision).",
+    "The money is not distributed as a single undifferentiated pool. SB 63's expenditure plan sets fixed percentages, by category and by recipient, spelled out in Section 12 of the measure text as read by the Registrar's impartial analysis. Roughly 63% of district-wide revenue ('Preserving Transit Service') is reserved for the four large deficit-facing operators plus smaller connected agencies: an MTC fact sheet projects about $310 million a year to BART, $155 million to Muni, $70 million to Caltrain, $50 million to AC Transit, and smaller amounts to East Bay bus agencies, Golden Gate Transit, and San Francisco Bay Ferry. About 33% ('Local Transportation Improvements') is reserved for VTA (about $245 million), SamTrans (about $45 million), the Contra Costa Transportation Authority (about $25 million), and the Alameda County Transportation Commission (about $10 million), and this bucket is the only one that can also pay for paving roads carrying regular bus service. About 5% funds rider-facing programs across the whole district (Clipper START fare discounts, free and discounted transfers, paratransit, wayfinding). Up to 0.22% funds MTC and District administration. This is a formula, not agency discretion in the aggregate, though each recipient agency retains discretion over how it spends its own allocation within the category's rules.",
+    "Because the tax is collected locally but partly reallocated regionally, the share of Santa Clara County's own tax collections that comes back to a Santa Clara-controlled agency is unusually high and explicit. The Registrar's impartial analysis states that 84.37% of all revenue generated in Santa Clara County would be allocated to VTA, both for transit operations and for roadway repavement on roads served by fixed-route transit; SPUR's independent analysis of the same plan puts the figure at approximately 85% (about $264 million of roughly $300 million generated locally), with the difference being administrative costs and Santa Clara's contractually agreed share of Caltrain's operating deficit (VTA is a Caltrain joint powers partner alongside San Mateo County and the City and County of San Francisco). Alameda County's return-to-source share is much lower because BART, whose deficit is the largest single driver of the whole measure, draws most heavily from Alameda-area revenue; San Francisco's return-to-source share is effectively zero because all SF-generated money offsets Muni, BART, and Caltrain deficits rather than flowing to a separate SF county transportation agency. SPUR frames this explicitly as revenue allocation 'aligned with the relative usage of transit in each county,' meaning Santa Clara and San Mateo residents, who ride BART, Muni, and Caltrain less than San Francisco and Alameda residents do, see more of their own tax dollars stay local.",
+    "The ballot question's claim to 'avoid increased traffic, and reduce pollution' is campaign framing, not a substantiated finding inside the measure text or the Registrar's impartial analysis. Neither the impartial analysis nor the measure's operative sections model vehicle miles traveled, congestion, or emissions; the traffic and pollution language traces to the campaign's own argument in favor, which asserts that failing to pass the measure would force 'thousands of people onto our already congested roads,' and to the initiative's notice of intent to circulate, which frames the funding as preventing 'devastating cuts' rather than reducing existing traffic or pollution levels. Whether the counterfactual (a world with major BART and Caltrain service cuts pushing riders into cars) actually produces the traffic and pollution reduction claimed in the ballot label itself was exactly what the ballot-language lawsuit described below contested, and a judge declined to strike it.",
+    "The financial oversight structure is real and unusually specific for a regional tax measure, but it operates on a delay. SB 63 requires a two-phase financial efficiency review of the four largest operators (BART, Muni, Caltrain, AC Transit), run by a committee of four independent experts, four transit-agency representatives, and the MTC chair or designee. Phase One, evaluating cost-saving measures already taken and identifying further savings without new money, was due to be complete before the election; MTC's Financial Efficiency Review Independent Oversight Committee received a draft Phase One report in April 2026. Phase Two, a deeper evaluation of cost structures and long-term financial sustainability, only begins if voters approve the measure, and is not scheduled to be complete until 2028, roughly two years into a tax that would already be locked in for 14 years (through 2041 on the schedule GrowSF cites, April 2027 to April 2041). A separate Independent Oversight Committee, with at least one appointee from each of the five counties, is required to confirm that money is distributed per the expenditure plan once the tax is collecting revenue, and county coalitions of MTC commissioners get a 'binding review committee' power to withhold funds from an operator whose fares, service levels, cleanliness, or maintenance fall out of line between counties. None of this is retroactive: it checks compliance with the formula going forward, not whether the formula's assumptions about ridership, cost growth, or agency efficiency hold up over 14 years.",
+    "A 'maintenance of effort' clause is the measure's main defense against the money simply substituting for existing operating funds rather than adding to them: BART, Muni, Caltrain, AC Transit, Golden Gate Transit, San Francisco Bay Ferry, and the East Bay bus agencies must keep funding transit service at existing levels, with some exceptions, so that SB 63 revenue is additive rather than a replacement for money those agencies already spend. The measure's own fact sheet and the Registrar's impartial analysis do not specify what those exceptions are or who approves them, which leaves open how strictly 'existing levels' will be enforced in a fiscal year where an agency's other revenue sources (fares, other local tax measures, state and federal grants) independently decline.",
+    "What happens if ridership or costs shift substantially over the 14-year life of the tax is not addressed by a rebalancing mechanism in the text as summarized by the Registrar; the category percentages and agency allocations in Section 12 are fixed by the expenditure plan, not indexed to ridership or need. The tax itself grows and shrinks with taxable retail sales in each county, which is a rough proxy for population and economic activity but has no direct relationship to transit ridership or an agency's actual deficit. If BART's deficit narrows while VTA's or Caltrain's widens, or if a county's retail sales lag the others, the formula does not appear to reallocate; the accountability mechanisms described above police compliance with the existing formula, not whether the formula still matches the region's transit funding gaps by year seven or year fourteen."
+  ],
+  "fiscal_impact": {
+    "state_cost": "none. This is a local/regional sales tax measure; it creates no state General Fund obligation.",
+    "state_savings": "none identified.",
+    "local_cost": "none mandated on cities or the county government directly; the cost falls on consumers and businesses through the sales tax. The California Department of Tax and Fee Administration deducts an administrative fee before revenue reaches the district, estimated at 0.82% of collections in the four 0.5% counties and 0.41% in San Francisco's 1% collection, per MTC's fiscal-year 2028 projection.",
+    "revenue_change": "Increases regional sales tax revenue by an estimated $980 million annually across the five-county district for 14 years (net of the state administrative fee, about $7 million of that total in FY2028). At a flat run rate this is roughly $13.7 billion in nominal revenue over the full term; a lawsuit challenging the ballot language cited a $17 billion total, which appears to assume revenue growth with inflation and taxable sales growth over the period rather than a flat $980 million a year.",
+    "ongoing_vs_one_time": "Ongoing for the full 14-year term (projected April 2027 through April 2041 per GrowSF's reading of the measure's operative dates), then the tax sunsets automatically unless voters renew it. A small share of proceeds also covers specified one-time costs such as election-administration reimbursement and the SB 63-required financial efficiency reviews in the early years.",
+    "narrative": "The headline $980 million a year is MTC's own estimate, produced from an October 2025 HDL Companies assessment of projected net revenues, and it is the figure printed in the ballot question itself. It is a first full-year (FY2028) projection, not a fixed dollar amount for all 14 years; because it is a sales tax, actual collections will move with taxable retail sales in each county, up in strong years, down in a recession, which is exactly the exposure a countercyclical program like transit operations does not want, since ridership subsidies are typically needed most when the broader economy, and therefore sales tax receipts, are weakest. The gap between the $13.7 billion flat-rate estimate and the $17 billion figure cited in the Kopp v. Ward ballot-language lawsuit is a modeling choice, not a discrepancy in what the measure does: one is a static multiplication of the first-year estimate, the other assumes cumulative growth. Both are defensible ways to describe a tax whose actual 14-year total nobody can know in advance. Administrative costs are capped in the expenditure plan at up to 0.22% of revenue, which is unusually low and explicit compared to many local tax measures that leave administrative costs unbounded."
+  },
+  "taxes": {
+    "new_taxes": [
+      "A 14-year regional retail transactions and use tax (sales tax) of 0.5% in Alameda, Contra Costa, San Mateo, and Santa Clara counties, and 1% in the City and County of San Francisco, imposed by the newly created Public Transit Revenue Measure District and collected in the same manner as the existing state sales tax."
+    ],
+    "tax_changes": [
+      "The tax would not count toward the existing statutory cap on combined local sales tax rates, per the Registrar of Voters' impartial analysis, meaning it stacks on top of local rates that are otherwise at or near the state-law ceiling. The opposition argument states this would push Santa Clara County's combined sales tax rate above 10%."
+    ]
+  },
+  "spending": {
+    "new_spending_areas": [
+      "Preserving Transit Service (~63% of revenue): operating support for BART (~$310M/yr projected), Muni (~$155M/yr), Caltrain (~$70M/yr), AC Transit (~$50M/yr), East Bay bus agencies and Golden Gate Transit (~$20M/yr combined), and San Francisco Bay Ferry (~$6M/yr)",
+      "Local Transportation Improvements (~33% of revenue): VTA (~$245M/yr), SamTrans (~$45M/yr), Contra Costa Transportation Authority (~$25M/yr), and Alameda County Transportation Commission (~$10M/yr), usable for transit capital, transit operations, or paving roads carrying regular bus service (the only category that can fund road repaving, and not available in San Francisco)",
+      "Rider-Focused Improvements (~5% of revenue): Clipper START reduced-fare program expansion, free and discounted transfers between agencies, paratransit and accessibility improvements, and regional wayfinding/signage",
+      "Administration (up to 0.22% of revenue): oversight and program administration by MTC and the Public Transit Revenue Measure District, plus one-time costs including election-cost reimbursement and the SB 63-required financial efficiency reviews"
+    ],
+    "funding_source": "A new 14-year district sales tax (0.5% in four counties, 1% in San Francisco), collected by the California Department of Tax and Fee Administration and distributed by the Public Transit Revenue Measure District/MTC according to the fixed percentages in the measure's Section 12 expenditure plan."
+  },
+  "control_and_power": "The Public Transit Revenue Measure District is governed by the same elected and appointed commissioners who govern the Metropolitan Transportation Commission; no separate board is elected. MTC and the District administer the tax and enforce the expenditure plan, but day-to-day spending decisions within each category remain with the recipient agencies (BART's board, VTA's board, SFMTA, etc.), which retain discretion over how to spend their fixed allocations within the rules of their category. Two accountability bodies sit above that: a Financial Efficiency Review oversight committee (four independent experts, four transit-agency representatives, and the MTC chair or designee) conducts the two-phase review of BART, Muni, Caltrain, and AC Transit, and a separate Independent Oversight Committee, with at least one appointee from each of the five counties, confirms that revenue is distributed per the formula. A county, or coalition of counties, can convene a binding review committee of MTC commissioners with authority to withhold a portion of an agency's measure funds if that agency's fares, service, cleanliness, or maintenance are inconsistent across counties, which is a real enforcement lever but one controlled entirely by other government commissioners, not by an outside auditor or the general public. The expenditure-plan percentages themselves are fixed in the measure text and cannot be reallocated between agencies or categories without another vote; MTC's discretion is confined to administering compliance with a formula it does not control after the election, unless a future Legislature amends SB 63.",
+  "loopholes": [
+    "The maintenance-of-effort requirement that measure funds must add to, not replace, an agency's existing transit spending includes unspecified 'exceptions.' Neither the Registrar's impartial analysis nor MTC's public fact sheet identifies what those exceptions are, who approves them, or how a county would detect a disguised substitution of new tax money for money an agency would have spent anyway.",
+    "The expenditure-plan percentages are fixed by category and recipient and, based on the sources reviewed, contain no built-in mechanism to reallocate funds if one agency's deficit narrows substantially while another's widens over the 14-year term; the tax tracks retail sales growth in each county, not each agency's actual funding gap.",
+    "Because the measure qualified through the citizen-initiative process rather than a governing-board referral, it requires only a simple majority of the combined five-county vote rather than the two-thirds supermajority that would apply to a special tax referred by a legislative body under Proposition 218. Opponents characterize this as a structural workaround of the higher threshold that would otherwise apply to a tax this size; the measure's own impartial analysis simply confirms majority approval is the operative standard, without characterizing whether that route was chosen deliberately to avoid the two-thirds bar.",
+    "The tax does not count toward the existing statutory cap on combined local sales tax rates, an exemption written into SB 63 itself rather than something voters are deciding directly on this ballot question."
+  ],
+  "unexpected_provisions": [
+    "Santa Clara County is one of four counties where measure revenue can legally be spent on road repaving, not just transit; San Francisco is excluded from that use entirely, so a voter focused only on the transit framing in the ballot title would not know that a meaningful share of the tax (part of the 33% 'Local Transportation Improvements' category) funds pavement rather than buses or trains in Santa Clara.",
+    "The tax explicitly does not count toward the state's existing cap on how high combined local sales tax rates can go, a provision embedded in the enabling legislation (SB 63) rather than disclosed in the ballot question voters see.",
+    "A regional coalition of MTC commissioners can withhold funds from BART, Muni, AC Transit, or Caltrain if that agency's fares, service quality, cleanliness, or maintenance is inconsistent between the counties it serves, a cross-agency enforcement power created by this measure that goes beyond simply auditing whether the money was spent on the right category.",
+    "The measure was placed on the ballot through the citizen-initiative process, using paid signature gathering by the Connect Bay Area campaign, rather than by a vote of the MTC/District board itself; two named private individuals (Emily Loper of the Bay Area Council and organizer Lian Chang) are the formal 'proponents of the initiative' of record, though the campaign behind them includes labor unions, business groups, and transit advocacy organizations.",
+    "A pre-election lawsuit (Kopp et al. v. Ward et al., Santa Clara County Superior Court Case No. 26CV500944) sought to strike language from the 75-word ballot label, arguing phrases like 'prevent major service cuts,' 'avoid increased traffic,' and 'reduce pollution' function as unsubstantiated campaign slogans rather than the neutral synopsis state election law requires. Judge Frederick S. Chung denied the petition on the merits shortly before the county's print deadline, finding the challengers had not met their burden of proof, so the ballot label voters see is the language the campaign itself wrote into the qualifying initiative."
+  ],
+  "pros": [
+    "Without new funding, BART could be forced to close 15 stations and cut service by 70%, and Caltrain could be forced to close stations, cut frequency, and eliminate late-night and weekend service entirely, according to the official primary argument in favor signed by measure supporters.",
+    "The measure includes maintenance-of-effort requirements, mandatory two-phase financial efficiency reviews of the four largest operators, an independent oversight committee with representation from every county, and a binding review process that can withhold funds from an underperforming agency, oversight supporters argue is stronger than what most transit funding measures include.",
+    "The tax does not apply to rent, utilities, prescription medicines, or most groceries, and in Santa Clara County roughly 84% of locally generated revenue returns to VTA, so the county funds a locally accountable agency rather than sending most of its money to agencies Santa Clara residents use less.",
+    "Supporters, including San Francisco Mayor Daniel Lurie and U.S. Rep. Lateefah Simon, argue that failing to fund transit would force many more commuters onto already congested Bay Area freeways, worsening traffic and time away from family for everyone, not just transit riders.",
+    "The measure caps administrative overhead at up to 0.22% of revenue, a specific and unusually low ceiling written directly into the expenditure plan.",
+    "A broad coalition, spanning labor unions, the Bay Area Council business group, and transit and disability-access advocates, supports the measure, which backers say reflects consensus that the region's transit operating deficit is an economic problem, not only a transit-agency problem."
+  ],
+  "cons": [
+    "The official primary argument against, filed by the Silicon Valley Taxpayers Association and allied groups, calls the measure a '$14 billion-dollar bailout for a broken system' with 'toothless' oversight, and cites grand jury findings in Alameda, Contra Costa, and Santa Clara counties that found flaws in transit agencies' financial management; it also states that since 2019, ridership at major transit agencies has fallen 51% while expenses rose 28%.",
+    "Santa Clara County residents would pay the largest absolute share of the regional tax because the county has the largest population, while the expenditure-plan formula sends the largest share of district-wide preserving-transit-service dollars to BART and Muni rather than to Santa Clara's own VTA, which the opposition argument calls unfair.",
+    "The measure qualified as a citizen initiative and therefore needs only a simple majority to pass rather than the two-thirds vote that would apply to a comparable tax referred by a governing board, which opponents describe as bypassing the higher taxpayer-protection threshold.",
+    "Because passage is decided by the combined five-county vote total, a Santa Clara County majority voting no cannot block the tax if the other four counties approve it by a large enough margin, and vice versa; individual county preferences do not control the outcome.",
+    "Sales taxes are regressive, and the opposition argument states the measure would push Santa Clara County's combined sales tax rate above 10%, among the highest in the nation, while hitting lower-income residents hardest regardless of how much transit they use.",
+    "Independent journalism critical of the measure notes that BART's own operating subsidy more than tripled from about $190 million to about $681 million between 2019 and 2024 even as ridership sits at roughly 56% of pre-pandemic levels, and questions why large capital expansions such as BART's Silicon Valley Phase II ($12.75 billion) and Caltrain's downtown extension ($8.25 billion) remain on the table if the operating shortfall is framed as an emergency.",
+    "The deeper, Phase Two financial efficiency review of the largest operators is not required to be complete until 2028, roughly two years after voters would already be locked into a 14-year tax, so voters are being asked to approve the full term before the more rigorous cost-structure review exists.",
+    "A judge rejected a lawsuit arguing the ballot question itself functions as promotional material for the tax rather than a neutral summary, meaning the contested language, including the 'avoid increased traffic, and reduce pollution' framing that is not independently substantiated in the measure text, is what will appear on the ballot."
+  ],
+  "who_supports": [
+    {
+      "name": "San Francisco Mayor Daniel Lurie",
+      "type": "politician",
+      "notes": "Public supporter; argues that without RTM, transit agencies would cut services dramatically, forcing more people onto congested roads."
+    },
+    {
+      "name": "U.S. Rep. Lateefah Simon",
+      "type": "politician",
+      "notes": "Public supporter; calls the measure essential to making the region more affordable."
+    },
+    {
+      "name": "Bay Area Council",
+      "type": "business",
+      "notes": "Regional business association; co-leads the Connect Bay Area campaign. Its Senior Vice President of Public Policy, Emily Loper, is a named official proponent of the initiative."
+    },
+    {
+      "name": "SEIU Local 1021",
+      "type": "org",
+      "notes": "Public-sector labor union; among the campaign's top identified funders."
+    },
+    {
+      "name": "Amalgamated Transit Union Local 1555 (ATU 1555)",
+      "type": "org",
+      "notes": "Transit worker union; part of the core Connect Bay Area Transit Committee alongside the Bay Area Council and SEIU 1021."
+    },
+    {
+      "name": "SPUR",
+      "type": "org",
+      "notes": "Bay Area urban policy nonprofit; part of the core campaign committee and published its own analysis explaining the county-by-county allocation formula."
+    },
+    {
+      "name": "South Bay Labor Council",
+      "type": "org",
+      "notes": "Santa Clara County labor federation; part of the core campaign committee."
+    },
+    {
+      "name": "Silicon Valley Organization / SAMCEDA",
+      "type": "business",
+      "notes": "San Mateo County Economic Development Association; part of the core campaign committee."
+    },
+    {
+      "name": "Salesforce",
+      "type": "business",
+      "notes": "Identified as a top funder of the Connect Bay Area campaign."
+    },
+    {
+      "name": "Chris Larsen",
+      "type": "other",
+      "notes": "Ripple co-founder; identified as a top individual funder of the Connect Bay Area campaign."
+    },
+    {
+      "name": "GrowSF",
+      "type": "org",
+      "notes": "San Francisco political advocacy organization; formally endorses the measure and published a detailed voter guide entry in support."
+    },
+    {
+      "name": "San Francisco Chronicle Editorial Board",
+      "type": "org",
+      "notes": "Endorsed the measure editorially, arguing the Bay Area cannot function without public transit."
+    }
+  ],
+  "who_opposes": [
+    {
+      "name": "Quentin Kopp",
+      "type": "politician",
+      "notes": "Former San Francisco supervisor and California state senator; lead petitioner in the unsuccessful lawsuit challenging the ballot label as biased, and president of the San Francisco Taxpayers Association, which opposes the measure."
+    },
+    {
+      "name": "San Francisco Taxpayers Association",
+      "type": "org",
+      "notes": "Quentin Kopp argues the measure 'would make it worse' for working families facing rising costs."
+    },
+    {
+      "name": "Silicon Valley Taxpayers Association",
+      "type": "org",
+      "notes": "President Mark W.A. Hinkle is the filer of the official primary argument against Measure RTM submitted to the Santa Clara County Registrar of Voters."
+    },
+    {
+      "name": "Committee for Affordable Bay Area Transit",
+      "type": "org",
+      "notes": "Sponsored by the Contra Costa Taxpayers Association (FPPC ID #1492758); president Gregg A. Dieguez and treasurer Marc Joffe are signers of the official argument against and petitioners in the ballot-language lawsuit. Argues transit agencies should reallocate existing funds and pause major capital projects like BART Silicon Valley Phase II before seeking new taxes."
+    },
+    {
+      "name": "Contra Costa Taxpayers Association",
+      "type": "org",
+      "notes": "Sponsoring organization of the Committee for Affordable Bay Area Transit."
+    },
+    {
+      "name": "South County BIZ Alliance",
+      "type": "org",
+      "notes": "Board member Matthew Wendt is a signer of the official primary argument against."
+    },
+    {
+      "name": "Fixes Before Funding",
+      "type": "org",
+      "notes": "Coalition opposing the measure's fixed-percentage allocation formula, arguing individual communities have no say over where their tax dollars go."
+    }
+  ],
+  "authors": [
+    {
+      "name": "State Sen. Scott Wiener",
+      "role": "Lead author of SB 63 (2025), the Connect Bay Area Act, which created the Public Transit Revenue Measure District and authorized this ballot measure."
+    },
+    {
+      "name": "State Sen. Jesse Arreguín",
+      "role": "Co-author of SB 63 (2025)."
+    },
+    {
+      "name": "Emily Loper",
+      "role": "Official proponent of record for the Connect Bay Area Transit Initiative (the citizen initiative that became Measure RTM); Senior Vice President of Public Policy, Bay Area Council."
+    },
+    {
+      "name": "Lian Chang",
+      "role": "Official proponent of record for the Connect Bay Area Transit Initiative; Connect Bay Area campaign organizer."
+    }
+  ],
+  "funding": {
+    "support_committees": [
+      {
+        "name": "Connect Bay Area Transit Committee",
+        "total_raised": "At least $5.5 million as of the January 2026 signature-gathering phase, per Contra Costa Herald reporting; this is not a complete campaign-to-date total, and this measure is not tracked on the FPPC's state ballot-measure top-contributor list because it is a regional/local measure rather than a statewide proposition. No complete, current Cal-Access filing total was found as of the retrieval date below.",
+        "top_donors": [
+          { "name": "Salesforce", "amount": "not itemized in sources reviewed; identified as a top funder" },
+          { "name": "Chris Larsen", "amount": "not itemized in sources reviewed; identified as a top individual funder" },
+          { "name": "SEIU Local 1021", "amount": "not itemized in sources reviewed; identified as a top funder" }
+        ],
+        "source_url": "https://contracostaherald.com/connect-bay-area-campaign-raises-nearly-3-million-to-support-signature-gathering-for-regional-transit-tax-measure/"
+      }
+    ],
+    "oppose_committees": [
+      {
+        "name": "Committee for Affordable Bay Area Transit, sponsored by Contra Costa Taxpayers Association (FPPC ID #1492758)",
+        "total_raised": "not yet reported in sources reviewed; the committee describes itself as self-funded by its members and significantly outspent by the pro-measure campaign, per KQED reporting.",
+        "top_donors": [],
+        "source_url": "https://www.kqed.org/news/12090212/opposition-group-says-bay-area-transit-doesnt-deserve-more-money-this-november"
+      }
+    ]
+  },
+  "nonpartisan_analysis": [
+    {
+      "source": "Public Transit Revenue Measure District Legal Counsel (Santa Clara County Registrar of Voters, Impartial Analysis)",
+      "summary": "Confirms the tax rate (0.5% in Alameda, Contra Costa, San Mateo, and Santa Clara; 1% in San Francisco), the 14-year term, the $980 million annual revenue estimate, and that the tax does not count toward the statutory cap on combined local sales tax rates. Explains that after election and administrative costs, all remaining revenue goes to MTC and county transportation agencies per fixed percentages that vary by county and recipient, naming BART, Muni, Caltrain, AC Transit, VTA, San Francisco Bay Ferry, Golden Gate Transit, smaller East Bay bus operators, and county transportation agencies as recipients, plus free/reduced transit transfers, Clipper START expansion, accessibility programs, wayfinding, and repaving on roads served by fixed-route transit (not authorized in San Francisco). States that 64.70% of Alameda County-generated revenue goes to BART and 84.37% of Santa Clara County-generated revenue goes to VTA. Confirms financial efficiency reviews and implementation plans are required of BART, Muni, AC Transit, and Caltrain, that MTC can withhold funds from a noncompliant operator, and that an independent oversight committee must review whether revenues are distributed as required. States the tax takes effect only if a majority of those voting across the entire five-county district approve it.",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/public-transit-revenue-measure-district_ia_final-v1_redacted.pdf"
+    },
+    {
+      "source": "Ballotpedia",
+      "summary": "Covers Measure RTM as a multi-county transit district sales tax measure on the November 2026 ballot, describing the five-county Public Transit Revenue Measure District, the differing 0.5%/1% rates, the 14-year sunset, and the qualification process in which the Connect Bay Area Committee submitted approximately 235,503 valid signatures against a roughly 187,000-to-205,000 signature requirement depending on the counting method cited.",
+      "url": "https://news.ballotpedia.org/2026/09/09/two-multi-county-transit-districts-in-california-and-colorado-will-decide-on-sales-tax-measures-to-fund-public-transportation-projects-in-november/"
+    },
+    {
+      "source": "SPUR (San Francisco Bay Area Planning and Urban Research Association)",
+      "summary": "Explains that the expenditure plan's return-to-source formula is designed to align each county's funding with its residents' relative usage of the deficit-facing operators (BART, Muni, Caltrain, AC Transit): Santa Clara and San Mateo counties, whose residents use those four agencies less, keep a larger share of locally generated revenue for VTA and SamTrans (roughly 85% and 37% respectively), while San Francisco keeps none, since all SF revenue offsets deficits at agencies SF residents use most. Notes that VTA's local share also covers Santa Clara's agreed portion of Caltrain's operating deficit as a Caltrain joint powers partner.",
+      "url": "https://www.spur.org/news/2026-06-18/what-regional-transit-measure-means-local-investment-santa-clara-and-san-mateo"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Santa Clara County Registrar of Voters, List of Local Measures, November 3, 2026 General Election",
+      "url": "https://vote.santaclaracounty.gov/list-local-measures-4",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Public Transit Revenue Measure District, Impartial Analysis of Regional Transit Measure (Measure RTM)",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/public-transit-revenue-measure-district_ia_final-v1_redacted.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Measure RTM, Public Transit Revenue Measure District, Primary Argument in Favor",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-rtm-public-transit-revenue-measure-district-ptrmd-primary-argument-in-favor_redacted-v2.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Measure RTM, Public Transit Revenue Measure District, Primary Argument Against",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-rtm-public-transit-revenue-measure-district-ptrmd-primary-argument-against_redacted_0.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Metropolitan Transportation Commission, Fact Sheet: SB 63 - The Connect Bay Area Act (updated August 2026)",
+      "url": "https://mtc.ca.gov/sites/default/files/documents/2026-09/Fact-Sheet_Connect-Bay-Area-Act-SB63_FINAL_Updatev2.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Metropolitan Transportation Commission, Public Transit Revenue Measure District (authority overview)",
+      "url": "https://mtc.ca.gov/about-mtc/authorities/public-transit-revenue-measure-district",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Metropolitan Transportation Commission, District Resolution Asks Counties to Put Connect Bay Area Transit Measure on November Ballot",
+      "url": "https://mtc.ca.gov/news/district-resolution-asks-counties-put-connect-bay-area-transit-measure-november-ballot",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Submission of Connect Bay Area Transit Initiative for Circulation (notice of intent, proponents Emily Loper and Lian Chang)",
+      "url": "https://mtc.ca.gov/sites/default/files/documents/2026-01/SubmissionOfConnectBayAreaTransitInitiativeForCirculation-01-16-2026.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Senate Bill 63 (Wiener/Arreguín), Connect Bay Area Act, Wikipedia summary",
+      "url": "https://en.wikipedia.org/wiki/California_Senate_Bill_63",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "SPUR, What the Regional Transit Measure Means for Local Investment in Santa Clara and San Mateo Counties",
+      "url": "https://www.spur.org/news/2026-06-18/what-regional-transit-measure-means-local-investment-santa-clara-and-san-mateo",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "GrowSF, San Francisco Voter Guide, Regional Measure RTM",
+      "url": "https://growsf.org/voter-guide/san-francisco-voter-guide-november-2026-election/measures/prop-rtm/",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Ballotpedia News, Two multi-county transit districts in California and Colorado will decide on sales tax measures in November",
+      "url": "https://news.ballotpedia.org/2026/09/09/two-multi-county-transit-districts-in-california-and-colorado-will-decide-on-sales-tax-measures-to-fund-public-transportation-projects-in-november/",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Contra Costa News, Voters Sue to Strip 'Campaign Slogans' From the Ballot Question for a $17 Billion Transit Sales Tax",
+      "url": "https://contracosta.news/2026/08/19/voters-sue-to-strip-campaign-slogans-from-the-ballot-question-for-a-17-billion-transit-sales-tax/",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "KQED, Bay Area Transit Funding Ballot Question Isn't Biased, Judge Rules",
+      "url": "https://www.kqed.org/news/12097276/bay-area-transit-funding-ballot-question-isnt-biased-judge-rules",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "KQED, Opposition Group Says Bay Area Transit Doesn't Deserve More Money This November",
+      "url": "https://www.kqed.org/news/12090212/opposition-group-says-bay-area-transit-doesnt-deserve-more-money-this-november",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Contra Costa Herald, Connect Bay Area campaign raises nearly $3 million to support signature gathering for regional transit tax measure",
+      "url": "https://contracostaherald.com/connect-bay-area-campaign-raises-nearly-3-million-to-support-signature-gathering-for-regional-transit-tax-measure/",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "So Does It Matter, Measure RTM Is a 14-Year Tax Hike Bay Area Voters Should Derail",
+      "url": "https://www.sodoesitmatter.com/p/measure-rtm-is-a-14-year-tax-hike",
+      "retrieved": "2026-09-20"
+    }
+  ],
+  "last_updated": "2026-09-20"
+}
