@@ -1,0 +1,195 @@
+{
+  "id": "scc-measure-i-2026",
+  "jurisdiction": "county",
+  "county": "Santa Clara",
+  "election_date": "2026-11-03",
+  "number": "Measure I",
+  "title": "City Charter Amendment - City Council Vacancies",
+  "status": "on_ballot",
+  "summary": "Measure I asks City of Sunnyvale voters (not Santa Clara County as a whole) to amend Charter Section 606 so that when the Council fills a vacant Council seat by appointment, the appointee serves until the next November General Municipal Election, full stop. Today the appointee's term ends at whichever comes sooner: that November General Municipal Election, or an earlier Special Municipal Election consolidated with a statewide primary or special election. The measure removes that earlier-election trigger, which can lengthen how long an appointee holds the seat without standing for election, in exchange for eliminating the possibility of the City paying for two elections for the same seat in one year.",
+  "what_it_really_means": [
+    "This is a City of Sunnyvale measure, not a Santa Clara County measure, even though it appears on the same countywide November 2026 ballot. It affects only registered voters within Sunnyvale city limits. Sunnyvale has three charter measures on this ballot, G, H, and I; this entry covers Measure I only. Measure G addresses public-works contracting method and Measure H addresses the City Manager's authority to settle legal claims. All three came out of the same multi-year Charter Review Committee (CRC) process, and the City Attorney's Impartial Analyses of Measures G, H, and I were all filed the same day, August 18, 2026.",
+    "Charter Section 606 gives the City Council two options when a Council seat becomes vacant: call a special election to fill it, or fill it by appointment, a choice that requires four affirmative Council votes. Per the City Attorney's Impartial Analysis, if the Council appoints, the existing Charter text provides that the appointee 'serves until the next General Municipal Election or the next Special Municipal Election consolidated with a statewide election, whichever is sooner.' Measure I deletes that 'whichever is sooner' comparison entirely. Under the amended Charter, an appointee would serve until the next General Municipal Election, period, regardless of whether an earlier statewide primary or special election falls in between.",
+    "The Impartial Analysis is explicit that this can cut both ways for how long an appointee holds unelected power: 'Depending on when a vacancy occurs, this measure could have the effect of lengthening the time that an appointee serves on the City Council. For example, if the first opportunity for a Special Municipal Election is the statewide primary in March or June of an even-numbered year, or an earlier statewide special election, the appointee will serve longer under the proposed amendment than under the existing Charter provision.' In the current system, a vacancy that arises shortly before a March or June primary forces a special election that same primary, which then gets followed by the regularly scheduled November General Municipal Election for the same seat's remaining term, two elections for one seat within months of each other. Measure I trades away that earlier election opportunity specifically to avoid that double-election scenario.",
+    "The real-world trigger the campaign points to is the 2016 vacancy. The primary argument in favor states the measure 'builds directly on the vacancy reforms approved previously by Sunnyvale voters after the costly 2016 Special Election,' referring to Sunnyvale's 2018 charter update. The pro-measure rebuttal is more specific: 'A vacancy triggered a double-election in 2016 and nearly triggered one in 2022.' In other words, the 2018 reform already tried to fix this problem once, and proponents argue the fix did not go far enough, since the 'whichever is sooner' language it left in place still creates the double-election risk whenever a vacancy lands near a primary or special election date. Sources reviewed do not name which specific Council seat or resignation triggered the 2016 double election.",
+    "The measure also re-words Charter Section 606, subsection (c), to refer to 'City Council votes' rather than 'councilmembers,' a clerical fix tied to Sunnyvale's 2020 shift to a separately elected, at-large Mayor: the word 'councilmembers' no longer cleanly describes the body's full membership now that the Mayor is a distinct elected office alongside district councilmembers. This wording change carries no substantive effect on vacancies, but it is bundled into the same ballot question as the vacancy-timing change, so a 'yes' vote covers both.",
+    "Two safeguards already in the Charter are unchanged by this measure, per the Impartial Analysis. First, the Council retains full discretion to skip appointment altogether and call a special election instead; Measure I does not force the Council to appoint anyone. Second, the existing Charter cap that prohibits more than two appointees serving simultaneously on the Council stays in place. Neither the ballot question nor the Impartial Analysis creates any new objective standard, deadline, or public-notice requirement governing how or when the Council must exercise its appointment discretion; the four-vote threshold to appoint, rather than any change made by this measure, remains the only formal check on that choice.",
+    "Unlike Measure H on the same ballot, which drew no filed opposition argument, Measure I drew a full contested record: a primary argument in favor (filed by Mayor Larry Klein), a primary argument against (filed by Stephen Scandalis, a Sunnyvale resident described on the filing as a retired engineer and program manager), and a rebuttal to each side. The opposition's rebuttal supplies specific past election-cost figures that neither the Impartial Analysis nor the favor argument mentions: an estimated $227,188 for an at-large vacancy election held June 7, 2022, versus $76,727 for two district-only vacancy elections held November 8, 2022, cited to argue that consolidating with a district's regular cycle is already far cheaper than a full at-large special election, undercutting part of the 'saves money' framing. The pro-measure rebuttal counters with its own uncited claim that 'since 2022, half of our City Council races have gone uncontested,' framed as a democracy-participation cost of the status quo rather than a dollar figure.",
+    "The Council placed Measure I on the ballot, alongside Measures G and H, at its June 23, 2026 meeting, by a unanimous 7-0 vote, on recommendation of the Charter Review Committee, a citizen body that studied the issue for more than a year. Reporting on the earlier May 19, 2026 direction-setting meeting describes this vacancy-timing change as the measure that 'enjoyed the broadest initial support' of the three CRC-recommended amendments in the City's own polling, consistent with the fact that, unlike Measure H, no separate implementing ordinance had to be pre-adopted alongside it: the amended Charter text is fully self-executing and requires no companion municipal-code change to take effect."
+  ],
+  "fiscal_impact": {
+    "state_cost": "none. This is a City of Sunnyvale charter amendment governing City Council vacancy procedure; it creates no state obligation.",
+    "state_savings": "none identified.",
+    "local_cost": "No source reviewed itemizes a dollar cost or savings specific to Measure I; unlike Measure H, no companion implementing ordinance or staff fiscal-impact statement was found for Measure I.",
+    "revenue_change": "none. Measure I does not create, raise, lower, or redirect any tax, fee, or revenue source; it changes how long a Council vacancy filled by appointment lasts before an election is required.",
+    "ongoing_vs_one_time": "Ongoing. If approved, the amended Charter Section 606 permanently changes the vacancy-appointment timing rule going forward for every future Council vacancy filled by appointment.",
+    "narrative": "No source reviewed puts an official, City-commissioned dollar figure on savings or costs from this specific change. The primary argument in favor asserts the change 'saves money' by eliminating the possibility of paying for two elections for one seat in a single year, and by noting November elections cost the City less than primary elections, without providing a number. The opposition's rebuttal supplies the only concrete dollar figures found in sources reviewed: an estimated $227,188 for a citywide at-large vacancy election held June 7, 2022, compared with $76,727 for two district-only vacancy elections held November 8, 2022, cited to argue that district-level special elections, the more likely scenario under Sunnyvale's post-2020 district system, are already inexpensive relative to the citywide figure the favor campaign implicitly invokes. Neither side quantifies the offsetting cost of a longer unelected appointee term, since that cost is framed by opponents in democratic-representation terms rather than dollar terms."
+  },
+  "taxes": {
+    "new_taxes": [],
+    "tax_changes": []
+  },
+  "spending": {
+    "new_spending_areas": [],
+    "funding_source": "Not applicable. Measure I does not appropriate, raise, or redirect any money. It changes when the City must hold an election to fill a Council vacancy that was filled by appointment; any future election costs, higher or lower depending on timing, continue to be paid from the City's existing elections budget as administered through the County Registrar of Voters."
+  },
+  "control_and_power": "Today, Charter Section 606 lets the Council fill a vacant seat by appointment (with four affirmative votes) or call a special election, and if it appoints, the appointee's term automatically ends at whichever comes first: the next General Municipal Election or an earlier Special Municipal Election consolidated with a statewide election. Measure I removes that 'whichever is sooner' backstop, so once the Council chooses to appoint, the appointee is guaranteed to hold the seat, unelected, all the way to the next November General Municipal Election, even when an earlier statewide primary or special election would otherwise have forced a sooner vote. Practically, this shifts real power toward whichever four Council members vote to appoint rather than call a special election: their choice now locks in a longer, more certain period of unelected incumbency for their appointee than it does today, since the earlier-election trigger that could shorten that period is gone. The Council's discretion to appoint at all, and the existing two-appointee cap, are unchanged; voters retain the final say at the next November election, but Measure I removes one of the paths by which that day of reckoning could arrive sooner.",
+  "loopholes": [
+    "The amendment sets no outer limit on how long an appointee can serve; the Impartial Analysis confirms the change 'could have the effect of lengthening the time that an appointee serves on the City Council,' longest when a vacancy occurs right after a March or June primary or an earlier statewide special election, in which case the appointee could serve most of two years without ever facing voters, exactly the scenario the primary argument against warns of when it says the measure 'allows longer appointments, up to 2+ years.'",
+    "Because the Council retains full discretion under Section 606 to appoint rather than call a special election, and because that decision only requires four affirmative votes, the actual protection against a multi-year unelected appointment depends entirely on how the sitting Council chooses to exercise a power the measure does not constrain in any new way; nothing in the amendment text requires the Council to weigh the length of the resulting term when deciding whether to appoint.",
+    "The measure leaves untouched the existing Charter provision permitting up to two simultaneous appointees on the Council. The primary argument against notes that Sunnyvale's 2020 shift to a separately elected Mayor and district councilmembers increased the odds of a district councilmember winning the mayoral race and thereby creating a second, cascading vacancy; Measure I does not address that structural risk, and by lengthening how long any single appointment can last, it extends the window during which two unelected appointees could sit on the Council at once."
+  ],
+  "unexpected_provisions": [
+    "Bundled into the same yes-or-no vote is a clerical re-wording of Charter Section 606(c), replacing the word 'councilmembers' with 'City Council votes,' a change made necessary by Sunnyvale's 2020 shift to a separately elected, at-large Mayor. This carries no independent policy effect but is not something a voter reading the ballot title, which is entirely about vacancies, would expect to also be voting on.",
+    "Unlike Measure H on the same ballot, which drew no filed opposition, Measure I is the only one of the three Sunnyvale charter measures with a full four-part contested record in the County Voter Information Guide, a primary argument for, a primary argument against, and a rebuttal to each. A voter who assumes all three Sunnyvale measures were equally uncontroversial, based on Measure H's one-sided packet, would be wrong about Measure I specifically.",
+    "The opposition's rebuttal cites a 2009-2010 County Civil Grand Jury Report that it says criticized Sunnyvale regarding a 2009 interim council appointment, and separately claims that 'from 1913 to 1975, repeated resignation generated vacancies were mostly filled by appointments' and that 'by 1975 four of seven sitting council members had originally been appointed.' These historical claims appear only in the opponents' campaign argument, not in the Impartial Analysis or any CRC materials reviewed, and were not independently verified against the underlying Grand Jury report or historical council rosters in this research.",
+    "The favor campaign's own rebuttal directs voters to a joint website, www.YES-on-GHI.com, campaigning for all three Sunnyvale measures together, a detail not disclosed in the ballot question itself and suggesting a coordinated G-H-I campaign effort beyond what the separate, measure-by-measure ballot packets convey."
+  ],
+  "pros": [
+    "Supporters, led by Mayor Larry Klein in the primary argument in favor, argue the current rule can force Sunnyvale to hold two elections for the same seat in the same year, one consolidated with a March or June primary and another in November for the full term, meaning taxpayers pay twice, candidates run two campaigns, and the winner of the first election can serve as little as five months.",
+    "The argument in favor states November general elections in Sunnyvale draw roughly 60% turnout versus about 40% for primary elections, and argues it is best practice for Council vacancy elections to be decided when voter turnout, and therefore the breadth of the electorate weighing in, is highest.",
+    "Supporters argue voters remain in charge either way, since every councilmember and mayor is still elected; the change only shifts which election, a low-turnout primary versus the higher-turnout November general, decides who fills the seat long-term.",
+    "The measure follows more than a year of study and a unanimous recommendation from the citizen-appointed Charter Review Committee, and the City Council voted unanimously, 7-0, to place it on the ballot alongside Measures G and H at its June 23, 2026 meeting.",
+    "The pro-measure rebuttal argues the change strengthens local democracy at a time when civic engagement is already strained, noting that since 2022 half of Sunnyvale's City Council races have gone uncontested, and that requiring appointees to potentially run two campaigns in one year, with double the fundraising, discourages qualified candidates and favors those with deeper pockets."
+  ],
+  "cons": [
+    "The primary argument against, filed by Stephen Scandalis, states the measure 'cut[s] the eligible elections to fill vacancies by at least half' by eliminating the earlier statewide-consolidated election option, meaning an appointee could serve unelected for two years or more depending on when the vacancy occurs, deepening what the argument calls appointee incumbency advantage.",
+    "Opponents argue appointment powers can be abused, citing a 2009-2010 County Civil Grand Jury Report they say criticized Sunnyvale over a 2009 interim council appointment, and note that historically, repeated appointment-filled vacancies produced a Council where, by 1975, four of seven sitting members had originally been appointed rather than elected.",
+    "The opposition's rebuttal supplies actual cost data undercutting the 'saves money' framing: an estimated $227,188 for a citywide at-large vacancy special election held June 7, 2022, versus just $76,727 for two district-only vacancy elections held November 8, 2022, arguing that district elections, the more common scenario under Sunnyvale's post-2020 district system, are already inexpensive next to the figure the savings argument implies.",
+    "Opponents argue the measure distracts from a deeper structural risk the CRC did not fix: Sunnyvale's 2020 shift to a separately elected Mayor means a district councilmember who wins the mayor's race creates a second Council vacancy, potentially leaving two unelected appointees serving simultaneously, a risk the existing two-appointee cap limits but does not eliminate, and one that Measure I's longer appointment terms make more consequential when it occurs."
+  ],
+  "who_supports": [
+    {
+      "name": "Larry Klein",
+      "type": "politician",
+      "notes": "Sunnyvale Mayor; filer and signer of the primary argument in favor of Measure I, and signer of the rebuttal to the primary argument against."
+    },
+    {
+      "name": "Richard Mehlinger",
+      "type": "politician",
+      "notes": "Sunnyvale Vice Mayor, District 5; signer of the primary argument in favor of Measure I and of the rebuttal to the primary argument against."
+    },
+    {
+      "name": "Murali Srinivasan",
+      "type": "politician",
+      "notes": "Sunnyvale Councilmember, District 3; signer of the primary argument in favor of Measure I and of the rebuttal to the primary argument against."
+    },
+    {
+      "name": "Eileen Le",
+      "type": "politician",
+      "notes": "Sunnyvale Councilmember, District 6; signer of the primary argument in favor of Measure I."
+    },
+    {
+      "name": "Larry Stone",
+      "type": "politician",
+      "notes": "Former Sunnyvale Mayor and former Santa Clara County Assessor; signer of the rebuttal to the primary argument against Measure I."
+    },
+    {
+      "name": "Kristel Wickham",
+      "type": "other",
+      "notes": "Identified on the filing as a Sunnyvale community volunteer; signer of the primary argument in favor of Measure I."
+    }
+  ],
+  "who_opposes": [
+    {
+      "name": "Stephen Scandalis",
+      "type": "other",
+      "notes": "Sunnyvale resident, identified as a retired engineer and program manager; filer and signer of the primary argument against Measure I."
+    },
+    {
+      "name": "Andy Frazer",
+      "type": "other",
+      "notes": "Sunnyvale resident; signer of the primary argument against Measure I."
+    },
+    {
+      "name": "Richard Lesher",
+      "type": "other",
+      "notes": "Sunnyvale resident, identified on the filing as a member of a City personnel-related board; signer of the primary argument against Measure I."
+    },
+    {
+      "name": "Jennifer Tasseff",
+      "type": "other",
+      "notes": "Sunnyvale resident; signer of the primary argument against Measure I."
+    },
+    {
+      "name": "Susan Selna",
+      "type": "other",
+      "notes": "Sunnyvale resident; signer of the primary argument against Measure I."
+    },
+    {
+      "name": "Mei-Ling Shek-Stefan",
+      "type": "other",
+      "notes": "Sunnyvale resident; submitter and signer of the rebuttal to the primary argument in favor of Measure I."
+    },
+    {
+      "name": "Carlene Nakagawa",
+      "type": "other",
+      "notes": "Sunnyvale resident; signer of the primary argument against Measure I."
+    }
+  ],
+  "authors": [
+    {
+      "name": "Larry Klein",
+      "role": "Sunnyvale Mayor; filer of the primary argument in favor of Measure I, following the City Council's unanimous June 23, 2026 vote to place the Charter Review Committee's recommended amendment, alongside companion Measures G and H, on the ballot."
+    },
+    {
+      "name": "Richard Mehlinger",
+      "role": "Sunnyvale Vice Mayor; co-signer of the primary argument in favor of Measure I and of the rebuttal to the primary argument against it."
+    }
+  ],
+  "nonpartisan_analysis": [
+    {
+      "source": "City of Sunnyvale City Attorney (Rebecca L. Moon), Impartial Analysis of Measure I",
+      "summary": "Confirms Measure I would amend Charter Section 606 so that an appointee filling a Council vacancy serves until the next General Municipal Election, removing the current rule under which the appointee's term instead ends at an earlier Special Municipal Election consolidated with a statewide election if that comes sooner. Confirms the Council retains discretion to call a special election instead of appointing, and that the existing two-simultaneous-appointee cap is unchanged. States the change could lengthen how long an appointee serves, particularly if a vacancy occurs shortly before a March or June statewide primary. Notes the measure also re-words Section 606(c) to say 'City Council votes' rather than 'councilmembers.' States the measure requires a simple majority to pass and was placed on the ballot on recommendation of the Charter Review Committee.",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-i-city-of-sunnyvale_charter-amendment-appointed-incumbent-to-serve-ia_08-18-2026_redacted.pdf"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Santa Clara County Registrar of Voters, List of Local Measures, November 3, 2026 General Election",
+      "url": "https://vote.santaclaracounty.gov/list-local-measures-4",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Measure I, City of Sunnyvale, City Charter Amendment - City Council Vacancies, City Attorney's Impartial Analysis",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-i-city-of-sunnyvale_charter-amendment-appointed-incumbent-to-serve-ia_08-18-2026_redacted.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Measure I, City of Sunnyvale, Primary Argument In Favor",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-i-appointed-incumbent-to-serve-until-sucessor-is-elected-primary-arguemnt-in-favor_redacted-v2.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Measure I, City of Sunnyvale, Primary Argument Against",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-i-appointed-incumbent-to-serve-until-sucessor-is-elected-primary-arguemnt-against_redacted.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Measure I, City of Sunnyvale, Rebuttal to Primary Argument In Favor (opposing rebuttal)",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-i-city-charter-amendment-appointed-incumbent-to-serve-until-successor-is-elected-rebuttal-to-primary-argument-in-favor_redacted.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Measure I, City of Sunnyvale, Rebuttal to Primary Argument Against (supporting rebuttal)",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-i-city-charter-amendment-appointed-incumbent-to-serve-until-successor-is-elected-rebuttal-to-primary-argument-against_redacted_0.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "City of Sunnyvale Municipal Code, Charter Article VI, Section 606, Vacancies (current text, via qcode.us/ecode360 mirror)",
+      "url": "https://qcode.us/codes/sunnyvale/view.php?topic=charter_of_the_city_of_sunnyvale-vi-606&frames=on",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Citizen Portal, Sunnyvale council places three charter amendments on November ballot after weeks of review",
+      "url": "https://citizenportal.ai/articles/8310348/california/santa-clara-county/sunnyvale/sunnyvale-council-places-three-charter-amendments-on-november-ballot-after-weeks-of-review",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Citizen Portal, Sunnyvale council directs three charter amendments to November ballot, defers pay raise measure",
+      "url": "https://citizenportal.ai/articles/8047187/california/santa-clara-county/sunnyvale/sunnyvale-council-directs-three-charter-amendments-to-november-ballot-defers-pay-raise-measure",
+      "retrieved": "2026-09-21"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}
