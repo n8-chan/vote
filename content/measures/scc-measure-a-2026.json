@@ -1,0 +1,113 @@
+{
+  "id": "scc-measure-a-2026",
+  "jurisdiction": "county",
+  "county": "Santa Clara",
+  "election_date": "2026-11-03",
+  "number": "Measure A",
+  "title": "City Treasurer Change from Elective to Appointive Office",
+  "status": "on_ballot",
+  "summary": "Measure A asks City of Morgan Hill voters whether to change the City Treasurer from an elected position to one appointed by the City Manager. If approved, the change would not take effect until the current elected Treasurer's term ends in 2028 (or sooner if the office becomes vacant), and the city's stated plan is for the Finance Director to take on the Treasurer role. The city projects about $40,000 a year in personnel savings and about $15,000 every four years in election costs.",
+  "what_it_really_means": [
+    "The ballot question is one sentence, \"Shall the office of the City Treasurer be appointive?\", and it is easy to read as a narrow administrative housekeeping item. What it actually authorizes is a permanent structural change: it removes the City Treasurer from the ballot entirely, going forward, and hands the selection of that officeholder to the City Manager rather than to voters. Per the Registrar of Voters' Impartial Analysis, written by City Attorney Elisa Tolentino, state law requires every California general law city to have a City Treasurer, but leaves each city free to choose whether that office is elected or appointed; Morgan Hill has elected its Treasurer every four years, and this measure would move it into the majority of California cities, including, per both the Impartial Analysis and the primary argument in favor, every other city in Santa Clara County, that appoint the position instead.",
+    "Nothing changes immediately. The Impartial Analysis states that if voters approve Measure A, the office becomes appointive only \"upon expiration of the current Treasurer's term in 2028, or earlier if a vacancy occurs.\" The sitting Treasurer, Cindy Rogers Murphy, was elected unopposed in 2024 to a term that runs through 2028; her term is unaffected by a yes vote, and she would either need to be reappointed by the City Manager to continue past 2028 or the city would hire someone else for the role at that point. A voter reading only the ballot question would not know this measure has no effect on who holds the office for the next two years, or that a resignation or other vacancy before 2028 would trigger the change early.",
+    "The Impartial Analysis specifies who gets the appointment power and on what basis: \"the City Manager would appoint the City Treasurer, based on their experience and ability.\" That is a delegation to a single unelected executive, not to the City Council as a body and not to a competitive, publicly noticed hiring process governed by the measure itself. The measure text and analysis do not specify a job posting requirement, a City Council confirmation vote, or a fixed term length for an appointed Treasurer; those procedural details, to the extent they exist, would be set later by city policy or municipal code rather than being locked into what voters are approving.",
+    "The city's own public-facing FAQ on this measure (published on the City Clerk's elections pages at morganhill.ca.gov) goes further than the Impartial Analysis and states plainly that if Measure A passes, \"the Finance Director would assume the treasurer role.\" That is a stated administration plan, not a legal requirement written into the ballot measure; the formal, operative language voters are approving only creates the City Manager's authority to appoint someone as Treasurer, which could in practice mean folding the office into the existing Finance Director position (eliminating a distinct, separately accountable Treasurer role altogether) or appointing a different person. Combining the Treasurer's oversight function with the Finance Director, who the Impartial Analysis says already performs \"most day-to-day treasury operations, including banking, investments, accounting, debt management, and financial reporting,\" would mean the person primarily responsible for treasury operations also becomes the office charged with independently overseeing those operations, unless the city separately preserves independent review through audits and internal controls, which the Impartial Analysis says already exist.",
+    "The qualifications bar for the current elected office is genuinely minimal: the Impartial Analysis confirms state law requires only that an elected City Treasurer be \"at least 18 years old, reside in the city, and be registered to vote in the city,\" with \"no minimum educational or professional qualifications.\" The argument in favor, filed by Mayor Mark Turner, frames this as the central problem the measure solves, arguing that \"municipal finance has become highly specialized and technical\" since Morgan Hill's 1906 incorporation and that the Treasurer's duties \"require expertise in public finance, investments, banking, accounting, debt management, and compliance with complex state laws\" that an open election cannot screen for. Because no qualifications for an appointed Treasurer are written into the measure itself, the actual professional bar an appointee would need to clear is whatever the City Manager decides, not a standard fixed by this ballot measure.",
+    "This measure is a genuine example of the recruitment-difficulty rationale common to small-city elected-financial-officer conversions: nothing in the record here suggests scandal, malfeasance, or a contested election drove the change. The current and prior Treasurers ran unopposed, which is consistent with, though not proof of, the difficulty many small cities report in recruiting qualified candidates to run for a technical, low-visibility elected finance post. The Impartial Analysis and the argument in favor both frame the rationale as modernization and cost savings, not a response to any specific problem with how the office has been run.",
+    "The dollar figures are specific and modest relative to Morgan Hill's overall budget, but they are the only fiscal case the ballot record makes. The Impartial Analysis states the city estimates savings of \"approximately $40,000 annually in personnel costs and approximately $15,000 in election costs every four years.\" No source reviewed breaks down what the $40,000 in annual personnel savings consists of (for example, whether it reflects eliminating a stipend paid to the elected Treasurer, or expected efficiency from folding the role into an existing staff position); voters are given the total but not its components.",
+    "No primary argument against Measure A was filed with the Registrar of Voters, and no organized opposition campaign, dissenting elected official, or news coverage taking a critical position on the substance of the change was found in the sources reviewed. The Registrar's list of local measures for this election marks the \"Primary Argument Against\" slot for Measure A as \"(none filed).\" That absence of an opposing argument or visible opposition campaign is itself worth noting to a voter: unlike many contested local measures, there is no on-the-record case against this one in the official voter materials, which means the arguments a voter would weigh against it (loss of direct accountability, concentration of appointment power in one executive) have to come from the voter's own reasoning rather than from a filed rebuttal."
+  ],
+  "fiscal_impact": {
+    "state_cost": "none. This is a City of Morgan Hill charter/office-structure measure; it creates no state obligation.",
+    "state_savings": "none identified.",
+    "local_cost": "none; the measure reduces city costs rather than adding them.",
+    "revenue_change": "none. This measure does not raise, lower, or redirect any tax or fee; it changes how one city office is filled.",
+    "ongoing_vs_one_time": "Both. The Impartial Analysis states the city estimates approximately $40,000 in personnel-cost savings annually (ongoing, once the office becomes appointive) and approximately $15,000 in election-cost savings every four years (recurring but only in years the Treasurer's seat would otherwise have appeared on the ballot).",
+    "narrative": "The only fiscal figures in the record are the City Attorney's Impartial Analysis estimates: about $40,000 a year in personnel-cost savings and about $15,000 every four years in election costs avoided by removing the Treasurer's race from the ballot. Neither figure is itemized in the sources reviewed, and neither would take effect until the current Treasurer's term ends in 2028 or the office becomes vacant earlier. There is no tax, bond, fee, or spending program tied to this measure; it is a governance-structure change with a modest, secondary cost-savings rationale rather than a fiscal measure in the usual sense."
+  },
+  "taxes": {
+    "new_taxes": [],
+    "tax_changes": []
+  },
+  "spending": {
+    "new_spending_areas": [],
+    "funding_source": "not applicable; the measure does not create or redirect spending. It is projected to reduce city personnel and election costs, not to fund any program."
+  },
+  "control_and_power": "Currently, Morgan Hill voters elect the City Treasurer directly every four years. If Measure A passes, the City Manager, a single unelected executive appointed by and serving at the pleasure of the City Council, gains the authority to appoint the City Treasurer, based on the appointee's experience and ability, once the current elected Treasurer's term ends in 2028 or the office becomes vacant sooner. The City Council does not gain a direct appointment or confirmation vote over the Treasurer under the measure as described in the Impartial Analysis; the appointment power sits with the City Manager. Day-to-day treasury operations, including banking, investments, accounting, debt management, and financial reporting, already sit with the Finance Director and Finance Department, and the city's own published plan is for the Finance Director to assume the Treasurer title as well, which would consolidate the operational and oversight functions of city treasury management into the same office rather than keeping them held by separately accountable people.",
+  "loopholes": [
+    "The measure creates the City Manager's authority to appoint a Treasurer but, per the Impartial Analysis, sets no minimum qualifications, competitive-hiring requirement, or City Council confirmation step for that appointment; the professional-expertise rationale voters are asked to rely on (per the argument in favor) is not written into the measure as an enforceable standard, only as the stated justification for making the change.",
+    "The city's own FAQ states the Finance Director would assume the Treasurer role, but the operative change voters are approving is broader: authority for the City Manager to appoint anyone as Treasurer. Nothing found in the sources reviewed legally requires the appointee to be the sitting Finance Director, meaning the specific plan described to voters is not binding on the city going forward.",
+    "The $40,000 annual personnel-cost savings figure in the Impartial Analysis is not itemized in any source reviewed, so a voter cannot verify from the official record whether that figure reflects an elected-Treasurer stipend being eliminated, staffing consolidation, or another mechanism."
+  ],
+  "unexpected_provisions": [
+    "The change does not take effect immediately or even necessarily on a fixed date; it is triggered either by the expiration of the current Treasurer's term in 2028 or by an earlier vacancy, which a voter reading only the ballot question (\"Shall the office of the City Treasurer be appointive?\") would not know.",
+    "No primary argument against Measure A was filed with the Registrar of Voters, an absence of formal opposition on the ballot record itself that is worth noting given the measure permanently removes a directly elected office from future ballots."
+  ],
+  "pros": [
+    "Municipal finance has become highly specialized and technical since Morgan Hill's 1906 incorporation, and the City Treasurer's duties, safeguarding public funds and supporting the city's long-term financial health, require expertise in public finance, investments, banking, accounting, debt management, and compliance with complex state laws that an open election with no professional qualification requirement cannot screen for.",
+    "Measure A authorizes the City Manager to appoint a qualified professional to the office, rather than relying on whoever chooses to run, often unopposed, for a low-visibility technical position.",
+    "Most California cities, including every other city in Santa Clara County, already appoint their City Treasurer; supporters argue Measure A aligns Morgan Hill with this common, tested approach.",
+    "Professional financial oversight continues either way through the Finance Department's existing staff, independent audits, internal controls, and regular financial reporting, plus City Council oversight, so proponents argue the change trades a symbolic elected check for a more substantively qualified appointee without removing existing safeguards.",
+    "The city estimates the change would save approximately $40,000 annually in personnel costs and approximately $15,000 every four years in election costs, freeing taxpayer dollars for other uses."
+  ],
+  "cons": [
+    "Removing the City Treasurer from the ballot permanently eliminates one of the few city offices Morgan Hill voters elect directly, transferring the selection of the officeholder to a single unelected City Manager rather than to the electorate or even to the City Council as a body.",
+    "No minimum qualifications, competitive-hiring process, or City Council confirmation requirement for the appointed Treasurer is written into the measure itself; voters are asked to trust that the City Manager will appoint a qualified professional, without a binding standard requiring it.",
+    "The city's stated plan of having the Finance Director assume the Treasurer role would combine day-to-day treasury operations with the office nominally responsible for overseeing them, reducing the separation between the person managing city funds and the person independently accountable for that management, beyond what audits and internal controls alone provide.",
+    "No primary argument against Measure A was filed with the Registrar of Voters, so voters do not have an official, on-the-record counter-case in the county's voter materials weighing the loss of direct electoral accountability for this office."
+  ],
+  "who_supports": [
+    {
+      "name": "Mark Turner",
+      "type": "politician",
+      "notes": "Mayor of Morgan Hill; filed and signed the official primary argument in favor of Measure A, submitted as a Governing Board Member."
+    }
+  ],
+  "who_opposes": [],
+  "authors": [
+    {
+      "name": "Mark Turner",
+      "role": "Mayor of Morgan Hill; filer and sole signer of the official primary argument in favor of Measure A submitted to the Registrar of Voters. No source reviewed identifies an individual councilmember as the formal sponsor of the underlying resolution placing the measure on the ballot; consistent with standard practice for California local ballot measures, the resolution itself was a City Council action taken ahead of the county's August 7, 2026 filing deadline, and the Impartial Analysis attributes the cost-savings rationale to city staff estimates rather than to a named elected sponsor."
+    }
+  ],
+  "nonpartisan_analysis": [
+    {
+      "source": "City of Morgan Hill City Attorney (Elisa Tolentino), Impartial Analysis of Measure A",
+      "summary": "Confirms state law requires general law cities to have a City Treasurer, elected or appointed at the city's choice, and that Morgan Hill currently elects the position every four years. States that if Measure A passes, the office becomes appointive upon expiration of the current Treasurer's term in 2028, or earlier upon a vacancy, and that the City Manager would appoint the Treasurer based on experience and ability. Confirms an elected Treasurer need only be 18, a city resident, and a registered voter, with no professional qualifications required, and that the Finance Director and Finance Department already perform most day-to-day treasury operations subject to internal controls and independent audits. States the city estimates approximately $40,000 in annual personnel-cost savings and approximately $15,000 in election costs every four years if the measure passes.",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-a-city-of-morgan-hill-city-treasurer-ia_08-18-2026_redacted.pdf"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Santa Clara County Registrar of Voters, List of Local Measures, November 3, 2026 General Election",
+      "url": "https://vote.santaclaracounty.gov/list-local-measures-4",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Measure A, City of Morgan Hill, City Treasurer Impartial Analysis (City Attorney Elisa Tolentino)",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-a-city-of-morgan-hill-city-treasurer-ia_08-18-2026_redacted.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Measure A, City of Morgan Hill, Primary Argument in Favor (Mayor Mark Turner)",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-a-city-of-morgan-hill-appointing-city-treasurer-in-favor_08112026_redacted.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "City of Morgan Hill, Registrar of Voters candidate/measure page for the City of Morgan Hill",
+      "url": "https://vote.santaclaracounty.gov/city-morgan-hill",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "City of Morgan Hill, Measures page (Measure A summary, City Treasurer FAQ)",
+      "url": "https://www.morganhill.ca.gov/1736/Measures",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Morgan Hill Times, Candidate list is set for mayor, city council election in Morgan Hill",
+      "url": "https://morganhilltimes.com/candidate-list-is-set-for-mayor-city-council-election-in-morgan-hill/",
+      "retrieved": "2026-09-20"
+    }
+  ],
+  "last_updated": "2026-09-20"
+}
