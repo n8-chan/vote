@@ -1,0 +1,311 @@
+{
+  "id": "ca-prop-40-2026",
+  "jurisdiction": "state",
+  "election_date": "2026-11-03",
+  "number": "Proposition 40",
+  "title": "Imposes One-Time Tax on Certain Taxpayers",
+  "status": "on_ballot",
+  "summary": "Proposition 40 imposes a one-time 5 percent excise tax on the net worth of California residents, married couples, and certain trusts whose covered assets exceeded $1 billion on January 1, 2026, due with 2027 tax filings. Ninety percent of the revenue, which the Legislative Analyst's Office estimates at tens of billions of dollars spread over several years, is earmarked for health care including Medi-Cal, with the remaining 10 percent for K-14 education and food assistance. A companion constitutional amendment exempts this money from the Proposition 98 school-funding guarantee and the state's appropriations limit, and the measure would be voided in whole or in part if rival measures Proposition 41 or 42 on the same ballot win more yes votes.",
+  "what_it_really_means": [
+    "No one's tax bill changes today. The tax applies only to 2026, is due with 2027 filings, and the state's own analysis describes it as a temporary, one-time collection. But the drafters were careful about what kind of tax it is, not just when it applies. Revenue and Taxation Code Section 50301 calls it 'an excise tax... on the activity of sustaining excessive accumulations of wealth,' not a property tax or a wealth tax in the generic sense. That label matters: California's Constitution caps and constrains property taxes, and the Tax Foundation's legal analysis argues that taxing ownership of assets on a fixed date without any transaction is, in substance, a property tax regardless of the label a statute gives it, which is one of several constitutional vulnerabilities it identifies. The measure anticipates this fight directly, building in an expedited, self-contained court process rather than leaving the question to ordinary litigation.",
+    "Who actually pays is defined narrowly but aggressively. 'Applicable individual' means a California resident (under existing residency rules in Revenue and Taxation Code Sections 17014 and 17015.5) with net worth of $1 billion or more as of the 2026 tax obligation date; a married couple counts as one individual, and the rate phases in gradually between $1.0 billion and $1.1 billion net worth rather than snapping on at a hard line. Net worth reaches further than a simple asset count: it includes the value of grantor trusts the individual controls, a portion of non-grantor trusts the individual has funded, 75 percent of property transferred into such a trust in 2025 alone, property given away below market value after October 15, 2025, and even a dependent's assets above $50,000. Directly held real property and most pensions and IRAs are excluded, but Roth-type retirement accounts are taxed to the extent they exceed $10 million, and the accrued value of a defined-benefit pension is counted for anyone whose plan isn't otherwise exempt. Opponents' claim that this is 'the first tax on retirement accounts in California history' traces to that Roth and defined-benefit language in Section 50303(c)(7); it is real text, not a rhetorical stretch, though it only reaches retirement wealth held by people who already clear the $1 billion threshold.",
+    "Whether 'one-time' is actually locked in by the text is a closer question than the ballot label suggests. The tax itself is imposed 'for tax year 2026' only, so nothing in Section 50301 repeats it in future years automatically. But Section 50310 gives the Legislature standing authority to amend the entire 2026 Billionaire Tax Act by a two-thirds vote in each house, without going back to voters, so long as the amendment 'is consistent with and furthers the purposes' of the act. The official rebuttal to the argument in favor calls this 'a loophole that lets the Legislature expand the tax without a vote of the people'; the measure's supporters have not disputed that the clause exists, only how far a court would let the Legislature stretch 'furthers the purposes' before it became a different tax altogether. No published legal analysis I found resolves that question, because no court has yet interpreted this specific clause.",
+    "The ballot title says 'tax,' but roughly half the measure's operative text is a constitutional amendment, and that half does more than authorize the number. New Article XIII, Section 37 of the Constitution declares that revenue from the act is not 'General Fund revenues,' not subject to the Proposition 98 minimum school-funding guarantee, not counted against the Article XIII B state appropriations limit, and not eligible to be borrowed or transferred out of its own dedicated Reserve Fund except as the act itself allows. A voter cannot get any of that by statute alone; entrenching it in the Constitution is what keeps a future Legislature from redirecting the money into the General Fund or letting it count toward the spending cap without another statewide vote. The opposition's claim that the measure 'exempts itself from voter-approved constitutional protections for schools' is accurate to the text, and it cuts both ways: the same insulation that stops a future Legislature from raiding the fund for unrelated purposes is what stops the deposits from ever counting toward the Prop 98 guarantee that would otherwise flow additional money to schools.",
+    "Where the money must go is more specific than 'health care and education' but still leaves real discretion. Ninety percent goes to the Billionaire Tax Health Account, capped at $22.5 billion a year, for Medi-Cal and other coverage programs, safety-net providers, and 'other investments to support health care access, coverage, benefits, funding, services, and payments to providers' — broad enough to include payments that flow through health insurers, which is the basis of the opposition's claim that the measure could send money to 'health insurance companies' with no further vote required. Ten percent goes to the Education and Food Assistance Account, capped at $2.5 billion a year, for K-14 schools and programs including CalFresh and school meals. Government Code Section 16355(d) bars using this money 'as justification for reducing, eliminating, or failing to increase' existing state spending on the same purposes, a no-supplant clause, and the Legislature may appropriate less than the caps if it wants to hold money in reserve, but administrative costs come off the top before the 90/10 split applies at all, with no dollar cap stated in the text beyond the LAO's estimate of tens of millions of dollars a year.",
+    "The most consequential thing not visible in the ballot title is the litigation architecture. Section 6 authorizes a 'validation action' that lets the constitutionality of the entire act be tested without any taxpayer first having to pay the tax, and Section 7 concentrates every such case in Sacramento County Superior Court, routes any appeal directly to the California Supreme Court with no intermediate Court of Appeal review, and sets the act's own target dates: trial resolution by April 1, 2027, and Supreme Court resolution by November 1, 2027. Section 9 additionally lets the initiative's proponents, any other government employer, or any California citizen defend the act in court at the state's expense (billed to funds appropriated to the Attorney General) if the state itself declines to defend it. Whichever side wins this fight is decided on a timetable and in a forum the measure itself wrote, not the ordinary appellate process.",
+    "Two other tax measures on this same ballot, Propositions 41 and 42, were funded and written specifically to compete with this one, and the Legislative Analyst's Office states plainly that if either wins more yes votes than Proposition 40, courts could find their provisions conflict with it and block Proposition 40 from taking effect even if it separately wins a majority. Proposition 40 wrote its own conflict clause the same way: Section 8 declares that any other measure on the same ballot affecting a tax on billionaire net worth is in conflict, and if Proposition 40 gets more affirmative votes, 'any conflicting provisions of the other measure or measures shall be null and void' — voiding only the conflicting provisions of Propositions 41 and 42, not those measures in their entirety. That detail matters next to Proposition 3, the personal-income-tax measure on this same ballot, whose own Section 5 voids any other measure that 'affects the tax rates for personal income' in its entirety if Proposition 3 wins more votes. Proposition 40's Section 8 anchors itself explicitly to 'net worth, not income,' which is likely why its drafters did not treat Proposition 3 as a conflicting measure at all — but whether a court agrees that a wealth tax never touches 'tax rates for personal income' is not settled by either measure's text, and neither LAO analysis flags Propositions 3 and 40 as being in conflict with each other the way LAO does flag Propositions 40, 41, and 42.",
+    "One fact many voters won't encounter from the title: this measure splits usual coalitions. Governor Gavin Newsom, a Democrat, publicly opposes it, alongside the California Teachers Association, Planned Parenthood Affiliates of California, and California's building trades unions — while U.S. Senator Bernie Sanders, Rep. Ro Khanna, SEIU-United Healthcare Workers West (the measure's sponsor and principal funder), and a separate Planned Parenthood affiliate, Planned Parenthood of Pacific Southwest, support it. The opposing and supporting coalitions each include organizations that, on most other ballot questions, sit on the same side."
+  ],
+  "fiscal_impact": {
+    "state_cost": "No direct General Fund cost identified by the LAO. Administrative costs to determine and collect the tax could run tens of millions of dollars a year for several years, but those costs are paid out of the new tax revenue itself before the 90/10 split applies.",
+    "state_savings": "None identified by the Legislative Analyst's Office.",
+    "local_cost": "None mandated. The measure creates no local obligation.",
+    "revenue_change": "The LAO estimates the wealth tax would raise tens of billions of dollars, collected over several years and highly uncertain in timing and amount because it depends on stock prices and on how billionaires respond. The sponsor, SEIU-United Healthcare Workers West, projects roughly $100 billion over five years; the LAO's own analysis does not confirm that figure. The LAO separately warns of a possible ongoing decrease of less than $1 billion a year in existing state income tax revenue if billionaires leave California or otherwise reduce taxable income in response.",
+    "ongoing_vs_one_time": "The excise tax itself is imposed only for tax year 2026, due with 2027 filings, payable in a lump sum or in five annual installments carrying a 7.5 percent nondeductible deferral charge each year. Nothing in the text re-imposes the tax in future years, though Section 50310 lets the Legislature amend the act by a two-thirds vote to expand or extend it without another statewide vote, so long as an amendment 'is consistent with and furthers the purposes' of the act.",
+    "narrative": "Three numbers get used in this campaign and they answer different questions. The LAO's 'tens of billions of dollars spread over several years' is a cautious range reflecting genuine uncertainty about relocation, valuation disputes, and stock-price swings for a tax that has never been tried anywhere in the country. The sponsor's $100 billion figure is a campaign estimate the LAO does not adopt. The opposition's $25 billion 'lost revenue' figure, drawn from a Stanford-affiliated study cited in the official ballot argument, models behavioral response — billionaires and the businesses they control relocating or restructuring — and is a modeled cost estimate rather than an official fiscal projection; the LAO's own comparable estimate for indirect income-tax loss is under $1 billion a year, a much smaller number reached through a narrower channel. What the headline revenue figures leave out is that this is the first tax of its kind at any level of government in the country, so every estimate rests on assumptions about billionaire behavior with no comparable prior episode to calibrate against."
+  },
+  "taxes": {
+    "new_taxes": [
+      "A one-time 5 percent excise tax on the net worth of California resident individuals, married couples (treated as one filer), and certain non-grantor trusts whose 2026 net worth exceeds $1 billion, phased in between $1.0 billion and $1.1 billion, enacted as Revenue and Taxation Code Part 27 (Sections 50300-50314) and new Article XIII, Section 37 of the California Constitution."
+    ],
+    "tax_changes": []
+  },
+  "spending": {
+    "new_spending_areas": [
+      "Billionaire Tax Health Account (90% of net revenue, capped at $22.5 billion per year): Medi-Cal and other health coverage for low- and moderate-income Californians, safety-net providers, and mitigating facility closures or service reductions",
+      "Billionaire Tax Education and Food Assistance Account (10% of net revenue, capped at $2.5 billion per year): K-14 public education funding and food assistance programs including CalFresh, CFAP, CalFood, and California's universal school meals program",
+      "Administration of the wealth tax itself, paid from gross revenue before the 90/10 allocation, with no cap on that amount stated in the text"
+    ],
+    "funding_source": "New one-time wealth tax revenue, deposited into the 2026 Billionaire Tax Reserve Fund, a special fund created outside the General Fund by Article XIII, Section 37 of the Constitution."
+  },
+  "control_and_power": "The Franchise Tax Board ('the board' in the statute) values assets, audits returns, and adopts collection rules, and until January 1, 2028 its guidance is exempt from the Administrative Procedure Act's notice-and-comment rulemaking. The Legislature sets annual appropriations from the two sub-accounts up to the $22.5 billion and $2.5 billion caps and may appropriate less to hold funds in reserve, but under Section 50310 it also holds standing authority to amend the entire act by a two-thirds vote of each house without another statewide election, limited only by the requirement that an amendment be 'consistent with and furthers the purposes' of the act. Disputes over the tax's constitutionality are steered into a single forum the measure itself creates: Sacramento County Superior Court for trial, with any appeal going directly to the California Supreme Court and bypassing the Courts of Appeal, on deadlines the act sets for itself. If the state declines to defend the act, the initiative's proponents, any other government employer, or any California citizen may defend it in court instead, at the state's expense through funds appropriated to the Attorney General. No independent audit or citizen oversight board is created for the revenue once collected; the program-level accountability is the existing appropriations and audit processes that apply to Medi-Cal and school spending generally.",
+  "loopholes": [
+    "Section 50310 lets the Legislature amend the entire 2026 Billionaire Tax Act by a two-thirds vote in each house, without another vote of the people, as long as the amendment 'is consistent with and furthers the purposes' of the act. That standard is undefined and, given how broadly the act's own findings describe its purposes (health care, education, and food assistance funding generally), leaves real room for the Legislature to expand who or what is taxed without returning to voters.",
+    "The real property and pension exclusions that make this a billionaire-only, asset-limited tax live in the Revenue and Taxation Code (Section 50303), not in the constitutional Article XIII, Section 37 that authorizes the tax itself. Because the statutory portions of the act are the part Section 50310 lets the Legislature amend by two-thirds vote, those specific exclusions are, in principle, more exposed to legislative narrowing than the constitutional tax-authorization language itself.",
+    "The alternative-apportionment provision in Section 50306 lets a taxpayer petition to reduce the standard 100 percent California apportionment down to as low as zero if they can show their wealth was not substantially accumulated or sustained in California, which functions as a built-in escape hatch for taxpayers who can document weak ties to the state, on top of the ordinary constitutional defenses that provision is meant to preserve.",
+    "The $5 million combined exclusion for art, collectibles, intellectual property, vehicles, and other non-publicly-traded assets is a flat dollar threshold rather than a percentage of net worth, so it protects a meaningful share of a taxpayer near the $1 billion threshold but is immaterial to anyone with net worth in the tens of billions."
+  ],
+  "unexpected_provisions": [
+    "New Article XIII, Section 37 exempts this tax revenue from the Proposition 98 minimum school-funding guarantee, from the Article XIII B state appropriations limit, and from classification as 'General Fund revenue' — meaning a voter approving what the ballot title frames as a straightforward tax is also amending the Constitution to carve a new, permanently separate category of state money out of decades of voter-approved fiscal guardrails.",
+    "Sections 6 and 7 build a dedicated litigation track for this measure alone: a validation action that lets courts test the act's constitutionality before anyone pays the tax, all cases consolidated in Sacramento County Superior Court, appeals routed directly to the California Supreme Court with no Court of Appeal review, and the act's own target resolution dates of April 2027 and November 2027.",
+    "Section 9 lets the initiative's proponents, any other government employer, or any California citizen defend the act in court at the state's expense if the Attorney General declines to, billed against funds already appropriated to the Attorney General's office.",
+    "Section 8's conflict clause voids only the 'conflicting provisions' of a rival ballot measure if Proposition 40 wins more votes, not that measure in its entirety — a narrower mechanism than Proposition 3's Section 5, which voids any other measure affecting personal income tax rates 'in their entirety.' Proposition 40 frames itself as reaching only 'net worth, not income' specifically to try to stay outside Proposition 3's broader clause, but no court has yet decided whether that framing would hold.",
+    "The measure taxes some retirement assets for the first time under California law: Roth IRA and Roth-type accounts are included in net worth to the extent they exceed $10 million in aggregate value, and the accrued value of a defined-benefit pension is counted for anyone whose plan is not otherwise exempt.",
+    "Anti-avoidance rules reach beyond assets a taxpayer directly owns: net worth includes 75 percent of the value of property an individual transferred into certain trusts in 2025, before the measure appeared on the ballot, and includes a dependent's assets above $50,000.",
+    "This measure is not framed in its own text as a 'wealth tax' or 'property tax' but as an excise tax 'on the activity of sustaining excessive accumulations of wealth' — a specific legal classification that the Tax Foundation's legal analysis argues is a deliberate attempt to route around California's constitutional property-tax limits, which a voter reading 'billionaire tax' on the ballot would not necessarily register as a drafting choice with its own separate legal stakes."
+  ],
+  "pros": [
+    "The official argument in favor, signed by Suzanne Jimenez of SEIU-United Healthcare Workers West, Victoria Barron of Planned Parenthood of Pacific Southwest, and Denise Robb of the American Federation of Teachers Local 1521, frames the measure as making roughly 200 California billionaires 'finally pay their fair share' after federal cuts eliminated health coverage for more than a million Californians.",
+    "U.S. Senator Bernie Sanders, endorsing the measure, argued that opposing it while children lose access to health care is 'outrageous,' calling the billionaires funding the opposition campaign morally indefensible.",
+    "Supporters say the roughly $100 billion the sponsor projects over five years would replace federal health, education, and food-assistance funding cut by recent federal budget legislation, keeping hospitals, emergency rooms, and school staffing intact.",
+    "Because it is structured as an excise tax rather than an income-tax-rate change, supporters argue it reaches roughly $2 trillion in combined wealth among California's billionaires that otherwise goes largely untaxed under existing income tax rules, which fall on realized income rather than unrealized asset appreciation.",
+    "The measure is paid only by individuals and trusts with net worth over $1 billion; supporters emphasize that working households and the middle class see no change in their own tax liability under this measure.",
+    "Real estate and most pensions are excluded from the calculation, which supporters point to as evidence the measure was designed to reach concentrated financial and business wealth rather than family homes or typical retirement savings."
+  ],
+  "cons": [
+    "The official argument against, signed by René Bravo of the California Medical Association, Francisco Silva of the California Primary Care Association, and Debra Schade of the California School Boards Association, calls the measure 'a poorly designed tax scheme' that will not lower health care costs for anyone.",
+    "A Stanford-affiliated economic study cited in the official ballot arguments estimates the measure would cost California $25 billion in lost revenue as wealthy residents and the businesses they control relocate out of state.",
+    "Opponents argue Section 50310 hands the Legislature power to expand the tax by a two-thirds vote without another vote of the people, and that independent legal analysis they cite finds the act's structure could eventually reach the savings, home equity, and retirement accounts of Californians well below the billionaire threshold.",
+    "Because the constitutional amendment exempts this revenue from the Proposition 98 school-funding guarantee, opponents argue it does nothing for the general school budget and instead 'shortchanges public schools' relative to what similar new revenue would otherwise trigger under Prop 98.",
+    "Governor Gavin Newsom, a Democrat, has publicly opposed the measure, arguing its economic impacts on the state's start-up and investment climate are real and poorly timed given broader economic uncertainty.",
+    "Opponents note the health care allocation's broad language ('investments to support health care access, coverage, benefits, funding, services, and payments to providers') contains no specific safeguard against the money flowing to health insurers rather than directly to patients or safety-net providers.",
+    "The measure would be the first wealth tax enacted anywhere in the country, and opponents point to the co-authoring economists' own description of it as 'an experiment' that has been proposed and rejected in France and the European Union.",
+    "Because this is the first tax of its kind, opponents argue the LAO's 'tens of billions of dollars' revenue estimate is unusually uncertain and could fall well short if billionaires relocate, restructure ownership, or successfully challenge the tax's constitutionality in the expedited court process the measure itself sets up."
+  ],
+  "who_supports": [
+    {
+      "name": "Service Employees International Union - United Healthcare Workers West",
+      "type": "org",
+      "notes": "Sponsor of the initiative and its dominant funder, contributing the large majority of the roughly $31.8 million raised by the principal support committee."
+    },
+    {
+      "name": "U.S. Senator Bernie Sanders",
+      "type": "politician",
+      "notes": "High-profile national endorser, quoted in the official ballot argument in favor."
+    },
+    {
+      "name": "U.S. Representative Ro Khanna",
+      "type": "politician",
+      "notes": "Endorsed the measure, per Ballotpedia."
+    },
+    {
+      "name": "Planned Parenthood of Pacific Southwest",
+      "type": "org",
+      "notes": "Signed the official argument in favor through Patient Access Specialist Victoria Barron, notable because a separate Planned Parenthood affiliate, Planned Parenthood Affiliates of California, opposes the measure."
+    },
+    {
+      "name": "American Federation of Teachers Local 1521 (Los Angeles College Faculty Guild)",
+      "type": "org",
+      "notes": "Signed the official argument in favor and its rebuttal."
+    },
+    {
+      "name": "California Democratic Socialists of America",
+      "type": "org",
+      "notes": "Listed by Ballotpedia among supporting organizations."
+    },
+    {
+      "name": "Teamsters California",
+      "type": "org",
+      "notes": "Listed by Ballotpedia among supporting organizations."
+    },
+    {
+      "name": "UNITE HERE Local 11",
+      "type": "org",
+      "notes": "Listed by Ballotpedia among supporting organizations."
+    },
+    {
+      "name": "California Nurses Association",
+      "type": "org",
+      "notes": "Listed in the rebuttal to the argument against as a supporter."
+    },
+    {
+      "name": "California League of United Latin American Citizens (LULAC)",
+      "type": "org",
+      "notes": "Listed in the rebuttal to the argument against as a supporter."
+    }
+  ],
+  "who_opposes": [
+    {
+      "name": "Gov. Gavin Newsom",
+      "type": "politician",
+      "notes": "Publicly opposes the measure, arguing its economic impacts on investment and business formation are significant, a notable break from other Democratic-aligned supporters of Proposition 40."
+    },
+    {
+      "name": "California Teachers Association",
+      "type": "org",
+      "notes": "Signed the rebuttal to the argument in favor through teacher April O'Connor; objects that the measure exempts itself from the Proposition 98 school funding guarantee."
+    },
+    {
+      "name": "Planned Parenthood Affiliates of California",
+      "type": "org",
+      "notes": "CEO Jodi Hicks signed the official argument against, arguing the measure 'makes' the need for stable health care funding 'worse.'"
+    },
+    {
+      "name": "California Medical Association",
+      "type": "org",
+      "notes": "President René Bravo, M.D. signed the official argument against."
+    },
+    {
+      "name": "California Primary Care Association",
+      "type": "org",
+      "notes": "CEO Francisco Silva signed the official argument against; represents community health clinics."
+    },
+    {
+      "name": "California School Boards Association",
+      "type": "org",
+      "notes": "President Debra Schade signed the official argument against."
+    },
+    {
+      "name": "California Taxpayers Association",
+      "type": "org",
+      "notes": "President Rob Gutierrez signed the rebuttal to the argument in favor."
+    },
+    {
+      "name": "State Building and Construction Trades Council of California",
+      "type": "org",
+      "notes": "President Chris Hannan signed the rebuttal to the argument in favor."
+    },
+    {
+      "name": "Building a Better California",
+      "type": "org",
+      "notes": "Principal funder of the leading No on Prop 40 committee and the committees supporting rival Propositions 41 and 42; its largest donors are Sergey Brin and John Doerr."
+    },
+    {
+      "name": "U.S. Representative Kevin Kiley",
+      "type": "politician",
+      "notes": "Listed by Ballotpedia as opposing the measure."
+    },
+    {
+      "name": "Steve Hilton",
+      "type": "politician",
+      "notes": "2026 Republican gubernatorial candidate opposing the measure, per Ballotpedia."
+    }
+  ],
+  "authors": [
+    {
+      "name": "Suzanne Jimenez",
+      "role": "Initiative co-proponent, filed with the Attorney General on October 22, 2025; Chief of Staff, SEIU-United Healthcare Workers West"
+    },
+    {
+      "name": "Jim Mangia",
+      "role": "Initiative co-proponent, filed with the Attorney General on October 22, 2025; President and CEO, St. John's Community Health"
+    }
+  ],
+  "funding": {
+    "support_committees": [
+      {
+        "name": "Yes on 40 - Billionaire Tax Now - No on 41 & 42, sponsored by Service Employees International Union - United Healthcare Workers West",
+        "total_raised": "$31,782,967.10 from top contributors as reported to the FPPC as of September 17, 2026. This committee simultaneously supports Proposition 40 and opposes Propositions 41 and 42, so its contributions are listed once for each measure under FPPC's methodology and cannot be split by measure.",
+        "top_donors": [
+          { "name": "Service Employees International Union, United Healthcare Workers West", "amount": "$22,048,461.16" },
+          { "name": "SEIU United Health Care Workers West Political Issues Committee", "amount": "$7,499,505.94" },
+          { "name": "SEIU United Health Care Workers West Political Action Committee", "amount": "$2,000,000" },
+          { "name": "Hillary Perkins", "amount": "$100,000" },
+          { "name": "Ross Boucher", "amount": "$50,000" },
+          { "name": "AFSCME Council 57 Issues PAC", "amount": "$25,000" },
+          { "name": "Alan S. Davis", "amount": "$25,000" },
+          { "name": "John O'Farrell", "amount": "$25,000" },
+          { "name": "Nicole Pesco", "amount": "$10,000" }
+        ],
+        "source_url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/"
+      }
+    ],
+    "oppose_committees": [
+      {
+        "name": "Golden State Promise",
+        "total_raised": "$10,450,000 from top contributors as reported to the FPPC as of September 17, 2026",
+        "top_donors": [
+          { "name": "Ripple Labs", "amount": "$5,000,000" },
+          { "name": "Chris Larsen", "amount": "$5,000,000" },
+          { "name": "California Business Roundtable Issues PAC (funded primarily by Peter Thiel and Kim DeGeorge)", "amount": "$450,000" }
+        ],
+        "source_url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/"
+      },
+      {
+        "name": "No on Prop 40 - Doctors, Teachers, Small Businesses, Working Families and Public Safety Against the Reckless Wealth Tax Experiment",
+        "total_raised": "$41,700,000 from top contributors as reported to the FPPC as of September 17, 2026",
+        "top_donors": [
+          { "name": "Building a Better California (funded primarily by Sergey Brin and John Doerr)", "amount": "$41,500,000" },
+          { "name": "California Primary Care Association Advocates", "amount": "$100,000" },
+          { "name": "California Medical Association", "amount": "$100,000" }
+        ],
+        "source_url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/"
+      }
+    ]
+  },
+  "nonpartisan_analysis": [
+    {
+      "source": "Legislative Analyst's Office",
+      "summary": "The LAO describes Proposition 40 as a one-time 5 percent tax on the net worth of California billionaire residents as of January 1, 2026, due in 2027 with an option to spread payments over five years at higher cost. It estimates the tax would raise tens of billions of dollars spread over several years, cautions that the exact amount is very hard to predict because it depends on billionaires' behavioral responses and fluctuating stock prices, and separately estimates a possible ongoing decrease of less than $1 billion a year in state income tax revenue if billionaires relocate. It confirms the 90/10 health care and education/food-assistance split, notes administrative costs of tens of millions of dollars a year paid from the new revenue, and states that if Proposition 41 or 42 on the same ballot receive more yes votes than Proposition 40, courts could find those measures conflict with it and block it from taking effect even with majority support.",
+      "url": "https://lao.ca.gov/BallotAnalysis/Proposition?number=40&year=2026"
+    },
+    {
+      "source": "Ballotpedia",
+      "summary": "Provides the path to the ballot: proponents Suzanne Jimenez and Jim Mangia filed the initiative with the Attorney General on October 22, 2025; it was cleared for circulation December 26, 2025; and the Secretary of State certified it on June 17, 2026 after a petition of 1,617,675 signatures, of which 980,438 were projected valid, against a requirement of 874,641. It documents that this would be the first wealth tax enacted by any U.S. state, notes Texas voters took the opposite approach by constitutionally banning wealth taxes in 2023, and lists both a Democratic governor (Newsom) opposing and a Democratic senator (Sanders) supporting the measure. Public Policy Institute of California polling from September 4-10, 2026 (1,103 likely voters, margin of error 3.8 points) found 52 percent yes, 46 percent no, 2 percent undecided, down from 54-45 in a May 2026 PPIC survey.",
+      "url": "https://ballotpedia.org/California_Proposition_40,_One-Time_Wealth_Tax_for_State-Funded_Healthcare,_Education,_and_Food_Assistance_Programs_Initiative_(2026)"
+    },
+    {
+      "source": "Tax Foundation",
+      "summary": "A legal analysis arguing Proposition 40 faces serious constitutional exposure notwithstanding its 'excise tax' label: that courts examine substance over form and could treat a tax on asset ownership as of a fixed date as a property tax subject to California's constitutional property-tax limits; that the measure's 100 percent apportionment of wealth to California regardless of a taxpayer's residency history raises due-process and right-to-travel concerns for people who leave the state; and that provisions counting a share of assets transferred into certain trusts, and aggregating a non-resident spouse's property, may conflict with prior U.S. Supreme Court precedent limiting how one person's tax liability can be measured by another's property. The analysis notes the act's built-in expedited validation-action process is designed to resolve these questions quickly rather than through ordinary litigation.",
+      "url": "https://taxfoundation.org/research/all/state/california-proposition-40-wealth-tax-constitutional-legal-issues/"
+    },
+    {
+      "source": "CalMatters 2026 Voter Guide",
+      "summary": "Summarizes Proposition 40 as a one-time 5 percent tax on roughly 200 California billionaires, sponsored by SEIU-United Healthcare Workers West and projected by supporters to raise about $100 billion over five years, with 90 percent earmarked for health care and the rest for education and food assistance. It frames the core dispute as whether the tax would meaningfully offset federal health and safety-net funding cuts, as supporters argue, or drive wealthy residents and the businesses they control out of California, as opponents and a cited Stanford-affiliated study argue, and notes the measure's fate is entangled with competing Propositions 41 and 42 on the same ballot.",
+      "url": "https://calmatters.org/california-voter-guide-2026/proposition-40-billionaire-tax/"
+    }
+  ],
+  "sources": [
+    {
+      "title": "California Secretary of State, Official Voter Information Guide, Proposition 40",
+      "url": "https://voterguide.sos.ca.gov/propositions/40/",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Secretary of State, Official Voter Information Guide, Proposition 40 arguments and rebuttals",
+      "url": "https://voterguide.sos.ca.gov/propositions/40/arguments-rebuttals.htm",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Official Voter Information Guide, Text of Proposed Laws, Proposition 40 full text including Sections 1-9 of the 2026 Billionaire Tax Act (PDF)",
+      "url": "https://vig.cdn.sos.ca.gov/2026/general/pdf/text-proposed-laws.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Legislative Analyst's Office, Proposition 40 ballot analysis (November 3, 2026)",
+      "url": "https://lao.ca.gov/BallotAnalysis/Proposition?number=40&year=2026",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Legislative Analyst's Office, Analysis of Proposition 40 (November 3, 2026 Ballot) (PDF)",
+      "url": "https://lao.ca.gov/ballot/2026/prop40-110326.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Secretary of State, Qualified statewide ballot measures",
+      "url": "https://www.sos.ca.gov/elections/ballot-measures/qualified-ballot-measures",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "California Fair Political Practices Commission, Top 10 Contributors List, November 2026 General Election",
+      "url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Ballotpedia, California Proposition 40, One-Time Wealth Tax for State-Funded Healthcare, Education, and Food Assistance Programs Initiative (2026)",
+      "url": "https://ballotpedia.org/California_Proposition_40,_One-Time_Wealth_Tax_for_State-Funded_Healthcare,_Education,_and_Food_Assistance_Programs_Initiative_(2026)",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Tax Foundation, California Proposition 40: Is the CA Wealth Tax Constitutional? Legal Issues",
+      "url": "https://taxfoundation.org/research/all/state/california-proposition-40-wealth-tax-constitutional-legal-issues/",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "CalMatters voter guide, Proposition 40 billionaire tax",
+      "url": "https://calmatters.org/california-voter-guide-2026/proposition-40-billionaire-tax/",
+      "retrieved": "2026-09-20"
+    }
+  ],
+  "last_updated": "2026-09-20"
+}
