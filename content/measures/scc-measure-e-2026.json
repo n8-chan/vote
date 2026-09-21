@@ -1,0 +1,171 @@
+{
+  "id": "scc-measure-e-2026",
+  "jurisdiction": "county",
+  "county": "Santa Clara",
+  "election_date": "2026-11-03",
+  "number": "Measure E",
+  "title": "City Charter Amendment - Modernizing Provisions",
+  "status": "on_ballot",
+  "summary": "Measure E asks City of Mountain View voters (not Santa Clara County as a whole) to amend the City Charter, last touched in 2016, with a bundle of language and process cleanups: gender-neutral wording, longer deadlines to fill a Council vacancy, dropping the requirement to read ordinances in full, and several smaller procedural changes. City staff and the Council describe it as non-substantive, but one bundled item, giving the Council discretion over paid-city-employee membership on non-charter boards and commissions, drew real debate before the Council placed the measure on the ballot.",
+  "what_it_really_means": [
+    "This is a City of Mountain View measure, not a Santa Clara County measure, even though it appears on the same countywide November 2026 ballot. It only appears on ballots cast by registered voters who live within Mountain View city limits. The rest of this analysis follows the City Attorney's Impartial Analysis, the full text of the proposed amendments (as agendized for the June 9, 2026 Council meeting), and Mountain View Voice's reporting on the process.",
+    "Mountain View's Charter was adopted in 1952 and functions as the city's local constitution: it sets the city's form of government, the Council's basic powers, and certain procedural rules that an ordinary ordinance cannot override. It was last amended in 2016, when voters narrowly passed Measure V, the Community Stabilization and Fair Rent Act (CSFRA), the city's rent control law. Measure E is the first Charter amendment since then. City officials describe it as the first of two planned rounds: a broader, more substantive package of Charter changes is deferred to a second measure planned for 2028, specifically so this year's ballot, which also carries a city bond measure and the Transient Occupancy Tax measure, is not overloaded with multiple Charter questions at once, according to City Attorney Jennifer Logue's public comments.",
+    "The two headline changes named in the prompt are real but are only two items in a longer list. The Impartial Analysis identifies nine specific substantive changes beyond the general language cleanup: (1) clarifying that \"qualified elector\" in the Charter means the same thing as \"elector\" under California law; (2) extending the deadline for the Council to fill a Council vacancy, by appointment or special election, from 30 to 60 days; (3) removing the requirement that ordinances and resolutions, or their titles, be read in full before adoption; (4) revising Charter Section 515 so a roll-call vote on ordinances is required only when a Councilmember requests one or state law otherwise requires it; (5) updating Section 709 to drop outdated references to maintaining \"books\" in favor of a general reference to City records; (6) authorizing the Council to set membership qualifications for boards, commissions, and committees created by ordinance or resolution (as opposed to those the Charter itself creates), while keeping existing membership rules for the three Charter-created bodies (the Environmental Planning Commission, the Board of Library Trustees, and the Parks and Recreation Commission); (7) clarifying the staggered-term rules for boards, commissions, and committees in Section 902; (8) clarifying that a board, commission, or committee acts by majority vote of members currently in office, excluding vacant seats, as long as the number of sitting members still meets quorum for the full membership; and (9) revising one provision of the CSFRA (the city's rent control law) that updates its references to the Mountain View City Code. A voter who reads only the two examples highlighted in campaign or news shorthand, the gender-neutral language and the 30-to-60-day vacancy window, would not see the roll-call-vote change, the board-membership change, or the rent-control cross-reference update.",
+    "The one item that generated real Council debate, and that a voter would not guess from the ballot question's \"authorizing Council to establish qualifications for legislatively created boards, commissions, and committees\" language, is who may serve as a paid city employee on an advisory body. Under the current Charter, no board, commission, or committee member may hold paid employment or office with the city during their term. At the June 9, 2026 Council meeting, Councilmember Pat Showalter proposed narrowing that prohibition so it applies only to the three Charter-created bodies, giving the Council discretion to decide, body by body, whether paid city employees or officers may serve on any board, commission, or committee the Council itself creates by ordinance or resolution. Showalter argued this would let people with direct, relevant experience, her example was city or school-district staff living in an affordable-housing complex serving on a committee about that complex, participate in bodies where their insider knowledge is useful. Councilmember John McAlister initially preferred barring city employees from any advisory body to avoid conflicts of interest, and City Attorney Jennifer Logue noted that allowing paid employees to serve would require additional oversight, potentially including conflict-of-interest assessments. Councilmember Chris Clark supported Showalter's narrower approach, arguing only fundamental rules belong in the Charter itself. The Council ultimately adopted Showalter's version unanimously. The ballot question's institutional language, \"authorizing Council to establish qualifications... while retaining existing membership requirements for the boards and commissions established by the Charter,\" is the only trace of this debate that reaches the voter; it does not mention paid city employees, conflicts of interest, or the specific policy trade-off the Council weighed.",
+    "The measure also touches the city's rent control law, the CSFRA, which is itself a prior Charter amendment (2016's Measure V). The Impartial Analysis describes this as a single provision updating references to the Mountain View City Code, and City Council discussion in February 2026 confirms this is meant only as a citation cleanup, not a substantive change to tenant protections or relocation-assistance rules. Even so, some Council members were initially cautious about touching CSFRA language at all: Councilmember Pat Showalter said in February 2026 that she would want to send that specific item back to the city's Rental Housing Committee because she did not feel qualified to independently evaluate it, though the record reviewed does not show that referral actually happening before the Council's June 9 vote to place the final package, including the CSFRA update, on the ballot.",
+    "Cost is a concrete, quantifiable fact absent from the ballot question itself: placing this measure on the November ballot costs the city approximately $100,000, according to the staff report presented at the June 9, 2026 Council meeting. That is the fiscal impact of the ballot question existing at all, independent of whether voters approve or reject the substance.",
+    "City staff (Assistant City Attorney Francesca Serrano, presenting on behalf of City Attorney Jennifer Logue's office) characterized the entire package as \"non-substantive\" and \"non-controversial\" both in a February 2026 study session and again when the Council formally voted June 9, 2026. That characterization is largely accurate for the typo fixes, gender-neutral language, and terminology updates, but it undersells two items: the 30-to-60-day vacancy-filling extension is a real procedural change to how quickly Mountain View must resolve a Council vacancy (the city faced exactly this question in a contested 2023 appointment, discussed below), and the board/commission paid-employee provision is a genuine policy choice about conflicts of interest that the Council itself debated, not a pure technical correction.",
+    "The vacancy-timeline change carries specific recent history a voter would not know from the ballot question. In January 2023, the Council faced a Council vacancy and chose to fill it by appointment (selecting Emily Ann Ramos, now the sitting Mayor and a lead proponent of Measure E) rather than calling a special election, a decision some residents publicly criticized as denying voters their say, citing the roughly $2.1 million cost of a special election as the Council's stated reason for choosing appointment. Doubling the decision window from 30 to 60 days does not change whether the Council may choose appointment over a special election, that choice already exists under the current Charter, but it does give the Council more time to deliberate or negotiate before making that choice, which is directly relevant background given the 2023 controversy that a purely procedural reading of \"extending the time... from 30 to 60 days\" would not surface.",
+    "The charter development process itself involved outside comparison: when drafting this first round of amendments, the City Attorney's Office reviewed the charters of nine other cities, a mix of nearby jurisdictions and larger cities that update their charters more often, to identify modern drafting conventions and commonly used requirements, according to City Attorney Jennifer Logue's comments to the Council in February 2026. No source reviewed lists which nine cities were reviewed or identifies specific provisions borrowed from them.",
+    "No primary argument against Measure E was filed with the Registrar of Voters, and the Council's vote to place it on the ballot was unanimous. The primary argument in favor was signed by five people: Mayor Emily Ann Ramos, Councilmembers Chris Clark and Lucas Ramirez, Foothill-De Anza Community College District Trustee Laura Casas, and Mountain View Whisman School District Trustee Charles DiFazio, and states that the League of Women Voters of the Los Altos-Mountain View Area also supports the measure. That does not mean there is no case against it; it means no one filed one for the Voter Information Guide. The likely case against, based on the mechanics described above rather than any named opponent's statement, is that bundling a genuine conflict-of-interest policy change (the paid-employee provision) together with pure typo and terminology fixes into a single up-or-down vote leaves a voter who might object to just that one item no way to vote against it without also rejecting the uncontroversial cleanup."
+  ],
+  "fiscal_impact": {
+    "state_cost": "none. This is a City of Mountain View charter amendment governing municipal governance procedure; it creates no state obligation.",
+    "state_savings": "none identified.",
+    "local_cost": "approximately $100,000 to place the measure on the November 3, 2026 ballot, according to the staff report presented at the City Council's June 9, 2026 meeting, as reported by the Mountain View Voice. No source reviewed itemizes ongoing costs from the substantive changes themselves (e.g., any cost from the 60-day vacancy window or the roll-call-vote change), and neither the Impartial Analysis nor the staff report suggests those provisions carry a distinct dollar cost.",
+    "revenue_change": "none. Measure E does not create, raise, lower, or redirect any tax or fee; it changes Charter governance and procedural language only.",
+    "ongoing_vs_one_time": "The approximately $100,000 ballot-placement cost is one-time. If approved, the amended Charter provisions themselves take effect on the timeline required for Charter amendments and remain in force, governing Council vacancy procedures, ordinance-reading and roll-call requirements, and board/commission membership rules, until further amended by voters, including via the more substantive Charter measure the city has said it plans to place on the 2028 ballot.",
+    "narrative": "Measure E has no tax or spending component of its own. The only quantified fiscal fact in the sources reviewed is the approximately $100,000 cost of placing the measure on this ballot, which is a cost of asking the question, not a cost or saving that flows from the Charter provisions themselves. Neither the Impartial Analysis nor Mountain View Voice's reporting quantifies any operational savings or costs from individual provisions, such as staff time saved by no longer reading ordinances aloud in full, or Council time affected by the longer vacancy-filling window."
+  },
+  "taxes": {
+    "new_taxes": [],
+    "tax_changes": []
+  },
+  "spending": {
+    "new_spending_areas": [],
+    "funding_source": "Not applicable. Measure E does not appropriate, raise, or redirect any money. The roughly $100,000 cost of placing the measure on the ballot is paid from the city's existing election-administration budget, per the June 9, 2026 staff report; no source reviewed itemizes that budget line further."
+  },
+  "control_and_power": "Today, no board, commission, or committee member of any kind may hold paid employment or office with the City during their term, and every ordinance or resolution (or its title) must be read aloud before the Council can adopt it, and a roll-call vote is required on ordinances. Measure E would shift several of these controls. First, it narrows the paid-employee prohibition so it applies only to the three Charter-created bodies (Environmental Planning Commission, Board of Library Trustees, Parks and Recreation Commission); for every other board, commission, or committee, created by ordinance or resolution rather than by the Charter itself, the City Council gains discretion to set its own membership qualifications, including whether paid city employees or officers may serve. Second, the Council gains discretion over ordinance readings: the mandatory full or title reading is eliminated, and a roll-call vote on an ordinance becomes optional, required only if a Councilmember asks for one or state law separately requires it, rather than happening by default. Third, on a Council vacancy, the sitting Council retains the same basic authority it has now, choosing between appointment and a special election, but gains 30 additional days (60 total instead of 30) to make and execute that decision. Fourth, for board, commission, and committee votes, the measure clarifies that action requires only a majority of currently sitting members (excluding vacancies), so long as those sitting members still meet quorum for the full authorized membership, a clarification of existing practice rather than a new grant of power. None of these changes shift authority between the Council and an outside body; every changed power stays within Council and Council-appointed-body governance, but several shift from mandatory, voter-approved Charter rules to internal, ordinance-level or ad hoc Council discretion.",
+  "loopholes": [
+    "The Charter text does not itself define which future boards, commissions, or committees will allow paid city employees or officers as members; that decision is left entirely to whatever ordinance or resolution creates each future body, decided by ordinary Council vote rather than by a Charter-level rule voters directly approve. City Attorney Jennifer Logue told the Council that allowing paid employees to serve would require some additional oversight, potentially conflict-of-interest assessments, but neither the Impartial Analysis nor the Council discussion reviewed specifies what that oversight will consist of, or whether it is mandatory for every body that opts to allow employee members.",
+    "Making the roll-call vote on ordinances optional, required only when a Councilmember requests it or state law requires it, removes the current default of a roll call for every ordinance. Nothing in the Impartial Analysis specifies a minimum public-notice or documentation requirement for a vote taken without a roll call, beyond whatever state law already requires."
+  ],
+  "unexpected_provisions": [
+    "The measure narrows who may be barred from paid city employment while serving on an advisory body, a real conflict-of-interest policy question that Councilmember Pat Showalter proposed and the Council debated and adopted unanimously at the June 9, 2026 meeting. The ballot question's phrase \"authorizing Council to establish qualifications for legislatively created boards, commissions, and committees\" does not mention paid city employees, conflicts of interest, or that this item was the one point of genuine disagreement among Councilmembers before the vote.",
+    "The measure amends one provision of the Community Stabilization and Fair Rent Act (CSFRA), Mountain View's 2016 voter-approved rent control law, to update its cross-references to the Mountain View City Code. A voter focused on the \"Charter modernization\" framing would not know the package touches the city's rent control ordinance at all, even though the change is described by the city as a citation update rather than a substantive change to tenant protections.",
+    "Eliminating the requirement to read ordinances and resolutions, or their titles, in full before adoption is bundled in as one line among many in the ballot question. In practice, Council members already typically waive full reading and read only the title, but Measure E removes even that title-reading requirement as a Charter mandate, leaving it to Council practice rather than a binding rule.",
+    "Placing this single measure on the ballot costs the city about $100,000, a concrete, quantified expenditure that flows directly from the ballot question's existence and is disclosed only in the June 9, 2026 staff report, not in the ballot question text voters see.",
+    "Measure E is explicitly the first of two planned rounds of Charter amendments; the City Attorney's Office and Council have already discussed a second, more substantive Charter measure planned for the 2028 ballot, deferred specifically to avoid ballot complexity in a year that also carries a city bond measure and the Transient Occupancy Tax measure. A voter would not know from the ballot question that additional, potentially more consequential Charter changes are already being planned for a future election."
+  ],
+  "pros": [
+    "Supporters, including Mayor Emily Ann Ramos, Councilmembers Chris Clark and Lucas Ramirez, and community leaders who signed the primary argument in favor, argue the measure simply modernizes a Charter that has not been touched since 2016 and brings it in line with current state law and city practices, as confirmed by the City Attorney's impartial analysis.",
+    "The City Council voted unanimously to place the measure on the ballot, and city staff, including the Assistant City Attorney, characterized nearly all of its provisions as non-substantive and non-controversial after a comparative review of nine other cities' charters.",
+    "Extending the Council-vacancy deadline from 30 to 60 days gives the Council more time to deliberate on whether to appoint a replacement or call a special election, which Mayor Ramos and others argued was a reasonable, modest change; Councilmember Lucas Ramirez noted the Council had discussed doing this for eight years.",
+    "The League of Women Voters of the Los Altos-Mountain View Area formally supports the measure, according to the primary argument in favor, lending a nonpartisan good-government endorsement to the package.",
+    "Giving the Council discretion over paid-city-employee membership on non-Charter boards and commissions, rather than a blanket Charter-level ban, was framed by supporters like Councilmember Chris Clark as keeping only truly fundamental rules in the Charter and leaving operational judgment calls to the elected Council, which can be revisited through ordinary ordinance rather than requiring a future ballot measure.",
+    "Deferring more substantial Charter changes to a planned 2028 measure keeps this year's ballot question narrow and, per City Attorney Jennifer Logue, reduces the risk that necessary technical fixes get voted down because they are bundled with more contested changes."
+  ],
+  "cons": [
+    "No primary argument against Measure E was filed with the Registrar of Voters, so voters will not see an organized opposition case in the Voter Information Guide; the points below are drawn from the mechanics described in the Impartial Analysis and Council discussion, not from a named opponent's statement.",
+    "The measure bundles a genuine conflict-of-interest policy change, allowing the Council to decide, body by body, whether paid city employees or officers may serve on non-Charter boards and commissions, together with pure typo and terminology cleanup into one up-or-down vote, so a voter who supports the language modernization but is uneasy about the employee-membership change has no way to vote for one without the other.",
+    "Removing the mandatory full or title reading of ordinances and resolutions, and making the roll-call vote optional rather than the default, shifts procedural transparency requirements from binding Charter rules to discretionary Council and staff practice.",
+    "The Council's own February 2026 discussion shows at least one member, Pat Showalter, expressing that she did not feel qualified to independently evaluate the CSFRA (rent control) reference update and preferred sending it to the Rental Housing Committee first; the record reviewed does not show that referral occurring before the full package, including the CSFRA change, went to the Council for a final vote.",
+    "Doubling the Council-vacancy decision window from 30 to 60 days does not change the underlying choice between appointment and a special election, the choice residents criticized in the 2023 vacancy that seated the current mayor, it only extends how long the sitting Council can take to make and execute that choice, which could be read as giving incumbents more room to negotiate an appointment outcome rather than face a faster-approaching special-election deadline.",
+    "Placing this measure on the ballot costs the city approximately $100,000, a real expenditure for what city staff and the Council describe as mostly non-substantive housekeeping."
+  ],
+  "who_supports": [
+    {
+      "name": "Emily Ann Ramos",
+      "type": "politician",
+      "notes": "Mayor of Mountain View; signer of the primary argument in favor; was appointed to fill a Council vacancy in 2023 under the same 30-day process Measure E would extend to 60 days."
+    },
+    {
+      "name": "Chris Clark",
+      "type": "politician",
+      "notes": "Vice Mayor of Mountain View; signer of the primary argument in favor; at the June 9, 2026 Council meeting argued for keeping only fundamental rules in the Charter and leaving board/commission membership qualifications to Council discretion."
+    },
+    {
+      "name": "Lucas Ramirez",
+      "type": "politician",
+      "notes": "Mountain View Councilmember; signer of the primary argument in favor; said in February 2026 the Council had discussed these changes for eight years."
+    },
+    {
+      "name": "Laura Casas",
+      "type": "politician",
+      "notes": "Foothill-De Anza Community College District Trustee; signer of the primary argument in favor as a registered Mountain View voter."
+    },
+    {
+      "name": "Charles DiFazio",
+      "type": "politician",
+      "notes": "Mountain View Whisman School District Trustee; signer of the primary argument in favor as a Mountain View resident."
+    },
+    {
+      "name": "League of Women Voters of the Los Altos-Mountain View Area",
+      "type": "org",
+      "notes": "Endorses Measure E, according to the primary argument in favor filed with the Registrar of Voters."
+    }
+  ],
+  "authors": [
+    {
+      "name": "Jennifer Logue",
+      "role": "Mountain View City Attorney; her office drafted the proposed Charter amendments after reviewing nine other cities' charters, and she presented the rationale for deferring more substantive changes to a planned 2028 measure."
+    },
+    {
+      "name": "Francesca Serrano",
+      "role": "Assistant City Attorney; presented the proposed amendments to the City Council at the June 9, 2026 meeting where the Council voted unanimously to place the measure on the ballot."
+    },
+    {
+      "name": "Mountain View City Council",
+      "role": "Placed the measure on the ballot by unanimous vote at its June 9, 2026 meeting, after a February 10, 2026 study session; Councilmember Pat Showalter proposed the board/commission paid-employee provision that the Council adopted as part of the final package."
+    }
+  ],
+  "funding": {
+    "support_committees": [],
+    "oppose_committees": []
+  },
+  "nonpartisan_analysis": [
+    {
+      "source": "City of Mountain View, Impartial Analysis of Measure E",
+      "summary": "Confirms the City Council placed Measure E on the ballot by unanimous vote and describes the amendment as correcting typographical errors, replacing gender-specific terms with gender-neutral language, improving Charter consistency, updating outdated terminology, and revising provisions to reflect current state law and City practices. Lists nine specific changes: clarifying \"qualified elector\"; extending the Council-vacancy-filling deadline from 30 to 60 days; removing the requirement to read ordinances/resolutions in full; requiring a roll-call vote on ordinances only when requested or otherwise required by law; updating Section 709's references from \"books\" to City records generally; authorizing Council to set membership qualifications for ordinance/resolution-created boards, commissions, and committees while retaining existing rules for Charter-created bodies; clarifying staggered-term rules in Section 902; clarifying majority-vote rules for boards/commissions/committees when seats are vacant; and revising one CSFRA (rent control) provision's Municipal Code references.",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-e-city-of-mountain-view-ia_charter_07-16-2026_redacted.pdf"
+    },
+    {
+      "source": "Ballotpedia",
+      "summary": "Covers Measure E as a City Charter amendment referred to the ballot by the Mountain View City Council, summarizing the gender-neutral language change, the 30-to-60-day Council vacancy timeline extension, and the elimination of the full-reading requirement for ordinances and resolutions as the measure's headline provisions. Confirms a simple majority vote is required to approve the measure and that it reached the ballot through a council referral rather than a citizen initiative.",
+      "url": "https://ballotpedia.org/Mountain_View,_California,_Measure_E,_Charter_Modernization_Measure_(November_2026)"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Santa Clara County Registrar of Voters, List of Local Measures, November 3, 2026 General Election",
+      "url": "https://vote.santaclaracounty.gov/list-local-measures-4",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Measure E, City of Mountain View, City Charter Amendment, Impartial Analysis",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-e-city-of-mountain-view-ia_charter_07-16-2026_redacted.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Measure E, City of Mountain View, City Charter Amendment, Primary Argument In Favor",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-e-city-of-mountain-view-charter-amendment-in-favor_08112026_redacted.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Ballotpedia, Mountain View, California, Measure E, Charter Modernization Measure (November 2026)",
+      "url": "https://ballotpedia.org/Mountain_View,_California,_Measure_E,_Charter_Modernization_Measure_(November_2026)",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Mountain View Voice, Voter Guide: What to know about Mountain View's Measure E charter update",
+      "url": "https://www.mv-voice.com/news/2026/09/10/voter-guide-what-to-know-about-mountain-views-measure-e-charter-update/",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Mountain View Voice, Mountain View City Charter update heads to November ballot",
+      "url": "https://www.mv-voice.com/news/2026/06/11/mountain-view-city-charter-update-heads-to-november-ballot/",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Mountain View Voice, Mountain View looks to place 'non-controversial' City Charter update on November ballot",
+      "url": "https://www.mv-voice.com/city-government/2026/02/12/mountain-view-looks-to-place-non-controversial-city-charter-update-on-november-ballot/",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "City of Mountain View, Legistar, Full Text of Proposed Charter Amendments (June 9, 2026 Council meeting agenda item)",
+      "url": "https://mountainview.legistar.com/View.ashx?M=F&ID=15557214&GUID=8CA9EC4D-E773-473B-81E8-D2E01C99F15D",
+      "retrieved": "2026-09-21"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}
