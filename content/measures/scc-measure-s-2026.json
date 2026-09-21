@@ -1,0 +1,154 @@
+{
+  "id": "scc-measure-s-2026",
+  "jurisdiction": "county",
+  "county": "Santa Clara",
+  "election_date": "2026-11-03",
+  "number": "Measure S",
+  "title": "Limit District Directors to Four Four-Year Terms",
+  "status": "on_ballot",
+  "summary": "Measure S asks El Camino Healthcare District voters whether to amend the District's Bylaws to cap a Director's service at four full four-year terms (16 years), a lifetime limit with no path back after reaching it. The District's five elected Directors currently face no term limit at all. Despite the name, the cap does not count any term served before December 1, 2026, so it resets every sitting Director's clock to zero rather than removing or limiting anyone currently in office.",
+  "what_it_really_means": [
+    "The ballot question, \"Shall the measure amending the Bylaws of the El Camino Healthcare District to limit District Directors to four four-year terms be adopted?\", reads like a straightforward good-government reform capping how long a Director can serve. It is that, but only going forward. Under Health and Safety Code Section 32100, District Directors already serve fixed four-year terms with no limit on how many times a Director may be re-elected or reappointed; the District's five elected Directors, who also sit on the affiliated El Camino Hospital's governing board, currently have no cap at all. Measure S would add one.",
+    "The single most important mechanical fact about this measure, and the one least visible from the ballot title, is that the cap is not retroactive. The actual bylaws text the measure would adopt, Section 2(b) of Article IV, reads: \"For terms beginning on or after December 1, 2026, no person may serve more than four full terms as a District Director... Terms, whether full or partial, served prior to December 1, 2026 are not included toward the maximum number of terms imposed by this Section.\" That is a full reset, not a grandfathering-in of past service. Board Chair John Zoglin, first appointed in March 2007 and re-elected five times since (2008, 2012, 2016, 2020, 2024), and Director Julia Miller, first elected in 2012 and re-elected three times since (2016, 2020, 2024), would both start counting from zero on December 1, 2026, the same as a Director elected for the first time this November. Practically, that means Measure S imposes no effective limit on either of the District's two longest-serving Directors until at least 2042.",
+    "This design was not entirely the Board's choice. Government Code Section 53077, the state statute that lets a special district's governing body place a term-limit measure on the ballot, requires that any such proposal \"shall apply prospectively\" and cannot take effect unless approved by district voters at a regular election. A retroactive term limit, one that would have counted Zoglin's or Miller's past service and potentially disqualified them immediately, was not a legally available option. What the Board did choose, from among several prospective options staff presented, was the most permissive version available: an absolute, lifetime four-term cap (Option 3) under which partial terms, such as an appointment to fill a vacancy or complete an unexpired term, never count toward the limit, and a Director who reaches the cap may never return to the Board, with no cooling-off period that would let them run again after a few years out of office. The District's own staff research, compiled for the Board, found that comparable local measures elsewhere, Sunnyvale's Measure B and the Los Gatos and Los Altos council limits among them, generally allow a member to return after a break in service; El Camino Healthcare District's version, once passed, would not.",
+    "The impetus was not a scandal or a contested election. According to the February 10, 2026 board memo on this item, the idea arose out of a 2025 review of the bylaws of El Camino Hospital's own governing board, the nonprofit corporation the District Directors also sit on. That corporation's bylaws already impose a 12-year term limit on its five appointed, non-District \"Category 2\" directors, in place since 2012, while explicitly stating there is \"no limitation on the number of consecutive or cumulative terms\" for the five elected \"Category 1\" directors, meaning the District Board members themselves. That asymmetry, appointed hospital directors capped, elected District directors not, prompted the District Board to examine whether its own directors should face a limit too. No source reviewed identifies a specific controversy, lawsuit, CEO-pay dispute, or contested election tied to the origin of this measure.",
+    "The Board did not adopt Resolution No. 2026-06 placing Measure S on the ballot unanimously. The May 19, 2026 vote was 3-2: Directors Fung, Miller, and Somersille in favor; Chair Zoglin and Director Ting opposed. Per the draft minutes, Zoglin argued the measure was \"a solution without a problem,\" stated he believed partial terms should count toward the limit (a stricter standard than what the Board ultimately adopted), and cited the estimated cost of roughly $300,000. Notably, because the limit resets to zero and does not count Zoglin's own eleven-plus years of prior service, his opposition cannot be explained by the measure threatening his own seat; his stated objections were about the underlying case for term limits and the price tag, not self-preservation under this version of the rule.",
+    "A month later, on June 23, 2026, the Board voted 4-1 to approve the official Argument in Favor for the county's Voter Information Guide, with Zoglin again the lone no vote; Director Ting, who had voted against the resolution in May, voted for the argument in June, and June's minutes record him separately asking that his stated views on term limits be reflected more fully. Secretary/Treasurer Julia Miller, who moved adoption of Resolution No. 2026-06, drafted the Argument in Favor together with the District's Chief Legal Officer and signed it on the Board's behalf. No primary argument against Measure S was filed with the Registrar of Voters, and no rebuttal arguments were filed by either side.",
+    "The Argument in Favor frames the measure as protecting against \"a small group of long-tenured insiders who face no structural incentive to make way for new voices,\" while also emphasizing, accurately, that \"the limit applies only to terms beginning on or after December 1, 2026, so only future terms are affected.\" Both framings are true simultaneously: the measure does establish a real ceiling on how long any future Director, and eventually today's Directors too, can serve, while doing nothing to change who holds a seat for the next several election cycles.",
+    "The fiscal record is specific but narrow. Per the February 2026 staff memo, the County estimated the total cost of the November 2026 election for the District at approximately $737,697, of which approximately $522,884 covers the two Director seats up for election that year (currently held by Peter Fung and George Ting, both of whose terms expire in November 2026) and approximately $214,813 is attributable to placing this measure on the same ballot. That $214,813 is a real, District-funded cost tied specifically to Measure S; it would not have been incurred if the Board had declined to place the measure on the ballot at all."
+  ],
+  "fiscal_impact": {
+    "state_cost": "none. This is an El Camino Healthcare District bylaws measure; it creates no state obligation.",
+    "state_savings": "none identified.",
+    "local_cost": "approximately $214,813, the District's estimated share of the November 3, 2026 combined election cost attributable specifically to placing this measure on the ballot, per the Board's February 10, 2026 staff memo (out of an estimated $737,697 total election cost, the remainder covering the two Director seats also on the ballot).",
+    "revenue_change": "none. The measure does not raise, lower, or redirect any tax, fee, or district revenue; it changes eligibility rules for who may serve as a District Director.",
+    "ongoing_vs_one_time": "One-time. The approximately $214,813 measure-specific election cost is a single charge tied to the November 2026 ballot; the measure itself creates no ongoing cost once adopted, though a future term-limited Director could indirectly affect future recruitment or campaign costs, which no source reviewed quantifies.",
+    "narrative": "The only dollar figure in the record is the roughly $214,813 the District estimates it will pay the County of Santa Clara to place this measure on the November 2026 ballot, part of a combined roughly $737,697 the District is paying for the whole 2026 election including two Director races. The measure does not touch the District's tax rate, budget, or spending on health programs; its financial footprint is limited to the administrative cost of holding the vote itself."
+  },
+  "taxes": {
+    "new_taxes": [],
+    "tax_changes": []
+  },
+  "spending": {
+    "new_spending_areas": [],
+    "funding_source": "not applicable; the measure does not create or redirect spending on programs. The roughly $214,813 cost of placing the measure on the ballot is paid from District funds as part of the County's administration of the November 2026 election."
+  },
+  "control_and_power": "Today, an El Camino Healthcare District voter may re-elect the same Director indefinitely; two of the five current Directors, Chair John Zoglin and Secretary/Treasurer Julia Miller, have already served five and four elected terms respectively. If Measure S passes, no Director may serve more than four full four-year terms counted from terms beginning on or after December 1, 2026, after which that person is permanently barred from returning to the Board, with no waiting-period path back. Because the count restarts at zero for everyone on that date, the measure transfers no power or seats away from any sitting Director now; it only constrains how long a Director, including today's incumbents, may continue serving once their post-2026 terms begin accumulating. The District Board, not the County or the Hospital board, retains authority to place, amend, or repeal such term-limit provisions in the future, subject to the same voter-approval requirement under Government Code Section 53077.",
+  "loopholes": [
+    "Because partial terms never count toward the four-term cap, a Director could be appointed to fill a vacancy or complete an unexpired term one or more times, in addition to serving four full elected terms, extending total possible service somewhat beyond a clean 16 years without ever exceeding the letter of the limit.",
+    "The prospective-only design means the measure, despite being framed and argued as curbing \"long-tenured insiders,\" places no limit on the two most senior current Directors' ability to continue serving for years after 2026; a voter who supports the measure specifically to end long tenures on this Board should understand it will not do so for a long time, if the current Chair and Secretary/Treasurer choose to keep running and keep winning re-election."
+  ],
+  "unexpected_provisions": [
+    "The term-limit clock does not start until December 1, 2026, and explicitly excludes all prior service, full or partial; a voter reading only the ballot question would not know the measure resets rather than counts every sitting Director's tenure to date.",
+    "The limit is an absolute lifetime bar once reached, with no cooling-off or return period, a stricter design than several comparable California local term-limit measures the District's own staff research cited (Sunnyvale, Los Gatos, and Los Altos all permit a member to run again after a period out of office).",
+    "No primary argument against Measure S was filed with the Registrar of Voters, and no rebuttal arguments were filed on either side, despite the measure passing the Board on a 3-2 vote with the Board Chair among the dissenters."
+  ],
+  "pros": [
+    "Good governance benefits from fresh perspectives, and a Board with no term limit risks becoming, in the words of the official Argument in Favor, \"a small group of long-tenured insiders who face no structural incentive to make way for new voices.\"",
+    "A four-full-term, 16-year cap is a meaningful commitment that still allows substantial institutional continuity and expertise, while guaranteeing eventual turnover that today's rules do not.",
+    "Excluding partial terms from the count ensures a Director who briefly fills a vacancy or completes an unexpired term is not penalized for doing so, keeping the rule simple and fair as intended by its drafters.",
+    "The measure aligns the District Board with the term-limit approach the affiliated Hospital board's own bylaws already apply to its appointed directors, closing an asymmetry between elected and appointed board members flagged in the District's 2025-2026 bylaws review.",
+    "Adopting the limit now, even though it will not affect any sitting Director for years, locks in a structural check on entrenchment before any specific Director's tenure becomes a contested issue, which supporters argue is easier to do proactively than after the fact."
+  ],
+  "cons": [
+    "Despite being framed as a check on long-tenured incumbents, the measure as written does not limit either of the Board's two longest-serving members, Chair Zoglin (service since 2007) or Secretary/Treasurer Miller (service since 2012), for years to come, because it counts no term served before December 1, 2026.",
+    "The Board Chair, its longest-serving member, voted against placing the measure on the ballot at all, calling it \"a solution without a problem\" and citing an estimated cost of roughly $300,000; that cost, ultimately estimated at about $214,813, is being spent on a rule that will not change who sits on the Board for well over a decade.",
+    "The absolute, no-return design is stricter than comparable measures in nearby jurisdictions that allow a termed-out member to run again after a waiting period, permanently ending a popular Director's ability to serve again once the cap is reached, with no exception for a Director voters might still want to return to the seat.",
+    "No primary argument against Measure S was filed with the Registrar of Voters, so voters do not have an official, on-the-record counter-case in the county's voter materials weighing these tradeoffs, even though two of five sitting Directors voted against placing the measure on the ballot."
+  ],
+  "who_supports": [
+    {
+      "name": "Julia E. Miller",
+      "type": "politician",
+      "notes": "El Camino Healthcare District Board Secretary/Treasurer; moved adoption of Resolution No. 2026-06 placing Measure S on the ballot and drafted and signed the official Argument in Favor on the Board's behalf."
+    },
+    {
+      "name": "Carol A. Somersille, MD",
+      "type": "politician",
+      "notes": "El Camino Healthcare District Board Vice Chair; seconded Resolution No. 2026-06 and voted in favor of both placing the measure on the ballot and approving the Argument in Favor."
+    },
+    {
+      "name": "Peter C. Fung, MD",
+      "type": "politician",
+      "notes": "El Camino Healthcare District Director; voted in favor of Resolution No. 2026-06 placing the measure on the ballot and of the Argument in Favor."
+    },
+    {
+      "name": "George O. Ting, MD",
+      "type": "politician",
+      "notes": "El Camino Healthcare District Director; voted against Resolution No. 2026-06 in May 2026 but voted in favor of approving the Argument in Favor in June 2026, and separately asked that his views on term limits be reflected more fully in the record."
+    }
+  ],
+  "who_opposes": [
+    {
+      "name": "John L. Zoglin",
+      "type": "politician",
+      "notes": "El Camino Healthcare District Board Chair and the Board's longest-serving member (service since 2007). Voted against both Resolution No. 2026-06 (placing the measure on the ballot) and the official Argument in Favor, calling term limits \"a solution without a problem\" and citing the roughly $300,000 estimated cost; did not file a formal ballot argument against the measure."
+    }
+  ],
+  "authors": [
+    {
+      "name": "Julia E. Miller",
+      "role": "El Camino Healthcare District Board Secretary/Treasurer; moved adoption of Resolution No. 2026-06 on May 19, 2026 (seconded by Dr. Somersille), placing Measure S on the November 3, 2026 ballot, and signed the official Argument in Favor on behalf of the Board of Directors."
+    }
+  ],
+  "nonpartisan_analysis": [
+    {
+      "source": "Santa Clara County Counsel, Impartial Analysis of Measure S",
+      "summary": "Confirms the Board of Directors of the El Camino Healthcare District placed a measure on the ballot to amend the District Bylaws to limit District Directors to serving four (4) four-year terms, and that the District currently has no limit on the number of terms a Director may serve.",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-s-el-camino-healthcare-district-term-limit-ia-redacted-20260818.pdf"
+    },
+    {
+      "source": "Ballotpedia",
+      "summary": "Lists Measure S as a Santa Clara County ballot referral for the November 3, 2026 election, describing it as a Director Term Limits Measure for the El Camino Healthcare District; a \"yes\" vote supports limiting Director service to four four-year terms. States the measure was put on the ballot through a vote of the District's governing body.",
+      "url": "https://ballotpedia.org/El_Camino_Healthcare_District,_California,_Measure_S,_Director_Term_Limits_Measure_(November_2026)"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Santa Clara County Registrar of Voters, List of Local Measures, November 3, 2026 General Election",
+      "url": "https://vote.santaclaracounty.gov/list-local-measures-4",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Measure S, El Camino Healthcare District, Term Limit Impartial Analysis (Santa Clara County Counsel)",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-s-el-camino-healthcare-district-term-limit-ia-redacted-20260818.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Measure S, El Camino Healthcare District, Primary Argument in Favor",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-s-el-camino-healthcare-district-echd-primary-argument-in-favor_redacted.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "El Camino Healthcare District Board of Directors Meeting Materials Packet, June 23, 2026 (includes Resolution No. 2026-06, ballot question and bylaws amendment text as Exhibit A, draft Argument in Favor, and May 19, 2026 open session minutes recording the 3-2 vote to place the measure on the ballot)",
+      "url": "https://www.elcaminohealthcaredistrict.org/sites/default/files/2026-06/packet_dbod2_062326.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "El Camino Healthcare District Board of Directors Meeting Materials Packet, February 10, 2026 (staff memo on District Board term limits, cost estimates, legal authority under Government Code Section 53077, and survey of comparable local term-limit measures)",
+      "url": "https://www.elcaminohealthcaredistrict.org/sites/default/files/2026-02/packet_dbod_021026.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "El Camino Healthcare District Board of Directors Meeting Materials Packet, August 18, 2026 (includes June 23, 2026 minutes recording the 4-1 vote approving the Argument in Favor and the Current Terms for El Camino Hospital Board Directors chart)",
+      "url": "https://www.elcaminohealthcaredistrict.org/sites/default/files/2026-08/packet_dbod_081826.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "El Camino Healthcare District, District Board of Directors biographies (current Director terms and re-election/reappointment history)",
+      "url": "https://www.elcaminohealthcaredistrict.org/about/district-board-directors",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Amended and Restated Bylaws of El Camino Hospital, Adopted (governing the affiliated Hospital corporation board; documents the 12-year term limit on appointed \"Category 2\" directors since 2012 and the absence of any term limit for elected \"Category 1\" District directors)",
+      "url": "https://www.elcaminohealth.org/sites/default/files/2026-04/ech-board-of-directors-bylaws_111825.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Los Altos Online, \"El Camino Healthcare District ballot measure seeks term limits on district directors\"",
+      "url": "https://www.losaltosonline.com/elections/el-camino-healthcare-district-ballot-measure-seeks-term-limits-on-district-directors/article_d0b494bd-302a-455d-8353-2018414502d5.html",
+      "retrieved": "2026-09-21"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}
