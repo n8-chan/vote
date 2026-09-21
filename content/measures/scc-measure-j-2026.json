@@ -1,0 +1,217 @@
+{
+  "id": "scc-measure-j-2026",
+  "jurisdiction": "county",
+  "county": "Santa Clara",
+  "election_date": "2026-11-03",
+  "number": "Measure J",
+  "title": "Transactions and Use Tax",
+  "status": "on_ballot",
+  "summary": "Measure J asks City of Palo Alto voters to approve a 0.5% (half-cent) increase to the local transactions and use tax (sales tax), raising the combined rate from 9.75% to 10.25% and generating an estimated $15.6 million a year. The ballot question lists Cubberley Community Center repairs, street maintenance, and disaster preparedness, but the City Attorney's Impartial Analysis confirms this is a general tax with no legal earmark; Council has separately adopted a non-binding resolution stating its intent to use the money mainly to buy 7 acres of the Cubberley Community Center campus from the Palo Alto Unified School District for $65.5 million.",
+  "what_it_really_means": [
+    "The ballot question reads like a list of dedicated purposes: repairing Cubberley Community Center to current safety, earthquake, and accessibility standards; upgrading deteriorating electrical, wiring, and plumbing systems; acquiring outdoor space/sites; maintaining streets and a safe, clean downtown; preparing for natural disasters; and repairing other deteriorating community spaces and libraries. Legally, none of that is binding. The City Attorney's Impartial Analysis states plainly: \"Measure J is a general tax, meaning that proceeds of the tax will be deposited in the City's general fund and can be used for any lawful governmental purpose.\" Because it is a general tax rather than a special tax legally restricted to the listed purposes, it needed only a simple majority of voters to pass, not the two-thirds supermajority California requires for a special tax. In June 2026 the Council separately adopted Resolution No. 10296, non-binding \"advisory spending guidelines\" stating its current intention to spend the money largely as the ballot text implies. A future Council, or this one in a future budget year, is not legally bound by that resolution and could redirect the revenue to any other lawful purpose without another vote of the people.",
+    "The advisory spending guidelines make clear what the ballot question's list of services obscures: the dominant near-term use of Measure J money is not street repair or disaster prep, but a $65.5 million purchase of 7 acres of the Cubberley Community Center campus from the Palo Alto Unified School District, plus funding for Phase 1 of a Cubberley Conceptual Master Plan (renovating existing buildings, new construction, and new outdoor park space). The ballot question folds this into the phrase \"acquiring outdoor space/sites,\" without a dollar figure. The official primary argument against Measure J, filed by Silicon Valley Taxpayers Association president Mark W.A. Hinkle, argues this is deliberate: \"When pressed by reporters, Councilmember Pat Burt acknowledged that the real purpose of the sales tax increase is to enable the City to pay the Palo Alto School District $65.5 million to purchase the land at Cubberley... this is a bait and switch, driven by polling data,\" citing city staff's acknowledgment that the land purchase itself polled poorly and that roughly two-thirds of surveyed residents opposed it.",
+    "Cubberley's ownership history explains why a land purchase is even on the table. The 35-acre campus at 4000 Middlefield Road operated as Cubberley High School from 1956 until it closed in 1979 amid declining enrollment, then reopened as a joint-use community center in 1990. The City has always owned only 8 of the 35 acres; it has leased the remaining roughly 27 acres from PAUSD for decades, including a 2016 \"Cubberley Futures Compact\" and a 2020 lease renegotiation that cut the City's annual rent from about $5.4 million to about $2.7 million. In 2024 the City and PAUSD struck a deal letting the City buy 7 of those leased acres outright for $65.5 million rather than keep renting. A \"yes\" vote on Measure J is therefore substantially a vote to convert part of a decades-old landlord-tenant relationship into City ownership, not to acquire a brand-new site; the ballot question does not explain this context.",
+    "The $65.5 million is not staying with the City. Per an August 2026 Palo Alto Online report, PAUSD's own school board has approved a plan for how it would spend the sale proceeds if Measure J passes: 67% ($43.9 million) on school maintenance projects, 28% ($18.3 million) to modernize district facilities, and 5% ($3.3 million) held as contingency. None of this appears in the ballot question or the City's Impartial Analysis; a Palo Alto sales-tax voter is, in effect, also funding a chunk of the school district's separate maintenance and modernization budget, contingent entirely on this measure passing.",
+    "This is the second attempt to fund the same underlying transaction. Earlier in 2026, PAUSD placed its own roughly $800-per-parcel tax on a special-election ballot, intended partly to help fund the Cubberley transaction; per the Daily Post, it failed to reach the 66.7% supermajority a parcel tax (a special tax) requires under California law. Measure J instead structures the funding as a general sales tax, which only needs a simple majority. Both routes point at the same $65.5 million transaction; the legal form voters are asked to approve this time carries a much lower bar to pass.",
+    "Whether the City could even place a half-cent increase on the ballot depended on the state Legislature, not just the Council. Palo Alto's combined local sales tax rate was already close to the statutory cap on local add-on sales taxes, so the City needed state authorization, cited on the City's own Measure J webpage as Senate Bill 762, to raise its local cap before it could ask for the full half-cent; absent that legislation, the City said it would have pursued a smaller quarter-cent version instead. The Legislature acted, and the measure appears on the ballot at the full 0.5%. If approved, the increase does not take effect immediately: per the Impartial Analysis, the new rate begins in April 2027, and it would push Palo Alto's combined sales tax from 9.75% to 10.25%, among the higher rates in Santa Clara County.",
+    "Two arguments were filed with the Registrar. The primary argument in favor, filed by Julie Lythcott-Haims and signed by Joseph Penko (President, Palo Alto Professional Firefighters) among others, frames the tax as an affordable, locally controlled fix for a 70-year-old, run-down facility, emphasizing that funds cannot be redirected by the state or federal government, that an estimated 40% of the tax is paid by non-resident shoppers, that groceries and prescription medicine are exempt, and that spending is subject to published independent audits. The primary argument against, filed by Mark W.A. Hinkle of the Silicon Valley Taxpayers Association, calls the measure dishonest, faults the lack of a public appraisal for the $65.5 million land price, notes the tax is permanent even though the land purchase is a one-time cost, and calls it a regressive tax that hits lower-income households hardest. A registered support committee, \"Palo Alto Community Center 2026\" (FPPC #1485841), is running the Vote Yes on J campaign; no source reviewed, including an FPPC top-contributor search for the November 2026 general election, identified a registered opposition committee or a reported fundraising total for either side.",
+    "The Council placed Measure J on the ballot unanimously on June 8, 2026, via Resolution No. 10295; the same package included Resolution No. 10296 (the non-binding spending guidelines) and Ordinance No. 5699, which would codify the tax increase into the municipal code if voters approve it. Mayor Vicki Veenker described the decision as \"putting all of our trust in our residents.\" No dissent or abstention on the placement vote was found in the sources reviewed."
+  ],
+  "fiscal_impact": {
+    "state_cost": "none. This is a City of Palo Alto general tax measure; it creates no state General Fund obligation. State action was, however, a precondition for the measure existing in its current form: the City's Measure J webpage cites Senate Bill 762 as the state legislation that raised Palo Alto's local sales-tax cap enough to allow a 0.5% increase.",
+    "state_savings": "none identified.",
+    "local_cost": "none mandated on Santa Clara County. No source reviewed itemized the City of Palo Alto's own cost of placing this measure on the ballot. Separately from the tax itself, the City has agreed to pay the Palo Alto Unified School District $65.5 million to acquire 7 acres of the Cubberley Community Center site; Measure J revenue is the City's stated intended funding source for that payment but is not legally required to be used for it.",
+    "revenue_change": "Increases City of Palo Alto General Fund revenue by an estimated $15.6 million per year, per the City Attorney's Impartial Analysis, and raises the combined local sales tax rate from 9.75% to 10.25% if approved.",
+    "ongoing_vs_one_time": "Ongoing tax revenue with no sunset date; the tax \"will remain in effect unless it is repealed by the voters,\" per the Impartial Analysis. The City's stated primary intended use, the $65.5 million Cubberley land purchase, is a one-time cost; the Phase 1 Cubberley renovation that would follow is a multi-year capital program. If approved, the new 10.25% rate would not take effect until April 2027.",
+    "narrative": "Two different totals describe two different things: the ongoing $15.6 million a year the tax itself would raise for the City's General Fund indefinitely, and the one-time $65.5 million the City would pay PAUSD for 7 acres of land, which several years of tax revenue would go toward covering but which nothing in the tax's legal text actually commits it to. Because Measure J is a general tax, no line of the $15.6 million a year is legally reserved for the land purchase, the Cubberley renovation, street repair, or any other item named in the ballot question; all of it is only as committed as the Council's current non-binding spending-guidelines resolution, which a future budget vote could change. On the other side of the transaction, PAUSD's school board has approved its own plan for the $65.5 million it would receive, split roughly 67% school maintenance, 28% facility modernization, and 5% contingency, a plan that is itself entirely contingent on Palo Alto voters approving this City tax measure."
+  },
+  "taxes": {
+    "new_taxes": [],
+    "tax_changes": [
+      "Increases the City of Palo Alto's transactions and use tax (sales tax) by 0.5 percentage points (one-half cent), raising the combined local rate from 9.75% to 10.25% if approved. Enacted via Ordinance No. 5699, effective April 2027, generating an estimated $15.6 million per year and continuing until repealed by the voters. Requires state authorization (cited by the City as Senate Bill 762) to exceed the prior local rate cap; changes nothing else about the tax's base, exemptions, or method of collection."
+    ]
+  },
+  "spending": {
+    "new_spending_areas": [
+      "Purchase of 7 acres of the Cubberley Community Center campus from the Palo Alto Unified School District for approximately $65.5 million, per the City Council's non-binding spending-guidelines resolution (Resolution No. 10296) and the primary argument against Measure J.",
+      "Phase 1 of the Cubberley Conceptual Master Plan: renovation of existing Cubberley buildings, new construction, and new outdoor park space.",
+      "Repairing Cubberley Community Center to current safety, earthquake, and accessibility standards, and upgrading deteriorating electrical, wiring, and plumbing systems (per the ballot question).",
+      "Acquiring additional outdoor space/sites beyond Cubberley (per the ballot question, general language).",
+      "Maintaining streets and keeping downtown/commercial cores safe and clean (per the ballot question).",
+      "Natural disaster preparedness (per the ballot question).",
+      "Repairing other deteriorating community spaces and libraries (per the ballot question)."
+    ],
+    "funding_source": "New 0.5% transactions and use tax (sales tax) revenue, deposited into the City of Palo Alto General Fund and legally usable for any lawful municipal purpose. Actual annual spending is set by the City Council through the ordinary budget process, guided but not legally bound by the June 2026 advisory spending-guidelines resolution (Resolution No. 10296)."
+  },
+  "control_and_power": "Because Measure J is a general tax, the City Council retains full discretion, through the annual budget appropriation process, over how the roughly $15.6 million a year is actually spent; no independent oversight board, spending formula, or legal earmark ties the money to Cubberley, streets, disaster preparedness, or any other item named in the ballot question. The Council's June 2026 advisory spending-guidelines resolution (Resolution No. 10296) states the current Council's intent to prioritize the $65.5 million Cubberley land purchase and Phase 1 renovation, but that resolution is non-binding and can be changed by a future Council vote without another public vote on the tax itself. The Council placed Measure J on the ballot by a unanimous vote on June 8, 2026 (Resolution No. 10295), and separately adopted Ordinance No. 5699, which would codify the tax rate increase into the municipal code if voters approve.",
+  "loopholes": [
+    "The ballot question lists specific services (Cubberley repairs, streets, disaster preparedness, libraries), but the City Attorney's Impartial Analysis confirms this is a general tax deposited into the General Fund and usable for \"any lawful governmental purpose\"; the listed services, including the Cubberley land purchase itself, reflect the current Council's non-binding intent, not a legal commitment enforceable by voters.",
+    "The measure's dominant near-term intended use, the $65.5 million purchase of 7 acres of Cubberley land from PAUSD, is not stated as a dollar figure, or even clearly as a land purchase, in the ballot question; it is folded into the general phrase \"acquiring outdoor space/sites.\" The primary argument against cites an on-record acknowledgment from a councilmember that this is the real purpose of the tax.",
+    "The tax has no sunset date and continues indefinitely until a future election repeals it, even though its stated primary near-term purpose, the Cubberley land purchase, is a one-time expense; nothing in the measure ties the tax's duration to that purchase being completed or paid off.",
+    "The $65.5 million price for the Cubberley land was negotiated directly between the City and PAUSD. The primary argument against states the City has not released an independent appraisal of the property, so voters have no independent way to verify whether the price reflects fair market value; the rebuttal to the argument against, filed by Measure J's proponents, responds that the price reflects \"fair market value as state law requires,\" a factual dispute this analysis cannot independently resolve from the documents reviewed."
+  ],
+  "unexpected_provisions": [
+    "Whether this specific 0.5% tax could appear on the ballot at all depended on the state Legislature: the City's Measure J webpage states Senate Bill 762 was needed to raise Palo Alto's statutory cap on local add-on sales taxes; without it, the City said it would have pursued a smaller quarter-cent measure instead.",
+    "Measure J is effectively a second attempt to fund the same $65.5 million Cubberley land transaction after PAUSD's own roughly $800-per-parcel tax, aimed partly at the same purchase, failed earlier in 2026 because a parcel tax is a special tax requiring a two-thirds supermajority. Structuring this measure as a general sales tax lowers the bar to a simple majority.",
+    "The land the tax revenue would primarily buy is not new to the City: Palo Alto has operated on this land for decades under a lease from PAUSD, most recently renegotiated in 2020 to cut annual rent from about $5.4 million to about $2.7 million. A \"yes\" vote is substantially about converting an existing landlord-tenant relationship into City ownership, context the ballot question does not provide.",
+    "If Measure J passes, PAUSD's school board has already approved a plan for how it will spend the $65.5 million sale proceeds: 67% on school maintenance, 28% on facility modernization, and 5% contingency. None of this appears in the ballot question or the City's Impartial Analysis; a portion of what Palo Alto sales-tax payers fund would flow through to the separate school district's own capital budget.",
+    "If approved, the new 10.25% rate does not take effect until April 2027, several months after the November 2026 election, per the Impartial Analysis.",
+    "No registered opposition ballot-measure committee was identified in the sources reviewed, including a search of FPPC top-contributor filings for the November 2026 general election; only one registered committee, the support committee \"Palo Alto Community Center 2026\" (FPPC #1485841), was found, and no total-raised figure for either side was located."
+  ],
+  "pros": [
+    "The tax would let the City purchase 7 acres of Cubberley Community Center from PAUSD and fund repairs the facility badly needs: earthquake, safety, and accessibility upgrades, and fixes to deteriorating electrical, wiring, and plumbing systems.",
+    "100% of the funds stay in Palo Alto and, according to supporters, cannot be redirected by the state or federal government; the tax is also subject to published independent financial audits.",
+    "Supporters estimate roughly 40% of the tax is paid by non-residents shopping in Palo Alto, not by residents alone, and essentials like groceries and prescription medicine are exempt from sales tax.",
+    "The measure is endorsed by a broad local coalition, including the Palo Alto Professional Firefighters union, local child care and youth-service nonprofits, local restaurant owners, and, per Palo Alto Online, PAUSD school board members and the district's staff union.",
+    "Buying the land ends a decades-old cycle of the City renting space it doesn't own at Cubberley, which supporters argue lets the City finally invest in the site's long-term potential rather than making short-term repairs to a facility it could lose access to."
+  ],
+  "cons": [
+    "Because Measure J is a general tax, there is no legal guarantee the revenue funds the specific services listed on the ballot; the City Council can spend it on anything lawful, including things unrelated to Cubberley, streets, or disaster preparedness.",
+    "The official argument against calls the measure a \"bait and switch,\" arguing its real purpose, a $65.5 million payment to PAUSD for land, was not stated plainly because city polling reportedly showed roughly two-thirds of surveyed residents opposed the land purchase itself.",
+    "No independent appraisal of the $65.5 million Cubberley land price has been publicly released, according to the primary argument against; the price was negotiated directly between the City and the school district behind closed doors.",
+    "The tax is permanent, with no sunset date, even though its stated primary purpose, the land purchase, is a one-time expense; opponents ask why a permanent tax is needed to pay for something that would be paid off once.",
+    "Sales taxes are regressive, falling hardest on lower-income households who spend a larger share of their income on taxable purchases, and this measure would push Palo Alto's combined rate to 10.25%.",
+    "Opponents' argument states that both the Daily Post's editor and the Palo Alto Weekly's government-watchdog columnist have publicly opposed the measure."
+  ],
+  "who_supports": [
+    {
+      "name": "Vicki Veenker",
+      "type": "politician",
+      "notes": "Mayor of Palo Alto in 2026; presided over the City Council's unanimous June 8, 2026 vote placing Measure J on the ballot and was quoted describing the decision as \"putting all of our trust in our residents.\""
+    },
+    {
+      "name": "Palo Alto Professional Firefighters (IAFF Local 1319)",
+      "type": "org",
+      "notes": "President Joseph Penko is a listed signer of the official primary argument in favor of Measure J."
+    },
+    {
+      "name": "Julie Lythcott-Haims",
+      "type": "other",
+      "notes": "Filer of the official primary argument in favor of Measure J with the Santa Clara County Registrar of Voters."
+    },
+    {
+      "name": "Palo Alto Unified School District school board members and staff union",
+      "type": "org",
+      "notes": "Per an August 2026 Palo Alto Online report, PAUSD board members and its employee union have publicly backed the Cubberley sales tax measure; the district also stands to receive $65.5 million from the associated land sale, contingent on the measure passing."
+    }
+  ],
+  "who_opposes": [
+    {
+      "name": "Silicon Valley Taxpayers Association",
+      "type": "org",
+      "notes": "Countywide taxpayer advocacy organization; president Mark W.A. Hinkle filed and signed the official primary argument against Measure J."
+    },
+    {
+      "name": "Lydia Kou",
+      "type": "politician",
+      "notes": "Former Mayor of Palo Alto; listed signer of the official primary argument against Measure J."
+    },
+    {
+      "name": "Jeanne Fleming",
+      "type": "other",
+      "notes": "Co-Founder, United Neighbors of Palo Alto; listed signer of the official primary argument against Measure J."
+    }
+  ],
+  "authors": [
+    {
+      "name": "Vicki Veenker",
+      "role": "Mayor of Palo Alto in 2026; presided over the City Council's unanimous vote on June 8, 2026 (Resolution No. 10295) placing Measure J on the November 2026 ballot."
+    }
+  ],
+  "funding": {
+    "support_committees": [
+      {
+        "name": "Palo Alto Community Center 2026",
+        "total_raised": "not yet reported in sources reviewed",
+        "top_donors": [],
+        "source_url": "https://www.yesonjpaloalto.com/"
+      }
+    ],
+    "oppose_committees": []
+  },
+  "nonpartisan_analysis": [
+    {
+      "source": "City of Palo Alto City Attorney (Christopher D. Jensen), Impartial Analysis of Measure J",
+      "summary": "Confirms Measure J is a general tax that would raise the City's transactions and use tax by 0.5%, deposited into the General Fund and usable for any lawful governmental purpose. Confirms the Council placed the measure on the ballot unanimously, that it requires only a simple majority to pass, that it is estimated to generate about $15.6 million per year, that the new rate would take effect in April 2027 if approved, and that it continues until repealed by voters. Notes the Council's June 2026 non-binding advisory spending guidelines stating intent to use proceeds primarily to purchase 7 acres of Cubberley Community Center from PAUSD and to modernize the site.",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-j_city-of-palo-alto_transactions-and-use-tax_ia_redacted.pdf"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Santa Clara County Registrar of Voters, List of Local Measures, November 3, 2026 General Election",
+      "url": "https://vote.santaclaracounty.gov/list-local-measures-4",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Measure J, City of Palo Alto, Transactions and Use Tax, City Attorney's Impartial Analysis (Christopher D. Jensen)",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-j_city-of-palo-alto_transactions-and-use-tax_ia_redacted.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "City of Palo Alto, November 3, 2026 Ballot Measure J (ballot question text, resolution/ordinance numbers, argument and rebuttal PDF links)",
+      "url": "https://www.paloalto.gov/Departments/City-Clerk/Municipal-Elections/November-3-2026-Ballot-Measure-J",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "City of Palo Alto, Palo Alto Community Safety/Services Measure (Measure J background, SB 762, Cubberley history, spending guidelines)",
+      "url": "https://www.paloalto.gov/City-Hall/Hot-Topics/Palo-Alto-Community-SafetyServices-Measure",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Measure J, Primary Argument in Favor (Julie Lythcott-Haims, filer; Joseph Penko et al., signers)",
+      "url": "https://www.paloalto.gov/files/assets/public/v/2/city-clerk/election-info/2026/primary-argument-in-support.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Measure J, Primary Argument Against (Mark W.A. Hinkle, Silicon Valley Taxpayers Association, filer; Lydia Kou, Jeanne Fleming, signers)",
+      "url": "https://www.paloalto.gov/files/assets/public/v/2/city-clerk/election-info/2026/primary-argument-in-opposition.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Measure J, Rebuttal to Argument in Favor",
+      "url": "https://www.paloalto.gov/files/assets/public/v/1/city-clerk/election-info/2026/rebuttal-to-the-argument-in-favor-of-measure-j_redacted.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Measure J, Rebuttal to Argument Against",
+      "url": "https://www.paloalto.gov/files/assets/public/v/1/city-clerk/election-info/2026/rebuttal-to-the-argument-against-measure-j_redacted.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Vote Yes on J Palo Alto (campaign site, committee FPPC #1485841)",
+      "url": "https://www.yesonjpaloalto.com/",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Palo Alto Online, \"Council advances Cubberley measure toward November ballot\" (May 18, 2026)",
+      "url": "https://www.paloaltoonline.com/community/2026/05/18/council-sends-cubberley-measure-to-november-ballot/",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Palo Alto Online, \"Despite headwinds, city leaders place Cubberley sales tax onto ballot\" (June 8, 2026)",
+      "url": "https://www.paloaltoonline.com/city-government/2026/06/08/despite-headwinds-city-leaders-place-cubberley-sales-tax-onto-ballot/",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Palo Alto Daily Post, \"Council puts sales tax on ballot to renovate Cubberley\" (June 8, 2026)",
+      "url": "https://padailypost.com/2026/06/08/council-puts-sales-tax-on-ballot-to-renovate-cubberley/",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Palo Alto Online, \"School district backs spending plan for sale of Cubberley land\" (August 26, 2026)",
+      "url": "https://www.paloaltoonline.com/palo-alto-schools/2026/08/26/school-district-backs-spending-plan-for-sale-of-cubberley-land/",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Palo Alto Online, \"School board members, union back Cubberley sales tax\" (September 16, 2026)",
+      "url": "https://www.paloaltoonline.com/palo-alto-schools/2026/09/16/school-board-members-union-back-cubberley-sales-tax/",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "FPPC, Top 10 Contributors List, November 2026 General Election (searched for Measure J committee entries)",
+      "url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/",
+      "retrieved": "2026-09-21"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}
