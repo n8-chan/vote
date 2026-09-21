@@ -1,0 +1,157 @@
+{
+  "id": "scc-measure-l-2026",
+  "jurisdiction": "county",
+  "county": "Santa Clara",
+  "election_date": "2026-11-03",
+  "number": "Measure L",
+  "title": "General Plan Amendment (Parks and Open Space Protection Measure)",
+  "status": "on_ballot",
+  "summary": "Measure L is a City of Cupertino, council-referred measure that would amend the General Plan to require two-thirds voter approval before any park, parkland, or open space can be rezoned to residential, commercial, or industrial use, or before any residential, commercial, or industrial development can be built on park, parkland, or open space land. The Cupertino City Council voted unanimously to place it on the ballot, modeling it on a 2016 Milpitas ordinance (Measure K). It is the only city land-use measure among Santa Clara County's November 2026 local measures that requires a two-thirds supermajority; three school-district parcel-tax measures elsewhere on the same county list (Measures O, Q, and R) also require two-thirds, as all special taxes do under California law.",
+  "what_it_really_means": [
+    "Measure L asks Cupertino voters: 'Shall an ordinance amending the City of Cupertino General Plan be adopted to mandate that any attempt to rezone parks, parklands or open space to residential, commercial or industrial uses, or any proposal for residential, commercial or industrial development in parks, parkland or open space, must be placed before Cupertino voters and secure two-thirds support in the City's next general election?' That exact text and the '2/3rds (66.67%) Vote Required' designation come from the Santa Clara County Registrar of Voters' official list of local measures for the November 3, 2026 election. No argument against the measure and no rebuttal arguments were filed with the county for either side, so the ballot pamphlet will carry only Mayor Kitty Moore and Councilmember Sheila Mohan's primary argument in favor, with no organized opposition on the record.",
+    "This is not a citizen initiative. The Cupertino City Council itself put Measure L on the ballot: council members voted to explore the concept starting with a February 19, 2026 study session, continued the discussion on March 3, 2026 (mapping, zoning, and legal-review questions), directed staff in March 2026 to poll residents on it alongside a Utility Users Tax renewal question, then voted to place the measure on the ballot on June 21, 2026 and formally approved the resolution on July 21, 2026, with Mayor Moore and Councilmember Mohan assigned to write the ballot argument. The vote to place it on the ballot was unanimous. Attempts to locate a copy of the enacted council resolution and the exact ordinance text (Cupertino Legistar records checked in this research kept returning unrelated resolutions from the same meeting dates) were unsuccessful; the analysis below relies on the Registrar's list page, the city's own measure-summary webpage, and contemporaneous local reporting.",
+    "The model for Measure L is explicit and named: city staff and council discussion referred to it as 'Milpitas-style two-thirds language,' after Milpitas, California's Measure K, a 2016 voter-approved ordinance that requires a two-thirds vote before rezoning designated parkland or open space to industrial, commercial, or residential use. Cupertino did not design this mechanism from scratch; it adopted a template already tested and passed in a neighboring South Bay city.",
+    "No single blocked development project triggered Measure L, based on the sources reviewed. Unlike Los Altos's Measure D on the same county ballot, which was a citizen petition drive responding to a specific $2.3 million council-approved park-and-underground-parking contract, Cupertino's council-initiated process shows no equivalent single flashpoint; the February and March 2026 study sessions describe it as a proactive, general protective measure rather than a response to one contested project. The clearest concrete land-use action running in parallel is unrelated in trigger but illustrative in stakes: in July 2026 the council approved a $10.4 million Exchange Agreement, funded from the Parkland Dedication Fund, to acquire the Finch Property at 10480 Finch Avenue and directed staff to rezone it to parkland, showing the council actively expanding, not shrinking, the inventory of land Measure L would eventually protect.",
+    "Coverage under the measure is not defined by a fixed, enumerated list of parcels. As of the March 3, 2026 council session, staff had not yet produced that list: council members directed staff to return with 'a parcel-level map showing current zoning and land-use designations for park and recreation properties,' identifying land under Cupertino's PR (Parks and Recreation), and related BA/PBA (public/quasi-public building) zoning designations, according to reporting on that meeting. In other words, what counts as 'parks, parklands, or open space' under Measure L is defined by whatever the city's own zoning map says is so designated at the time a rezoning or development proposal is made, not by a schedule attached to the ordinance text itself.",
+    "That zoning-designation basis is the measure's most consequential open question, and it was flagged as unresolved by the council's own discussion rather than invented by this analysis: because coverage tracks the parcel's current zoning label, a future council could, by ordinary majority vote, rezone a park or open-space parcel to some third category that is neither the original park designation nor residential, commercial, or industrial, before proposing a project on it. The ballot question's trigger is a rezoning 'to residential, commercial, or industrial uses' or a proposal for 'residential, commercial, or industrial development' on the land; it does not, on its plain language as reported, appear to require a public vote for a rezoning of park or open-space land to some other public, institutional, or quasi-public category, or for non-R/C/I structures such as a school, government building, or utility facility built on it. Whether the ordinance's operative language closes that gap explicitly could not be confirmed in this research, because the City Attorney's Impartial Analysis and the primary argument in favor, both filed with the county in August 2026, were behind a Cloudflare bot-protection wall that blocked every retrieval method attempted (direct fetch, an alternate reader proxy, and a CORS proxy); only the county's own list page, which reproduces the ballot question verbatim, could be confirmed.",
+    "There was also live debate over whether the measure should reach beyond raw land to the buildings that sit on it. Public commenters at the council's study sessions specifically asked that structures associated with parks, the Cupertino Sports Center, the senior center, and the Quinlan Community Center, be included in the voter-approval requirement, and the council directed staff to analyze 'whether to adopt Milpitas-style two-thirds language or broaden protections to include structures.' The ballot question that was ultimately certified refers only to rezoning and development on 'parks, parklands or open space,' with no explicit mention of buildings, suggesting the broader structures-inclusive version was not the one that advanced, though the underlying ordinance text was not accessible to confirm this definitively.",
+    "Placing Measure L on the ballot was not free to the city. Cupertino Matters, a local newsletter covering city council meetings, reported cost estimates discussed at the February 19 and March 3, 2026 sessions of $150,000 to $200,000 for outside consultants and legal review plus another $150,000 for the county's cost of placing the measure on the ballot, for a total exceeding $300,000 in city General Fund spending to ask voters this one land-use-procedure question. That cost is not disclosed in the ballot question text itself.",
+    "If passed, Measure L changes who decides one specific category of land-use question in Cupertino. Today, the five-member elected City Council can approve a General Plan amendment or rezoning of city parkland to residential, commercial, or industrial use, or approve residential, commercial, or industrial development on such land, by ordinary majority vote, subject to the state and local procedural requirements that already apply to any General Plan amendment (public hearings, CEQA review, Housing Element consistency, and existing state parkland-disposition statutes that already give objectors certain rights, which Cupertino Matters' skeptical February 19, 2026 commentary specifically flagged as a reason to question whether the measure was even necessary). After Measure L, that same category of decision would require a citywide two-thirds supermajority vote at the next general municipal election, a much higher bar than the majority vote a City Council resolution or an ordinary land-use initiative would need. Because the sitting council voted unanimously to impose this constraint on itself and on every future council, the practical effect is that five current elected officials are trading away a piece of every future council's flexibility over parkland decisions in exchange for what they and their supporters characterize as a durable protection against losing park space to development.",
+    "The most direct comparison available in this county's own November 2026 ballot is Los Altos's Measure D, also examined in this project, which imposes a similar voter-approval requirement on that city's downtown parking plazas but requires only a simple majority, not two-thirds, because it qualified as a citizen initiative rather than a council referral. Measure L's two-thirds threshold, by contrast, is a threshold the Cupertino City Council chose for itself when it referred the measure, following the Milpitas precedent, rather than a threshold imposed by state initiative law; nothing in California election law required Cupertino's council to pick two-thirds over a simple majority for a council-referred land-use ordinance of this kind.",
+    "This research found no registered FPPC campaign finance committee, either in support of or opposed to Measure L, in the sources checked (web search, the city's own election pages, and Cupertino Matters' meeting-by-meeting council coverage). That is consistent with the measure having no filed argument against and no rebuttal arguments: unlike Los Altos's Measure D or the regional Measure RTM on the same county ballot, both of which have active, named support and opposition committees with at least partial fundraising figures, Measure L appears to be running, at least as of this research, without any organized campaign spending on either side. No funding section is included in this record because no committee-finance data was found to report."
+  ],
+  "fiscal_impact": {
+    "state_cost": "none. This is a City of Cupertino General Plan and municipal code amendment; it creates no state General Fund obligation.",
+    "state_savings": "none identified.",
+    "local_cost": "No dollar figure appears in the ballot question itself. Cupertino Matters newsletter reporting on the February 19 and March 3, 2026 council sessions cites staff estimates of $150,000 to $200,000 for outside consultants and legal review, plus roughly $150,000 in county costs to place the measure on the November 2026 ballot, for a combined estimate exceeding $300,000 in City of Cupertino General Fund spending. No source reviewed in this research disclosed a final, reconciled total.",
+    "revenue_change": "none. Measure L does not create, raise, lower, or redirect any tax, fee, or other government revenue; it is a General Plan amendment establishing a voter-approval procedure for certain rezonings and development proposals.",
+    "ongoing_vs_one_time": "The roughly $300,000 in city costs to study, draft, and place the measure on the ballot is a one-time 2026 expense. If approved, the two-thirds voter-approval requirement itself is ongoing and indefinite: it would apply to any future attempt to rezone city park, parkland, or open space to residential, commercial, or industrial use, or to build such development on that land, until repealed or amended by a future citywide vote.",
+    "narrative": "Measure L has no tax, fee, or appropriation component of its own; its only quantified fiscal exposure is the cost of the ballot process itself; consultant work, legal review, and the county's placement fee, which sources reviewed put at over $300,000 in one-time General Fund spending. That is a real cost of asking the question, separate from any future cost the two-thirds requirement might impose indirectly by making it harder or slower for the city to rezone or redevelop park land it might otherwise want to repurpose, a tradeoff the measure's own text does not quantify and that was not addressed in the sources available for this analysis."
+  },
+  "taxes": {
+    "new_taxes": [],
+    "tax_changes": []
+  },
+  "spending": {
+    "new_spending_areas": [],
+    "funding_source": "Not applicable. Measure L does not appropriate, raise, or redirect any money; it establishes a voter-approval procedure for certain rezonings and development on park, parkland, and open space land. The roughly $300,000 city cost of placing the measure on the ballot (consultants, legal review, and the county's ballot-placement fee) was paid from the City of Cupertino's existing General Fund budget process, separate from the measure's own text."
+  },
+  "control_and_power": "Today, the five-member elected Cupertino City Council can approve a General Plan amendment or zoning change that converts city park, parkland, or open space to residential, commercial, or industrial use, or approve residential, commercial, or industrial development on such land, by ordinary majority vote, subject to existing state and local procedural requirements (CEQA review, public hearings, and existing state parkland-disposition law). Measure L would move that specific category of decision from the Council to a citywide two-thirds supermajority vote at the next general municipal election. The Council retains authority over what land carries a park, parkland, or open-space designation in the first place, since that classification is set by the city's own zoning map rather than by a fixed list in the ordinance; sources reviewed indicate the city was still compiling that parcel-level zoning map as of March 2026, after the measure was already under study. Because the sitting Council voted unanimously to refer this measure to the ballot, the practical effect is a self-imposed constraint: the current Council and every future Council would need a two-thirds public vote, rather than a Council majority, to rezone or approve non-park development on land the city itself designates as park, parkland, or open space, while retaining ordinary majority control over maintenance, parkland acquisition (such as the $10.4 million Finch Property purchase approved the same year), and any rezoning of park land to a category other than residential, commercial, or industrial.",
+  "loopholes": [
+    "The ordinance's coverage is defined by the city's own zoning designations for a parcel (reported as PR and related BA/PBA public-building categories) rather than by a fixed, enumerated list of protected parcels attached to the measure text. Because a future council could rezone a park or open-space parcel to a category other than the original park designation by ordinary majority vote, and the ballot question's voter-approval trigger applies specifically to a rezoning 'to residential, commercial or industrial uses' or a proposal for residential, commercial, or industrial development, a rezoning of park land to some other, non-R/C/I category does not, on the ballot question's plain language, appear to itself require a two-thirds vote, leaving open whether a multi-step rezoning could eventually clear the way for R/C/I use without ever presenting voters with a single vote that plainly says so. This could not be fully resolved because the enacted ordinance text and the City Attorney's Impartial Analysis were not accessible in this research.",
+    "The measure's language, as certified for the ballot, refers to rezoning and development on 'parks, parklands or open space' without an explicit reference to buildings or structures on that land, even though public commenters specifically asked the council to extend protection to structures such as the Cupertino Sports Center, senior center, and Quinlan Community Center. Whether renovation, replacement, or repurposing of an existing building on protected land for a non-park use would itself count as 'development' under the ordinance is not resolved by the ballot question text alone.",
+    "Government or quasi-public uses that are not 'residential, commercial or industrial' by name, such as a school, a government facility, a utility installation, or similar public infrastructure, are not addressed by the ballot question's specific list of triggering use categories, which names only residential, commercial, and industrial rezoning or development as requiring a two-thirds vote."
+  ],
+  "unexpected_provisions": [
+    "The Cupertino City Council chose a two-thirds vote threshold for itself when it referred this measure; nothing in California election law required that choice for a council-referred land-use ordinance, and it is a materially higher bar than the simple majority Los Altos's citizen-initiated parkland-protection Measure D requires on the same November 2026 county ballot.",
+    "Placing the measure on the ballot cost the city an estimated $300,000-plus in consultant, legal-review, and county ballot-placement fees, according to Cupertino Matters newsletter reporting on the February 19 and March 3, 2026 council sessions, a cost not stated anywhere in the ballot question voters will see.",
+    "No primary argument against Measure L and no rebuttal arguments on either side were filed with the county, meaning the official ballot pamphlet will present only the case in favor, written by Mayor Kitty Moore and Councilmember Sheila Mohan, with no organized opposing voice in the record voters receive.",
+    "The measure is explicitly modeled on a 2016 Milpitas ordinance (Measure K) rather than drafted independently for Cupertino's own parkland inventory, meaning the operative legal language was drawn from language written for, and tested in, a different city.",
+    "The scope of what counts as protected 'parks, parklands, or open space' was still being mapped by city staff as late as March 2026, after council had already begun studying and polling on the measure, meaning the electorate is being asked to lock in a two-thirds vote requirement for a category of land whose precise boundaries were, at least at one point in the drafting process, not yet fully documented by the city itself."
+  ],
+  "pros": [
+    "Supporters, including Mayor Kitty Moore and Councilmember Sheila Mohan, who were assigned by the council to write the primary argument in favor, frame Measure L as giving Cupertino voters a direct check on any future attempt to convert public park, parkland, or open space into private residential, commercial, or industrial development, rather than leaving that decision solely to a City Council that could change composition and priorities over time.",
+    "The measure follows a template, Milpitas's 2016 Measure K, that has already been in effect in a neighboring city for a decade, which supporters can point to as a tested mechanism rather than an untried legal approach.",
+    "Because the council itself referred the measure after a public study-session process (February and March 2026) rather than a private drafting process, supporters can argue the two-thirds threshold and scope reflect council-level deliberation and public input, including the debate over whether to extend protection to park-associated buildings.",
+    "The measure does not affect the council's ordinary authority to acquire new parkland, as shown by the same council's unrelated $10.4 million Finch Property acquisition and rezoning to parkland in 2026, so supporters can argue it only removes the council's unilateral authority to take park land away, not to add to it."
+  ],
+  "cons": [
+    "The Cupertino Matters newsletter's coverage of the February 19, 2026 study session raised the core objection critics could make: California law already provides 'extensive protections to preserve parkland,' including provisions letting objectors trigger public votes on long-term parkland disposition, so a locally imposed two-thirds requirement may be a costly, redundant layer rather than a necessary new protection.",
+    "The roughly $300,000 estimated cost of studying, drafting, and placing the measure on the ballot is public money spent on a procedural change whose practical necessity was itself disputed in the city's own public meetings, at a time when the city faces other competing budget priorities.",
+    "A two-thirds vote requirement is a high bar that could make it difficult for a future council to respond flexibly to a legitimate, broadly supported need, such as building affordable housing, a school, or other community infrastructure on underused park or open-space land, since doing so would require winning a citywide supermajority rather than a council majority, even where a future council and most residents might support the change.",
+    "No primary argument against the measure was filed with the county, and no rebuttal to the argument in favor was filed either, so voters evaluating Measure L will not see a countervailing formal case in the ballot pamphlet, only the arguments its own authors wrote.",
+    "Because coverage depends on the city's own zoning designations for a parcel rather than a fixed list written into the ordinance, and because that zoning map was still being compiled as late as March 2026, critics could argue voters are being asked to approve a mechanism whose exact scope was not fully defined at the time the measure qualified for the ballot."
+  ],
+  "who_supports": [
+    {
+      "name": "Kitty Moore",
+      "type": "politician",
+      "notes": "Mayor of Cupertino; assigned by the City Council to co-write the primary argument in favor of Measure L and presided over the council votes that placed it on the ballot."
+    },
+    {
+      "name": "Sheila Mohan",
+      "type": "politician",
+      "notes": "Cupertino City Councilmember; assigned by the City Council to co-write the primary argument in favor of Measure L."
+    }
+  ],
+  "authors": [
+    {
+      "name": "Kitty Moore",
+      "role": "Mayor of Cupertino; co-author of the primary argument in favor of the council-referred measure."
+    },
+    {
+      "name": "Sheila Mohan",
+      "role": "Cupertino City Councilmember; co-author of the primary argument in favor of the council-referred measure."
+    }
+  ],
+  "nonpartisan_analysis": [
+    {
+      "source": "Santa Clara County Registrar of Voters, List of Local Measures",
+      "summary": "Confirms Measure L as a City of Cupertino 'General Plan Amendment' requiring a 2/3rds (66.67%) vote, and gives the certified ballot question text verbatim: an ordinance amending the Cupertino General Plan to require that any rezoning of parks, parkland, or open space to residential, commercial, or industrial use, or any proposal for residential, commercial, or industrial development on such land, be placed before voters and secure two-thirds support. Confirms a primary argument in favor was filed, that no primary argument against was filed, and that the City Attorney's Impartial Analysis was filed August 19, 2026, though this research could not retrieve the Impartial Analysis's full text due to a Cloudflare access block on the hosting file server.",
+      "url": "https://vote.santaclaracounty.gov/list-local-measures-4"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Santa Clara County Registrar of Voters, List of Local Measures, November 3, 2026 General Election",
+      "url": "https://vote.santaclaracounty.gov/list-local-measures-4",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Measure L, City of Cupertino, Initiative/Ordinance Amendment, City Attorney's Impartial Analysis (filename and filing date confirmed via the Registrar's list page; full text could not be retrieved because the host blocked automated access)",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-l-cupertino-initiative-ordinance-amendment-impartial-analysis_redacted.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Measure L, City of Cupertino, Primary Argument in Favor (filename and filing date confirmed via the Registrar's list page; full text could not be retrieved because the host blocked automated access)",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-l-cupertino-initiative-ordinance-amendment-argument-in-favor_redacted-v2.pdf",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "City of Cupertino, Parks and Open Space Protection Measure (Measure L)",
+      "url": "https://www.cupertino.gov/Your-City/Departments/City-Clerk/Cupertino-Elections-Info/Parks-and-Open-Space-Protection-Measure",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "City of Cupertino, November 2026 Ballot Measures",
+      "url": "https://www.cupertino.gov/News-articles/November-2026-Ballot-Measures",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "CitizenPortal.ai, Cupertino studies March toward parkland-protection ballot measure, requests zoning map and legal review",
+      "url": "https://citizenportal.ai/articles/7279045/Cupertino/Santa-Clara-County/California/Cupertino-studies-March-toward-parkland-protection-ballot-measure-requests-zoning-map-and-legal-review",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Cupertino Matters, February 19, 2026 Newsletter",
+      "url": "https://cupertinomatters.org/2026/02/february-19-2026-newsletter/",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Cupertino Matters, March 3, 2026 Newsletter",
+      "url": "https://cupertinomatters.org/2026/03/march-3-2026-newsletter/",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Cupertino Matters, July 14, 2026 Newsletter",
+      "url": "https://cupertinomatters.org/2026/07/july-14-2026-newsletter/",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Cupertino Matters, January 13, 2026 Newsletter",
+      "url": "https://cupertinomatters.org/2026/01/january-13-2026-newsletter/",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "City of Cupertino, Council Actions Newsletter, July 7, 2026 (GovDelivery bulletin, includes Resolution No. 26-078 approving the Finch Property Exchange Agreement and directing staff toward the parkland ballot measure)",
+      "url": "https://content.govdelivery.com/accounts/CACUPERTINO/bulletins/4225d69",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Ballotpedia/Greenbelt Alliance reporting on Milpitas, California, Parkland Rezoning Voter Approval Requirement, Measure K (November 2016), cited as the explicit model for Cupertino Measure L",
+      "url": "https://www.greenbelt.org/blog/election-2016-vote-yes-measure-k-milpitas/",
+      "retrieved": "2026-09-21"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}
