@@ -1,0 +1,56 @@
+{
+  "id": "sabrina-cervantes",
+  "name": "Sabrina Cervantes",
+  "type": "state_legislator",
+  "title": "California State Senator, Chair of the Senate Appropriations Committee",
+  "district": "California State Senate District 31 (Riverside and San Bernardino counties, Inland Empire)",
+  "years_of_service": "California State Senate: December 2, 2024–present. Previously California State Assembly: December 5, 2016–December 2, 2024 (District 60, then District 58 after redistricting).",
+  "background": [
+    "Cervantes is a lifelong Riverside County resident. She earned a B.A. in political science, with a minor in public policy, from UC Riverside, and later completed executive education coursework at the Harvard Kennedy School. Before the Legislature she worked as a district director for a California State Assemblymember and as director of the California Voter Project, a statewide nonprofit focused on voter registration and participation. (Source: official Senate biography, sd31.senate.ca.gov/biography; career detail per Wikipedia, not independently cross-verified against Ballotpedia, whose page could not be retrieved during this research pass.)",
+    "She was first elected to the State Assembly in November 2016 in District 60, defeating Republican incumbent Eric Linder 54.5%–45.5%, and was, per her official bio, the youngest lawmaker elected to the Legislature at the time. She was re-elected in 2018 (54.1%), 2020 (56.4%), and in 2022 in the redistricted District 58 (53.6%), and chaired the California Latino Legislative Caucus from 2022 to 2024, the first Inland Empire legislator to hold that post.",
+    "Cervantes was elected to the State Senate in November 2024, defeating Republican Cynthia Navarro 54.3%–45.7% for the open District 31 seat. In the Senate she chairs the Appropriations Committee and serves as Vice Chair of the California Legislative LGBTQ+ Caucus. Her official Senate biography states she has authored 58 bills signed into law and secured more than $650 million in state budget investments for the Inland Empire, including funding for the Inland Empire Technical Trade Center, the IE LGBTQ Center, Norco College facilities, and a California Military Articulation Platform for veterans. (Source: official Senate biography.)"
+  ],
+  "committee_memberships": [
+    "Chair, Senate Appropriations Committee",
+    "Vice Chair, California Legislative LGBTQ+ Caucus",
+    "Member, Senate Banking and Financial Institutions Committee",
+    "Member, Senate Elections and Constitutional Amendments Committee",
+    "Member, Senate Governmental Organization Committee",
+    "Member, Senate Local Government Committee",
+    "Member, Joint Committee on Rules",
+    "Member, Joint Legislative Audit Committee",
+    "Immediate Past Chair, California Latino Legislative Caucus (2022–2024)"
+  ],
+  "voting_record_highlights": [
+    "SB 3 (2025–2026), an elections bill she authored barring election officials from considering a voter's gender, name, or address (except to confirm identity) when comparing signatures on vote-by-mail ballots, and requiring more frequent posting of election results: approved by Gov. Gavin Newsom on October 3, 2025 and chaptered as Chapter 307, Statutes of 2025. (Source: leginfo.legislature.ca.gov bill status for SB 3.)",
+    "As an Assemblymember, Cervantes authored AB 1477 (2021–2022), expanding maternal mental-health screening requirements for prenatal, postpartum, and interpregnancy care providers under Health and Safety Code Section 123640: approved by Gov. Newsom on October 5, 2021 and chaptered as Chapter 535, Statutes of 2021. (Source: leginfo.legislature.ca.gov bill status for AB 1477.)",
+    "SB 42 (2025–2026), the California Fair Elections Act of 2026: Cervantes was one of three lead Senate authors (with Umberg and Allen). The Senate concurred in Assembly amendments 29–8 on September 13, 2025, and Gov. Newsom signed it October 2, 2025 as Chapter 245, Statutes of 2025, placing the measure before voters as Proposition 4 on the November 2026 ballot. Full detail on the measure itself is covered in content/measures/ca-prop-4-2026.json and is not duplicated here. (Source: leginfo.legislature.ca.gov bill status for SB 42.)",
+    "During the 2021–2022 Assembly session, Cervantes authored 34 bills; per a leginfo author-search summary, 14 were chaptered into law, 2 were vetoed, and 18 died in committee. This research pass could not independently confirm the outcome of a specific 2021 bill (AB 1185, a temporary Cal Grant eligibility expansion) that search results indicated was vetoed but which could not be confirmed bill-by-bill; it is not cited here as a specific claim because it was not independently verified."
+  ],
+  "attendance": "No individually published floor-attendance or voting-participation record for Senator Cervantes was found on senate.ca.gov or leginfo.legislature.ca.gov. Both sites publish only bill-by-bill roll-call votes, not an aggregate attendance record. This research pass did not find an explicit statement from either site that no such attendance record exists; the conclusion is an inference from the absence of any such feature across the official pages checked, stated here plainly per the profile's sourcing standard.",
+  "endorsements_received": [],
+  "past_measures_authored": [
+    {
+      "title": "AB 1477 (2021) — maternal mental health screening requirements",
+      "year": "2021",
+      "outcome": "Signed into law by Gov. Gavin Newsom on October 5, 2021; Chapter 535, Statutes of 2021.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202120220AB1477"
+    },
+    {
+      "title": "SB 3 (2025) — vote-by-mail signature verification and election-results posting",
+      "year": "2025",
+      "outcome": "Signed into law by Gov. Gavin Newsom on October 3, 2025; Chapter 307, Statutes of 2025.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB3"
+    }
+  ],
+  "sources": [
+    { "title": "Official California State Senate biography, Senator Sabrina Cervantes (SD 31)", "url": "https://sd31.senate.ca.gov/biography", "retrieved": "2026-09-22" },
+    { "title": "Official California State Senate, Senator Sabrina Cervantes district homepage", "url": "https://sd31.senate.ca.gov/", "retrieved": "2026-09-22" },
+    { "title": "Wikipedia, Sabrina Cervantes (used for election-history vote counts; Ballotpedia's page could not be retrieved during this research pass and this data has not been independently cross-checked against it)", "url": "https://en.wikipedia.org/wiki/Sabrina_Cervantes", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 42 (2025–2026) bill status, authors, and votes", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB42", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 3 (2025–2026) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202520260SB3", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, AB 1477 (2021–2022) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billNavClient.xhtml?bill_id=202120220AB1477", "retrieved": "2026-09-22" },
+    { "title": "California Secretary of State, qualified statewide ballot measures (confirms Proposition 4 designation)", "url": "https://www.sos.ca.gov/elections/ballot-measures/qualified-ballot-measures", "retrieved": "2026-09-22" }
+  ],
+  "last_updated": "2026-09-22"
+}
