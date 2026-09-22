@@ -1,0 +1,49 @@
+{
+  "id": "liz-ortega",
+  "name": "Liz Ortega",
+  "type": "state_legislator",
+  "title": "California State Assemblymember, Chair of the Assembly Labor and Employment Committee",
+  "district": "California State Assembly District 20 (southern Alameda County: Hayward, San Leandro, Union City, Castro Valley, San Lorenzo, Cherryland, Ashland, and portions of Dublin and Pleasanton).",
+  "years_of_service": "December 5, 2022–present.",
+  "background": [
+    "Ortega (born Elizabeth Ortega-Toro, August 26, 1977, in Guadalajara, Mexico) immigrated to the United States at age three and was raised in the Fruitvale neighborhood of Oakland. She earned a bachelor's degree in criminal justice administration from the University of Phoenix in 2009. She is married with four children and lives in San Leandro. (Source: Wikipedia, used here as an explicit substitute because Ballotpedia's Liz Ortega page returned a 403/blocked response on every direct-fetch and r.jina.ai proxy attempt made for this profile.)",
+    "Ortega built her career in the labor movement over roughly two decades before running for office. She began at SEIU in 2001 as a receptionist and advanced to education trainer and assistant director. She served as political director of the Alameda Labor Council from 2011 to 2013, then as statewide political director for AFSCME Local 3299 in Sacramento from 2013 to 2017. She returned to the Alameda Labor Council as Executive Secretary-Treasurer from 2017 to 2022, becoming the first Latina to hold that role, coordinating labor and community campaigns on wages, health care access, and workplace safety. (Source: official Assembly biography, a20.asmdc.org/biography; Wikipedia.)",
+    "Ortega was elected to the Assembly in November 2022 in the newly drawn District 20, defeating Shawn Kumagai 62.1%–37.9% in the general election after placing first in the June 2022 top-two primary (32.2% to Kumagai's 23.9%, in a crowded field). She was re-elected in 2024, running unopposed in the primary and defeating Sangeetha Shanbhogue 72.9%–27.1% in the November 2024 general election. She is a member of the California Legislative Progressive Caucus and chairs the Assembly Labor and Employment Committee. (Source: Wikipedia; official Assembly biography.)"
+  ],
+  "committee_memberships": [
+    "Chair, Assembly Labor and Employment Committee",
+    "Member, Assembly Budget Committee",
+    "Member, Assembly Human Services Committee",
+    "Member, Assembly Insurance Committee",
+    "Member, Assembly Privacy and Consumer Protection Committee",
+    "Member, Assembly Arts, Entertainment, Sports, and Tourism Committee",
+    "Vice Chair, California Legislative Latino Caucus"
+  ],
+  "voting_record_highlights": [
+    "AB 2575 (2025–2026), giving health care workers the right to override AI-generated treatment recommendations: Ortega is the author. It passed the Assembly floor 48–15 on May 27, 2026, passed the Senate 21–10 on August 31, 2026, and the Assembly concurred in Senate amendments 51–16 the same day. It was enrolled and presented to Gov. Newsom on September 15, 2026 and had not yet been signed or vetoed as of this profile's retrieval date. (Source: leginfo.legislature.ca.gov bill status and history for AB 2575.)",
+    "AB 2465 (2025–2026), imposing financial penalties and removing state tax breaks for private, for-profit companies that contract with U.S. Immigration and Customs Enforcement to operate immigrant detention facilities: Ortega is the lead Assembly author, with Assemblymember Alex Lee and Senators Caballero and Padilla as coauthors. It passed the Assembly 55–20 on May 27, 2026, passed the Senate 29–10 on August 25, 2026, and the Assembly concurred in Senate amendments 58–19 on August 26, 2026. It was enrolled and presented to Gov. Newsom on September 3, 2026 and had not yet been signed or vetoed as of this profile's retrieval date. (Source: leginfo.legislature.ca.gov bill status and history for AB 2465.)",
+    "AB 1065 (2025–2026), the Consumer Inflation Reduction and Tax Fairness Act, which would have restricted credit card companies from charging processing fees on the sales-tax portion of a transaction: Ortega was the author, with Assemblymembers Cortese, Garcia, Jackson, and Ward as coauthors. It failed passage in committee on April 21, 2025 with reconsideration granted, was never taken up again, and died under Article IV, Section 10(c) of the California Constitution on January 31, 2026 — it did not become law. (Source: leginfo.legislature.ca.gov bill status for AB 1065.)",
+    "SB 42 (2025–2026), the California Fair Elections Act of 2026 (Proposition 4 on the November 2026 ballot): Ortega is listed as an Assembly coauthor, confirmed independently on the bill's official author list at leginfo.legislature.ca.gov. Full detail on the measure itself is covered in content/measures/ca-prop-4-2026.json and is not duplicated here. (Source: leginfo.legislature.ca.gov bill status for SB 42.)"
+  ],
+  "attendance": "No individually published floor-attendance or voting-participation record for Assemblymember Ortega was found. The California State Assembly does not publish a per-member attendance scorecard; the only public records are bill-by-bill roll-call votes at leginfo.legislature.ca.gov, which is what the voting-record entries above are drawn from. CalMatters' Digital Democracy site (calmatters.digitaldemocracy.org) was checked for a per-legislator attendance or vote-alignment page, but no working profile URL for Ortega could be located — direct guesses at her profile slug returned 404s, and the site's legislator list did not surface a matching entry through the tools available for this research.",
+  "endorsements_received": [],
+  "past_measures_authored": [
+    {
+      "title": "AB 1065 (2025) — Consumer Inflation Reduction and Tax Fairness Act (credit card fees on sales tax)",
+      "year": "2025",
+      "outcome": "Failed passage in committee on April 21, 2025 (reconsideration granted); never advanced further and died pursuant to Article IV, Section 10(c) of the California Constitution on January 31, 2026. Did not become law.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1065"
+    }
+  ],
+  "sources": [
+    { "title": "Official California State Assembly biography, Assemblymember Liz Ortega (AD 20)", "url": "https://a20.asmdc.org/biography", "retrieved": "2026-09-22" },
+    { "title": "Official California State Assembly, Assemblymember Liz Ortega committee assignments", "url": "https://a20.asmdc.org/committees", "retrieved": "2026-09-22" },
+    { "title": "Official California State Assembly, Assemblymember Liz Ortega press releases", "url": "https://a20.asmdc.org/press-releases", "retrieved": "2026-09-22" },
+    { "title": "Wikipedia, Liz Ortega (used as an explicit flagged substitute for Ballotpedia, which was unreachable — repeated direct and r.jina.ai-proxied fetches of ballotpedia.org/Liz_Ortega returned HTTP 403/blocked responses)", "url": "https://en.wikipedia.org/wiki/Liz_Ortega", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, AB 2575 (2025–2026) bill status and history", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2575", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, AB 2465 (2025–2026) bill status and history", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB2465", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, AB 1065 (2025–2026) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1065", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 42 (2025–2026) bill status, authors, and votes (confirms Ortega as Assembly coauthor)", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB42", "retrieved": "2026-09-22" }
+  ],
+  "last_updated": "2026-09-22"
+}

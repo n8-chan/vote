@@ -1,0 +1,62 @@
+{
+  "id": "chris-rogers",
+  "name": "Chris Rogers",
+  "type": "state_legislator",
+  "title": "California State Assemblymember",
+  "district": "California State Assembly District 2 (North Coast: Eureka, Arcata, and Santa Rosa, spanning Del Norte, Humboldt, and Trinity Counties and parts of Sonoma and Mendocino Counties). (Source: official Assembly biography, a02.asmdc.org/biography.)",
+  "years_of_service": "December 2, 2024–present. Rogers succeeded termed-out Assemblymember Jim Wood. (Source: Wikipedia, used as an explicit substitute after Ballotpedia's Chris Rogers page returned HTTP 403 to both a direct fetch and a fetch through the r.jina.ai reader proxy on every attempt made for this profile.)",
+  "background": [
+    "Christopher John Rogers was born September 16, 1987, and grew up in Sonoma County. He earned a B.A. in political science from UC Santa Barbara and a Master's in Public Administration from Sonoma State University. Early in his career he worked in the district office of U.S. Representative Lynn Woolsey and as a senior staffer for State Senator Mike McGuire. He lives in Santa Rosa with his wife, Sarah, a nurse, and their young son. (Source: Wikipedia, 'Chris Rogers (politician)', used as an explicit substitute after Ballotpedia's page for Rogers was unreachable; official Assembly biography, a02.asmdc.org/biography.)",
+    "Rogers was first elected to the Santa Rosa City Council (District 5) in November 2016 and was re-elected in 2020 with 68.3% of the vote against Azmina R. Hanna. The council selected him to serve as Mayor of Santa Rosa from December 11, 2020 to December 13, 2022, during which he worked on wildfire recovery, housing affordability, environmental sustainability, and small-business relief. He continued on the council until December 17, 2024. (Source: Wikipedia, used as an explicit substitute after Ballotpedia was unreachable; official Assembly biography.)",
+    "After Assemblymember Jim Wood announced his retirement, Rogers ran for the open Assembly District 2 seat in 2024. He placed second in the March 2024 top-seven primary with 19.3% of the vote, narrowly edging out California Democratic Party chair Rusty Hicks (18.3%) for one of the two general-election slots behind Republican Michael Greer (27.6%). He won the November 2024 general election with 65.9% of the vote to Greer's 34.1%, a Democratic hold of the seat. He was sworn in December 2, 2024. (Source: Wikipedia, used as an explicit substitute after Ballotpedia was unreachable, citing California Secretary of State primary and general election results.)",
+    "As an Assemblymember, Rogers has focused on rural healthcare access, wildfire prevention and forest management, and support for the North Coast wine industry; he chairs the Assembly's Select Committee on Climate Innovation and Infrastructure. (Source: official Assembly biography and committees page, a02.asmdc.org/biography and a02.asmdc.org/committees.)"
+  ],
+  "committee_memberships": [
+    "Member, Assembly Budget Committee",
+    "Member, Assembly Communications and Conveyance Committee",
+    "Member, Assembly Transportation Committee",
+    "Member, Assembly Utilities and Energy Committee",
+    "Member, Assembly Water, Parks, and Wildlife Committee",
+    "Member, Assembly Budget Subcommittee No. 4 on Climate Crisis, Resources, Energy, and Transportation",
+    "Chair, Assembly Select Committee on Climate Innovation and Infrastructure",
+    "Member, Assembly Select Committee on Alternative Protein Innovation",
+    "Member, Assembly Select Committee on Cybersecurity",
+    "Member, Assembly Select Committee on Electric Vehicles and Charging Infrastructure",
+    "Member, Assembly Select Committee on Ports and Goods Movement",
+    "Member, Assembly Select Committee on Sea Level Rise and the California Economy",
+    "Member, Assembly Select Committee on Wildfire Prevention"
+  ],
+  "voting_record_highlights": [
+    "AB 573 (2025–2026), strengthening enforcement of California's statewide flavored-tobacco ban: Rogers was the author. The Assembly concurred in Senate amendments 62–1 on September 10, 2025, and Gov. Gavin Newsom signed it October 3, 2025 as Chapter 269, Statutes of 2025. (Source: leginfo.legislature.ca.gov bill status for AB 573.)",
+    "AB 720 (2025–2026), allowing additional winery tasting-room and event permitting to support California's wine industry: Rogers was the author. It passed the Assembly floor 80–0 on September 13, 2025, and was approved by Gov. Gavin Newsom on October 10, 2025 as Chapter 562, Statutes of 2025. (Source: leginfo.legislature.ca.gov bill status for AB 720.)",
+    "SB 42 (2025–2026), the California Fair Elections Act of 2026: Rogers was one of seven Assembly coauthors. Full detail on the measure itself, including the full Assembly and Senate vote counts and chaptering, is covered in content/measures/ca-prop-4-2026.json and is not duplicated here. (Source: leginfo.legislature.ca.gov bill status for SB 42.)"
+  ],
+  "attendance": "No individually published floor-attendance or voting-participation record for Assemblymember Rogers was found. The California State Assembly does not publish a per-member attendance scorecard; the only public records are bill-by-bill roll-call votes at leginfo.legislature.ca.gov, which is what the voting-record entries above are drawn from. CalMatters' Digital Democracy tool, which tracks bill-passage counts and vote-alignment percentages for some legislators (used for Sen. Ben Allen's profile in this same dataset), does not have a page for Rogers as of this writing; a direct URL attempt at calmatters.digitaldemocracy.org/legislators/chris-rogers returned a 404.",
+  "endorsements_received": [],
+  "past_measures_authored": [
+    {
+      "title": "AB 573 (2025) — strengthening enforcement of California's statewide flavored-tobacco product ban",
+      "year": "2025",
+      "outcome": "Signed into law by Gov. Gavin Newsom on October 3, 2025 (Assembly concurrence vote 62–1); Chapter 269, Statutes of 2025.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB573"
+    },
+    {
+      "title": "AB 720 (2025) — additional winery tasting-room and event permitting for California's wine industry",
+      "year": "2025",
+      "outcome": "Approved by Gov. Gavin Newsom on October 10, 2025 (Assembly floor vote 80–0); Chapter 562, Statutes of 2025.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB720"
+    }
+  ],
+  "sources": [
+    { "title": "Official California State Assembly biography, Assemblymember Chris Rogers (AD 2)", "url": "https://a02.asmdc.org/biography", "retrieved": "2026-09-22" },
+    { "title": "Official California State Assembly, Assemblymember Chris Rogers committee assignments", "url": "https://a02.asmdc.org/committees", "retrieved": "2026-09-22" },
+    { "title": "Official California State Assembly, Assemblymember Chris Rogers press releases (AB 573 and other legislation)", "url": "https://a02.asmdc.org/press-releases", "retrieved": "2026-09-22" },
+    { "title": "Chris Rogers for Assembly, official campaign site", "url": "https://www.chrisrogersforassembly.com/endorsements", "retrieved": "2026-09-22" },
+    { "title": "Wikipedia, 'Chris Rogers (politician)' — used as an explicit substitute for Ballotpedia, whose Chris Rogers page returned HTTP 403 on every direct and r.jina.ai proxy fetch attempted for this profile", "url": "https://en.wikipedia.org/wiki/Chris_Rogers_(politician)", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, AB 573 (2025–2026) bill status, authors, and votes", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB573", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, AB 720 (2025–2026) bill status, authors, and votes", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB720", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 42 (2025–2026) bill status, authors, coauthors, and votes", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB42", "retrieved": "2026-09-22" },
+    { "title": "content/measures/ca-prop-4-2026.json (used only to confirm Rogers's Assembly coauthor role on SB 42; not otherwise sourced from)", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB42", "retrieved": "2026-09-22" }
+  ],
+  "last_updated": "2026-09-22"
+}

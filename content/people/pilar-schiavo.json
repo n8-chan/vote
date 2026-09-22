@@ -1,0 +1,72 @@
+{
+  "id": "pilar-schiavo",
+  "name": "Pilar Schiavo",
+  "type": "state_legislator",
+  "title": "California State Assemblymember, Chair of the Assembly Committee on Military and Veterans Affairs",
+  "district": "California State Assembly District 40 (northwest San Fernando Valley, Val Verde, Castaic, and the Santa Clarita Valley, including Chatsworth, Santa Clarita, and Valencia)",
+  "years_of_service": "December 5, 2022–present. Schiavo was first elected in November 2022 and re-elected in November 2024.",
+  "background": [
+    "Schiavo was born January 22, 1975, in Sonora, California, and attended Sonoma State University and, for graduate study, the University of Massachusetts Amherst. Before entering electoral politics she worked for more than 20 years in the labor movement, describing herself as a Nurse Advocate and small-business owner who helped expand healthcare access; her official Assembly biography credits her work with reaching over one million people. In the San Fernando Valley she co-founded a veteran housing organization and coordinated meal-distribution efforts exceeding 50,000 meals. (Sources: official Assembly biography, a40.asmdc.org; Wikipedia, Pilar Schiavo, used here only because Ballotpedia's page could not be retrieved this session — see note on sources below.)",
+    "Schiavo won her first election to the Assembly in November 2022, defeating Republican incumbent Suzette Martinez Valladares by 522 votes out of roughly 159,000 cast (50.2%–49.8%) in the newly redrawn District 40, a historically conservative Santa Clarita Valley seat. Her 2022 campaign was endorsed by firefighters, nurses, police officers, teachers, Planned Parenthood, the Sierra Club, and the Los Angeles Times. She was re-elected in November 2024 with 52.8% of the vote (119,654–106,960) against Republican Patrick Lee Gipson. (Source: Wikipedia, Pilar Schiavo, cross-referenced against the official Assembly biography's account of her 2022 and 2024 wins; primary vote-count confirmation was not independently verified against the Secretary of State's Statement of Vote this session.)",
+    "In the Assembly she chairs the Committee on Military and Veterans Affairs and has been named an Assistant Majority Whip by the Speaker. Her official biography states that since taking office she has directed roughly $111 million in district investments across education, community safety, senior services, veteran housing, and domestic-violence services, and close to $4 million in constituent casework assistance; these figures come from her own office and were not independently verified against an outside audit. (Source: official Assembly biography, a40.asmdc.org.)"
+  ],
+  "committee_memberships": [
+    "Chair, Assembly Committee on Military and Veterans Affairs",
+    "Chair, Assembly Select Committee on Electric Vehicles and Charging Infrastructure",
+    "Member, Assembly Committee on Banking and Finance",
+    "Member, Assembly Committee on Budget",
+    "Member, Assembly Budget Subcommittee No. 1 on Health and Human Services",
+    "Member, Assembly Committee on Health",
+    "Member, Assembly Committee on Utilities and Energy",
+    "Member, Joint Legislative Committee on Emergency Management",
+    "Member, Assembly Select Committee on California's Mental Health Crisis",
+    "Member, Assembly Select Committee on Child Care Costs",
+    "Member, Assembly Select Committee on Climate Innovation and Infrastructure",
+    "Member, Assembly Select Committee on Reproductive Health",
+    "Member, Assembly Select Committee on Serving Students with Disabilities",
+    "Member, Assembly Select Committee on Wildfire Prevention",
+    "Assistant Majority Whip"
+  ],
+  "voting_record_highlights": [
+    "AB 2499 (2023–2024), expanding job-protected and paid leave for victims of violence and their family members and requiring employers with 25 or more employees to provide workplace safety accommodations: Schiavo was the lead author, with Ortega as coauthor. It passed the Senate 32–7 on August 27, 2024, the Assembly concurred in Senate amendments 60–11 on August 28, 2024, and Gov. Gavin Newsom signed it September 29, 2024 as Chapter 967, Statutes of 2024. (Source: leginfo.legislature.ca.gov bill status and votes for AB 2499.)",
+    "AB 2015 (2023–2024), establishing a Board of Registered Nursing approval process for nursing-school faculty, directors, and assistant directors: Schiavo was the author. It was signed by Gov. Newsom on September 22, 2024 as Chapter 370, Statutes of 2024. (Source: leginfo.legislature.ca.gov bill status for AB 2015.) This bill tracks her pre-Assembly work as a nurse advocate.",
+    "AB 1854 (2023–2024), amending the Military and Veterans Code to set a 90-day deadline for service members to request deferral of civil obligations (mortgage, credit card, vehicle loan, and student loan payments) tied to a period of active duty: Schiavo was the author. It was signed by Gov. Newsom on July 18, 2024 as Chapter 144, Statutes of 2024. (Source: leginfo.legislature.ca.gov bill status for AB 1854.) This bill tracks her current role chairing the Assembly Military and Veterans Affairs Committee.",
+    "SB 42 (2025–2026), the California Fair Elections Act of 2026, which narrows the state's 1988 ban on public funding of candidate campaigns and is now before voters as Proposition 4 on the November 2026 ballot: Schiavo is listed as an Assembly coauthor (not a lead author). Full detail on the measure itself is covered in content/measures/ca-prop-4-2026.json and is not duplicated here. (Source: leginfo.legislature.ca.gov bill status for SB 42.)"
+  ],
+  "attendance": "No individually published floor-attendance or voting-participation scorecard for Assemblymember Schiavo was found. The California State Assembly does not publish a per-member attendance metric; the only public record is bill-by-bill roll-call votes at leginfo.legislature.ca.gov, which is what the voting-record entries above draw from. A CalMatters Digital Democracy profile page for her could not be located this session (searches and direct URL guesses at calmatters.digitaldemocracy.org returned no match or a 404), so unlike some other legislator profiles in this dataset, no third-party bill-passage or vote-alignment tracker could be cited here.",
+  "endorsements_received": [
+    { "name": "Los Angeles Times", "type": "org", "notes": "Endorsed Schiavo's 2022 Assembly campaign, per Wikipedia." },
+    { "name": "Planned Parenthood", "type": "org", "notes": "2022 campaign endorsement, per Wikipedia and her official biography." },
+    { "name": "Sierra Club", "type": "org", "notes": "2022 campaign endorsement, per Wikipedia." }
+  ],
+  "past_measures_authored": [
+    {
+      "title": "AB 2499 (2024) — expanded leave and workplace protections for victims of violence and their family members",
+      "year": "2024",
+      "outcome": "Signed into law by Gov. Gavin Newsom on September 29, 2024 (Assembly concurrence vote 60–11); Chapter 967, Statutes of 2024.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240AB2499"
+    },
+    {
+      "title": "AB 2015 (2024) — Board of Registered Nursing approval process for nursing-school faculty and directors",
+      "year": "2024",
+      "outcome": "Signed into law by Gov. Gavin Newsom on September 22, 2024; Chapter 370, Statutes of 2024.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240AB2015"
+    },
+    {
+      "title": "AB 1854 (2024) — 90-day deadline for service members' civil-obligation deferral requests",
+      "year": "2024",
+      "outcome": "Signed into law by Gov. Gavin Newsom on July 18, 2024; Chapter 144, Statutes of 2024.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240AB1854"
+    }
+  ],
+  "sources": [
+    { "title": "Official California State Assembly biography, Assemblymember Pilar Schiavo (AD 40)", "url": "https://a40.asmdc.org/biography", "retrieved": "2026-09-22" },
+    { "title": "Official California State Assembly, Assemblymember Pilar Schiavo committee assignments", "url": "https://a40.asmdc.org/committees", "retrieved": "2026-09-22" },
+    { "title": "Wikipedia, Pilar Schiavo — used as an explicit flagged substitute for Ballotpedia, which returned HTTP 403 both by direct fetch and via the r.jina.ai proxy during this session and could not be retrieved", "url": "https://en.wikipedia.org/wiki/Pilar_Schiavo", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, AB 2499 (2023–2024) bill status, authors, and votes", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240AB2499", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, AB 2015 (2023–2024) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240AB2015", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, AB 1854 (2023–2024) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240AB1854", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 42 (2025–2026) bill status, authors, and votes (lists Schiavo as Assembly coauthor)", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB42", "retrieved": "2026-09-22" }
+  ],
+  "last_updated": "2026-09-22"
+}

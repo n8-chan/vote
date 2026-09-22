@@ -1,0 +1,55 @@
+{
+  "id": "matt-haney",
+  "name": "Matt Haney",
+  "type": "state_legislator",
+  "title": "California State Assemblymember, Chair of the Assembly Housing and Community Development Committee",
+  "district": "California State Assembly District 17 (the eastern side of San Francisco, including downtown, SoMa, the Tenderloin, North Beach, Chinatown, and the Mission). (Source: official Assembly biography, a17.asmdc.org.)",
+  "years_of_service": "May 3, 2022–present. Haney won an April 19, 2022 special election with 63.3% of the vote (38,916 votes) over David Campos (36.7%) to fill the vacancy left by David Chiu's resignation, was sworn in May 3, 2022, and was re-elected to a full term in November 2022 and again in the November 5, 2024 general election, defeating Manuel Noris-Barrera roughly 85%–15%. (Sources: Wikipedia, Matt Haney; search-derived election results, retrieved via web search 2026-09-22 — see note on verification below.)",
+  "background": [
+    "Matthew Craig Haney was born April 17, 1982, in Santa Cruz County, California. He earned a B.A. from UC Berkeley (2005), an M.A. from the Stanford Graduate School of Education and a J.D. from Stanford Law School (both 2010), and an LL.M. in human rights from the National University of Ireland as a Mitchell Scholar. Before elected office, he worked as a legislative aide to state Senator Joe Simitian, as Executive Director of the UC Student Association, as National Policy Director for the Dream Corps, and as a co-founder (with Van Jones and Jessica Jackson) of the criminal-justice-reform initiative #cut50 in 2015. (Source: Wikipedia, Matt Haney, cross-referenced against his official Assembly biography; used as an explicit substitute because Ballotpedia's page for Haney could not be retrieved during this research — see verification note below.)",
+    "Haney was elected to the San Francisco Board of Education in November 2012 at age 30, then the board's youngest member, and served as board president; in that role he backed renaming George Washington High School over concerns about its namesake's history as a slaveholder. He was elected to the San Francisco Board of Supervisors for District 6 on November 6, 2018, with roughly 56% of first-preference votes under ranked-choice voting, and served 2019–2022. As supervisor he authored Proposition L (the 2020 CEO/executive-pay tax) and supported creation of the city's Department of Sanitation and Streets (Proposition B). (Source: Wikipedia, Matt Haney.)",
+    "Haney moved to the state Assembly by winning the April 19, 2022 special election for District 17, succeeding David Chiu, who resigned to become San Francisco City Attorney. He currently chairs the Assembly Housing and Community Development Committee and the Legislative Renters' Caucus, and has previously served as Assistant Majority Whip and as chair of the Assembly Select Committee on Fentanyl, Opioid Addiction, and Overdose Prevention and Downtown Recovery. His legislative focus has centered on housing, homelessness, drug addiction and public safety, workers' rights, and transit. (Sources: official Assembly biography and committee pages, a17.asmdc.org; CalMatters Digital Democracy profile.)"
+  ],
+  "committee_memberships": [
+    "Chair, Assembly Housing and Community Development Committee",
+    "Member, Assembly Business and Professions Committee",
+    "Member, Assembly Natural Resources Committee",
+    "Member, Assembly Budget Committee",
+    "Chair, Legislative Renters' Caucus",
+    "Former Assistant Majority Whip and former Chair, Assembly Select Committee on Fentanyl, Opioid Addiction, and Overdose Prevention and Downtown Recovery (prior-session roles, per official Assembly biography)"
+  ],
+  "voting_record_highlights": [
+    "AB 1226 (2023–2024), the Keep Families Close Act, requiring CDCR to place incarcerated parents or guardians of minor children in the facility nearest the child's residence when appropriate: Haney was the lead Assembly author. It passed the Senate 39–0 and was signed by Gov. Gavin Newsom on July 21, 2023, as Chapter 98, Statutes of 2023. (Source: leginfo.legislature.ca.gov bill status for AB 1226.)",
+    "AB 1286 (2023–2024), the Stop Dangerous Pharmacies Act, imposing first-in-the-nation staffing and error-reporting requirements on chain pharmacies such as CVS and Walgreens: Haney was the lead Assembly author with Sen. Scott Wiener as principal coauthor. It passed the Assembly 59–8 (concurrence in Senate amendments, September 14, 2023) and the Senate 30–9, and was signed by Gov. Newsom on October 8, 2023, as Chapter 470, Statutes of 2023. (Source: leginfo.legislature.ca.gov bill status for AB 1286.)",
+    "AB 1720 (2025–2026), the California Fans First Act, which would have capped ticket-resale markups at 10% above face value: Haney was the lead author. Per reporting, the bill failed to advance after opposition from the ticket-resale industry; this outcome could not be independently confirmed against a leginfo bill-status page during this research and should be verified before publication. (Source: Wikipedia, Matt Haney.)",
+    "SB 42 (2025–2026), the California Fair Elections Act of 2026 (Proposition 4 on the November 2026 ballot): Haney is listed as an Assembly coauthor. Full detail on the measure itself is covered in content/measures/ca-prop-4-2026.json and is not duplicated here. (Source: content/measures/ca-prop-4-2026.json; leginfo.legislature.ca.gov bill status for SB 42.)"
+  ],
+  "attendance": "No individually published floor-attendance or voting-participation record for Assemblymember Haney was found. The California State Assembly does not publish a per-member attendance scorecard; the only public records are bill-by-bill roll-call votes at leginfo.legislature.ca.gov. CalMatters' Digital Democracy (calmatters.digitaldemocracy.org/legislators/matt-haney-165453) tracks his current-session bill totals (38 authored, 8 passed, 6 failed, 24 pending as of retrieval) and his vote-alignment percentages with interest groups (e.g., 100% with ACLU California, California Environmental Voters, California Labor Federation, Equality California, and Planned Parenthood Affiliates of California; 0% with the American Conservative Union, CalChamber, and Howard Jarvis Taxpayers Association), but it likewise does not publish an attendance metric.",
+  "endorsements_received": [],
+  "past_measures_authored": [
+    {
+      "title": "AB 1226 (2023) — Keep Families Close Act, requiring CDCR to place incarcerated parents/guardians near their children's residence",
+      "year": "2023",
+      "outcome": "Signed into law by Gov. Gavin Newsom on July 21, 2023 (Senate vote 39–0); Chapter 98, Statutes of 2023.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240AB1226"
+    },
+    {
+      "title": "AB 1286 (2023) — Stop Dangerous Pharmacies Act, chain-pharmacy staffing and medication-error-reporting requirements",
+      "year": "2023",
+      "outcome": "Signed into law by Gov. Gavin Newsom on October 8, 2023 (Assembly concurrence vote 59–8, Senate vote 30–9); Chapter 470, Statutes of 2023.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240AB1286"
+    }
+  ],
+  "sources": [
+    { "title": "Official California State Assembly, Assemblymember Matt Haney (AD 17) — home page", "url": "https://a17.asmdc.org/", "retrieved": "2026-09-22" },
+    { "title": "Official California State Assembly, Assemblymember Matt Haney — committee assignments", "url": "https://a17.asmdc.org/committees", "retrieved": "2026-09-22" },
+    { "title": "Official California State Assembly, Assemblymember Matt Haney — press releases", "url": "https://a17.asmdc.org/press-releases", "retrieved": "2026-09-22" },
+    { "title": "Wikipedia, Matt Haney (used as an explicit flagged substitute for Ballotpedia, which returned HTTP 403/empty content for this profile during this research session)", "url": "https://en.wikipedia.org/wiki/Matt_Haney", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, AB 1226 (2023–2024) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240AB1226", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, AB 1286 (2023–2024) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240AB1286", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 42 (2025–2026) bill status, authors, and votes", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB42", "retrieved": "2026-09-22" },
+    { "title": "CalMatters Digital Democracy, Matt Haney legislator profile", "url": "https://calmatters.digitaldemocracy.org/legislators/matt-haney-165453", "retrieved": "2026-09-22" },
+    { "title": "content/measures/ca-prop-4-2026.json (project file confirming Haney's role as SB 42/Prop 4 Assembly coauthor)", "url": "content/measures/ca-prop-4-2026.json", "retrieved": "2026-09-22" }
+  ],
+  "last_updated": "2026-09-22"
+}
