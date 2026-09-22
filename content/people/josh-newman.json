@@ -1,0 +1,73 @@
+{
+  "id": "josh-newman",
+  "name": "Josh Newman",
+  "type": "state_legislator",
+  "title": "Former California State Senator (District 29). Lost re-election to a redistricted seat (District 37) in November 2024 and is not currently a sitting legislator; he was an unsuccessful candidate for California Superintendent of Public Instruction in the June 2026 primary.",
+  "district": "California State Senate District 29 (Los Angeles, Orange, and San Bernardino counties) for most of his service; ran for the redistricted District 37 seat in 2024 and lost. The current District 29 senator is Eloise Gómez Reyes, elected 2024.",
+  "years_of_service": "December 5, 2016 – June 24, 2018 (removed from office by recall election); December 7, 2020 – November 30, 2024 (won back the seat in 2020, then lost the November 2024 general election for the redistricted District 37 seat to Republican Steven Choi, 49.3%–50.7%).",
+  "background": [
+    "Joshua Botts Newman was born October 1964 and is a graduate of Yale University. He served as a U.S. Army officer from 1986 to 1990, and before entering electoral politics he worked as a veterans' advocate and as executive director of a nonprofit serving veterans. (Source: Wikipedia, 'Josh Newman (politician),' used because Ballotpedia's page for Newman returned an inaccessible/blocked response to this research session's fetch tools on 2026-09-22; this profile flags every fact sourced to Wikipedia rather than Ballotpedia for that reason.)",
+    "Newman was first elected to the State Senate in November 2016, narrowly defeating Republican Ling Ling Chang 50.4%–49.6% to succeed termed-out Sen. Bob Huff in the old District 29. In June 2018 he became just the second California state legislator ever recalled from office: voters removed him 58.13%–41.87% in a campaign that centered on his April 2017 vote for SB 1, the Road Repair and Accountability Act, which raised gas and diesel taxes and vehicle registration fees. Talk-radio hosts John Kobylt and Ken Chiampou ('John and Ken') promoted the recall heavily, and Chang, his 2016 opponent, won the special election to replace him. Opponents of Proposition 5 cite this recall directly, arguing Newman is using his final term to change the rules that once removed him from office. (Source: Wikipedia, 'Josh Newman (politician).')",
+    "Newman announced a comeback bid in March 2019 and won back the seat in November 2020, defeating Chang 51.3%–48.7%. He served this second term from December 2020 until November 30, 2024. Following the 2021 redistricting cycle his district was renumbered District 29 for most of that term; when he ran for re-election in 2024 the seat had been redrawn into the new District 37, and after Democratic Rep.-elect Dave Min withdrew from that race to run for Congress, Newman lost the general election to Republican Steven Choi by a margin of 50.7%–49.3% (232,345 to 226,270 votes), an upset flip of the seat to Republican control. Newman is accordingly a former, not current, state legislator as of this profile's last-updated date. (Source: Wikipedia, 'Josh Newman (politician).')",
+    "After leaving the Senate, Newman ran for California Superintendent of Public Instruction in the nonpartisan June 2, 2026 primary. He placed eighth of nine candidates with 6.81% of the vote (522,757 votes) and did not advance to the November 2026 runoff, despite endorsements from several members of Congress (including Reps. Lou Correa, Gil Cisneros, Mike Levin, and Derek Tran), multiple state senators and Assemblymembers, and labor unions including the California Correctional Peace Officers Association and the California Building and Construction Trades Council. (Source: Wikipedia, '2026 California Superintendent of Public Instruction election.')",
+    "As the lead Senate author of SCA 1, which became Proposition 5 on the November 2026 ballot, Newman and Assembly coauthor Isaac Bryan argue that California's current same-day recall-replacement ballot lets a candidate take statewide office with a small plurality of the vote, and that Proposition 5 would make recalls 'democratic, fair, and not subject to political gamesmanship.' Full detail on the measure itself, including the argument that his own 2018 recall makes the reform self-interested, is in content/measures/ca-prop-5-2026.json and is not duplicated here."
+  ],
+  "committee_memberships": [
+    "Specific committee assignments for Newman's final term (December 2020 – November 2024) could not be independently verified for this profile. His former district website, sd29.senate.ca.gov, now serves his successor Sen. Eloise Gómez Reyes and no longer reflects his committee history, and Ballotpedia — the usual source for this kind of historical detail — returned a blocked/inaccessible response to every fetch attempt by this research session on 2026-09-22. This is stated explicitly rather than guessed or silently omitted."
+  ],
+  "voting_record_highlights": [
+    "SB 1 (2017), the Road Repair and Accountability Act, raising gas and diesel taxes and vehicle registration fees to fund transportation infrastructure: Newman voted yes on April 6, 2017. This vote was the direct and stated cause of his 2018 recall. (Source: Wikipedia, 'Josh Newman (politician),' citing the 2018 recall campaign's focus on SB 1; the underlying SB 1 vote record is at leginfo.legislature.ca.gov.)",
+    "SB 728 (2017), sick leave accrual for state employees who are veterans with service-connected disabilities: Newman was lead author. The Senate concurred in Assembly amendments 40–0 on September 14, 2017, and Gov. Jerry Brown signed it October 8, 2017 as Chapter 596, Statutes of 2017. (Source: leginfo.legislature.ca.gov bill status for SB 728.)",
+    "SB 291 (2023), pupil rights concerning recess: Newman was lead author with no coauthors listed. The Senate concurred in Assembly amendments 39–0 on September 13, 2023, and Gov. Gavin Newsom signed it October 13, 2023 as Chapter 863, Statutes of 2023. (Source: leginfo.legislature.ca.gov bill status for SB 291.)",
+    "SB 707 (2024), the Responsible Textile Recovery Act of 2024, creating an extended-producer-responsibility program for clothing and textiles: Newman was lead author with Assembly and Senate coauthors Kalra, Pellerin, Skinner, and Wiener. The Senate concurred in Assembly amendments 32–8 on August 31, 2024, and Gov. Newsom signed it September 28, 2024 as Chapter 864, Statutes of 2024. (Source: leginfo.legislature.ca.gov bill status for SB 707.)",
+    "SCA 1 (2023–2024), which became Proposition 5 on the November 2026 ballot: Newman was lead Senate author. It passed the Senate 31-7 on February 1, 2024 and was concurred to by the Senate 32-8 on August 31, 2024 after Assembly amendment. Full detail is in content/measures/ca-prop-5-2026.json. (Source: leginfo.legislature.ca.gov bill status for SCA 1.)"
+  ],
+  "attendance": "No individually published floor-attendance or voting-participation record for Newman was found. The California State Senate does not publish a per-member attendance scorecard; the only public records located are the bill-by-bill roll-call votes at leginfo.legislature.ca.gov, which is what the voting-record entries above are drawn from. Because Newman is a former legislator, no current-term attendance metric applies, and the CalMatters Digital Democracy tool that provided this kind of context for other profiles (e.g. ben-allen.json) could not be located under a working URL for Newman during this research session on 2026-09-22.",
+  "endorsements_received": [
+    { "name": "Rep. Lou Correa (CA-46)", "type": "politician", "notes": "Endorsed Newman's 2026 campaign for California Superintendent of Public Instruction, per Wikipedia's article on the 2026 race. Newman did not advance past the June 2026 primary." },
+    { "name": "Rep. Gil Cisneros (CA-31)", "type": "politician", "notes": "Endorsed Newman's 2026 Superintendent of Public Instruction campaign, per Wikipedia." },
+    { "name": "Rep. Mike Levin (CA-49)", "type": "politician", "notes": "Endorsed Newman's 2026 Superintendent of Public Instruction campaign, per Wikipedia." },
+    { "name": "Rep. Derek Tran (CA-45)", "type": "politician", "notes": "Endorsed Newman's 2026 Superintendent of Public Instruction campaign, per Wikipedia." },
+    { "name": "California Correctional Peace Officers Association", "type": "org", "notes": "Labor union endorsement of Newman's 2026 Superintendent of Public Instruction campaign, per Wikipedia." },
+    { "name": "California Building and Construction Trades Council", "type": "org", "notes": "Labor union endorsement of Newman's 2026 Superintendent of Public Instruction campaign, per Wikipedia." }
+  ],
+  "past_measures_authored": [
+    {
+      "title": "SB 728 (2017) — sick leave accrual for state employees who are veterans with service-connected disabilities",
+      "year": "2017",
+      "outcome": "Signed into law by Gov. Jerry Brown on October 8, 2017 (Senate concurrence vote 40–0); Chapter 596, Statutes of 2017.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201720180SB728"
+    },
+    {
+      "title": "SB 291 (2023) — pupil rights concerning recess",
+      "year": "2023",
+      "outcome": "Signed into law by Gov. Gavin Newsom on October 13, 2023 (Senate concurrence vote 39–0); Chapter 863, Statutes of 2023.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240SB291"
+    },
+    {
+      "title": "SB 707 (2024) — Responsible Textile Recovery Act of 2024",
+      "year": "2024",
+      "outcome": "Signed into law by Gov. Gavin Newsom on September 28, 2024 (Senate concurrence vote 32–8); Chapter 864, Statutes of 2024.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240SB707"
+    },
+    {
+      "title": "SCA 1 (2023–2024) — became Proposition 5 on the November 2026 ballot, changing the recall-election replacement process",
+      "year": "2024",
+      "outcome": "Passed the Legislature with the required two-thirds vote (Senate 32-8 on final concurrence, August 31, 2024) and placed on the November 3, 2026 statewide ballot as Proposition 5; outcome of the popular vote pending as of this profile's last-updated date. Full detail in content/measures/ca-prop-5-2026.json.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240SCA1"
+    }
+  ],
+  "sources": [
+    { "title": "Wikipedia, 'Josh Newman (politician)' — used in place of Ballotpedia, which returned a blocked/inaccessible response to this session's fetch tools on 2026-09-22 despite repeated attempts (direct fetch and r.jina.ai proxy)", "url": "https://en.wikipedia.org/wiki/Josh_Newman_(politician)", "retrieved": "2026-09-22" },
+    { "title": "Wikipedia, '2026 California Superintendent of Public Instruction election' (Newman's primary result and endorsements)", "url": "https://en.wikipedia.org/wiki/2026_California_Superintendent_of_Public_Instruction_election", "retrieved": "2026-09-22" },
+    { "title": "California State Senate, current roster confirming Newman does not currently hold a Senate seat and that Eloise Gómez Reyes represents District 29", "url": "https://www.senate.ca.gov/senators", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 728 (2017–2018) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201720180SB728", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 291 (2023–2024) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240SB291", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 707 (2023–2024) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240SB707", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SCA 1 (2023–2024) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240SCA1", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, bill search for Senator Josh Newman's 2017–2018 session authored bills", "url": "https://leginfo.legislature.ca.gov/faces/billSearchClient.xhtml?author=Newman&session_year=20172018", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, bill search for Senator Josh Newman's 2023–2024 session authored bills", "url": "https://leginfo.legislature.ca.gov/faces/billSearchClient.xhtml?author=Newman&session_year=20232024", "retrieved": "2026-09-22" },
+    { "title": "content/measures/ca-prop-5-2026.json (this project's own Proposition 5 measure file, for the 2018 recall context, SCA 1 legislative history, and Newman's role as lead author)", "url": "content/measures/ca-prop-5-2026.json", "retrieved": "2026-09-22" }
+  ],
+  "last_updated": "2026-09-22"
+}
