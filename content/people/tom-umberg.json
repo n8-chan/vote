@@ -1,0 +1,131 @@
+{
+  "id": "tom-umberg",
+  "name": "Tom Umberg",
+  "type": "state_legislator",
+  "title": "California State Senator, Chair of the Senate Judiciary Committee",
+  "district": "California State Senate District 34 (Santa Ana, Anaheim, Fullerton, Orange, La Habra, Placentia)",
+  "years_of_service": "California State Senate: December 3, 2018–present (current term ends December 7, 2026; Umberg is not seeking re-election to this seat and is instead a 2026 candidate for the State Board of Equalization, District 4). Previously California State Assembly: December 3, 1990–December 5, 1994 (72nd, then 69th District) and December 6, 2004–December 4, 2006 (69th District).",
+  "background": [
+    "Thomas J. Umberg was born in Cincinnati, Ohio. He earned a B.A. from UCLA, a J.D. from the University of California Hastings College of the Law (also cited by his Senate office as 'UC College of Law, San Francisco,' the school's current name), and a Master of Strategic Studies from the U.S. Army War College.",
+    "Umberg served as a commissioned officer in the U.S. Army, reaching the rank of Captain on active duty with assignments including the 2nd Infantry Division in South Korea and NATO forces in Italy, and as a paratrooper with Army Special Operations Command and the XVIII Airborne Corps. He continued in the Army Reserve and holds the rank of Colonel (retired), with overseas deployments his Senate office describes as totaling more than five years. He also worked as a federal and military prosecutor, and as an Assistant U.S. Attorney in Orange County.",
+    "Under President Bill Clinton, Umberg served as Deputy Director of the White House Office of National Drug Control Policy (1997–2000) — a role commonly described as 'Deputy Drug Czar' — working under Director Barry McCaffrey on foreign drug interdiction and international narcotics policy. (Note: this profile's sourcing found no confirmation of the title 'Assistant Secretary of State' sometimes associated with him; his verified federal title was Deputy Director of ONDCP.)",
+    "He served three non-consecutive terms in the California State Assembly (1990–1994 and 2004–2006) representing central Orange County, where his Senate biography states he authored 76 laws and secured more than $563 million in funding for the region. In the Assembly he chaired the Environmental Safety and Toxic Materials Committee and later the Elections and Redistricting Committee, and authored measures on hate crimes, white-collar crime, campaign finance, high-speed rail, and school meal programs.",
+    "Umberg founded the law firm Umberg Zipser LLP, described by his Senate office as a veteran-owned firm recognized by Best Lawyers and The Daily Journal. He was elected to the California State Senate in 2018, defeating incumbent Janet Nguyen, and was re-elected in 2022. He chaired the Senate Committee on Elections and Constitutional Amendments beginning in 2018 and has chaired the Senate Committee on the Judiciary since 2021."
+  ],
+  "committee_memberships": [
+    "Senate Judiciary Committee (Chair)",
+    "Senate Revenue and Taxation Committee",
+    "Senate Business, Professions and Economic Development Committee",
+    "Senate Elections and Constitutional Amendments Committee",
+    "Senate Military and Veterans Affairs Committee",
+    "Senate Transportation Committee"
+  ],
+  "voting_record_highlights": [
+    "As an Assemblymember, Umberg authored AB 849 (2005–2006), which would have made California marriage law gender-neutral; it passed both the Assembly and Senate but was vetoed by Governor Arnold Schwarzenegger on September 29, 2005, and no override was attempted.",
+    "As a State Senator, Umberg authored SB 1338 (2021–2022), the Community Assistance, Recovery, and Empowerment (CARE) Court Act, creating a new civil court process for connecting people with severe untreated mental illness to court-ordered care and services; it was signed by Governor Gavin Newsom on September 14, 2022 and chaptered as Chapter 319, Statutes of 2022.",
+    "Umberg authored SB 450 (2019–2020), a CEQA exemption for converting motels into supportive and transitional housing; it was signed by Governor Newsom on September 26, 2019 and chaptered as Chapter 344, Statutes of 2019.",
+    "Umberg was a lead Senate author of SB 42 (2025–2026), the California Fair Elections Act, which narrows the state's 1988 ban on public financing of candidate campaigns and placed the question on the November 2026 ballot as Proposition 4; SB 42 passed the Senate 28–10 on June 2, 2025 and was signed by Governor Newsom on October 2, 2025. (Full detail on this measure is covered separately in content/measures/ca-prop-4-2026.json and is not duplicated here.)"
+  ],
+  "attendance": "No individually published floor-attendance or voting-participation record for Senator Umberg was found. Unlike some city councils, the California State Senate does not publish a per-member attendance scorecard; the closest public records are individual roll-call votes on specific bills, searchable at leginfo.legislature.ca.gov, which is what the voting-record entries above are drawn from.",
+  "endorsements_received": [
+    {
+      "name": "California Federation of Labor Unions, AFL-CIO",
+      "type": "org",
+      "notes": "Endorsement identified for Umberg's 2026 campaign for California State Board of Equalization, District 4 — the office he is seeking after not running for re-election to the Senate. Per Ballotpedia."
+    },
+    {
+      "name": "California Teachers Association",
+      "type": "org",
+      "notes": "Endorsement for Umberg's 2026 Board of Equalization, District 4 campaign. Per Ballotpedia."
+    },
+    {
+      "name": "Equality California",
+      "type": "org",
+      "notes": "Endorsement for Umberg's 2026 Board of Equalization, District 4 campaign. Per Ballotpedia."
+    },
+    {
+      "name": "California Young Democrats",
+      "type": "org",
+      "notes": "Endorsement for Umberg's 2026 Board of Equalization, District 4 campaign. Per Ballotpedia."
+    }
+  ],
+  "past_measures_authored": [
+    {
+      "title": "AB 849 (2005–2006) — gender-neutral marriage law",
+      "year": "2005",
+      "outcome": "Passed both the Assembly and Senate; vetoed by Governor Arnold Schwarzenegger on September 29, 2005. No veto override was attempted.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=200520060AB849"
+    },
+    {
+      "title": "SB 450 (2019–2020) — CEQA exemption for motel-to-supportive-housing conversion",
+      "year": "2019",
+      "outcome": "Signed into law by Governor Gavin Newsom on September 26, 2019; chaptered as Chapter 344, Statutes of 2019.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201920200SB450"
+    },
+    {
+      "title": "SB 1338 (2021–2022) — Community Assistance, Recovery, and Empowerment (CARE) Court Act",
+      "year": "2022",
+      "outcome": "Signed into law by Governor Gavin Newsom on September 14, 2022; chaptered as Chapter 319, Statutes of 2022.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1338"
+    },
+    {
+      "title": "SB 884 (2025–2026) — election-administration urgency measure",
+      "year": "2026",
+      "outcome": "Signed into law by Governor Gavin Newsom on September 19, 2026; chaptered as Chapter 340, Statutes of 2026. (Umberg's Senate office refers to this bill as the \"Protect Our Polls Act\"; the official bill-status page confirms passage and chaptering but does not itself use that name.)",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB884"
+    }
+  ],
+  "sources": [
+    {
+      "title": "Official California State Senate biography, Senator Tom Umberg (SD 34)",
+      "url": "https://sd34.senate.ca.gov/biography",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Official California State Senate, Senator Tom Umberg district homepage",
+      "url": "https://sd34.senate.ca.gov/",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Ballotpedia, Tom Umberg",
+      "url": "https://ballotpedia.org/Tom_Umberg",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "Wikipedia, Tom Umberg",
+      "url": "https://en.wikipedia.org/wiki/Tom_Umberg",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "California Legislature, AB 849 (2005–2006) bill status",
+      "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=200520060AB849",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "California Legislature, SB 450 (2019–2020) bill status",
+      "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201920200SB450",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "California Legislature, SB 1338 (2021–2022) bill status",
+      "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB1338",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "California Legislature, SB 1338 (2021–2022) bill text (author byline)",
+      "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1338",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "California Legislature, SB 884 (2025–2026) bill status",
+      "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB884",
+      "retrieved": "2026-09-21"
+    },
+    {
+      "title": "California Legislature, SB 42 (2025–2026) bill status, authors, and votes",
+      "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB42",
+      "retrieved": "2026-09-21"
+    }
+  ],
+  "last_updated": "2026-09-21"
+}
