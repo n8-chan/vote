@@ -1,0 +1,80 @@
+{
+  "id": "scott-wiener",
+  "name": "Scott Wiener",
+  "type": "state_legislator",
+  "title": "California State Senator, Chair of the Senate Elections and Constitutional Amendments Committee",
+  "district": "California State Senate District 11 (San Francisco and northern San Mateo County)",
+  "years_of_service": "December 5, 2016–present. Wiener was re-elected in November 2024 with 77.8% of the vote against Republican Yvette Corkrean and is not term-limited until December 2028.",
+  "background": [
+    "Wiener grew up in Horsham, Pennsylvania and has lived in San Francisco's Castro neighborhood since 1997. He earned a B.A. from Duke University, spent a year in Santiago, Chile researching history on a Fulbright Scholarship, and received his J.D. from Harvard Law School. He clerked for Justice Alan B. Handler of the New Jersey Supreme Court before practicing law in San Francisco for about fifteen years, including as a litigation associate at Heller Ehrman White & McAuliffe and as a Deputy City Attorney under City Attorney Dennis Herrera. He also chaired the San Francisco County Democratic Central Committee, co-chaired the San Francisco LGBT Community Center, and served on the national Board of Directors of the Human Rights Campaign. (Source: official Senate biography, sd11.senate.ca.gov; Wikipedia, Scott Wiener, used as an explicit fallback because Ballotpedia could not be reached — see sources.)",
+    "Wiener was first elected to the San Francisco Board of Supervisors in November 2010 with 55.4% of the vote, representing District 8, the seat once held by Harvey Milk, and was re-elected in 2014. As a supervisor he chaired the San Francisco County Transportation Authority. He was elected to the California State Senate in November 2016, winning a competitive Democrat-vs-Democrat general election against then-Assemblymember Jane Kim 51.0%–49.0% for the open District 11 seat vacated by termed-out Sen. Mark Leno, who endorsed Wiener's campaign. He was re-elected in 2020 with 57.1% of the vote against Jackie Fielder and in 2024 with 77.8% against Corkrean. (Source: Wikipedia, Scott Wiener, used as an explicit fallback source; official Senate biography.)",
+    "Wiener has focused his legislative work on housing production and land-use law, public transit, LGBTQ civil rights, criminal-justice reform, clean energy, and public health, and his official biography states he has authored more than 100 bills that have been signed into law. He currently chairs the Senate Elections and Constitutional Amendments Committee and the Legislature's Select Committee on Bay Area Public Transit, and previously chaired the Senate Budget and Fiscal Review Subcommittee on housing issues and the California Legislative LGBTQ Caucus; he currently co-chairs the California Legislative Jewish Caucus. (Source: official Senate biography and committees page, sd11.senate.ca.gov.)"
+  ],
+  "committee_memberships": [
+    "Chair, Senate Elections and Constitutional Amendments Committee",
+    "Chair, Senate Select Committee on Bay Area Public Transit",
+    "Member, Senate Judiciary Committee",
+    "Member, Senate Privacy, Digital Technologies, and Consumer Protection Committee",
+    "Member, Senate Public Safety Committee",
+    "Member, Senate Transportation Committee",
+    "Member, Joint Legislative Committee on Climate Change Policies",
+    "Member, Joint Committee on Rules",
+    "Co-Chair, California Legislative Jewish Caucus"
+  ],
+  "voting_record_highlights": [
+    "SB 63 (2025), the Connect Bay Area Act: Wiener was the lead Senate author with Sen. Jesse Arreguín. It created the five-county Public Transit Revenue Measure District and authorized the district to place a regional transit sales-tax measure before voters — the measure now on the November 2026 ballot as Santa Clara County's Measure RTM (and the parallel measures in Alameda, Contra Costa, San Mateo, and San Francisco counties). The Senate concurred in Assembly amendments 29–8 on September 13, 2025, and Gov. Gavin Newsom signed it October 13, 2025 as Chapter 740, Statutes of 2025. Full detail on the resulting ballot measure is covered in content/measures/scc-measure-rtm-2026.json and is not duplicated here. (Source: leginfo.legislature.ca.gov bill status for SB 63.)",
+    "SB 35 (2017), streamlining approval of new housing in cities that had not met their state-mandated housing production goals: Wiener was the sole lead author, with principal coauthor Sen. Toni Atkins. It passed the Senate concurrence vote 23–14 on September 15, 2017, and was signed by Gov. Jerry Brown on September 29, 2017 as Chapter 366, Statutes of 2017. (Source: leginfo.legislature.ca.gov bill status for SB 35.)",
+    "SB 9 (2021), the California HOME Act, allowing duplexes and lot splits on most single-family-zoned parcels statewide: Wiener was one of four Senate lead authors (with Senate President pro Tempore Toni Atkins, Anna Caballero, and Susan Rubio). It passed the Senate concurrence vote 28–7 on August 30, 2021, and was signed by Gov. Gavin Newsom on September 16, 2021 as Chapter 162, Statutes of 2021. (Source: leginfo.legislature.ca.gov bill status for SB 9.)",
+    "SB 42 (2025), the California Fair Elections Act of 2026, now Proposition 4 on the November 2026 statewide ballot: Wiener was a Senate coauthor (not a lead author) behind lead authors Tom Umberg, Ben Allen, and Sabrina Cervantes. The Senate concurred in Assembly amendments 29–8 on September 13, 2025, and Gov. Newsom signed it October 2, 2025 as Chapter 245, Statutes of 2025. Full detail on the measure itself is covered in content/measures/ca-prop-4-2026.json and is not duplicated here. (Source: leginfo.legislature.ca.gov bill status for SB 42, as cited in content/measures/ca-prop-4-2026.json.)"
+  ],
+  "attendance": "No individually published floor-attendance or voting-participation record for Senator Wiener was found. The California State Senate does not publish a per-member attendance scorecard; the only public records are bill-by-bill roll-call votes at leginfo.legislature.ca.gov, which is what the voting-record entries above are drawn from. CalMatters' Digital Democracy tool, which tracks some legislators' bill-passage counts and vote-alignment percentages, returned a 404 for Wiener's expected profile URL at the time of research and no working alternate URL was located, so that source could not be checked for him.",
+  "endorsements_received": [
+    { "name": "Former State Sen. Mark Leno", "type": "politician", "notes": "Wiener's Senate predecessor in District 11 (then District 11 boundaries pre-redistricting); endorsed Wiener's 2016 campaign for the open seat, per Wikipedia (used as an explicit fallback source because Ballotpedia could not be reached)." }
+  ],
+  "past_measures_authored": [
+    {
+      "title": "SB 35 (2017) — streamlining approval of housing developments in cities behind on state housing production goals",
+      "year": "2017",
+      "outcome": "Signed into law by Gov. Jerry Brown on September 29, 2017 (Senate concurrence vote 23–14); Chapter 366, Statutes of 2017.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201720180SB35"
+    },
+    {
+      "title": "SB 9 (2021) — the California HOME Act, allowing duplexes and lot splits on single-family-zoned parcels statewide",
+      "year": "2021",
+      "outcome": "Signed into law by Gov. Gavin Newsom on September 16, 2021 (Senate concurrence vote 28–7); Chapter 162, Statutes of 2021.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB9"
+    },
+    {
+      "title": "SB 79 (2025) — the Abundant and Affordable Homes Near Transit Act, allowing denser housing near major transit stops",
+      "year": "2025",
+      "outcome": "Signed into law by Gov. Gavin Newsom on October 10, 2025 (Senate concurrence vote 21–8); Chapter 512, Statutes of 2025.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB79"
+    },
+    {
+      "title": "SB 63 (2025) — the Connect Bay Area Act, creating the Public Transit Revenue Measure District and authorizing the regional transit ballot measure",
+      "year": "2025",
+      "outcome": "Signed into law by Gov. Gavin Newsom on October 13, 2025 (Senate concurrence vote 29–8); Chapter 740, Statutes of 2025. Placed the Connect Bay Area Transit Initiative before voters, appearing on the November 2026 ballot as Santa Clara County's Measure RTM and parallel measures in Alameda, Contra Costa, San Mateo, and San Francisco counties.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB63"
+    },
+    {
+      "title": "SB 42 (2025) — the California Fair Elections Act of 2026 (Wiener was a Senate coauthor, not a lead author)",
+      "year": "2025",
+      "outcome": "Signed into law by Gov. Gavin Newsom on October 2, 2025 (Senate concurrence vote 29–8); Chapter 245, Statutes of 2025. Placed on the November 2026 statewide ballot as Proposition 4.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB42"
+    }
+  ],
+  "sources": [
+    { "title": "Official California State Senate biography, Senator Scott Wiener (SD 11)", "url": "https://sd11.senate.ca.gov/biography", "retrieved": "2026-09-22" },
+    { "title": "Official California State Senate, Senator Scott Wiener homepage/about", "url": "https://sd11.senate.ca.gov/", "retrieved": "2026-09-22" },
+    { "title": "Official California State Senate, Senator Scott Wiener committee assignments", "url": "https://sd11.senate.ca.gov/committees", "retrieved": "2026-09-22" },
+    { "title": "Wikipedia, Scott Wiener (used as an explicit fallback source: Ballotpedia was unreachable directly and via the r.jina.ai proxy at time of research — repeated attempts returned HTTP 403)", "url": "https://en.wikipedia.org/wiki/Scott_Wiener", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 35 (2017–2018) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201720180SB35", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 9 (2021–2022) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB9", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 79 (2025–2026) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB79", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 63 (2025–2026) bill status, authors, and votes (Connect Bay Area Act)", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB63", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 42 (2025–2026) bill status, authors, and votes (California Fair Elections Act of 2026 / Proposition 4)", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB42", "retrieved": "2026-09-22" },
+    { "title": "content/measures/ca-prop-4-2026.json (this repo, for cross-reference on Wiener's Senate-coauthor role on SB 42 / Prop 4)", "url": "content/measures/ca-prop-4-2026.json", "retrieved": "2026-09-22" },
+    { "title": "content/measures/scc-measure-rtm-2026.json (this repo, for cross-reference on Wiener's lead-author role on SB 63 / Measure RTM)", "url": "content/measures/scc-measure-rtm-2026.json", "retrieved": "2026-09-22" }
+  ],
+  "last_updated": "2026-09-22"
+}

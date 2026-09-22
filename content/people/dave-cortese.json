@@ -1,0 +1,72 @@
+{
+  "id": "dave-cortese",
+  "name": "Dave Cortese",
+  "type": "state_legislator",
+  "title": "California State Senator, Chair of the Senate Transportation Committee, Assistant Senate Majority Whip",
+  "district": "California State Senate District 15 (most of Santa Clara County, including San Jose)",
+  "years_of_service": "December 2020–present. Cortese was elected in November 2020 and took office that December; he was re-elected in November 2024 to a term running through 2028.",
+  "background": [
+    "Cortese was born June 3, 1956 in Monterey County, California, the son of Dominic L. Cortese, who served on the Santa Clara County Board of Supervisors and in the California State Assembly. He attended Bellarmine College Preparatory, earned a bachelor's degree from the University of California, Davis, and a Juris Doctor from Lincoln Law School of San Jose. He is an attorney. (Source: official Senate biography, sd15.senate.ca.gov/biography; English, Wikipedia, Dave Cortese.)",
+    "Before the Senate, Cortese spent eight years as a trustee of the East Side Union High School District, then served eight years on the San Jose City Council (2000–2008), including as Vice Mayor, after being elected to the council's 8th district in 2000 with 65.25% of the vote and re-elected unopposed in 2004. He was elected to the Santa Clara County Board of Supervisors' 3rd district in 2008, defeating Otto Lee 54.87%–45.13%, and was re-elected unopposed in 2012 and 2016, serving on the board until 2020, including as Board President. He also chaired the Metropolitan Transportation Commission and served on the Valley Transportation Authority board during this period. (Source: official Senate biography; Wikipedia, Dave Cortese, citing Santa Clara County and MTC records.)",
+    "Cortese was elected to the State Senate in November 2020, winning the top-two primary with 33.9% against Ann Ravel (22.1%) and Nora Campos (16.9%), then defeating Ravel 54.8%–45.2% in the general election for the open District 15 seat vacated by term-limited Sen. Jim Beall. He was re-elected in 2024, winning the primary with 69.0% and the general election with 68.6%, both against Republican Robert Howell. (Source: Wikipedia, Dave Cortese; Ballotpedia's profile for Cortese could not be retrieved for this profile — the site returned an access-denied response on direct fetch and through a proxy — so this election-history detail rests on Wikipedia as an explicit fallback and has not been cross-checked against Ballotpedia.)",
+    "In the 2025–2026 legislative session Cortese chairs the Senate Transportation Committee and serves as Assistant Majority Whip in Senate Democratic leadership. He was a Senate coauthor of SB 42, the California Fair Elections Act of 2026, which the Legislature passed and Gov. Newsom signed as Chapter 245, Statutes of 2025, placing it before voters as Proposition 4 on the November 2026 ballot; full analysis of that measure is in content/measures/ca-prop-4-2026.json and is not repeated here. (Source: official Senate legislation and committees pages; leginfo.legislature.ca.gov bill status for SB 42.)"
+  ],
+  "committee_memberships": [
+    "Chair, Senate Transportation Committee",
+    "Member, Senate Ethics Committee",
+    "Member, Senate Education Committee",
+    "Member, Senate Housing Committee",
+    "Member, Senate Labor, Public Employment and Retirement Committee",
+    "Member, Senate Public Safety Committee",
+    "Member, Joint Committee on Fisheries and Aquaculture",
+    "Member, Joint Committee on Rules",
+    "Member, Joint Legislative Audit Committee",
+    "Member, Senate Select Committee on Mental Health and Addiction",
+    "Member, Senate Select Committee on Student Success",
+    "Member, Senate Select Committee on Bay Area Transit",
+    "Member, Senate Select Committee on Hydrogen",
+    "Member, Senate Special Committee on International Sporting Events: Olympics and World Cup Soccer",
+    "Assistant Majority Whip, Senate Democratic Caucus leadership"
+  ],
+  "voting_record_highlights": [
+    "SB 10 (2023–2024), \"Melanie's Law,\" requiring school districts to adopt opioid and fentanyl overdose prevention policies including access to naloxone: Cortese was the lead author. The Senate concurrence vote was 40–0 on September 14, 2023, and Gov. Newsom signed it October 13, 2023 as Chapter 856, Statutes of 2023. (Source: leginfo.legislature.ca.gov bill status for SB 10.)",
+    "SB 553 (2023–2024), requiring most California employers to adopt a written workplace violence prevention plan and creating a restraining-order process for workplace violence: Cortese was the lead author, with Assemblymember Ash Kalra as coauthor. The Assembly concurrence vote was 29–8 on September 12, 2023, and Gov. Newsom signed it September 30, 2023 as Chapter 289, Statutes of 2023. (Source: leginfo.legislature.ca.gov bill status for SB 553.)",
+    "SB 335 (2023–2024), authorizing a Santa Clara County transactions-and-use (sales) tax measure: Cortese was the lead author, with Assemblymember Marc Berman as coauthor. The Senate concurrence vote on Assembly amendments was 28–8 on September 11, 2023, and Gov. Newsom signed it October 7, 2023 as Chapter 391, Statutes of 2023. (Source: leginfo.legislature.ca.gov bill status for SB 335.)",
+    "SB 42 (2025–2026), the California Fair Elections Act of 2026: Cortese was one of five Senate coauthors (behind lead authors Umberg, Allen, and Cervantes). The Senate concurred in Assembly amendments 29–8 on September 13, 2025, and Gov. Newsom signed it October 2, 2025 as Chapter 245, Statutes of 2025, placing the measure before voters as Proposition 4 on the November 2026 ballot. Full detail on the measure itself is covered in content/measures/ca-prop-4-2026.json and is not duplicated here. (Source: leginfo.legislature.ca.gov bill status for SB 42.)"
+  ],
+  "attendance": "No individually published floor-attendance or voting-participation record for Senator Cortese was found. The California State Senate does not publish a per-member attendance scorecard; the only public records located are bill-by-bill roll-call votes at leginfo.legislature.ca.gov, which is what the voting-record entries above are drawn from.",
+  "endorsements_received": [],
+  "past_measures_authored": [
+    {
+      "title": "SB 10 (2023) — \"Melanie's Law,\" school opioid/fentanyl overdose prevention policy requirements",
+      "year": "2023",
+      "outcome": "Signed into law by Gov. Gavin Newsom on October 13, 2023 (Senate concurrence vote 40–0); Chapter 856, Statutes of 2023.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240SB10"
+    },
+    {
+      "title": "SB 553 (2023) — workplace violence prevention plans and restraining orders",
+      "year": "2023",
+      "outcome": "Signed into law by Gov. Gavin Newsom on September 30, 2023 (Assembly concurrence vote 29–8); Chapter 289, Statutes of 2023.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240SB553"
+    },
+    {
+      "title": "SB 335 (2023) — Santa Clara County transactions-and-use tax authorization",
+      "year": "2023",
+      "outcome": "Signed into law by Gov. Gavin Newsom on October 7, 2023 (Senate concurrence vote 28–8); Chapter 391, Statutes of 2023.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240SB335"
+    }
+  ],
+  "sources": [
+    { "title": "Official California State Senate biography, Senator Dave Cortese (SD 15)", "url": "https://sd15.senate.ca.gov/biography", "retrieved": "2026-09-22" },
+    { "title": "Official California State Senate, Senator Dave Cortese committees and caucuses", "url": "https://sd15.senate.ca.gov/committees-and-caucuses", "retrieved": "2026-09-22" },
+    { "title": "Official California State Senate, Senator Dave Cortese 2025-2026 legislation", "url": "https://sd15.senate.ca.gov/2025-2026-legislation", "retrieved": "2026-09-22" },
+    { "title": "Official California State Senate, Senator Dave Cortese 2023-2024 legislation", "url": "https://sd15.senate.ca.gov/2023-2024-legislation", "retrieved": "2026-09-22" },
+    { "title": "California State Senate, current senators roster (confirms SD 15 and district office)", "url": "https://www.senate.ca.gov/senators", "retrieved": "2026-09-22" },
+    { "title": "Wikipedia, Dave Cortese (used as explicit fallback: Ballotpedia's Dave Cortese page returned an access-denied response on direct fetch and via proxy on 2026-09-22 and could not be retrieved for this profile)", "url": "https://en.wikipedia.org/wiki/Dave_Cortese", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 10 (2023-2024) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240SB10", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 553 (2023-2024) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240SB553", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 335 (2023-2024) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240SB335", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 42 (2025-2026) bill status, authors, and votes (confirms Cortese as Senate coauthor)", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB42", "retrieved": "2026-09-22" }
+  ],
+  "last_updated": "2026-09-22"
+}

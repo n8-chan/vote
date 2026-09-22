@@ -1,0 +1,62 @@
+{
+  "id": "sasha-renee-perez",
+  "name": "Sasha Renée Pérez",
+  "type": "state_legislator",
+  "title": "California State Senator, Chair of the Senate Education Committee",
+  "district": "California State Senate District 25 (San Gabriel Valley, including Alhambra, Pasadena, Pomona, and surrounding communities)",
+  "years_of_service": "December 2, 2024–present. Pérez was elected in November 2024 and is in her first term; per Ballotpedia's succession data referenced on Wikipedia, she is described as the youngest member of the California State Senate and the second-youngest woman ever to serve in that body. (Source: official Senate biography, sd25.senate.ca.gov/biography; Wikipedia, used here because Ballotpedia's page for her returned no retrievable content on repeated attempts — see note in sources.)",
+  "background": [
+    "Pérez was born September 16, 1992, in Alhambra, California, and is a first-generation college graduate. She attended Mark Keppel High School and earned a B.A. in Political Science and a B.S. in Economics from California State University, Los Angeles. (Source: official Senate biography, sd25.senate.ca.gov/biography, which confirms she was 'first in her family to earn a college degree' and lists the CSULA degrees; birth date, birthplace, and high school per Wikipedia, flagged as a fallback source since Ballotpedia was not retrievable.)",
+    "Before elected office, Pérez worked at the Pat Brown Institute for Public Affairs, where the official Senate biography credits her with civic-education and afterschool-program work, and at the Campaign for College Opportunity, where she worked on expanding Cal Grant eligibility; Wikipedia's account states this expansion effort reached roughly 150,000 additional students. She also served as Political Director for the 2022 campaign supporting Proposition 1 (the state constitutional amendment on reproductive freedom). (Source: official Senate biography; Wikipedia.)",
+    "Pérez was elected to the Alhambra City Council (District 4) in 2020, defeating incumbent David Mejia with 58.49% of the vote, and was sworn in December 31, 2020. She was named 'Outstanding Elected Official of the Year' in 2021 for pedestrian-safety work and a 'Congressional Woman of the Year' in 2022 for sustainability initiatives, per the official Senate biography. Her council colleagues elevated her to Mayor of Alhambra on June 24, 2024, a position she held until stepping down December 1, 2024 to take her Senate seat; Wikipedia describes her as the first openly LGBTQ+ mayor and the youngest woman mayor in San Gabriel Valley history, and the official Senate biography separately describes her as the youngest Latina to lead a California city with a population over 50,000. (Sources: official Senate biography; Wikipedia, flagged as a fallback source.)",
+    "In the November 2024 general election for Senate District 25, Pérez defeated Republican Elizabeth Wong Ahlers 243,371 votes (59.6%) to 164,757 votes (40.4%), holding the seat for Democrats. In the March 2024 top-two primary she led a crowded field with 67,266 votes (32.9%), ahead of fellow Democrat Yvonne Yiu (35,693 votes, 17.5%); Wikipedia's summary notes she was significantly outspent by Yiu in that primary. (Source: Wikipedia, flagged as a fallback source since Ballotpedia's page for Pérez could not be retrieved despite repeated attempts on 2026-09-22.)",
+    "As a lead Senate coauthor role on the 2025–2026 ballot measure package, Pérez is listed as a 'Senate coauthor' of SB 42, the California Fair Elections Act of 2026, which the Legislature placed on the November 2026 ballot as Proposition 4. Her role was coauthor rather than lead author (the lead authors were Sens. Tom Umberg, Ben Allen, and Sabrina Cervantes); full analysis of the measure itself is covered in content/measures/ca-prop-4-2026.json and is not duplicated here. (Source: leginfo.legislature.ca.gov bill status for SB 42.)"
+  ],
+  "committee_memberships": [
+    "Chair, Senate Education Committee",
+    "Chair, Budget Subcommittee No. 1 on Education",
+    "Member, Senate Budget and Fiscal Review Committee",
+    "Member, Senate Environmental Quality Committee",
+    "Member, Senate Human Services Committee",
+    "Member, Senate Public Safety Committee",
+    "Member, Joint Committee on the Arts"
+  ],
+  "voting_record_highlights": [
+    "As a first-term senator sworn in December 2024, Pérez has one full legislative session (2025–2026, first year) behind her. Rather than floor votes on other members' bills (California does not make it easy to isolate a single senator's yes/no votes on routine bills outside roll-call records), the most concrete, citable record available is her own authored legislation reaching the Governor's desk, detailed in past_measures_authored below.",
+    "SB 42 (2025–2026), the California Fair Elections Act of 2026: Pérez is listed as a Senate coauthor (not a lead author). The Senate concurred in Assembly amendments 29–8 on September 13, 2025, and Gov. Gavin Newsom signed it October 2, 2025 as Chapter 245, Statutes of 2025, placing the measure before voters as Proposition 4 on the November 2026 ballot. Full detail on the measure itself is covered in content/measures/ca-prop-4-2026.json and is not duplicated here. (Source: leginfo.legislature.ca.gov bill status for SB 42.)",
+    "Beyond her own authored bills and the SB 42 coauthor credit, no other individually citable roll-call vote of Pérez's was independently verified for this profile; her office's legislation page (sd25.senate.ca.gov/legislation) lists a large number of 2025 bills she authored, several already signed into law (see past_measures_authored), which is the more substantive first-term record available."
+  ],
+  "attendance": "No individually published floor-attendance or voting-participation record for Senator Pérez was found. The California State Senate does not publish a per-member attendance scorecard; the only public records are bill-by-bill roll-call votes at leginfo.legislature.ca.gov. No third-party attendance tracker for Pérez (comparable to CalMatters' Digital Democracy tool used for longer-serving members) was located during this research.",
+  "endorsements_received": [],
+  "past_measures_authored": [
+    {
+      "title": "SB 98 (2025) — Sending Alerts to Families in Education (SAFE) Act, requiring school notification protocols related to immigration enforcement at schools",
+      "year": "2025",
+      "outcome": "Signed into law by Gov. Gavin Newsom on September 20, 2025 (Senate concurrence in Assembly amendments, Ayes 31–Noes 8, September 2, 2025); Chapter 124, Statutes of 2025.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB98"
+    },
+    {
+      "title": "SB 293 (2025) — Generational Homeownership Protection Act, amending property tax transfer-of-base-year-value rules for family transfers and wildfire-affected properties",
+      "year": "2025",
+      "outcome": "Signed into law by Gov. Gavin Newsom on October 10, 2025; Chapter 539, Statutes of 2025.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB293"
+    },
+    {
+      "title": "SB 848 (2025) — Safe Learning Environments Act, addressing pupil safety and school employee conduct reporting requirements",
+      "year": "2025",
+      "outcome": "Signed into law by Gov. Gavin Newsom on October 7, 2025 (Senate concurrence in Assembly amendments, Ayes 37–Noes 0, September 13, 2025); Chapter 460, Statutes of 2025.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB848"
+    }
+  ],
+  "sources": [
+    { "title": "Official California State Senate biography, Senator Sasha Renée Pérez (SD 25)", "url": "https://sd25.senate.ca.gov/biography", "retrieved": "2026-09-22" },
+    { "title": "Official California State Senate, Senator Sasha Renée Pérez legislation page (2025-2026 session bill list)", "url": "https://sd25.senate.ca.gov/legislation", "retrieved": "2026-09-22" },
+    { "title": "California State Senate, roster of senators (confirms District 25 and Capitol/district office contact information)", "url": "https://www.senate.ca.gov/senators", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 98 (2025-2026) bill status, authors, and votes", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB98", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 293 (2025-2026) bill status, authors, and votes", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB293", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 848 (2025-2026) bill status, authors, and votes", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB848", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 42 (2025-2026) bill status, authors, coauthors (confirms Pérez as Senate coauthor), and votes", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB42", "retrieved": "2026-09-22" },
+    { "title": "Wikipedia, Sasha Renée Pérez — used as an explicit fallback source because ballotpedia.org/Sasha_Ren%C3%A9e_P%C3%A9rez and the plain-ASCII variant ballotpedia.org/Sasha_Renee_Perez both returned no retrievable page content on repeated direct-fetch and proxy-fetch attempts on 2026-09-22", "url": "https://en.wikipedia.org/wiki/Sasha_Renée_Pérez", "retrieved": "2026-09-22" }
+  ],
+  "last_updated": "2026-09-22"
+}

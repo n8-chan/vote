@@ -1,0 +1,65 @@
+{
+  "id": "jerry-mcnerney",
+  "name": "Jerry McNerney",
+  "type": "state_legislator",
+  "title": "California State Senator, Chair of the Senate Revenue and Taxation Committee",
+  "district": "California State Senate District 5 (all of San Joaquin County and the Tri-Valley area of Alameda County, including Stockton, Tracy, Dublin, Livermore, and Pleasanton)",
+  "years_of_service": "December 2, 2024–present, as a California State Senator. This is distinct from his earlier, separate tenure in the U.S. House of Representatives, where he served January 3, 2007–January 3, 2023 (California's 11th District, 2007–2013, then the 9th District, 2013–2023). (Sources: official Senate biography, sd05.senate.ca.gov/biography; Wikipedia, Jerry McNerney.)",
+  "background": [
+    "McNerney was born in Albuquerque, New Mexico, and holds bachelor's and master's degrees and a Ph.D. in mathematics from the University of New Mexico. Before entering politics he spent more than two decades as an engineer and consultant in the energy and clean-energy industry, focusing on wind turbine technology development, including as CEO of a wind turbine manufacturing startup, and as a contractor to Sandia National Laboratories on national security programs. He has lived in Pleasanton with his wife Mary since 1977; their three adult children work in the Air Force/cybersecurity, neuroscience, and biophysics fields. (Sources: official Senate biography, sd05.senate.ca.gov/biography; Wikipedia, Jerry McNerney.)",
+    "McNerney's elected career began in the U.S. House of Representatives, where he served 16 years, from January 3, 2007 to January 3, 2023, representing California's 11th District (2007–2013) and, after redistricting, the 9th District (2013–2023). In the House he sat on the Veterans Affairs Committee, the Committee on Science, Space and Technology, and the Committee on Energy and Commerce, chaired the Artificial Intelligence Caucus, the Congressional Grid Innovation Caucus, and the WiFi Caucus, authored the AI in Government Act, and pushed for a new veterans' health facility near French Camp, California. This U.S. House service is a separate office from his current state role and ended nearly two years before he took his State Senate seat. (Sources: official Senate biography, sd05.senate.ca.gov/biography; Wikipedia, Jerry McNerney.)",
+    "McNerney was elected to California State Senate District 5 in the November 2024 general election, defeating Republican Jim Shoemaker 52.9% (189,668 votes) to 47.1% (169,136 votes); in the March 2024 top-two primary he placed second with 33.2% of the vote, behind Shoemaker's 43.7%. He was sworn in December 2, 2024, and now represents a district covering all of San Joaquin County and Alameda County's Tri-Valley area — a different geographic footprint than either of his former U.S. House districts. (Sources: Wikipedia, Jerry McNerney; official Senate biography, sd05.senate.ca.gov/biography.) Ballotpedia's profile of McNerney could not be retrieved directly for this file (the site returned an access-denied response to automated retrieval both directly and via a read-proxy), so election-history details above rely on Wikipedia as an explicit fallback rather than Ballotpedia.",
+    "In the 2025–2026 legislative session, McNerney is a Senate coauthor of SB 42, the California Fair Elections Act of 2026 — the bill that produced Proposition 4 on the November 2026 statewide ballot. He is one of twelve listed coauthors (as distinct from the three lead authors, Sens. Umberg, Allen, and Cervantes) per the bill's official leginfo.legislature.ca.gov status page. Full analysis of Proposition 4 itself is covered in content/measures/ca-prop-4-2026.json and is not duplicated here. (Source: leginfo.legislature.ca.gov bill status for SB 42.)"
+  ],
+  "committee_memberships": [
+    "Chair, Senate Revenue and Taxation Committee",
+    "Chair, Senate Select Committee on the Nonprofit Sector",
+    "Member, Senate Privacy, Digital Technologies, and Consumer Protection Committee",
+    "Member, Senate Energy, Utilities and Communications Committee",
+    "Member, Senate Budget and Fiscal Review Committee",
+    "Member, Budget Subcommittee #2 on Resources, Environmental Protection and Energy",
+    "Member, Senate Agriculture Committee",
+    "Member, Senate Military and Veterans Affairs Committee",
+    "Member, Joint Committee on Fairs Allocation and Classification",
+    "Member, Select Committee on Bay Area Public Transit",
+    "Member, Select Committee on California's Wine Industry",
+    "Member, Select Committee on Green Economic Development",
+    "Member, Select Committee on the Ports and Goods Movement",
+    "Co-Chair, California Legislative Delta Caucus",
+    "Member, Delta Protection Commission",
+    "Member, Sierra Nevada Conservancy"
+  ],
+  "voting_record_highlights": [
+    "SB 31 (2025–2026), amending Water Code sections on recycled water use standards: McNerney was the lead author. The Senate concurred in Assembly amendments 39–0 on September 4, 2025, and Gov. Gavin Newsom signed it October 13, 2025 as Chapter 736, Statutes of 2025. (Source: leginfo.legislature.ca.gov bill status for SB 31.)",
+    "SB 543 (2025–2026), amending Government Code provisions on accessory dwelling units and junior accessory dwelling units: McNerney was the author, with Sen. Jesse Arreguín as coauthor. The Senate concurred in Assembly amendments 40–0, and Gov. Newsom signed it October 10, 2025 as Chapter 520, Statutes of 2025. (Source: leginfo.legislature.ca.gov bill status for SB 543.)",
+    "SB 42 (2025–2026), the California Fair Elections Act of 2026: McNerney is listed as a Senate coauthor (not a lead author) on the official leginfo bill status page. The Senate concurred in Assembly amendments 29–8 on September 13, 2025, and Gov. Newsom signed it October 2, 2025 as Chapter 245, Statutes of 2025, placing the measure before voters as Proposition 4 on the November 2026 ballot. Full detail on the measure itself is covered in content/measures/ca-prop-4-2026.json and is not duplicated here. (Source: leginfo.legislature.ca.gov bill status for SB 42.)"
+  ],
+  "attendance": "No individually published floor-attendance or voting-participation record for Senator McNerney was found. The California State Senate does not publish a per-member attendance scorecard; the only public records are bill-by-bill roll-call votes at leginfo.legislature.ca.gov, which is what the voting-record entries above are drawn from.",
+  "endorsements_received": [],
+  "past_measures_authored": [
+    {
+      "title": "SB 31 (2025) — recycled water use standards",
+      "year": "2025",
+      "outcome": "Signed into law by Gov. Gavin Newsom on October 13, 2025 (Senate concurrence vote 39–0); Chapter 736, Statutes of 2025.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB31"
+    },
+    {
+      "title": "SB 543 (2025) — accessory dwelling units and junior accessory dwelling units",
+      "year": "2025",
+      "outcome": "Signed into law by Gov. Gavin Newsom on October 10, 2025 (Senate concurrence vote 40–0); Chapter 520, Statutes of 2025.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB543"
+    }
+  ],
+  "sources": [
+    { "title": "Official California State Senate biography, Senator Jerry McNerney (SD 5)", "url": "https://sd05.senate.ca.gov/biography", "retrieved": "2026-09-22" },
+    { "title": "Official California State Senate, Senator Jerry McNerney committee assignments", "url": "https://sd05.senate.ca.gov/committees", "retrieved": "2026-09-22" },
+    { "title": "Official California State Senate, Senator Jerry McNerney legislation page", "url": "https://sd05.senate.ca.gov/legislation", "retrieved": "2026-09-22" },
+    { "title": "Official California State Senate homepage, Senator Jerry McNerney (SD 5)", "url": "https://sd05.senate.ca.gov/", "retrieved": "2026-09-22" },
+    { "title": "California State Senate, official senator roster", "url": "https://www.senate.ca.gov/senators", "retrieved": "2026-09-22" },
+    { "title": "Wikipedia, Jerry McNerney (used as an explicit fallback source because Ballotpedia's page could not be retrieved via direct fetch or read-proxy, both returning access-denied responses)", "url": "https://en.wikipedia.org/wiki/Jerry_McNerney", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 42 (2025–2026) bill status, authors, and votes", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB42", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 31 (2025–2026) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB31", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 543 (2025–2026) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB543", "retrieved": "2026-09-22" }
+  ],
+  "last_updated": "2026-09-22"
+}
