@@ -1,0 +1,36 @@
+{
+  "id": "michelle-nelson",
+  "name": "Michelle Nelson",
+  "type": "school_district_official",
+  "title": "Board Vice President, Gilroy Unified School District",
+  "district": "Trustee Area 3",
+  "years_of_service": "Elected to the Gilroy Unified School District Board of Education in November 2020; current term ends 2026, per the district's board directory.",
+  "background": [
+    "Nelson spent 39 years with Gilroy Unified School District as a science educator, teaching at South Valley, Brownell, and Christopher High Schools, and held department-chair leadership roles at both South Valley and Brownell. She retired from GUSD in June 2019.",
+    "Beginning in 1989 she was active in the Gilroy Teachers Association, eventually serving in every union position; she was the union's lead negotiator on labor agreements for more than 20 years and served as its President for 12 years (10 of them full-time). That union work gave her direct exposure to district operations through participation on various district-level committees covering facilities, professional development, health benefits, and budget development.",
+    "After retiring in 2019 to pursue travel, birding, and photography, she ran for a Gilroy Unified board seat that became available in summer 2020, encouraged by former colleagues, and was elected in November 2020 to represent Trustee Area 3. Her stated campaign priorities were attracting and retaining qualified staff, holding people and programs accountable, and improving communication between the district and its stakeholders. No source reviewed specified her educational background beyond her decades as a science teacher.",
+    "As Board Vice President, she co-chairs the Executive Committee and serves as board liaison to Brownell Middle School and Gilroy High School. She sat on the board at its May 28, 2026 meeting when it voted unanimously to place Measure M, a $295 million facilities bond, on the November 3, 2026 ballot; full detail on that measure is covered in content/measures/scc-measure-m-2026.json and not duplicated here."
+  ],
+  "committee_memberships": [
+    "Gilroy Unified School District Board of Education, Executive Committee (co-chair)",
+    "Brownell Middle School liaison",
+    "Gilroy High School liaison"
+  ],
+  "attendance": "No individually published meeting-attendance or voting-participation record for Board Vice President Nelson was found. Gilroy Unified School District does not appear to publish a per-trustee attendance scorecard on its public board pages; board agendas and minutes are available via the district's meeting-management system (Simbli), which would in principle allow a manual tally of attendance and votes, but compiling that was not feasible within this session's tool budget.",
+  "endorsements_received": [],
+  "past_measures_authored": [
+    {
+      "title": "Measure M, Gilroy Unified School District Building Future Ready Campuses, Renovation, Modernization Measure",
+      "year": "2026",
+      "outcome": "On the November 3, 2026 ballot; outcome not yet known at time of writing.",
+      "source_url": "https://vote.santaclaracounty.gov/list-local-measures-4"
+    }
+  ],
+  "sources": [
+    { "title": "Gilroy Unified School District, Board of Education membership (lists Michelle Nelson as Board Vice President, Trustee Area 3, term ends 2026, committee assignments)", "url": "https://www.gilroyunified.org/about-us-and-contact/board-of-education", "retrieved": "2026-09-22" },
+    { "title": "Gilroy Unified School District, Michelle Nelson biography page", "url": "https://www.gilroyunified.org/fs/pages/8124", "retrieved": "2026-09-22" },
+    { "title": "scc-measure-m-2026.json (this voter guide), authorship and sourcing for Michelle Nelson's role as Board Vice President and the May 28, 2026 vote placing Measure M on the ballot", "url": "https://resources.finalsite.net/images/v1788902237/gusdk12caus/tqi6dssrgnesysurl0gg/MeasureM.pdf", "retrieved": "2026-09-21" },
+    { "title": "Santa Clara County Registrar of Voters, List of Local Measures, November 3, 2026 General Election", "url": "https://vote.santaclaracounty.gov/list-local-measures-4", "retrieved": "2026-09-21" }
+  ],
+  "last_updated": "2026-09-22"
+}

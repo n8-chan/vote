@@ -1,0 +1,35 @@
+{
+  "id": "linda-chavez",
+  "name": "Linda Chavez",
+  "type": "school_district_official",
+  "title": "Board President, Alum Rock Union Elementary School District",
+  "years_of_service": "2022–2026 (current term, per the district's board directory; not stated whether this is her first term or a re-election).",
+  "background": [
+    "Chavez is the sitting Board President of the Alum Rock Union Elementary School District Board of Trustees. She held that role at the district's July 16, 2026 meeting, when the board adopted Resolution No. 01-26/27 placing Measure O (a renewed $310 parcel tax) and Resolution No. 02-26/27 placing Measure P (a $100 million general obligation bond) on the November 3, 2026 ballot; full detail on both measures is covered in content/measures/scc-measure-o-2026.json and content/measures/scc-measure-p-2026.json and not duplicated here. The district's board directory lists her current term as 2022–2026 but gives no prior term history, election date, or vote margin.",
+      "I was not able to independently verify Chavez's occupation, education, prior public offices, committee assignments outside the board, or specific named votes beyond the two 2026 ballot resolutions. This session's WebSearch tool had exhausted its query budget before her profile was researched (two direct searches for her name both returned a budget-exhausted message), and direct WebFetch attempts at the ARUSD board of trustees page and the district's general About Us page returned only her name, title, contact information, and term dates, with no biography, news release, or press coverage found. A Ballotpedia lookup for 'Linda Chavez' returned no page matching this district, and an attempt to reach a third-party 2022 election candidate-statement archive (smartvoter.org) failed to resolve. Because of that, committee_memberships, voting_record_highlights, and endorsements_received are left empty below rather than populated with unverified claims."
+  ],
+  "attendance": "No individually published meeting-attendance or voting-participation record for Trustee Chavez was found. Alum Rock Union Elementary School District does not appear to publish a per-trustee attendance scorecard on its public board pages; board agendas and minutes are available via the district's board-materials system (see the July 16, 2026 board book cited in the Measure O and Measure P sources), which would in principle allow a manual tally of attendance and votes, but compiling that was not feasible within this session's tool budget (WebSearch exhausted, and several direct district-site and third-party fetches returned no usable content).",
+  "endorsements_received": [],
+  "past_measures_authored": [
+    {
+      "title": "Measure O, Alum Rock Union Elementary School District Parcel Tax",
+      "year": "2026",
+      "outcome": "On the November 3, 2026 ballot; outcome not yet known at time of writing.",
+      "source_url": "https://vote.santaclaracounty.gov/list-local-measures-4"
+    },
+    {
+      "title": "Measure P, Alum Rock Union Elementary School District General Obligation Bond",
+      "year": "2026",
+      "outcome": "On the November 3, 2026 ballot; outcome not yet known at time of writing.",
+      "source_url": "https://vote.santaclaracounty.gov/list-local-measures-4"
+    }
+  ],
+  "sources": [
+    { "title": "Alum Rock Union Elementary School District, Board of Trustees (lists Linda Chavez as Board President, term 2022–2026)", "url": "https://www.arusd.org/about-us/board-of-trustees", "retrieved": "2026-09-22" },
+    { "title": "Alum Rock Union Elementary School District, About Us (no biographical content on named trustees found)", "url": "https://www.arusd.org/about-us", "retrieved": "2026-09-22" },
+    { "title": "scc-measure-o-2026.json (this voter guide), authorship and sourcing for Linda Chavez's role as Board President and the July 16, 2026 resolution placing Measure O on the ballot", "url": "https://resources.finalsite.net/images/v1783969179/arusdorg/erw8skmkorhi8ophndji/RevBoardBookJuly16th.pdf", "retrieved": "2026-09-21" },
+    { "title": "scc-measure-p-2026.json (this voter guide), authorship and sourcing for Linda Chavez's role as Board President and the July 16, 2026 resolution placing Measure P on the ballot", "url": "https://www.arusd.org/departments/business-services/mot/bonds/measure-p-information", "retrieved": "2026-09-21" },
+    { "title": "Santa Clara County Registrar of Voters, List of Local Measures, November 3, 2026 General Election", "url": "https://vote.santaclaracounty.gov/list-local-measures-4", "retrieved": "2026-09-21" }
+  ],
+  "last_updated": "2026-09-22"
+}

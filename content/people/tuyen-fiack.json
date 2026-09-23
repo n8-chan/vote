@@ -1,0 +1,37 @@
+{
+  "id": "tuyen-fiack",
+  "name": "Tuyen Fiack",
+  "type": "school_district_official",
+  "title": "Board President, Gilroy Unified School District",
+  "district": "Trustee Area 7",
+  "years_of_service": "Elected to the Gilroy Unified School District Board of Education in November 2018; current term ends 2026, per the district's board directory.",
+  "background": [
+    "Fiack was born in Vietnam and immigrated to the United States at age three, fleeing before the fall of Saigon. She spent her early childhood in Waterloo, Iowa before her family relocated to San Jose. She earned a degree in Business Administration from San Jose State University.",
+    "Her career began as a Juvenile Hall Counselor in Butte County, working with children in the justice system on coping skills, communication, and self-care. She went on to accumulate more than 15 years of business development and corporate management experience across government, technology, insurance, and healthcare sectors. She currently serves as Executive Director of Silicon Valley FACES, a nonprofit focused on building inclusive communities; the district's board directory separately lists her current occupation as \"Chief Program Officer.\" It was not confirmed from sources reviewed whether that title refers to a role at Silicon Valley FACES or elsewhere.",
+    "Her civic and community involvement includes work with the YWCA, participation in the City of Morgan Hill's Inclusive Morgan Hill Campaign, work with the NAACP Youth Council, and speaking engagements at educational institutions on restorative practices. She previously served five years as President of Silicon Valley Crime Stoppers, where she helped implement the Campus Crime Stoppers program.",
+    "Elected to the Gilroy Unified Board of Education in November 2018 representing Trustee Area 7, she presided as Board President over the board's May 28, 2026 meeting at which it voted unanimously to place Measure M, a $295 million facilities bond, on the November 3, 2026 ballot; full detail on that measure is covered in content/measures/scc-measure-m-2026.json and not duplicated here. On the board, she serves as co-chair of the Executive Committee and sits on the Facilities Subcommittee, the South County Youth Task Force, and as liaison to district preschool programs."
+  ],
+  "committee_memberships": [
+    "Gilroy Unified School District Board of Education, Executive Committee (co-chair)",
+    "Gilroy Unified School District Board of Education, Facilities Subcommittee",
+    "South County Youth Task Force (SCYTF)",
+    "Preschool Programs liaison"
+  ],
+  "attendance": "No individually published meeting-attendance or voting-participation record for Board President Fiack was found. Gilroy Unified School District does not appear to publish a per-trustee attendance scorecard on its public board pages; board agendas and minutes are available via the district's meeting-management system (Simbli), which would in principle allow a manual tally of attendance and votes, but compiling that was not feasible within this session's tool budget.",
+  "endorsements_received": [],
+  "past_measures_authored": [
+    {
+      "title": "Measure M, Gilroy Unified School District Building Future Ready Campuses, Renovation, Modernization Measure",
+      "year": "2026",
+      "outcome": "On the November 3, 2026 ballot; outcome not yet known at time of writing.",
+      "source_url": "https://vote.santaclaracounty.gov/list-local-measures-4"
+    }
+  ],
+  "sources": [
+    { "title": "Gilroy Unified School District, Board of Education membership (lists Tuyen Fiack as Board President, Trustee Area 7, term ends 2026, committee assignments)", "url": "https://www.gilroyunified.org/about-us-and-contact/board-of-education", "retrieved": "2026-09-22" },
+    { "title": "Gilroy Unified School District, Tuyen Fiack biography page", "url": "https://www.gilroyunified.org/fs/pages/8123", "retrieved": "2026-09-22" },
+    { "title": "scc-measure-m-2026.json (this voter guide), authorship and sourcing for Tuyen Fiack's role as Board President and the May 28, 2026 vote placing Measure M on the ballot", "url": "https://resources.finalsite.net/images/v1788902237/gusdk12caus/tqi6dssrgnesysurl0gg/MeasureM.pdf", "retrieved": "2026-09-21" },
+    { "title": "Santa Clara County Registrar of Voters, List of Local Measures, November 3, 2026 General Election", "url": "https://vote.santaclaracounty.gov/list-local-measures-4", "retrieved": "2026-09-21" }
+  ],
+  "last_updated": "2026-09-22"
+}
