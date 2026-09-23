@@ -1,0 +1,19 @@
+{
+  "id": "jim-mangia",
+  "name": "Jim Mangia",
+  "type": "initiative_proponent",
+  "title": "President and CEO, St. John's Community Health",
+  "background": [
+    "Mangia is President and CEO of St. John's Community Health, a Los Angeles-area federally qualified health center network. He is one of two initiative co-proponents, alongside Suzanne Jimenez (Chief of Staff, SEIU-United Healthcare Workers West), who filed Proposition 40, the 2026 Billionaire Tax Act, with the California Attorney General on October 22, 2025. Proposition 40 would impose a one-time 5 percent excise tax on the net worth of California residents whose covered assets exceed $1 billion, with 90% of the revenue earmarked for health care, including Medi-Cal, and 10% for K-14 education and food assistance. Full detail on the measure itself, including its mechanics, fiscal estimates, funding, and the campaigns for and against it, is covered in content/measures/ca-prop-40-2026.json and not duplicated here.",
+    "Per Ballotpedia's account of the measure's path to the ballot, the initiative Mangia co-filed was cleared for circulation on December 26, 2025 and the California Secretary of State certified it for the ballot on June 17, 2026 after a signature petition drive that gathered 1,617,675 signatures (980,438 projected valid, against a requirement of 874,641). The measure's principal funder and sponsor is SEIU-United Healthcare Workers West, which Mangia's fellow proponent, Suzanne Jimenez, serves as Chief of Staff.",
+    "I was not able to independently verify Mangia's career history at St. John's Community Health beyond his current title, his prior professional background, education, or other organizations or initiatives he has led. This session's WebSearch tool had exhausted its query budget and firecrawl had exhausted its credit budget before this profile was researched. Direct WebFetch attempts at St. John's Community Health's official website (tried as stjohnshealth.org and stjohnswellchild.org, across several guessed URL paths for an about-us or leadership page) returned 404 errors or DNS failures, a LinkedIn profile URL returned an inaccessible status, and no Wikipedia article for St. John's Community Health was found. Because of that, this profile is limited to Mangia's documented role as a Proposition 40 co-proponent, drawn from the measure's own official filing record and this voter guide's existing sourced research on that measure."
+  ],
+  "past_measures_authored": [],
+  "sources": [
+    { "title": "ca-prop-40-2026.json (this voter guide), authorship and sourcing for Jim Mangia's role as Proposition 40 initiative co-proponent", "url": "https://ballotpedia.org/California_Proposition_40,_One-Time_Wealth_Tax_for_State-Funded_Healthcare,_Education,_and_Food_Assistance_Programs_Initiative_(2026)", "retrieved": "2026-09-20" },
+    { "title": "Official Voter Information Guide, Text of Proposed Laws, Proposition 40 full text (lists Jim Mangia as co-proponent, President and CEO, St. John's Community Health)", "url": "https://vig.cdn.sos.ca.gov/2026/general/pdf/text-proposed-laws.pdf", "retrieved": "2026-09-20" },
+    { "title": "California Secretary of State, Qualified statewide ballot measures, November 2026 general election", "url": "https://www.sos.ca.gov/elections/ballot-measures/qualified-ballot-measures", "retrieved": "2026-09-20" },
+    { "title": "Ballotpedia, California Proposition 40, One-Time Wealth Tax for State-Funded Healthcare, Education, and Food Assistance Programs Initiative (2026)", "url": "https://ballotpedia.org/California_Proposition_40,_One-Time_Wealth_Tax_for_State-Funded_Healthcare,_Education,_and_Food_Assistance_Programs_Initiative_(2026)", "retrieved": "2026-09-22" }
+  ],
+  "last_updated": "2026-09-22"
+}

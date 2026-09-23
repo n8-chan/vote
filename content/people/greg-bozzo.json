@@ -1,0 +1,22 @@
+{
+  "id": "greg-bozzo",
+  "name": "Greg Bozzo",
+  "type": "city_official",
+  "title": "Mayor of Gilroy",
+  "background": [
+    "Bozzo is the sitting Mayor of Gilroy. He signed City Council Resolution No. 2026-30, adopted by a 6-1 Council vote on May 4, 2026 (council members Cline, Fugazzi, Hilton, Marques, Ramirez, and Mayor Bozzo voting yes; council member Bracco voting no), which placed Measure B, the Transient Occupancy Tax increase, on the November 2026 ballot. He is the filer and sole signer of both the official primary argument in favor of Measure B and the rebuttal to the primary argument against it, filed by the Silicon Valley Taxpayers Association. Full detail on the measure itself, including its fiscal estimates and mechanics, is covered in content/measures/scc-measure-b-2026.json and not duplicated here.",
+    "In his rebuttal to the argument against Measure B, Bozzo characterizes the tax increase the measure immediately enacts as 'modest: two percentage points, from 9% to 11%,' and notes that the opposition argument was signed by an outside, countywide advocacy group rather than local officials accountable to Gilroy voters, a framing consistent with his role defending the measure as its lead sponsor.",
+    "I was not able to independently verify Bozzo's pre-council career, education, prior public offices, the year he first joined the Gilroy City Council or became Mayor, committee assignments, or specific named votes beyond his sponsorship of Measure B. This session's WebSearch tool had exhausted its query budget and firecrawl had exhausted its credit budget before this profile was researched. Direct WebFetch attempts at multiple guessed City of Gilroy bio and council-directory URLs (cityofgilroy.org) returned either 404 errors or pages unrelated to city leadership (Fire Prevention, Emergency Preparedness, the site's general disclaimer page), and Wikipedia's Gilroy, California article lists him only by name and title in an infobox with no biographical text. Because of that, years_of_service, district, committee_memberships, voting_record_highlights beyond Measure B, and endorsements_received are left empty or omitted below rather than populated with unverified claims."
+  ],
+  "attendance": "No individually published meeting-attendance or voting-participation record for Mayor Bozzo was found. The City of Gilroy does not appear to publish a per-member attendance scorecard on its public council pages; compiling one manually from Council meeting minutes was not feasible within this session's tool budget (WebSearch and firecrawl both exhausted, and most direct city-site fetches attempted in this session returned 404s or unrelated pages).",
+  "endorsements_received": [],
+  "past_measures_authored": [],
+  "sources": [
+    { "title": "scc-measure-b-2026.json (this voter guide), authorship and sourcing for Greg Bozzo's role as Mayor, sponsor of Council Resolution No. 2026-30, and filer of the primary argument in favor of Measure B and its rebuttal", "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-b-city-of-gilroy_primary-argument_in-favor_8.7.26_redacted.pdf", "retrieved": "2026-09-20" },
+    { "title": "Measure B, City of Gilroy, Transient Occupancy Tax, City Attorney's Impartial Analysis (Andrew L. Faber)", "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-b-city-of-gilroy_ia_8.7.26_redacted.pdf", "retrieved": "2026-09-20" },
+    { "title": "City of Gilroy, Resolution No. 2026-30 (adopted May 4, 2026, 6-1 vote placing Measure B on the ballot)", "url": "https://www.cityofgilroy.org/DocumentCenter/View/20494/2026-30_Resolution_Transient_Occupancy_Tax_Ballot_Measure", "retrieved": "2026-09-20" },
+    { "title": "Wikipedia, Gilroy, California (lists Bozzo as current Mayor, no biographical detail)", "url": "https://en.wikipedia.org/wiki/Gilroy,_California", "retrieved": "2026-09-22" },
+    { "title": "Gilroy Dispatch, City council considers Gilroy hotel tax increase", "url": "https://gilroydispatch.com/city-council-considers-gilroy-hotel-tax-increase/", "retrieved": "2026-09-20" }
+  ],
+  "last_updated": "2026-09-22"
+}

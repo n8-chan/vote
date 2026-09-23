@@ -1,0 +1,23 @@
+{
+  "id": "mark-turner",
+  "name": "Mark Turner",
+  "type": "city_official",
+  "title": "Mayor of Morgan Hill",
+  "years_of_service": "Elected Mayor of Morgan Hill in November 2022; per the City's council directory, his current term runs through December 2026. Morgan Hill Times reporting confirms he is the incumbent Mayor and is one of at least four candidates on the ballot for the office in the November 3, 2026 general election (the same election at which Measure A appears).",
+  "background": [
+    "Turner is the sitting Mayor of Morgan Hill and, per the City of Morgan Hill's official council directory, is an at-large officeholder distinct from the city's four district-seat councilmembers (Districts A through D). He was elected Mayor in November 2022. Morgan Hill Times' 2026 candidate-list coverage confirms he is running for re-election in November 2026 against at least three challengers.",
+    "As Mayor, Turner is the filer and sole signer of the official primary argument in favor of Measure A, the November 2026 ballot measure that would convert Morgan Hill's elected City Treasurer to a City Manager-appointed position. His argument frames the office's technical, low-visibility nature and the difficulty of recruiting qualified candidates through a low-turnout election as the case for the change; full detail on the measure itself, including the Impartial Analysis and fiscal estimates, is covered in content/measures/scc-measure-a-2026.json and not duplicated here. No source reviewed identifies Turner, specifically, as the named sponsor of the underlying City Council resolution that placed Measure A on the ballot; that action was a Council vote ahead of the county's August 2026 filing deadline, and the Impartial Analysis attributes the cost-savings rationale to city staff estimates rather than to a named elected sponsor.",
+    "I was not able to independently verify Turner's pre-council career, education, prior public offices, committee assignments, or specific named votes beyond his authorship of the Measure A argument. This session's WebSearch tool had exhausted its query budget and firecrawl had exhausted its credit budget before this profile was researched, and direct WebFetch attempts at Morgan Hill's official mayoral biography page (morganhill.ca.gov, several guessed URL paths) returned 404 errors; the one Morgan Hill city page that did load (the council directory) lists only his contact information and a note that 'biography available via the city website' without a working link found in this session. Because of that, committee_memberships, voting_record_highlights, and endorsements_received are left empty below rather than populated with unverified claims."
+  ],
+  "attendance": "No individually published meeting-attendance or voting-participation record for Mayor Turner was found. The City of Morgan Hill does not appear to publish a per-member attendance scorecard on its public council pages; City Council meeting minutes and agendas are available via the city's Legistar-based system, which would in principle allow a manual tally of attendance and votes, but compiling that was not feasible within this session's tool budget (WebSearch and firecrawl both exhausted, and direct city-site fetches were inconsistently accessible).",
+  "endorsements_received": [],
+  "past_measures_authored": [],
+  "sources": [
+    { "title": "City of Morgan Hill, City Council directory (Mayor and Council Members)", "url": "https://www.morganhill.ca.gov/147/City-Council", "retrieved": "2026-09-22" },
+    { "title": "Wikipedia, Morgan Hill, California (confirms Turner elected Mayor November 2022)", "url": "https://en.wikipedia.org/wiki/Morgan_Hill,_California", "retrieved": "2026-09-22" },
+    { "title": "Morgan Hill Times, Candidate list is set for mayor, city council election in Morgan Hill", "url": "https://morganhilltimes.com/candidate-list-is-set-for-mayor-city-council-election-in-morgan-hill/", "retrieved": "2026-09-22" },
+    { "title": "scc-measure-a-2026.json (this voter guide), authorship and sourcing for Mark Turner's role as Mayor and filer of the primary argument in favor of Measure A", "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-a-city-of-morgan-hill-appointing-city-treasurer-in-favor_08112026_redacted.pdf", "retrieved": "2026-09-20" },
+    { "title": "Measure A, City of Morgan Hill, City Treasurer Impartial Analysis (City Attorney Elisa Tolentino)", "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-a-city-of-morgan-hill-city-treasurer-ia_08-18-2026_redacted.pdf", "retrieved": "2026-09-20" }
+  ],
+  "last_updated": "2026-09-22"
+}

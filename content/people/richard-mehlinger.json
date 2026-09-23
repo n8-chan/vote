@@ -1,0 +1,26 @@
+{
+  "id": "richard-mehlinger",
+  "name": "Richard Mehlinger",
+  "type": "city_official",
+  "title": "Vice Mayor of Sunnyvale",
+  "district": "Sunnyvale City Council District 5",
+  "background": [
+    "Mehlinger is Vice Mayor of Sunnyvale and represents District 5 on the City Council. He is a co-signer of the primary arguments in favor of all three City Charter amendments Sunnyvale voters face on the November 2026 ballot: Measure G (public-works contracting method), Measure H (City Manager claim-settlement authority), and Measure I (Council-vacancy timing), and of the rebuttals defending Measures G and I. Full detail on each measure, including their City Attorney Impartial Analyses, fiscal narratives, and the arguments for and against, is covered in content/measures/scc-measure-g-2026.json, scc-measure-h-2026.json, and scc-measure-i-2026.json and not duplicated here.",
+    "Per the City of Sunnyvale's Impartial Analyses and the authors listed in the underlying measure files, Mehlinger moved approval of the staff recommendation to place Measures G, H, and I on the ballot at the City Council's June 23, 2026 meeting, where the Council voted unanimously, 7-0. Silicon Valley Voice's coverage of Measure G quotes him describing the goal of the public-works contracting change as helping ensure 'the continued smooth and efficient functioning of Sunnyvale city government.'",
+    "I was not able to independently verify Mehlinger's pre-council career, education, prior public offices, the year he first joined the Council or became Vice Mayor, committee assignments, or specific named votes beyond his co-sponsorship of Measures G, H, and I. This session's WebSearch tool had exhausted its query budget and firecrawl had exhausted its credit budget before this profile was researched, and direct WebFetch attempts at the City of Sunnyvale's official council pages (sunnyvale.ca.gov) returned 403 Forbidden responses throughout this session; Wikipedia's Sunnyvale, California article names him as the current Vice Mayor but provides no biographical text beyond that, and a Silicon Valley Voice article expected to contain further quotes or detail returned no additional biographical content when fetched directly. Because of that, years_of_service, committee_memberships, and endorsements_received are left empty or omitted below rather than populated with unverified claims."
+  ],
+  "voting_record_highlights": [
+    "Measures G, H, and I (2026), City of Sunnyvale Charter amendments: Mehlinger moved approval of the staff recommendation to place all three measures on the November 2026 ballot at the City Council's June 23, 2026 meeting, where the Council voted unanimously (7-0); he co-signed the primary arguments in favor of all three and the rebuttals defending Measures G and I. (Source: City of Sunnyvale City Attorney's Impartial Analyses of Measures G, H, and I; Citizen Portal, 'Sunnyvale council places three charter amendments on November ballot after weeks of review.')"
+  ],
+  "attendance": "No individually published meeting-attendance or voting-participation record for Vice Mayor Mehlinger was found. The City of Sunnyvale does not appear to publish a per-member attendance scorecard on its public-facing pages; City Council meeting minutes and agendas are available via the city's Legistar-based system, which would in principle allow a manual tally of attendance and votes, but compiling that was not feasible within this session's tool budget (WebSearch and firecrawl both exhausted, and direct fetches of sunnyvale.ca.gov returned 403 Forbidden throughout this session).",
+  "endorsements_received": [],
+  "past_measures_authored": [],
+  "sources": [
+    { "title": "scc-measure-g-2026.json (this voter guide), authorship and sourcing for Richard Mehlinger's role as Vice Mayor and co-signer of the primary argument in favor of Measure G", "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-g-city-of-sunnyvale_charter-amendment-ia_08-18-2026_redacted.pdf", "retrieved": "2026-09-21" },
+    { "title": "scc-measure-h-2026.json (this voter guide), authorship and sourcing for Richard Mehlinger's role as Vice Mayor and co-signer of the primary argument in favor of Measure H", "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-h-city-of-sunnyvale_charter-amendment_city-manager-settlement-ia_08-18-2026_redacted.pdf", "retrieved": "2026-09-21" },
+    { "title": "scc-measure-i-2026.json (this voter guide), authorship and sourcing for Richard Mehlinger's role as Vice Mayor and co-signer of the primary argument in favor of Measure I", "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-i-city-of-sunnyvale_charter-amendment-appointed-incumbent-to-serve-ia_08-18-2026_redacted.pdf", "retrieved": "2026-09-21" },
+    { "title": "Silicon Valley Voice, Sunnyvale to Ask Voters to Change City Charter", "url": "https://www.svvoice.com/sunnyvale-to-ask-voters-to-change-city-charter/", "retrieved": "2026-09-21" },
+    { "title": "Wikipedia, Sunnyvale, California (confirms Mehlinger as current Vice Mayor)", "url": "https://en.wikipedia.org/wiki/Sunnyvale,_California", "retrieved": "2026-09-22" }
+  ],
+  "last_updated": "2026-09-22"
+}
