@@ -138,11 +138,13 @@
   "authors": [
     {
       "name": "Barbara Loebner",
-      "role": "Initiative co-proponent; co-filed the Notice of Intent to Circulate with the Los Altos City Clerk on March 17, 2026, and filed the official primary argument in favor of Measure D."
+      "role": "Initiative co-proponent; co-filed the Notice of Intent to Circulate with the Los Altos City Clerk on March 17, 2026, and filed the official primary argument in favor of Measure D.",
+      "person_id": "barbara-loebner"
     },
     {
       "name": "Lucinda 'Cindy' Langley-Andrews",
-      "role": "Initiative co-proponent; co-filed the Notice of Intent to Circulate on March 17, 2026, and is quoted as campaign spokesperson 'Cindy Andrews' in Palo Alto Daily Post reporting on the measure's origins."
+      "role": "Initiative co-proponent; co-filed the Notice of Intent to Circulate on March 17, 2026, and is quoted as campaign spokesperson 'Cindy Andrews' in Palo Alto Daily Post reporting on the measure's origins.",
+      "person_id": "lucinda-langley-andrews"
     }
   ],
   "funding": {

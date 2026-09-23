@@ -80,23 +80,28 @@
   "authors": [
     {
       "name": "Theresa Bond",
-      "role": "Board President, Los Gatos-Saratoga Union High School District Board of Trustees."
+      "role": "Board President, Los Gatos-Saratoga Union High School District Board of Trustees.",
+      "person_id": "theresa-bond"
     },
     {
       "name": "Katherine Tseng",
-      "role": "Board Vice President, Los Gatos-Saratoga Union High School District Board of Trustees."
+      "role": "Board Vice President, Los Gatos-Saratoga Union High School District Board of Trustees.",
+      "person_id": "katherine-tseng"
     },
     {
       "name": "Shawn Mortensen",
-      "role": "Board Clerk, Los Gatos-Saratoga Union High School District Board of Trustees."
+      "role": "Board Clerk, Los Gatos-Saratoga Union High School District Board of Trustees.",
+      "person_id": "shawn-mortensen"
     },
     {
       "name": "Steve Chen",
-      "role": "Trustee, Los Gatos-Saratoga Union High School District Board of Trustees."
+      "role": "Trustee, Los Gatos-Saratoga Union High School District Board of Trustees.",
+      "person_id": "steve-chen"
     },
     {
       "name": "Heath Rocha",
-      "role": "Superintendent, Los Gatos-Saratoga Union High School District."
+      "role": "Superintendent, Los Gatos-Saratoga Union High School District.",
+      "person_id": "heath-rocha"
     }
   ],
   "nonpartisan_analysis": [],

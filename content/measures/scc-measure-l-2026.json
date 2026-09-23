@@ -77,11 +77,13 @@
   "authors": [
     {
       "name": "Kitty Moore",
-      "role": "Mayor of Cupertino; co-author of the primary argument in favor of the council-referred measure."
+      "role": "Mayor of Cupertino; co-author of the primary argument in favor of the council-referred measure.",
+      "person_id": "kitty-moore"
     },
     {
       "name": "Sheila Mohan",
-      "role": "Cupertino City Councilmember; co-author of the primary argument in favor of the council-referred measure."
+      "role": "Cupertino City Councilmember; co-author of the primary argument in favor of the council-referred measure.",
+      "person_id": "sheila-mohan"
     }
   ],
   "nonpartisan_analysis": [

@@ -101,11 +101,13 @@
   "authors": [
     {
       "name": "Emily Ann Ramos",
-      "role": "Mayor of Mountain View; filer and lead signer of the primary argument in favor of Measure F. The City Council placed the measure on the ballot by unanimous vote on June 23, 2026; no single councilmember is named as the resolution's individual sponsor."
+      "role": "Mayor of Mountain View; filer and lead signer of the primary argument in favor of Measure F. The City Council placed the measure on the ballot by unanimous vote on June 23, 2026; no single councilmember is named as the resolution's individual sponsor.",
+      "person_id": "emily-ann-ramos"
     },
     {
       "name": "Arn Andrews",
-      "role": "Assistant City Manager; prepared the June 23, 2026 council report recommending the ballot measure and drafted the ballot question and ordinance language, approved by City Manager Kimbra McCarthy."
+      "role": "Assistant City Manager; prepared the June 23, 2026 council report recommending the ballot measure and drafted the ballot question and ordinance language, approved by City Manager Kimbra McCarthy.",
+      "person_id": "arn-andrews"
     }
   ],
   "nonpartisan_analysis": [

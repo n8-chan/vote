@@ -205,19 +205,23 @@
   "authors": [
     {
       "name": "Jesse Gabriel",
-      "role": "Lead Assembly author"
+      "role": "Lead Assembly author",
+      "person_id": "jesse-gabriel"
     },
     {
       "name": "Avelino Valencia",
-      "role": "Lead Assembly author"
+      "role": "Lead Assembly author",
+      "person_id": "avelino-valencia"
     },
     {
       "name": "Melissa Hurtado",
-      "role": "Lead Senate author"
+      "role": "Lead Senate author",
+      "person_id": "melissa-hurtado"
     },
     {
       "name": "John Laird",
-      "role": "Lead Senate author"
+      "role": "Lead Senate author",
+      "person_id": "john-laird"
     }
   ],
   "funding": {

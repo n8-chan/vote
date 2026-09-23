@@ -88,11 +88,13 @@
   "authors": [
     {
       "name": "Larry Klein",
-      "role": "Sunnyvale Mayor; filer of the primary argument in favor of Measure H, following the City Council's vote to place the Charter Review Committee's recommended amendment on the ballot."
+      "role": "Sunnyvale Mayor; filer of the primary argument in favor of Measure H, following the City Council's vote to place the Charter Review Committee's recommended amendment on the ballot.",
+      "person_id": "larry-klein"
     },
     {
       "name": "Richard Mehlinger",
-      "role": "Sunnyvale Vice Mayor; moved approval of the staff recommendation to place Measure H, alongside companion Measures G and I, on the ballot at the City Council's June 23, 2026 meeting; co-signer of the primary argument in favor."
+      "role": "Sunnyvale Vice Mayor; moved approval of the staff recommendation to place Measure H, alongside companion Measures G and I, on the ballot at the City Council's June 23, 2026 meeting; co-signer of the primary argument in favor.",
+      "person_id": "richard-mehlinger"
     }
   ],
   "nonpartisan_analysis": [

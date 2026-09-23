@@ -148,11 +148,13 @@
   "authors": [
     {
       "name": "Josh Newman",
-      "role": "Lead Senate author of SCA 1; state Senator, District 29"
+      "role": "Lead Senate author of SCA 1; state Senator, District 29",
+      "person_id": "josh-newman"
     },
     {
       "name": "Isaac Bryan",
-      "role": "Assembly coauthor of SCA 1; Assemblymember, District 55"
+      "role": "Assembly coauthor of SCA 1; Assemblymember, District 55",
+      "person_id": "isaac-bryan"
     }
   ],
   "nonpartisan_analysis": [

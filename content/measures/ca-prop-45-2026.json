@@ -9,7 +9,7 @@
   "what_it_really_means": [
     "Nothing about CEQA's substantive standards changes, and using this chapter is optional. An applicant for an eligible project can choose the new procedures, the old procedures, or a mix, and a lead agency keeps full authority to approve, deny, or require the no-project alternative regardless of which track the applicant picks. What Proposition 45 changes is procedure: how long agencies have to decide, how many alternatives get studied, how long the public gets to comment, which tribes get consulted, and how much a court can second-guess or unwind the result. The measure's own findings state it \"maintains state and federal clean air, clean water, and environmental protection laws,\" and that claim is accurate as far as it goes, because CEQA's substantive review requirement is not repealed, only its procedural mechanics for eligible projects.",
     "Eligibility is defined narrowly in one place, Public Resources Code Section 21028, and the boundaries matter more than the ballot title suggests. Eight categories qualify: essential housing, clean energy, water, public health (medical treatment facilities only), public safety (first-responder facilities and wildfire risk reduction, but not jails or detention facilities), broadband, education facilities, and transportation (but not high-speed rail). Only two exclusions apply chapter-wide: no jail or other detention facility, and no new oil or natural gas production facility. Beyond that, each category carries its own carve-out: clean energy excludes nuclear power; water excludes the Delta Conveyance Project by name; transportation excludes the entire high-speed rail system by name. Those three exclusions read as deliberate concessions to specific, named political fights, not neutral line-drawing.",
-      "Essential housing is defined with almost no limiting principle at all. The statute's list is \"residential units only,\" mixed-use development, transitional and supportive housing, farmworker housing, group living accommodations, student housing, senior housing units \"of any size,\" any subdivision or common-interest development of residential units or unimproved lots, and any conversion of a commercial building to residential use. There is no income limit, no affordability requirement, no unit-count floor or ceiling anywhere in this definition. A market-rate luxury subdivision or a senior condominium tower qualifies exactly as easily as a low-income apartment complex. The chapter is titled the \"Building an Affordable California Act,\" but nothing in the housing definition ties the streamlined process to affordability; it applies to housing of every kind and price point.",
+    "Essential housing is defined with almost no limiting principle at all. The statute's list is \"residential units only,\" mixed-use development, transitional and supportive housing, farmworker housing, group living accommodations, student housing, senior housing units \"of any size,\" any subdivision or common-interest development of residential units or unimproved lots, and any conversion of a commercial building to residential use. There is no income limit, no affordability requirement, no unit-count floor or ceiling anywhere in this definition. A market-rate luxury subdivision or a senior condominium tower qualifies exactly as easily as a low-income apartment complex. The chapter is titled the \"Building an Affordable California Act,\" but nothing in the housing definition ties the streamlined process to affordability; it applies to housing of every kind and price point.",
     "A specific and legally significant gap concerns data centers. Richard Frank, a senior fellow at the UC Davis School of Law's California Environmental Law & Policy Center, and land use attorney Matthew McKerley, argued in the official ballot pamphlet debate that the drafters \"explicitly excluded a long list of controversial projects\" by name, including high-speed rail, the Delta Conveyance Project, nuclear generation, jails, immigration detention facilities, prisons, and oil and gas facilities, and that data centers are \"conspicuously absent\" from that exclusion list. I read the definitions article myself and confirmed no data center exclusion exists anywhere in the text. Under the statutory-construction principle they invoke, a court could read that silence as intentional. Mechanically, a data center is not itself one of the eight named essential-project categories, but Section 21028(m)(1)(B) defines an essential project to include \"all related and ancillary public, private, and utility infrastructure\" that a utility or agency requires to serve a qualifying project, including electric and telecommunication infrastructure. A data center bundled into an application built around qualifying clean-energy or broadband infrastructure, such as an on-site microgrid or a broadband buildout, is the scenario Frank and McKerley are describing.",
     "The labor standard applied to essential housing is weaker than the standard applied to every other category, and this asymmetry sits inside the definitions themselves rather than anywhere the ballot title would surface it. Each of the other seven categories, clean energy, water, public health, public safety, broadband, education, and transportation, carries an explicit sentence in its own definition: the project \"shall comply with all labor requirements described in Section 21183.5\" of the Public Resources Code, the prevailing-wage and skilled-and-trained-workforce standard used in prior CEQA streamlining statutes such as the Jobs and Economic Improvement Through Environmental Leadership Act. Essential housing project, defined immediately before that recurring clause first appears, has no such sentence. Instead, a separate provision in Section 21015(c) applies prevailing wage to essential housing only for \"buildings over 85 feet in height above grade.\" A garden-style apartment complex or a subdivision of single-family homes using this chapter is not bound by the labor standard that every other essential-project category must meet.",
     "The timelines are real and specific, not aspirational. A public agency has 30 days to find an application complete or it is deemed complete automatically; 90 days to determine a project is exempt; 365 business days to certify an environmental impact report once the application is complete; 180 days for a negative declaration; and public comment on an EIR is capped at 45 days (20 days for a negative declaration), reversing current law, which sets those numbers as a floor rather than a ceiling. A lawsuit challenging an essential project's approval must be filed within 30 days of the notice of determination and resolved, including any appeal, within 270 days, extendable by the court on its own initiative by up to 90 more days, and beyond that only by written consent of the plaintiff, the agency, and the applicant.",
@@ -172,7 +172,8 @@
   "authors": [
     {
       "name": "Kurt R. Oneto",
-      "role": "Initiative proponent and filer of record, on behalf of the California Chamber of Commerce; partner at Nielsen Merksamer LLP, a California law firm specializing in ballot-measure and initiative law that has represented proponents or opponents of more than 435 California ballot measures."
+      "role": "Initiative proponent and filer of record, on behalf of the California Chamber of Commerce; partner at Nielsen Merksamer LLP, a California law firm specializing in ballot-measure and initiative law that has represented proponents or opponents of more than 435 California ballot measures.",
+      "person_id": "kurt-oneto"
     }
   ],
   "funding": {
@@ -181,11 +182,26 @@
         "name": "Yes on 45 - Building a More Affordable California",
         "total_raised": "$25,950,000 (FPPC top-contributor list, current as of September 17, 2026)",
         "top_donors": [
-          { "name": "Building a Better California", "amount": "$10,000,000" },
-          { "name": "California Building Industry Association Issues Committee", "amount": "$5,350,000" },
-          { "name": "California Building Industry Association", "amount": "$2,250,000" },
-          { "name": "CalChamber Non-Donor Funds", "amount": "$2,000,000" },
-          { "name": "Edison International & Affiliated Entities", "amount": "$2,000,000" }
+          {
+            "name": "Building a Better California",
+            "amount": "$10,000,000"
+          },
+          {
+            "name": "California Building Industry Association Issues Committee",
+            "amount": "$5,350,000"
+          },
+          {
+            "name": "California Building Industry Association",
+            "amount": "$2,250,000"
+          },
+          {
+            "name": "CalChamber Non-Donor Funds",
+            "amount": "$2,000,000"
+          },
+          {
+            "name": "Edison International & Affiliated Entities",
+            "amount": "$2,000,000"
+          }
         ],
         "source_url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/"
       }
@@ -195,10 +211,22 @@
         "name": "No on Prop 45 - Sponsored by Labor, Health and Environmental Organizations",
         "total_raised": "$14,534,607.25 (FPPC top-contributor list, current as of September 17, 2026)",
         "top_donors": [
-          { "name": "Clean and Healthy California", "amount": "$7,034,750" },
-          { "name": "Wendy Schmidt", "amount": "$5,000,000" },
-          { "name": "State Building & Construction Trades Council entities", "amount": "$1,999,857.25" },
-          { "name": "District Council of Iron Workers PAC", "amount": "$500,000" }
+          {
+            "name": "Clean and Healthy California",
+            "amount": "$7,034,750"
+          },
+          {
+            "name": "Wendy Schmidt",
+            "amount": "$5,000,000"
+          },
+          {
+            "name": "State Building & Construction Trades Council entities",
+            "amount": "$1,999,857.25"
+          },
+          {
+            "name": "District Council of Iron Workers PAC",
+            "amount": "$500,000"
+          }
         ],
         "source_url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/"
       }

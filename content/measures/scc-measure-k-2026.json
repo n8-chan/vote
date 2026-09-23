@@ -99,11 +99,13 @@
   "authors": [
     {
       "name": "Carmen Montano",
-      "role": "Mayor of Milpitas; presided over and signed City Council Resolution No. 9533 (adopted 5-0 on August 3, 2026) placing Measure K on the ballot."
+      "role": "Mayor of Milpitas; presided over and signed City Council Resolution No. 9533 (adopted 5-0 on August 3, 2026) placing Measure K on the ballot.",
+      "person_id": "carmen-montano"
     },
     {
       "name": "Willie Hopkins",
-      "role": "City Manager of Milpitas; per Milpitas Beat and PublicCEO reporting, led the roughly six-month business-community engagement process, including a Small Business Roundtable, that shaped the measure's design before it was brought to the Council."
+      "role": "City Manager of Milpitas; per Milpitas Beat and PublicCEO reporting, led the roughly six-month business-community engagement process, including a Small Business Roundtable, that shaped the measure's design before it was brought to the Council.",
+      "person_id": "willie-hopkins"
     }
   ],
   "nonpartisan_analysis": [

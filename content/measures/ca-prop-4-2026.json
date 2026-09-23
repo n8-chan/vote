@@ -239,91 +239,113 @@
   "authors": [
     {
       "name": "Tom Umberg",
-      "role": "Lead Senate author"
+      "role": "Lead Senate author",
+      "person_id": "tom-umberg"
     },
     {
       "name": "Ben Allen",
-      "role": "Lead Senate author"
+      "role": "Lead Senate author",
+      "person_id": "ben-allen"
     },
     {
       "name": "Sabrina Cervantes",
-      "role": "Lead Senate author"
+      "role": "Lead Senate author",
+      "person_id": "sabrina-cervantes"
     },
     {
       "name": "Josh Becker",
-      "role": "Principal Senate coauthor"
+      "role": "Principal Senate coauthor",
+      "person_id": "josh-becker"
     },
     {
       "name": "Catherine Blakespear",
-      "role": "Principal Senate coauthor"
+      "role": "Principal Senate coauthor",
+      "person_id": "catherine-blakespear"
     },
     {
       "name": "Henry Stern",
-      "role": "Principal Senate coauthor"
+      "role": "Principal Senate coauthor",
+      "person_id": "henry-stern"
     },
     {
       "name": "Marc Berman",
-      "role": "Principal Assembly coauthor"
+      "role": "Principal Assembly coauthor",
+      "person_id": "marc-berman"
     },
     {
       "name": "Ash Kalra",
-      "role": "Principal Assembly coauthor"
+      "role": "Principal Assembly coauthor",
+      "person_id": "ash-kalra"
     },
     {
       "name": "Alex Lee",
-      "role": "Principal Assembly coauthor"
+      "role": "Principal Assembly coauthor",
+      "person_id": "alex-lee"
     },
     {
       "name": "Gail Pellerin",
-      "role": "Principal Assembly coauthor"
+      "role": "Principal Assembly coauthor",
+      "person_id": "gail-pellerin"
     },
     {
       "name": "Jesse Arreguín",
-      "role": "Senate coauthor"
+      "role": "Senate coauthor",
+      "person_id": "jesse-arreguin"
     },
     {
       "name": "Dave Cortese",
-      "role": "Senate coauthor"
+      "role": "Senate coauthor",
+      "person_id": "dave-cortese"
     },
     {
       "name": "Jerry McNerney",
-      "role": "Senate coauthor"
+      "role": "Senate coauthor",
+      "person_id": "jerry-mcnerney"
     },
     {
       "name": "Sasha Renée Pérez",
-      "role": "Senate coauthor"
+      "role": "Senate coauthor",
+      "person_id": "sasha-renee-perez"
     },
     {
       "name": "Scott Wiener",
-      "role": "Senate coauthor"
+      "role": "Senate coauthor",
+      "person_id": "scott-wiener"
     },
     {
       "name": "Steve Bennett",
-      "role": "Assembly coauthor"
+      "role": "Assembly coauthor",
+      "person_id": "steve-bennett"
     },
     {
       "name": "Matt Haney",
-      "role": "Assembly coauthor"
+      "role": "Assembly coauthor",
+      "person_id": "matt-haney"
     },
     {
       "name": "Liz Ortega",
-      "role": "Assembly coauthor"
+      "role": "Assembly coauthor",
+      "person_id": "liz-ortega"
     },
     {
       "name": "Chris Rogers",
-      "role": "Assembly coauthor"
+      "role": "Assembly coauthor",
+      "person_id": "chris-rogers"
     },
     {
       "name": "Pilar Schiavo",
-      "role": "Assembly coauthor"
+      "role": "Assembly coauthor",
+      "person_id": "pilar-schiavo"
     },
     {
       "name": "Nick Schultz",
-      "role": "Assembly coauthor"
+      "role": "Assembly coauthor",
+      "person_id": "nick-schultz"
     },
     {
       "name": "Jose Luis Solache Jr.",
-      "role": "Assembly coauthor"
+      "role": "Assembly coauthor",
+      "person_id": "jose-luis-solache-jr"
     }
   ],
   "funding": {

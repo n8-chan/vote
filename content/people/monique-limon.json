@@ -1,0 +1,57 @@
+{
+  "id": "monique-limon",
+  "name": "Monique Limón",
+  "type": "state_legislator",
+  "title": "California State Senator, Senate President pro Tempore",
+  "district": "California State Senate District 21 (Santa Barbara County and portions of Ventura and San Luis Obispo Counties; represented as District 19 from December 2020 until the 2024 redistricting cycle)",
+  "years_of_service": "California State Assembly, December 2016–November 2020 (District 37, succeeding Das Williams; re-elected 2018 with 80.4% of the general-election vote). California State Senate, December 2020–present (elected 2020 with 64.5% of the general-election vote, succeeding Hannah-Beth Jackson; re-elected 2024, after redistricting moved her seat to District 21, with 63.3%). Elected Senate President pro Tempore by her Senate Democratic colleagues on June 9, 2025, becoming the first woman of color and the first Latina to hold the position. California's Proposition 28 (2012) caps total legislative service at 12 years across both houses; an official source specifically confirming Limón's remaining term-limit eligibility was not located for this profile, so no end date is asserted here beyond her current term. (Source: en.wikipedia.org/wiki/Monique_Limón; sd21.senate.ca.gov/biography.)",
+  "background": [
+    "Limón is an English-language learner and the daughter of immigrants. She earned a B.A. from the University of California, Berkeley, and an M.A. from Columbia University. Before running for office she spent more than 14 years working in higher education at UC Santa Barbara and Santa Barbara City College, including as Assistant Director of the McNair Scholars Program at UCSB, and she served on the Santa Barbara County Commission for Women. (Source: en.wikipedia.org/wiki/Monique_Limón; official Senate biography, sd21.senate.ca.gov/biography.)",
+    "She served six years on the Santa Barbara Unified School District Board of Education (2010–2016) before being elected to the California State Assembly in 2016 to represent District 37, succeeding termed-out Assemblymember Das Williams. In 2017, Governor Jerry Brown signed a bill she authored directing the state to develop a model Native American studies curriculum for high schools. She was re-elected to the Assembly in 2018 with 80.4% of the vote. (Source: en.wikipedia.org/wiki/Monique_Limón.)",
+    "Limón was elected to the State Senate in November 2020 (then District 19), succeeding Hannah-Beth Jackson, with 64.5% of the general-election vote, and was re-elected in 2024 — after redistricting moved her seat to District 21 — with 63.3% of the vote. In the Senate she has authored legislation on wildfire prevention (including bills addressing prescribed grazing in 2023 and prescribed burning in 2024) and chaired the Senate Democratic Caucus from 2023 to 2025. On June 9, 2025, her Senate Democratic colleagues unanimously elected her Senate President pro Tempore, making her the first woman of color and first Latina to hold that post; on June 17, 2026, while serving as Acting Governor, she became the first Latina pro Tempore in California history to sign legislation into law in that capacity. (Source: en.wikipedia.org/wiki/Monique_Limón; senate.ca.gov/senators.)"
+  ],
+  "committee_memberships": [
+    "Chair, Senate Natural Resources and Water Committee",
+    "Chair, Banking and Financial Institutions Committee (chaired in both the Assembly and the Senate over her career)",
+    "Former Chair, Senate Democratic Caucus (2023–2025)",
+    "Former Vice Chair, Legislative Women's Caucus (2019–2020, 2024–2025)",
+    "Note: as Senate President pro Tempore, Limón's committee posture typically shifts toward Rules Committee-related leadership duties rather than standing-committee chairs; her official, current committee roster page (sd21.senate.ca.gov/committees) returned an access error (HTTP 403) during research for this profile and could not be independently verified, so this list should be read as her most recently confirmed committee history rather than a guaranteed current roster."
+  ],
+  "voting_record_highlights": [
+    "AB 539 (2019), the Fair Access to Credit Act, capping interest rates on consumer installment loans of $2,500–$10,000 at 36% plus the federal funds rate: Limón was a lead author (with Gonzalez and Grayson). The Assembly concurred in Senate amendments 61–8 on September 13, 2019, and Governor Gavin Newsom signed it October 10, 2019 as Chapter 708, Statutes of 2019. (Source: leginfo.legislature.ca.gov bill status for AB 539, 2019–2020.)",
+    "SB 1162 (2022), the Pay Transparency for Pay Equity Act, requiring employers with 15 or more employees to disclose pay scales in job postings and employers with 100 or more employees to file annual pay-data reports by race, ethnicity, and sex: Limón authored the bill. Governor Newsom signed it September 27, 2022 as Chapter 559, Statutes of 2022. (Source: leginfo.legislature.ca.gov bill text/status for SB 1162, 2021–2022.)",
+    "SB 1061 (2024), removing medical debt from consumer credit reports and setting hospital record-keeping requirements: Limón authored the bill (with Becker as coauthor). The Senate concurred in Assembly amendments 31–8 on August 28, 2024, and Governor Newsom signed it September 24, 2024 as Chapter 520, Statutes of 2024. (Source: leginfo.legislature.ca.gov bill status for SB 1061, 2023–2024.)"
+  ],
+  "attendance": "No individually published floor-attendance or voting-participation scorecard for Senator Limón was found. The California State Senate does not publish a per-member attendance record; the only public records located are bill-by-bill roll-call votes at leginfo.legislature.ca.gov, which is what the voting-record entries above are drawn from. An attempt to check CalMatters' Digital Democracy tool for a supplementary vote-alignment or attendance metric returned a 404 (page not found) at the URL tried, so that source could not be confirmed or used for this profile.",
+  "endorsements_received": [],
+  "past_measures_authored": [
+    {
+      "title": "AB 539 (2019) — Fair Access to Credit Act, capping interest rates on consumer installment loans of $2,500–$10,000",
+      "year": "2019",
+      "outcome": "Signed into law by Gov. Gavin Newsom on October 10, 2019 (Assembly concurrence vote 61–8); Chapter 708, Statutes of 2019.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201920200AB539"
+    },
+    {
+      "title": "SB 1162 (2022) — Pay Transparency for Pay Equity Act",
+      "year": "2022",
+      "outcome": "Signed into law by Gov. Gavin Newsom on September 27, 2022; Chapter 559, Statutes of 2022.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1162"
+    },
+    {
+      "title": "SB 1061 (2024) — removing medical debt from consumer credit reports",
+      "year": "2024",
+      "outcome": "Signed into law by Gov. Gavin Newsom on September 24, 2024 (Senate concurrence vote 31–8); Chapter 520, Statutes of 2024.",
+      "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240SB1061"
+    }
+  ],
+  "sources": [
+    { "title": "Official California State Senate biography, Senator Monique Limón (SD 21)", "url": "https://sd21.senate.ca.gov/biography", "retrieved": "2026-09-22" },
+    { "title": "Official California State Senate, Senator Monique Limón district homepage", "url": "https://sd21.senate.ca.gov/", "retrieved": "2026-09-22" },
+    { "title": "California State Senate, roster of current senators (district, party, offices)", "url": "https://senate.ca.gov/senators", "retrieved": "2026-09-22" },
+    { "title": "Wikipedia, Monique Limón", "url": "https://en.wikipedia.org/wiki/Monique_Lim%C3%B3n", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, AB 539 (2019–2020) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201920200AB539", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 1162 (2021–2022) bill text/status", "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220SB1162", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 1061 (2023–2024) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240SB1061", "retrieved": "2026-09-22" }
+  ],
+  "last_updated": "2026-09-22"
+}

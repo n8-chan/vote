@@ -173,7 +173,8 @@
   "authors": [
     {
       "name": "Gary K. Michelson",
-      "role": "Initiative proponent, filed with the Attorney General on October 28, 2025; co-founder and board chair, California Institute for Immunology and Immunotherapy"
+      "role": "Initiative proponent, filed with the Attorney General on October 28, 2025; co-founder and board chair, California Institute for Immunology and Immunotherapy",
+      "person_id": "gary-k-michelson"
     }
   ],
   "funding": {
@@ -182,9 +183,18 @@
         "name": "Yes on 38: Californians for Life-Saving Immunology Research and Cures, sponsored by the Michelson Center for Public Policy",
         "total_raised": "$13,200,000 in contributions through June 30, 2026 per Ballotpedia's processed filings. FPPC's live top-contributor list, reflecting later reporting, shows this committee's largest contributor as a related sponsoring entity, Michelson Center for Public Policy, Inc. - Yes on 38, at $13,000,000, in addition to direct contributions already reported by Ballotpedia; the two sources describe overlapping but not identical totals because they reflect different filing periods.",
         "top_donors": [
-          { "name": "Michelson Center for Public Policy, Inc. - Yes on 38 (sponsoring 501(c)(4) committee)", "amount": "$13,000,000" },
-          { "name": "Gary K. Michelson and Affiliated Entity Michelson Center for Public Policy", "amount": "$8,200,000" },
-          { "name": "Meyer Luskin", "amount": "$5,000,000" }
+          {
+            "name": "Michelson Center for Public Policy, Inc. - Yes on 38 (sponsoring 501(c)(4) committee)",
+            "amount": "$13,000,000"
+          },
+          {
+            "name": "Gary K. Michelson and Affiliated Entity Michelson Center for Public Policy",
+            "amount": "$8,200,000"
+          },
+          {
+            "name": "Meyer Luskin",
+            "amount": "$5,000,000"
+          }
         ],
         "source_url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/"
       },
@@ -192,7 +202,10 @@
         "name": "Michelson Center for Public Policy, Inc. - Yes on 38 (nonprofit 501(c)(4))",
         "total_raised": "$10,000,000, entirely from Gary K. Michelson, per FPPC's top-contributor list. This committee is a sponsoring entity that in turn contributed $13,000,000 to the main Yes on 38 ballot measure committee.",
         "top_donors": [
-          { "name": "Gary K. Michelson", "amount": "$10,000,000" }
+          {
+            "name": "Gary K. Michelson",
+            "amount": "$10,000,000"
+          }
         ],
         "source_url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/"
       }

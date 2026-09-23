@@ -44,7 +44,7 @@
     "The Department of Public Health's waiver process is described as \"solely and exclusively\" within its discretion, with detailed factors for the clinic to document but no explicit standard of review or appeal path if a waiver is denied, unlike the formal hearing process available to a clinic that disputes its Mission Spend Ratio calculation or penalty amount.",
     "Because the reporting baseline is drawn from each clinic's own 2024 IRS Form 990, and the Attorney General is authorized to \"adjust\" both the numerator and denominator based on guidance issued after the fact, the practical spending floor a given clinic must hit is not fully knowable at the time voters cast a ballot on the measure.",
     "The measure exempts the Attorney General's guidance-issuing process under this section from the Administrative Procedure Act's normal rulemaking requirements (notice, comment, formal adoption), and separately states that Health and Safety Code Section 1229.1 does not apply to violations based on standards adopted this way — reducing the normal procedural and appeal safeguards that would otherwise apply to a new binding regulatory standard of this kind."
-    ],
+  ],
   "unexpected_provisions": [
     "Section 5142.1 of the Corporations Code, added by this measure, lets any patient of a non-compliant clinic sue that clinic for breach of charitable trust — a cause of action normally brought only by the state Attorney General — and explicitly bars the clinic from raising good-faith conduct or the business-judgment rule as a defense, which are the standard legal protections nonprofit board members rely on when their spending and operating decisions are challenged in court. Nothing in the ballot title or summary flags this new avenue for private lawsuits against clinics.",
     "The measure creates a new criminal offense: a clinic director, officer, or agent who knowingly misreports the spending or revenue figures, or knowingly routes funds through a related party intending to artificially inflate the Mission Spend Ratio, faces a felony under the state's realignment sentencing law or up to a year in county jail. A ballot title about a spending percentage does not suggest new individual criminal liability for clinic executives.",
@@ -150,7 +150,8 @@
   "authors": [
     {
       "name": "Shawna Brown",
-      "role": "Initiative proponent; signed the official ballot argument in favor and its rebuttal as the measure's proponent of record."
+      "role": "Initiative proponent; signed the official ballot argument in favor and its rebuttal as the measure's proponent of record.",
+      "person_id": "shawna-brown"
     }
   ],
   "funding": {
@@ -159,7 +160,10 @@
         "name": "Californians for Responsible Healthcare, Sponsored by Service Employees International Union - United Healthcare Workers West",
         "total_raised": "$16,929,633.88 (FPPC top-contributor list, current as of September 2026)",
         "top_donors": [
-          { "name": "SEIU United Health Care Workers West Political Issues Committee", "amount": "$16,929,633.88" }
+          {
+            "name": "SEIU United Health Care Workers West Political Issues Committee",
+            "amount": "$16,929,633.88"
+          }
         ],
         "source_url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/"
       }
@@ -169,16 +173,46 @@
         "name": "Protect Patients: Stop the Attack on Community Health Centers and Clinics, sponsored by California Primary Care Association Advocates",
         "total_raised": "$16,714,878.89 (FPPC top-contributor list, current as of September 2026)",
         "top_donors": [
-          { "name": "AltaMed Health Services Corporation", "amount": "$5,467,867.69" },
-          { "name": "California Primary Care Association Advocates (issues committee and affiliated entities)", "amount": "$2,035,766.13" },
-          { "name": "Family Health Centers of San Diego", "amount": "$1,511,285" },
-          { "name": "WellSpace Health", "amount": "$1,500,000" },
-          { "name": "North East Medical Services", "amount": "$1,500,000" },
-          { "name": "North County Health Project Inc. dba TrueCare", "amount": "$1,000,000" },
-          { "name": "San Ysidro Health", "amount": "$1,000,000" },
-          { "name": "InnerCare", "amount": "$1,000,000" },
-          { "name": "Neighborhood Healthcare", "amount": "$920,550.12" },
-          { "name": "Community Health Center Network / Alameda Health Consortium", "amount": "$779,409.95" }
+          {
+            "name": "AltaMed Health Services Corporation",
+            "amount": "$5,467,867.69"
+          },
+          {
+            "name": "California Primary Care Association Advocates (issues committee and affiliated entities)",
+            "amount": "$2,035,766.13"
+          },
+          {
+            "name": "Family Health Centers of San Diego",
+            "amount": "$1,511,285"
+          },
+          {
+            "name": "WellSpace Health",
+            "amount": "$1,500,000"
+          },
+          {
+            "name": "North East Medical Services",
+            "amount": "$1,500,000"
+          },
+          {
+            "name": "North County Health Project Inc. dba TrueCare",
+            "amount": "$1,000,000"
+          },
+          {
+            "name": "San Ysidro Health",
+            "amount": "$1,000,000"
+          },
+          {
+            "name": "InnerCare",
+            "amount": "$1,000,000"
+          },
+          {
+            "name": "Neighborhood Healthcare",
+            "amount": "$920,550.12"
+          },
+          {
+            "name": "Community Health Center Network / Alameda Health Consortium",
+            "amount": "$779,409.95"
+          }
         ],
         "source_url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/"
       }

@@ -209,6 +209,28 @@
       "notes": "Republican legislator who argued on the floor that a state with record revenue should appropriate the money rather than borrow it. Seven Assembly Republicans and two Senate Republicans voted no."
     }
   ],
+  "authors": [
+    {
+      "name": "Monique Limón",
+      "role": "Senate President pro Tempore; lead Senate author of SB 417",
+      "person_id": "monique-limon"
+    },
+    {
+      "name": "Robert Rivas",
+      "role": "Assembly Speaker; lead Assembly author of SB 417",
+      "person_id": "robert-rivas"
+    },
+    {
+      "name": "Buffy Wicks",
+      "role": "Principal coauthor of SB 417",
+      "person_id": "buffy-wicks"
+    },
+    {
+      "name": "Christopher Cabaldon",
+      "role": "Principal coauthor of SB 417",
+      "person_id": "christopher-cabaldon"
+    }
+  ],
   "nonpartisan_analysis": [
     {
       "source": "Legislative Analyst's Office",

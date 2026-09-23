@@ -81,15 +81,18 @@
   "authors": [
     {
       "name": "Linda Chavez",
-      "role": "Board President, Alum Rock Union Elementary School District Board of Trustees, at the time Resolution No. 01-26/27 placing Measure O on the ballot was considered (July 16, 2026 meeting)."
+      "role": "Board President, Alum Rock Union Elementary School District Board of Trustees, at the time Resolution No. 01-26/27 placing Measure O on the ballot was considered (July 16, 2026 meeting).",
+      "person_id": "linda-chavez"
     },
     {
       "name": "Andres Quintero",
-      "role": "Board Vice President, Alum Rock Union Elementary School District Board of Trustees."
+      "role": "Board Vice President, Alum Rock Union Elementary School District Board of Trustees.",
+      "person_id": "andres-quintero"
     },
     {
       "name": "Dr. Marnie Hazelton",
-      "role": "Superintendent, Alum Rock Union Elementary School District, hired on a three-year contract through June 30, 2029."
+      "role": "Superintendent, Alum Rock Union Elementary School District, hired on a three-year contract through June 30, 2029.",
+      "person_id": "marnie-hazelton"
     }
   ],
   "nonpartisan_analysis": [],

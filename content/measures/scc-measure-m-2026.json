@@ -95,19 +95,23 @@
   "authors": [
     {
       "name": "Tuyen Fiack",
-      "role": "Board President, Gilroy Unified School District Board of Education; presided over the May 28, 2026 vote placing Measure M on the ballot."
+      "role": "Board President, Gilroy Unified School District Board of Education; presided over the May 28, 2026 vote placing Measure M on the ballot.",
+      "person_id": "tuyen-fiack"
     },
     {
       "name": "Michelle Nelson",
-      "role": "Board Vice President, Gilroy Unified School District Board of Education."
+      "role": "Board Vice President, Gilroy Unified School District Board of Education.",
+      "person_id": "michelle-nelson"
     },
     {
       "name": "Dr. Anisha Munshi",
-      "role": "Superintendent, Gilroy Unified School District; certifying official on the measure's Tax Rate Statement filed May 28, 2026."
+      "role": "Superintendent, Gilroy Unified School District; certifying official on the measure's Tax Rate Statement filed May 28, 2026.",
+      "person_id": "anisha-munshi"
     },
     {
       "name": "Alvaro Meza",
-      "role": "Assistant Superintendent of Business Services, Gilroy Unified School District; oversaw the Facilities Master Plan and bond feasibility process leading to the measure."
+      "role": "Assistant Superintendent of Business Services, Gilroy Unified School District; oversaw the Facilities Master Plan and bond feasibility process leading to the measure.",
+      "person_id": "alvaro-meza"
     }
   ],
   "nonpartisan_analysis": [],

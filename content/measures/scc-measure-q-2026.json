@@ -95,11 +95,13 @@
   "authors": [
     {
       "name": "Dr. Beth Erickson",
-      "role": "Board President, Cambrian School District Board of Trustees, at the time Resolution 25-26-19 placing Measure Q on the ballot was adopted (June 18, 2026 meeting)."
+      "role": "Board President, Cambrian School District Board of Trustees, at the time Resolution 25-26-19 placing Measure Q on the ballot was adopted (June 18, 2026 meeting).",
+      "person_id": "beth-erickson"
     },
     {
       "name": "Kristi Schwiebert",
-      "role": "Superintendent, Cambrian School District."
+      "role": "Superintendent, Cambrian School District.",
+      "person_id": "kristi-schwiebert"
     }
   ],
   "nonpartisan_analysis": [],

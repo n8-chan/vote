@@ -244,15 +244,18 @@
   "authors": [
     {
       "name": "Carl DeMaio",
-      "role": "Initiative co-proponent; California State Assemblymember (R), filed with the Attorney General on July 16, 2025"
+      "role": "Initiative co-proponent; California State Assemblymember (R), filed with the Attorney General on July 16, 2025",
+      "person_id": "carl-demaio"
     },
     {
       "name": "Tony Strickland",
-      "role": "Initiative co-proponent; California State Senator (R), filed with the Attorney General on July 16, 2025"
+      "role": "Initiative co-proponent; California State Senator (R), filed with the Attorney General on July 16, 2025",
+      "person_id": "tony-strickland"
     },
     {
       "name": "Donald DiCostanzo",
-      "role": "Initiative co-proponent, filed with the Attorney General on July 16, 2025; also a plaintiff, as a registered voter, in Californians for Voter ID v. Weber"
+      "role": "Initiative co-proponent, filed with the Attorney General on July 16, 2025; also a plaintiff, as a registered voter, in Californians for Voter ID v. Weber",
+      "person_id": "donald-dicostanzo"
     }
   ],
   "funding": {
@@ -275,9 +278,18 @@
         "name": "No on Prop 39 - Californians for Voting Rights",
         "total_raised": "$294,657 in total contributions through June 30, 2026, per Ballotpedia's compilation of Cal-Access filings. Combined opposition-side fundraising had grown to roughly $3.77 million by September 15, 2026, per CalMatters' tracker of California Secretary of State data.",
         "top_donors": [
-          { "name": "ACLU of Northern California Issues Committee", "amount": "$261,602" },
-          { "name": "Disability Rights California", "amount": "$2,763" },
-          { "name": "Common Cause", "amount": "$2,125" }
+          {
+            "name": "ACLU of Northern California Issues Committee",
+            "amount": "$261,602"
+          },
+          {
+            "name": "Disability Rights California",
+            "amount": "$2,763"
+          },
+          {
+            "name": "Common Cause",
+            "amount": "$2,125"
+          }
         ],
         "source_url": "https://ballotpedia.org/California_Proposition_39,_Voter_Identification,_Citizenship_Verification,_and_Registered_Voter_List_Administration_Initiative_(2026)"
       },

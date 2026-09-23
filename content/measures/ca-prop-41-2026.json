@@ -143,7 +143,8 @@
   "authors": [
     {
       "name": "Kurt R. Oneto",
-      "role": "Initiative proponent and filer of record; partner at Nielsen Merksamer LLP, a California law firm specializing in ballot-measure and initiative law that has represented proponents or opponents of more than 435 California ballot measures."
+      "role": "Initiative proponent and filer of record; partner at Nielsen Merksamer LLP, a California law firm specializing in ballot-measure and initiative law that has represented proponents or opponents of more than 435 California ballot measures.",
+      "person_id": "kurt-oneto"
     }
   ],
   "funding": {
@@ -152,8 +153,14 @@
         "name": "Yes on 41 - Californians for Transparency and Accountability, a Coalition of Small Businesses, Taxpayers, Good Government Advocates, Accountants and Auditing Experts",
         "total_raised": "$57,621,807.92 (FPPC top-contributor list, current as of September 17, 2026)",
         "top_donors": [
-          { "name": "Building a Better California", "amount": "$57,600,000 (this committee's own largest donors, per the FPPC, are Sergey Brin and L. John Doerr, III)" },
-          { "name": "Reform California with Carl De Maio - Ballot Measure Committee", "amount": "$21,807.92" }
+          {
+            "name": "Building a Better California",
+            "amount": "$57,600,000 (this committee's own largest donors, per the FPPC, are Sergey Brin and L. John Doerr, III)"
+          },
+          {
+            "name": "Reform California with Carl De Maio - Ballot Measure Committee",
+            "amount": "$21,807.92"
+          }
         ],
         "source_url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/"
       }
@@ -163,9 +170,18 @@
         "name": "Yes on 40 - Billionaire Tax Now – No on 41 & 42, Sponsored by Service Employees International Union - United Healthcare Workers West",
         "total_raised": "$31,782,967.10 (FPPC top-contributor list, current as of September 17, 2026; this committee simultaneously supports Proposition 40 and opposes both Proposition 41 and Proposition 42, so the FPPC marks these figures with an asterisk meaning the same contributions are reported against each measure and cannot be broken out by measure)",
         "top_donors": [
-          { "name": "Service Employees International Union, United Healthcare Workers West (Nonprofit 501(c)(5))", "amount": "$22,048,461.16" },
-          { "name": "SEIU United Health Care Workers West Political Issues Committee", "amount": "$7,499,505.94" },
-          { "name": "SEIU United Health Care Workers West Political Action Committee", "amount": "$2,000,000" }
+          {
+            "name": "Service Employees International Union, United Healthcare Workers West (Nonprofit 501(c)(5))",
+            "amount": "$22,048,461.16"
+          },
+          {
+            "name": "SEIU United Health Care Workers West Political Issues Committee",
+            "amount": "$7,499,505.94"
+          },
+          {
+            "name": "SEIU United Health Care Workers West Political Action Committee",
+            "amount": "$2,000,000"
+          }
         ],
         "source_url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/"
       }

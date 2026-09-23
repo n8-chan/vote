@@ -210,11 +210,13 @@
   "authors": [
     {
       "name": "David B. Goldberg",
-      "role": "Initiative co-proponent, filed with the Attorney General on August 29, 2025; President, California Teachers Association"
+      "role": "Initiative co-proponent, filed with the Attorney General on August 29, 2025; President, California Teachers Association",
+      "person_id": "david-b-goldberg"
     },
     {
       "name": "Benjamin Gevercer",
-      "role": "Initiative co-proponent, filed with the Attorney General on August 29, 2025; attorney at Olson Remcho LLP, the firm listed as the measure's contact in the Attorney General filing"
+      "role": "Initiative co-proponent, filed with the Attorney General on August 29, 2025; attorney at Olson Remcho LLP, the firm listed as the measure's contact in the Attorney General filing",
+      "person_id": "benjamin-gevercer"
     }
   ],
   "funding": {
@@ -223,9 +225,18 @@
         "name": "Californians for Protecting Public Education, Health Care and Budget Stability",
         "total_raised": "$19,025,000 in cash contributions through June 30, 2026, with $18,022,670 already spent. The next scheduled report was due September 24, 2026.",
         "top_donors": [
-          { "name": "California Teachers Association", "amount": "$17,775,000" },
-          { "name": "California Federation of Teachers COPE Prop/Ballot Committee", "amount": "$750,000" },
-          { "name": "PACE of California School Employees Association-Issues", "amount": "$500,000" }
+          {
+            "name": "California Teachers Association",
+            "amount": "$17,775,000"
+          },
+          {
+            "name": "California Federation of Teachers COPE Prop/Ballot Committee",
+            "amount": "$750,000"
+          },
+          {
+            "name": "PACE of California School Employees Association-Issues",
+            "amount": "$500,000"
+          }
         ],
         "source_url": "https://ballotpedia.org/California_Proposition_3,_Renew_State_Income_Tax_Increase_for_Education_Funding_Initiative_(2026)"
       }

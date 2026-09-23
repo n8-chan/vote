@@ -88,11 +88,13 @@
   "authors": [
     {
       "name": "Virginia Varela-Campos",
-      "role": "Board President, Orchard School District Board of Trustees, at the time the board approved placing Measure R on the ballot (July 29, 2026 meeting)."
+      "role": "Board President, Orchard School District Board of Trustees, at the time the board approved placing Measure R on the ballot (July 29, 2026 meeting).",
+      "person_id": "virginia-varela-campos"
     },
     {
       "name": "Dr. Jeffrey Bowman",
-      "role": "Superintendent, Orchard School District."
+      "role": "Superintendent, Orchard School District.",
+      "person_id": "jeffrey-bowman"
     }
   ],
   "nonpartisan_analysis": [],

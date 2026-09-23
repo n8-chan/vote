@@ -130,11 +130,13 @@
   "authors": [
     {
       "name": "Larry Klein",
-      "role": "Sunnyvale Mayor; filer of the primary argument in favor of Measure I, following the City Council's unanimous June 23, 2026 vote to place the Charter Review Committee's recommended amendment, alongside companion Measures G and H, on the ballot."
+      "role": "Sunnyvale Mayor; filer of the primary argument in favor of Measure I, following the City Council's unanimous June 23, 2026 vote to place the Charter Review Committee's recommended amendment, alongside companion Measures G and H, on the ballot.",
+      "person_id": "larry-klein"
     },
     {
       "name": "Richard Mehlinger",
-      "role": "Sunnyvale Vice Mayor; co-signer of the primary argument in favor of Measure I and of the rebuttal to the primary argument against it."
+      "role": "Sunnyvale Vice Mayor; co-signer of the primary argument in favor of Measure I and of the rebuttal to the primary argument against it.",
+      "person_id": "richard-mehlinger"
     }
   ],
   "nonpartisan_analysis": [

@@ -184,11 +184,13 @@
   "authors": [
     {
       "name": "Suzanne Jimenez",
-      "role": "Initiative co-proponent, filed with the Attorney General on October 22, 2025; Chief of Staff, SEIU-United Healthcare Workers West"
+      "role": "Initiative co-proponent, filed with the Attorney General on October 22, 2025; Chief of Staff, SEIU-United Healthcare Workers West",
+      "person_id": "suzanne-jimenez"
     },
     {
       "name": "Jim Mangia",
-      "role": "Initiative co-proponent, filed with the Attorney General on October 22, 2025; President and CEO, St. John's Community Health"
+      "role": "Initiative co-proponent, filed with the Attorney General on October 22, 2025; President and CEO, St. John's Community Health",
+      "person_id": "jim-mangia"
     }
   ],
   "funding": {
@@ -197,15 +199,42 @@
         "name": "Yes on 40 - Billionaire Tax Now - No on 41 & 42, sponsored by Service Employees International Union - United Healthcare Workers West",
         "total_raised": "$31,782,967.10 from top contributors as reported to the FPPC as of September 17, 2026. This committee simultaneously supports Proposition 40 and opposes Propositions 41 and 42, so its contributions are listed once for each measure under FPPC's methodology and cannot be split by measure.",
         "top_donors": [
-          { "name": "Service Employees International Union, United Healthcare Workers West", "amount": "$22,048,461.16" },
-          { "name": "SEIU United Health Care Workers West Political Issues Committee", "amount": "$7,499,505.94" },
-          { "name": "SEIU United Health Care Workers West Political Action Committee", "amount": "$2,000,000" },
-          { "name": "Hillary Perkins", "amount": "$100,000" },
-          { "name": "Ross Boucher", "amount": "$50,000" },
-          { "name": "AFSCME Council 57 Issues PAC", "amount": "$25,000" },
-          { "name": "Alan S. Davis", "amount": "$25,000" },
-          { "name": "John O'Farrell", "amount": "$25,000" },
-          { "name": "Nicole Pesco", "amount": "$10,000" }
+          {
+            "name": "Service Employees International Union, United Healthcare Workers West",
+            "amount": "$22,048,461.16"
+          },
+          {
+            "name": "SEIU United Health Care Workers West Political Issues Committee",
+            "amount": "$7,499,505.94"
+          },
+          {
+            "name": "SEIU United Health Care Workers West Political Action Committee",
+            "amount": "$2,000,000"
+          },
+          {
+            "name": "Hillary Perkins",
+            "amount": "$100,000"
+          },
+          {
+            "name": "Ross Boucher",
+            "amount": "$50,000"
+          },
+          {
+            "name": "AFSCME Council 57 Issues PAC",
+            "amount": "$25,000"
+          },
+          {
+            "name": "Alan S. Davis",
+            "amount": "$25,000"
+          },
+          {
+            "name": "John O'Farrell",
+            "amount": "$25,000"
+          },
+          {
+            "name": "Nicole Pesco",
+            "amount": "$10,000"
+          }
         ],
         "source_url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/"
       }
@@ -215,9 +244,18 @@
         "name": "Golden State Promise",
         "total_raised": "$10,450,000 from top contributors as reported to the FPPC as of September 17, 2026",
         "top_donors": [
-          { "name": "Ripple Labs", "amount": "$5,000,000" },
-          { "name": "Chris Larsen", "amount": "$5,000,000" },
-          { "name": "California Business Roundtable Issues PAC (funded primarily by Peter Thiel and Kim DeGeorge)", "amount": "$450,000" }
+          {
+            "name": "Ripple Labs",
+            "amount": "$5,000,000"
+          },
+          {
+            "name": "Chris Larsen",
+            "amount": "$5,000,000"
+          },
+          {
+            "name": "California Business Roundtable Issues PAC (funded primarily by Peter Thiel and Kim DeGeorge)",
+            "amount": "$450,000"
+          }
         ],
         "source_url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/"
       },
@@ -225,9 +263,18 @@
         "name": "No on Prop 40 - Doctors, Teachers, Small Businesses, Working Families and Public Safety Against the Reckless Wealth Tax Experiment",
         "total_raised": "$41,700,000 from top contributors as reported to the FPPC as of September 17, 2026",
         "top_donors": [
-          { "name": "Building a Better California (funded primarily by Sergey Brin and John Doerr)", "amount": "$41,500,000" },
-          { "name": "California Primary Care Association Advocates", "amount": "$100,000" },
-          { "name": "California Medical Association", "amount": "$100,000" }
+          {
+            "name": "Building a Better California (funded primarily by Sergey Brin and John Doerr)",
+            "amount": "$41,500,000"
+          },
+          {
+            "name": "California Primary Care Association Advocates",
+            "amount": "$100,000"
+          },
+          {
+            "name": "California Medical Association",
+            "amount": "$100,000"
+          }
         ],
         "source_url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/"
       }

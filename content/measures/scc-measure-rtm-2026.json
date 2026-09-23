@@ -176,19 +176,23 @@
   "authors": [
     {
       "name": "State Sen. Scott Wiener",
-      "role": "Lead author of SB 63 (2025), the Connect Bay Area Act, which created the Public Transit Revenue Measure District and authorized this ballot measure."
+      "role": "Lead author of SB 63 (2025), the Connect Bay Area Act, which created the Public Transit Revenue Measure District and authorized this ballot measure.",
+      "person_id": "scott-wiener"
     },
     {
       "name": "State Sen. Jesse Arreguín",
-      "role": "Co-author of SB 63 (2025)."
+      "role": "Co-author of SB 63 (2025).",
+      "person_id": "jesse-arreguin"
     },
     {
       "name": "Emily Loper",
-      "role": "Official proponent of record for the Connect Bay Area Transit Initiative (the citizen initiative that became Measure RTM); Senior Vice President of Public Policy, Bay Area Council."
+      "role": "Official proponent of record for the Connect Bay Area Transit Initiative (the citizen initiative that became Measure RTM); Senior Vice President of Public Policy, Bay Area Council.",
+      "person_id": "emily-loper"
     },
     {
       "name": "Lian Chang",
-      "role": "Official proponent of record for the Connect Bay Area Transit Initiative; Connect Bay Area campaign organizer."
+      "role": "Official proponent of record for the Connect Bay Area Transit Initiative; Connect Bay Area campaign organizer.",
+      "person_id": "lian-chang"
     }
   ],
   "funding": {
@@ -197,9 +201,18 @@
         "name": "Connect Bay Area Transit Committee",
         "total_raised": "At least $5.5 million as of the January 2026 signature-gathering phase, per Contra Costa Herald reporting; this is not a complete campaign-to-date total, and this measure is not tracked on the FPPC's state ballot-measure top-contributor list because it is a regional/local measure rather than a statewide proposition. No complete, current Cal-Access filing total was found as of the retrieval date below.",
         "top_donors": [
-          { "name": "Salesforce", "amount": "not itemized in sources reviewed; identified as a top funder" },
-          { "name": "Chris Larsen", "amount": "not itemized in sources reviewed; identified as a top individual funder" },
-          { "name": "SEIU Local 1021", "amount": "not itemized in sources reviewed; identified as a top funder" }
+          {
+            "name": "Salesforce",
+            "amount": "not itemized in sources reviewed; identified as a top funder"
+          },
+          {
+            "name": "Chris Larsen",
+            "amount": "not itemized in sources reviewed; identified as a top individual funder"
+          },
+          {
+            "name": "SEIU Local 1021",
+            "amount": "not itemized in sources reviewed; identified as a top funder"
+          }
         ],
         "source_url": "https://contracostaherald.com/connect-bay-area-campaign-raises-nearly-3-million-to-support-signature-gathering-for-regional-transit-tax-measure/"
       }

@@ -161,7 +161,8 @@
   "authors": [
     {
       "name": "Buffy Wicks",
-      "role": "Lead Assembly author of ACA 22, the legislative resolution that placed Proposition 43 on the ballot; publicly opposes the measure's enactment despite authoring it."
+      "role": "Lead Assembly author of ACA 22, the legislative resolution that placed Proposition 43 on the ballot; publicly opposes the measure's enactment despite authoring it.",
+      "person_id": "buffy-wicks"
     }
   ],
   "funding": {
@@ -170,16 +171,46 @@
         "name": "Yes on Prop 43 - The Local Taxpayer Protection Act, sponsored by homeowners, businesses, and taxpayers",
         "total_raised": "at least $13,973,217.78, the sum of its top 10 disclosed contributors per the FPPC's top-10 contributor list; the committee's full total raised was not separately confirmed",
         "top_donors": [
-          { "name": "California Business Roundtable Issues PAC", "amount": "$9,850,000" },
-          { "name": "Protect Prop. 13 (Howard Jarvis Taxpayers Association)", "amount": "$1,038,217.78" },
-          { "name": "Kilroy Realty, LP", "amount": "$1,000,000" },
-          { "name": "Douglas Emmett Properties, LP", "amount": "$1,000,000" },
-          { "name": "1800 Capital, Inc.", "amount": "$500,000" },
-          { "name": "Jerry A. Greenberg", "amount": "$250,000" },
-          { "name": "McCourt Partners Real Estate, LLC", "amount": "$100,000" },
-          { "name": "Andrew Schwartzberg", "amount": "$100,000" },
-          { "name": "Moss Management Services, Inc.", "amount": "$85,000" },
-          { "name": "The Beverly Hills Estates Inc.", "amount": "$50,000" }
+          {
+            "name": "California Business Roundtable Issues PAC",
+            "amount": "$9,850,000"
+          },
+          {
+            "name": "Protect Prop. 13 (Howard Jarvis Taxpayers Association)",
+            "amount": "$1,038,217.78"
+          },
+          {
+            "name": "Kilroy Realty, LP",
+            "amount": "$1,000,000"
+          },
+          {
+            "name": "Douglas Emmett Properties, LP",
+            "amount": "$1,000,000"
+          },
+          {
+            "name": "1800 Capital, Inc.",
+            "amount": "$500,000"
+          },
+          {
+            "name": "Jerry A. Greenberg",
+            "amount": "$250,000"
+          },
+          {
+            "name": "McCourt Partners Real Estate, LLC",
+            "amount": "$100,000"
+          },
+          {
+            "name": "Andrew Schwartzberg",
+            "amount": "$100,000"
+          },
+          {
+            "name": "Moss Management Services, Inc.",
+            "amount": "$85,000"
+          },
+          {
+            "name": "The Beverly Hills Estates Inc.",
+            "amount": "$50,000"
+          }
         ],
         "source_url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/"
       }
@@ -189,16 +220,46 @@
         "name": "No on Prop 43 Stop the Local Taxpayer Deception Act, sponsored by labor organizations",
         "total_raised": "at least $2,710,500.01, the sum of its top 10 disclosed contributors per the FPPC's top-10 contributor list; the committee's full total raised was not separately confirmed",
         "top_donors": [
-          { "name": "SEIU Local 1021 Issues PAC", "amount": "$500,000" },
-          { "name": "SEIU Local 721 Issues & Initiatives", "amount": "$500,000" },
-          { "name": "Western States Regional Council of Carpenters Issues Committee", "amount": "$500,000" },
-          { "name": "SEIU California State Council For Working People", "amount": "$500,000" },
-          { "name": "California Professional Firefighters Ballot Issues Committee", "amount": "$250,500" },
-          { "name": "AFSCME California, AFL-CIO", "amount": "$150,000" },
-          { "name": "League of California Cities CITIPAC", "amount": "$100,000.01" },
-          { "name": "AFSCME California People Issues PAC", "amount": "$100,000" },
-          { "name": "NPH Action Fund Political Issues Committee", "amount": "$100,000" },
-          { "name": "SEIU Local 121 RN Health Care Fund", "amount": "$10,000" }
+          {
+            "name": "SEIU Local 1021 Issues PAC",
+            "amount": "$500,000"
+          },
+          {
+            "name": "SEIU Local 721 Issues & Initiatives",
+            "amount": "$500,000"
+          },
+          {
+            "name": "Western States Regional Council of Carpenters Issues Committee",
+            "amount": "$500,000"
+          },
+          {
+            "name": "SEIU California State Council For Working People",
+            "amount": "$500,000"
+          },
+          {
+            "name": "California Professional Firefighters Ballot Issues Committee",
+            "amount": "$250,500"
+          },
+          {
+            "name": "AFSCME California, AFL-CIO",
+            "amount": "$150,000"
+          },
+          {
+            "name": "League of California Cities CITIPAC",
+            "amount": "$100,000.01"
+          },
+          {
+            "name": "AFSCME California People Issues PAC",
+            "amount": "$100,000"
+          },
+          {
+            "name": "NPH Action Fund Political Issues Committee",
+            "amount": "$100,000"
+          },
+          {
+            "name": "SEIU Local 121 RN Health Care Fund",
+            "amount": "$10,000"
+          }
         ],
         "source_url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/"
       }

@@ -171,7 +171,8 @@
   "authors": [
     {
       "name": "Robert M. Hertzberg",
-      "role": "Initiative proponent; cleared for circulation by the Secretary of State on October 21, 2025; former California Senate Majority Leader and Assembly Speaker"
+      "role": "Initiative proponent; cleared for circulation by the Secretary of State on October 21, 2025; former California Senate Majority Leader and Assembly Speaker",
+      "person_id": "robert-m-hertzberg"
     }
   ],
   "funding": {
@@ -180,11 +181,26 @@
         "name": "Yes on 37, California Homeownership",
         "total_raised": "$29,550,000 in combined contributions reported to Yes on 37 and its principal funding vehicle, per the FPPC's top-10-contributor tracking for the November 2026 general election, retrieved September 2026. An earlier Ballotpedia compilation of Cal-Access filings covering an earlier reporting period showed $12,700,000 raised by this committee specifically; the larger FPPC figure reflects contributions reported closer to the September 24, 2026 filing deadline.",
         "top_donors": [
-          { "name": "Homeownership for Families, sponsored by California Association of Realtors", "amount": "$14,850,000" },
-          { "name": "Building a Better California", "amount": "$6,000,000" },
-          { "name": "United Brotherhood of Carpenters & Joiners of America", "amount": "$800,000" },
-          { "name": "Western States Regional Council of Carpenters Issues Committee", "amount": "$450,000" },
-          { "name": "Northern California Carpenters Regional Council Issues PAC", "amount": "$450,000" }
+          {
+            "name": "Homeownership for Families, sponsored by California Association of Realtors",
+            "amount": "$14,850,000"
+          },
+          {
+            "name": "Building a Better California",
+            "amount": "$6,000,000"
+          },
+          {
+            "name": "United Brotherhood of Carpenters & Joiners of America",
+            "amount": "$800,000"
+          },
+          {
+            "name": "Western States Regional Council of Carpenters Issues Committee",
+            "amount": "$450,000"
+          },
+          {
+            "name": "Northern California Carpenters Regional Council Issues PAC",
+            "amount": "$450,000"
+          }
         ],
         "source_url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/"
       },
@@ -192,8 +208,14 @@
         "name": "Homeownership for Families (sponsored by California Association of Realtors)",
         "total_raised": "at least $7,000,000 from its two largest reported donors, per the FPPC; this committee is itself the largest contributor to Yes on 37, California Homeownership.",
         "top_donors": [
-          { "name": "California Association of Realtors Issues Mobilization PAC (IMPAC)", "amount": "$5,000,000" },
-          { "name": "National Association of Realtors", "amount": "$2,000,000" }
+          {
+            "name": "California Association of Realtors Issues Mobilization PAC (IMPAC)",
+            "amount": "$5,000,000"
+          },
+          {
+            "name": "National Association of Realtors",
+            "amount": "$2,000,000"
+          }
         ],
         "source_url": "https://www.fppc.ca.gov/search-filings/top-10-contributors-list/november-2026-general-election/"
       }
