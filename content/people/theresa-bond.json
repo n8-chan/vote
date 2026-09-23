@@ -1,0 +1,28 @@
+{
+  "id": "theresa-bond",
+  "name": "Theresa Bond",
+  "type": "school_district_official",
+  "title": "Board President, Los Gatos-Saratoga Union High School District",
+  "years_of_service": "Appointed in lieu of election to the Los Gatos-Saratoga Union High School District Board of Trustees in 2024; current term expires 2028, per the district's board directory. She previously served on the Lakeside Joint School Board from 2010 to 2020.",
+  "background": [
+    "Bond brings over a decade of prior school board experience from her service on the Lakeside Joint School Board (2010-2020) before joining the Los Gatos-Saratoga Union High School District Board of Trustees. Her professional background includes roles at technology companies Apple Computer and Sun Microsystems, followed by a position with Avid Technology. The district's board directory lists her current occupation as a COVID-19 Community Isolation and Contact Tracing (CICT) worker for the Santa Clara County Public Health Department.",
+    "Her community involvement includes PTA presidency, facilitation work with Project Cornerstone, and coordination of YMCA Camp Celiac. She has hosted foreign exchange students through AFS liaison work. She is a longtime Santa Cruz Mountains resident with two sons, both Los Gatos High School alumni.",
+    "As Board President, she presided over the board's vote to place Measure N, a $321,000,000 facilities bond covering Los Gatos High School and Saratoga High School, on the November 3, 2026 ballot; full detail on that measure is covered in content/measures/scc-measure-n-2026.json and not duplicated here."
+  ],
+  "attendance": "No individually published meeting-attendance or voting-participation record for Board President Bond was found. Los Gatos-Saratoga Union High School District does not appear to publish a per-trustee attendance scorecard on its public board pages; board agendas and minutes are posted but were not tallied individually within this session's tool budget.",
+  "endorsements_received": [],
+  "past_measures_authored": [
+    {
+      "title": "Measure N, Los Gatos-Saratoga Union High School District School Bonds",
+      "year": "2026",
+      "outcome": "On the November 3, 2026 ballot; outcome not yet known at time of writing.",
+      "source_url": "https://vote.santaclaracounty.gov/list-local-measures-4"
+    }
+  ],
+  "sources": [
+    { "title": "Los Gatos-Saratoga Union High School District, Meet the Board of Trustees (Theresa Bond bio, term, prior board service, occupation)", "url": "https://www.lgsuhsd.org/about-us/board-of-trustees/meettheboard", "retrieved": "2026-09-22" },
+    { "title": "scc-measure-n-2026.json (this voter guide), authorship listing Theresa Bond as Board President and sourcing for the Board vote placing Measure N on the ballot", "url": "https://www.lgsuhsd.org/about-us/local-funding", "retrieved": "2026-09-22" },
+    { "title": "Santa Clara County Registrar of Voters, List of Local Measures, November 3, 2026 General Election", "url": "https://vote.santaclaracounty.gov/list-local-measures-4", "retrieved": "2026-09-22" }
+  ],
+  "last_updated": "2026-09-22"
+}

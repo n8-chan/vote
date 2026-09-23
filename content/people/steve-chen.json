@@ -1,0 +1,28 @@
+{
+  "id": "steve-chen",
+  "name": "Steve Chen",
+  "type": "school_district_official",
+  "title": "Trustee, Los Gatos-Saratoga Union High School District",
+  "years_of_service": "Elected to the Los Gatos-Saratoga Union High School District Board of Trustees in 2022; current term expires 2026, per the district's board directory.",
+  "background": [
+    "Chen holds a Stanford University degree in electrical engineering. He spent 30 years in technology sales and marketing before earning a master's degree in education from Santa Clara University in 2015.",
+    "He taught mathematics at Los Gatos High School until his retirement in June 2022. He has been a downtown Los Gatos resident since 1993 and raised three children in the district; the district's board directory quotes him citing public education as central to community identity.",
+    "As Trustee, he is listed as a co-sponsor of Measure N, a $321,000,000 facilities bond covering Los Gatos High School and Saratoga High School, placed on the November 3, 2026 ballot; full detail on that measure is covered in content/measures/scc-measure-n-2026.json and not duplicated here."
+  ],
+  "attendance": "No individually published meeting-attendance or voting-participation record for Trustee Chen was found. Los Gatos-Saratoga Union High School District does not appear to publish a per-trustee attendance scorecard on its public board pages; board agendas and minutes are posted but were not tallied individually within this session's tool budget.",
+  "endorsements_received": [],
+  "past_measures_authored": [
+    {
+      "title": "Measure N, Los Gatos-Saratoga Union High School District School Bonds",
+      "year": "2026",
+      "outcome": "On the November 3, 2026 ballot; outcome not yet known at time of writing.",
+      "source_url": "https://vote.santaclaracounty.gov/list-local-measures-4"
+    }
+  ],
+  "sources": [
+    { "title": "Los Gatos-Saratoga Union High School District, Meet the Board of Trustees (Steve Chen bio, term, education, teaching career at Los Gatos High School)", "url": "https://www.lgsuhsd.org/about-us/board-of-trustees/meettheboard", "retrieved": "2026-09-22" },
+    { "title": "scc-measure-n-2026.json (this voter guide), authorship listing Steve Chen as Trustee and sourcing for the Board vote placing Measure N on the ballot", "url": "https://www.lgsuhsd.org/about-us/local-funding", "retrieved": "2026-09-22" },
+    { "title": "Santa Clara County Registrar of Voters, List of Local Measures, November 3, 2026 General Election", "url": "https://vote.santaclaracounty.gov/list-local-measures-4", "retrieved": "2026-09-22" }
+  ],
+  "last_updated": "2026-09-22"
+}

@@ -1,0 +1,28 @@
+{
+  "id": "katherine-tseng",
+  "name": "Katherine Tseng",
+  "type": "school_district_official",
+  "title": "Board Vice President, Los Gatos-Saratoga Union High School District",
+  "years_of_service": "Appointed in lieu of election to the Los Gatos-Saratoga Union High School District Board of Trustees in 2024; current term expires 2028, per the district's board directory.",
+  "background": [
+    "Tseng has been involved in Los Gatos-Saratoga school community activities for 14 years, per the district's board directory, prior to joining the Board of Trustees. She held leadership roles including Co-President of the Saratoga High School Foundation and Music Boosters, and served on the Executive Board of Sports Boosters.",
+    "She contributed to district governance for six years through the Saratoga Union School District Advisory Board and the Superintendent's Advisory Council. She co-chaired the successful campaign for the district's Measure A parcel tax. Her professional credentials include an MA in Statistics and 15 years of actuarial consulting experience. She is a parent to two Saratoga High School graduates.",
+    "As Board Vice President, she is listed as a co-sponsor of Measure N, a $321,000,000 facilities bond covering Los Gatos High School and Saratoga High School, placed on the November 3, 2026 ballot; full detail on that measure is covered in content/measures/scc-measure-n-2026.json and not duplicated here."
+  ],
+  "attendance": "No individually published meeting-attendance or voting-participation record for Vice President Tseng was found. Los Gatos-Saratoga Union High School District does not appear to publish a per-trustee attendance scorecard on its public board pages; board agendas and minutes are posted but were not tallied individually within this session's tool budget.",
+  "endorsements_received": [],
+  "past_measures_authored": [
+    {
+      "title": "Measure N, Los Gatos-Saratoga Union High School District School Bonds",
+      "year": "2026",
+      "outcome": "On the November 3, 2026 ballot; outcome not yet known at time of writing.",
+      "source_url": "https://vote.santaclaracounty.gov/list-local-measures-4"
+    }
+  ],
+  "sources": [
+    { "title": "Los Gatos-Saratoga Union High School District, Meet the Board of Trustees (Katherine Tseng bio, term, prior district advisory service, Measure A campaign co-chair, credentials)", "url": "https://www.lgsuhsd.org/about-us/board-of-trustees/meettheboard", "retrieved": "2026-09-22" },
+    { "title": "scc-measure-n-2026.json (this voter guide), authorship listing Katherine Tseng as Board Vice President and sourcing for the Board vote placing Measure N on the ballot", "url": "https://www.lgsuhsd.org/about-us/local-funding", "retrieved": "2026-09-22" },
+    { "title": "Santa Clara County Registrar of Voters, List of Local Measures, November 3, 2026 General Election", "url": "https://vote.santaclaracounty.gov/list-local-measures-4", "retrieved": "2026-09-22" }
+  ],
+  "last_updated": "2026-09-22"
+}

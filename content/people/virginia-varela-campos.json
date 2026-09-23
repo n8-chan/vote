@@ -1,0 +1,28 @@
+{
+  "id": "virginia-varela-campos",
+  "name": "Virginia Varela-Campos",
+  "type": "school_district_official",
+  "title": "Board President, Orchard School District",
+  "years_of_service": "Elected to the Orchard School District Board of Trustees in 2024; appointed Board President in 2025; current term expires 2028, per the district's board directory.",
+  "background": [
+    "Orchard School District's board directory lists Varela-Campos's election, appointment, and term dates but does not publish a career or education biography for her, unlike some neighboring districts' board pages; no such biography was located elsewhere in the sources reviewed for this profile.",
+    "As Board President, she is listed as an author of Measure R, a new parcel tax funding STEAM education, visual and performing arts, and teacher recruitment and retention, which the Orchard School District Board of Trustees approved placing on the November 3, 2026 ballot at its July 29, 2026 meeting. Full detail on that measure, including the board's other members (Renee Lo, vice president; Jeff Tang, clerk; Karl Jacobson; and Katherine Kasolas-Jacobson) and Superintendent Dr. Jeffrey Bowman, is covered in content/measures/scc-measure-r-2026.json and not duplicated here."
+  ],
+  "attendance": "No individually published meeting-attendance or voting-participation record for Board President Varela-Campos was found. Orchard School District does not appear to publish a per-trustee attendance scorecard on its public board pages; the district's board-meeting agenda system (referenced in connection with the resolution calling the November 2026 election) would in principle allow a manual tally of attendance and votes, but compiling that was not feasible within this session's tool budget.",
+  "endorsements_received": [],
+  "past_measures_authored": [
+    {
+      "title": "Measure R, Orchard School District Parcel Tax",
+      "year": "2026",
+      "outcome": "On the November 3, 2026 ballot; outcome not yet known at time of writing.",
+      "source_url": "https://vote.santaclaracounty.gov/list-local-measures-4"
+    }
+  ],
+  "sources": [
+    { "title": "Orchard School District, Board Members page (lists Virginia Varela-Campos as Board President, elected 2024, appointed 2025, term ends 2028)", "url": "https://www.orchardsd.org/page/board-members", "retrieved": "2026-09-22" },
+    { "title": "Orchard School District, \"Orchard School District Parcel Tax Measure on the November 2026 Ballot\" (district announcement of Measure R and the July 29, 2026 board vote)", "url": "https://www.orchardsd.org/article/3055305", "retrieved": "2026-09-22" },
+    { "title": "scc-measure-r-2026.json (this voter guide), authorship listing Virginia Varela-Campos as Board President and sourcing for the Board vote placing Measure R on the ballot", "url": "https://www.orchardsd.org/page/board-members", "retrieved": "2026-09-22" },
+    { "title": "Santa Clara County Registrar of Voters, List of Local Measures, November 3, 2026 General Election", "url": "https://vote.santaclaracounty.gov/list-local-measures-4", "retrieved": "2026-09-22" }
+  ],
+  "last_updated": "2026-09-22"
+}
