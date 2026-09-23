@@ -1,0 +1,18 @@
+{
+  "id": "marnie-hazelton",
+  "name": "Dr. Marnie Hazelton",
+  "type": "other",
+  "title": "Superintendent, Alum Rock Union Elementary School District",
+  "background": [
+    "Hazelton was hired as Superintendent of Alum Rock Union Elementary School District (East San Jose) in July 2026, on a three-year contract running through June 30, 2029 with a base salary of $275,000. Her hiring landed the same summer the district's Board of Trustees finalized both of its November 2026 ballot measures, Measure O (a renewed parcel tax) and Measure P (a $100 million general obligation bond), and followed a period of leadership turnover at the district. (Source: San Jose Spotlight, \"East San Jose school district hires new superintendent.\")",
+    "Before Alum Rock, Hazelton held superintendent-level positions in three East Coast districts: Englewood Public School District in New Jersey (through 2025), Linden Public Schools in New Jersey, and Roosevelt Union Free School District in New York. San Jose Spotlight's reporting on her hiring describes her as bringing roughly ten years of superintendent-level experience to a district facing financial pressure, enrollment decline, and recent instability at the top. (Source: San Jose Spotlight.)",
+    "She holds a doctorate in Educational and Policy Leadership from Hofstra University and a master's degree in education from Brooklyn College. At her hiring, Hazelton described her approach to the job as rooted in trust, collaboration, and a shared commitment to student success. (Source: San Jose Spotlight.)",
+    "I could not independently verify further specifics of her tenure at Englewood, Linden, or Roosevelt (e.g., specific accomplishments, reasons for each transition, or exact dates), and the district's own superintendent webpage does not carry a biography page beyond her contact information and a list of prior annual reports. Those gaps are left unfilled rather than inferred."
+  ],
+  "sources": [
+    { "title": "Alum Rock Union Elementary School District, Superintendent", "url": "https://www.arusd.org/about-us/superintendent", "retrieved": "2026-09-22" },
+    { "title": "San Jose Spotlight, East San Jose school district hires new superintendent", "url": "https://sanjosespotlight.com/east-san-jose-school-district-hires-new-superintendent", "retrieved": "2026-09-22" },
+    { "title": "scc-measure-o-2026.json (this voter guide), background on Hazelton's hiring and governance context", "url": "https://www.arusd.org/about-us/superintendent", "retrieved": "2026-09-21" }
+  ],
+  "last_updated": "2026-09-22"
+}

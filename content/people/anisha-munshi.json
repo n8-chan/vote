@@ -1,0 +1,17 @@
+{
+  "id": "anisha-munshi",
+  "name": "Dr. Anisha Munshi",
+  "type": "other",
+  "title": "Superintendent, Gilroy Unified School District",
+  "background": [
+    "Munshi is the Superintendent of Gilroy Unified School District. In that role she was the certifying official on the Tax Rate Statement for Measure M, the district's November 2026 general obligation bond measure, which she signed and filed with Santa Clara County on May 28, 2026, the same day the Board of Education voted unanimously to place the measure on the ballot following a Facilities Master Plan process and a commissioned voter survey. (Sources: Gilroy Unified School District, Complete Text of Measure M and Tax Rate Statement; scc-measure-m-2026.json in this voter guide.)",
+    "The district's own superintendent's-office webpage confirms her title and district email but did not, as fetched, surface the underlying biography page it references for career history and education. I attempted to locate a fuller biography through the district site's linked \"Superintendent's Biography\" page and through search, but could not reach it: this session's web-search budget was exhausted, Firecrawl search returned an insufficient-credits error, and several guessed URL paths on the district's own site returned 404s. I am not fabricating her prior career history, degrees, or start date as a result — those facts are omitted here rather than invented.",
+    "What can be said with sourcing: as superintendent, Munshi has overseen a Facilities Master Plan process at Gilroy Unified that fed directly into Measure M's bond project list, and the district's Board of Education (President Tuyen Fiack, Vice President Michelle Nelson) worked with her and Assistant Superintendent of Business Services Alvaro Meza to bring the measure to voters. (Source: scc-measure-m-2026.json.)"
+  ],
+  "sources": [
+    { "title": "Gilroy Unified School District, Complete Text of Measure M and Tax Rate Statement (official ballot pamphlet insert, PR-8013), dated May 28, 2026, signed by Superintendent Anisha Munshi", "url": "https://resources.finalsite.net/images/v1788902237/gusdk12caus/tqi6dssrgnesysurl0gg/MeasureM.pdf", "retrieved": "2026-09-21" },
+    { "title": "Gilroy Unified School District, Superintendent's Office", "url": "https://www.gilroyunified.org/departments/superintendents-office", "retrieved": "2026-09-22" },
+    { "title": "scc-measure-m-2026.json (this voter guide), authors and sourcing for Dr. Anisha Munshi's role as certifying official", "url": "https://www.gilroyunified.org/measure-m", "retrieved": "2026-09-21" }
+  ],
+  "last_updated": "2026-09-22"
+}

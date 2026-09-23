@@ -1,0 +1,16 @@
+{
+  "id": "alvaro-meza",
+  "name": "Alvaro Meza",
+  "type": "other",
+  "title": "Assistant Superintendent of Business Services (Chief Business Officer), Gilroy Unified School District",
+  "background": [
+    "Meza is Assistant Superintendent of Business Services, also styled Chief Business Officer, for Gilroy Unified School District. In that role he oversaw the district's Facilities Master Plan and the bond feasibility process that led to Measure M, the district's November 2026 general obligation bond measure, working alongside Superintendent Dr. Anisha Munshi and the Board of Education ahead of the board's May 28, 2026 unanimous vote to place the measure on the ballot. (Source: scc-measure-m-2026.json in this voter guide; Gilroy Unified School District, Facilities Master Plan.)",
+    "The Business Services department page on the district's website confirms his title and district email but is a staff-directory listing rather than a biography page, and contains no information about his prior career, education, or when he joined the district. I attempted to find a fuller biography through search but could not: this session's web-search budget was exhausted and Firecrawl search returned an insufficient-credits error, so I am not fabricating career or education details. Those facts are omitted here rather than invented."
+  ],
+  "sources": [
+    { "title": "Gilroy Unified School District, Business Services", "url": "https://www.gilroyunified.org/departments/business-services", "retrieved": "2026-09-22" },
+    { "title": "Gilroy Unified School District, Facilities Master Plan", "url": "https://gusdfmp.org/", "retrieved": "2026-09-21" },
+    { "title": "scc-measure-m-2026.json (this voter guide), authors and sourcing for Alvaro Meza's role overseeing the Facilities Master Plan and bond feasibility process", "url": "https://www.gilroyunified.org/measure-m", "retrieved": "2026-09-21" }
+  ],
+  "last_updated": "2026-09-22"
+}
