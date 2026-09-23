@@ -1,0 +1,24 @@
+{
+  "id": "shawna-brown",
+  "name": "Shawna Brown",
+  "type": "initiative_proponent",
+  "title": "Initiative Proponent, Proposition 44 (2026)",
+  "background": [
+    "Shawna Brown is the official initiative proponent of record for California Proposition 44 (2026), the SEIU-United Healthcare Workers West-sponsored measure requiring Federally Qualified Health Centers to spend at least 90 percent of revenue on program services. She signed both the official ballot argument in favor of Proposition 44 and its rebuttal to the argument against, filed with the California Secretary of State. In both documents her signature line reads only 'Shawna Brown, Initiative Proponent' — the Official Voter Information Guide gives no occupation, employer, or other title for her, and I found no independent biographical source (news coverage, an SEIU-UHW staff or member profile, or a public professional bio) identifying her occupation or background beyond this role. Given that Proposition 44 is sponsored and funded almost entirely by SEIU-UHW, it is plausible she is a union member, staffer, or affiliated healthcare worker, but I could not verify that connection from any source reviewed, so I have not stated it as fact.",
+    "This session's web search tool had exhausted its query budget before I could search further for her, and direct fetches of the SEIU-UHW website (seiu-uhw.org/newsroom) returned an HTTP 403 error rather than usable content. Because I could not independently verify anything about her beyond the proponent signature itself, this profile is deliberately short rather than padded with unverified detail."
+  ],
+  "past_measures_authored": [],
+  "sources": [
+    {
+      "title": "California Secretary of State, Official Voter Information Guide, Proposition 44 arguments and rebuttals",
+      "url": "https://voterguide.sos.ca.gov/propositions/44/arguments-rebuttals.htm",
+      "retrieved": "2026-09-22"
+    },
+    {
+      "title": "ca-prop-44-2026.json (this voter guide), authors and who_supports entries for Shawna Brown's role as initiative proponent",
+      "url": "https://ballotpedia.org/California_Proposition_44,_Spending_Requirements_for_Federally_Qualified_Health_Centers_Initiative_(2026)",
+      "retrieved": "2026-09-20"
+    }
+  ],
+  "last_updated": "2026-09-22"
+}

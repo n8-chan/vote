@@ -1,0 +1,30 @@
+{
+  "id": "lucinda-langley-andrews",
+  "name": "Lucinda \"Cindy\" Langley-Andrews",
+  "type": "initiative_proponent",
+  "title": "Los Altos resident; former Los Altos School District teacher",
+  "background": [
+    "Langley-Andrews is a former teacher in the Los Altos School District. In March 2026 she co-filed the Notice of Intent to Circulate for Measure D, the Los Altos citizen initiative requiring voter approval before the city can sell, lease, or make parking- or tree-canopy-reducing changes to the city's ten Downtown Parking Plazas, alongside co-proponent Barbara Loebner. Press coverage of the campaign refers to her as 'Cindy Andrews' rather than her full name. (Source: content/measures/scc-measure-d-2026.json in this voter guide.)",
+    "Palo Alto Daily Post's coverage of the campaign's origins quotes her, as 'Cindy Andrews,' a campaign organizer, saying 'We believe that decisions of this importance deserve the vote of our community,' and describing concern that a proposed downtown redevelopment project would make it harder to access downtown and could drive customers to shop elsewhere. Vicki Ferrando Real Estate's account of the campaign separately quotes a related statement from her that 'the public have a meaningful say before public land is permanently altered.' (Sources: Palo Alto Daily Post, 'Los Altos ballot proposal stops parking lot plans'; Vicki Ferrando Real Estate, 'The Two Downtown Los Altos Plazas Measure D Doesn't Touch.')",
+    "Beyond her prior teaching career in the Los Altos School District and her role organizing and co-filing the Measure D campaign, I found no further independent biographical detail about her, such as which schools she taught at, dates of service, or other civic involvement. This session's web search tool had exhausted its query budget by the time I researched her further, and I was unable to locate an LSD staff directory or alumni profile confirming additional detail through direct fetches. This profile is short because the public record beyond this campaign appears genuinely thin, not because research was cut short by choice."
+  ],
+  "past_measures_authored": [],
+  "sources": [
+    {
+      "title": "scc-measure-d-2026.json (this voter guide), who_supports and authors entries for Lucinda 'Cindy' Langley-Andrews's role as Measure D co-proponent",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-d-city-of-los-altos-citizen-sponsored-intiiative_argument-in-favor_08102026_redacted.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Palo Alto Daily Post, Los Altos ballot proposal stops parking lot plans",
+      "url": "https://padailypost.com/2026/04/09/los-altos-ballot-proposal-stops-parking-lot-plans/",
+      "retrieved": "2026-09-22"
+    },
+    {
+      "title": "Vicki Ferrando Real Estate, The Two Downtown Los Altos Plazas Measure D Doesn't Touch",
+      "url": "https://vickiferrando.com/blog/the-two-downtown-los-altos-plazas-measure-d-doesnt-touch",
+      "retrieved": "2026-09-22"
+    }
+  ],
+  "last_updated": "2026-09-22"
+}

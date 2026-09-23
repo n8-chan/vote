@@ -1,0 +1,29 @@
+{
+  "id": "lian-chang",
+  "name": "Lian Chang",
+  "type": "initiative_proponent",
+  "title": "Connect Bay Area campaign organizer",
+  "background": [
+    "Chang is one of two named official proponents of record — alongside Bay Area Council Senior Vice President of Public Policy Emily Loper — for the Connect Bay Area Transit Initiative, the citizen initiative that qualified as Measure RTM on the November 2026 ballot: a 14-year, five-county regional sales tax projected to raise roughly $980 million a year to prevent service cuts at BART, Muni, Caltrain, AC Transit, VTA, SamTrans, and other regional transit operators. Chang and Loper, represented by the law firm Olson Remcho, filed the initiative's notice of intent to circulate with the Metropolitan Transportation Commission on January 16, 2026, and the Connect Bay Area campaign went on to collect more than 235,000 valid signatures. The measure's sources describe Chang as a 'campaign organizer' without further detail on an employer or organizational title. (Source: content/measures/scc-measure-rtm-2026.json in this voter guide; MTC's submission record for the initiative's circulation notice.)",
+    "I was unable to find any independent biographical detail about Chang beyond this proponent role. Direct fetches of the Bay Area Council's staff directory (bayareacouncil.org/bay-area-council-staff) turned up no entry for Chang, indicating he is not Bay Area Council staff in the way Loper is; a fetch of the campaign's own site (regionaltransitmeasure.com, the address connectbayarea.org redirects to) listed organizational endorsers but no named staff or organizer bios; and a fetch of a Ballotpedia article covering the measure's qualification did not mention Chang. This session's web search tool had exhausted its query budget before I could search further for him. Because I could not verify an employer, prior campaign work, or other background for him from any source reviewed, this profile is limited to his documented role as Measure RTM's co-proponent rather than a fuller biography."
+  ],
+  "past_measures_authored": [],
+  "sources": [
+    {
+      "title": "scc-measure-rtm-2026.json (this voter guide), authors and unexpected_provisions entries for Lian Chang's role as Measure RTM initiative proponent",
+      "url": "https://mtc.ca.gov/sites/default/files/documents/2026-01/SubmissionOfConnectBayAreaTransitInitiativeForCirculation-01-16-2026.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Regional Transit Measure campaign site (connectbayarea.org redirects here)",
+      "url": "http://www.regionaltransitmeasure.com/",
+      "retrieved": "2026-09-22"
+    },
+    {
+      "title": "Bay Area Council, Professional Team staff directory (checked; no entry for Lian Chang)",
+      "url": "https://www.bayareacouncil.org/bay-area-council-staff/",
+      "retrieved": "2026-09-22"
+    }
+  ],
+  "last_updated": "2026-09-22"
+}

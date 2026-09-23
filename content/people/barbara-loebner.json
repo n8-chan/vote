@@ -1,0 +1,29 @@
+{
+  "id": "barbara-loebner",
+  "name": "Barbara Loebner",
+  "type": "initiative_proponent",
+  "title": "Los Altos resident; former Los Altos Parks and Recreation Commissioner",
+  "background": [
+    "Loebner is a former member of the Los Altos Parks and Recreation Commission. In March 2026 she co-filed the Notice of Intent to Circulate for what became Measure D, the Los Altos citizen initiative barring the city from selling, leasing, or making parking- or tree-canopy-reducing changes to the city's ten Downtown Parking Plazas without voter approval, alongside co-proponent Lucinda 'Cindy' Langley-Andrews. She is the filer of the official primary argument in favor of Measure D submitted to the Santa Clara County Registrar of Voters. (Source: content/measures/scc-measure-d-2026.json in this voter guide, and the measure's Notice of Intent to Circulate as reported by Vicki Ferrando Real Estate.)",
+    "I attempted to find further biographical detail, including when she served on the Parks and Recreation Commission and any other civic or professional background, by fetching the City of Los Altos's Parks and Recreation Commission page directly, but the request returned an HTTP 403 error. This session's web search tool had also exhausted its query budget by the time I researched her. News coverage reviewed for the Measure D file (Palo Alto Daily Post, Los Altos Town Crier, Vicki Ferrando Real Estate) names her as co-proponent and argument filer but does not otherwise describe her occupation or background, so beyond her Parks and Recreation Commission service and her role in this campaign, I found no further public record to draw on. This profile is short because the public record about her, beyond this campaign, appears to be genuinely thin, not because research was cut short by choice."
+  ],
+  "past_measures_authored": [],
+  "sources": [
+    {
+      "title": "scc-measure-d-2026.json (this voter guide), who_supports and authors entries for Barbara Loebner's role as Measure D co-proponent",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-d-city-of-los-altos-citizen-sponsored-intiiative_argument-in-favor_08102026_redacted.pdf",
+      "retrieved": "2026-09-20"
+    },
+    {
+      "title": "Vicki Ferrando Real Estate, The Two Downtown Los Altos Plazas Measure D Doesn't Touch",
+      "url": "https://vickiferrando.com/blog/the-two-downtown-los-altos-plazas-measure-d-doesnt-touch",
+      "retrieved": "2026-09-22"
+    },
+    {
+      "title": "Palo Alto Daily Post, Los Altos ballot proposal stops parking lot plans",
+      "url": "https://padailypost.com/2026/04/09/los-altos-ballot-proposal-stops-parking-lot-plans/",
+      "retrieved": "2026-09-22"
+    }
+  ],
+  "last_updated": "2026-09-22"
+}
