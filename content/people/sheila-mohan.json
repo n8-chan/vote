@@ -1,0 +1,20 @@
+{
+  "id": "sheila-mohan",
+  "name": "Sheila Mohan",
+  "type": "city_official",
+  "title": "Cupertino City Councilmember",
+  "years_of_service": "Per the City of Cupertino's official City Council page: in her first term on the Council, which concludes in December 2026; the same page notes she served as Mayor in 2024, indicating she was already on the Council and serving in the mayoral rotation before that first-term listing's window, or that Cupertino's page reflects a term that began before 2026 despite the \"first term\" label. This profile cannot resolve that apparent inconsistency from sources reviewed and reports both facts as stated by the city.",
+  "background": [
+    "Mohan is a Cupertino City Councilmember who served as Mayor in 2024, per the city's own council page. She and Mayor Kitty Moore were assigned by the Council to write the primary argument in favor of Measure L, the November 2026 council-referred measure that would amend Cupertino's General Plan to require two-thirds voter approval before any park, parkland, or open space could be rezoned or developed for residential, commercial, or industrial use. The Council directed this assignment as part of a process that ran from a February 19, 2026 study session through a July 21, 2026 resolution formally placing the measure on the ballot; the vote to place it was unanimous, and no argument against Measure L was filed with the county, so the ballot pamphlet carries only Moore and Mohan's argument. Full detail on the measure itself is in content/measures/scc-measure-l-2026.json and not duplicated here.",
+    "I was not able to independently verify Mohan's pre-council career, education, occupation, first election date, prior committee assignments, or specific named votes beyond her role on Measure L and her 2024 mayoral term. WebSearch was unavailable (session budget exhausted) before this profile was researched. Direct WebFetch of the City of Cupertino's City Council page confirmed her current term status and contact information (phone 408.777.1326, smohan@cupertino.gov), but the page did not include a biographical narrative; Wikipedia's Cupertino, California article corroborates her as a sitting councilmember but adds no further detail. Because of that, committee_memberships, voting_record_highlights, and endorsements_received are left empty below rather than populated with unverified claims."
+  ],
+  "attendance": "No individually published meeting-attendance or voting-participation record for Councilmember Mohan was found in this session. The City of Cupertino's public council pages do not appear to include a per-member attendance scorecard; council meetings and votes are recorded in city agendas and minutes, but compiling a manual attendance tally was not feasible within this session's tool budget.",
+  "endorsements_received": [],
+  "past_measures_authored": [],
+  "sources": [
+    { "title": "content/measures/scc-measure-l-2026.json (this voter guide) — Mohan's role as Councilmember and co-author, with Mayor Kitty Moore, of the Measure L primary argument in favor, and the Council process and timeline", "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-l-cupertino-initiative-ordinance-amendment-argument-in-favor_redacted-v2.pdf", "retrieved": "2026-09-20" },
+    { "title": "City of Cupertino, City Council page (confirms Mohan's first term concluding December 2026, notes she served as Mayor in 2024, and gives contact information)", "url": "https://www.cupertino.gov/Our-City/City-Council", "retrieved": "2026-09-22" },
+    { "title": "Wikipedia, Cupertino, California (identifies Mohan as a sitting councilmember alongside Mayor Kitty Moore, Vice Mayor Liang Chao, J.R. Fruen, and Ray Wang)", "url": "https://en.wikipedia.org/wiki/Cupertino,_California", "retrieved": "2026-09-22" }
+  ],
+  "last_updated": "2026-09-22"
+}

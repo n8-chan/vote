@@ -1,0 +1,20 @@
+{
+  "id": "kitty-moore",
+  "name": "Kitty Moore",
+  "type": "city_official",
+  "title": "Mayor of Cupertino",
+  "years_of_service": "Per the City of Cupertino's official City Council page: in her second term on the Council, which runs through December 2028; appointed Vice Mayor in December 2024 and appointed Mayor in December 2025. Cupertino's five-member council serves overlapping four-year terms and elects the mayor and vice mayor from among themselves for one-year terms, so this profile treats her mayoralty as a one-year rotation rather than a fixed term unless renewed.",
+  "background": [
+    "Moore is the sitting Mayor of Cupertino, in her second Council term (through December 2028), having been appointed Vice Mayor in December 2024 and Mayor in December 2025. She and Councilmember Sheila Mohan were assigned by the Council to write the primary argument in favor of Measure L, the November 2026 council-referred measure that would amend Cupertino's General Plan to require two-thirds voter approval before any park, parkland, or open space could be rezoned or developed for residential, commercial, or industrial use. The Council directed this assignment as part of a process that ran from a February 19, 2026 study session through a July 21, 2026 resolution formally placing the measure on the ballot; the vote to place it was unanimous, and no argument against Measure L was filed with the county, so the ballot pamphlet carries only Moore and Mohan's argument. Full detail on the measure itself is in content/measures/scc-measure-l-2026.json and not duplicated here.",
+    "I was not able to independently verify Moore's pre-council career, education, occupation, first election date, prior committee assignments, or specific named votes beyond her role on Measure L. WebSearch was unavailable (session budget exhausted) before this profile was researched. Direct WebFetch of the City of Cupertino's City Council page confirmed her current title, term structure, and contact information (phone 408.777.1389, kmoore@cupertino.gov), but the page did not include a biographical narrative; Wikipedia's Cupertino, California article corroborates her as Mayor but adds no further detail. Because of that, committee_memberships, voting_record_highlights, and endorsements_received are left empty below rather than populated with unverified claims."
+  ],
+  "attendance": "No individually published meeting-attendance or voting-participation record for Mayor Moore was found in this session. The City of Cupertino's public council pages do not appear to include a per-member attendance scorecard; council meetings and votes are recorded in city agendas and minutes, but compiling a manual attendance tally was not feasible within this session's tool budget.",
+  "endorsements_received": [],
+  "past_measures_authored": [],
+  "sources": [
+    { "title": "content/measures/scc-measure-l-2026.json (this voter guide) — Moore's role as Mayor and co-author, with Sheila Mohan, of the Measure L primary argument in favor, and the Council process and timeline", "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/measure-l-cupertino-initiative-ordinance-amendment-argument-in-favor_redacted-v2.pdf", "retrieved": "2026-09-20" },
+    { "title": "City of Cupertino, City Council page (confirms Moore's second term through December 2028, Vice Mayor appointment December 2024, Mayor appointment December 2025, and contact information)", "url": "https://www.cupertino.gov/Our-City/City-Council", "retrieved": "2026-09-22" },
+    { "title": "Wikipedia, Cupertino, California (identifies Moore as Mayor, Liang Chao as Vice Mayor, and J.R. Fruen, Sheila Mohan, and Ray Wang as councilmembers)", "url": "https://en.wikipedia.org/wiki/Cupertino,_California", "retrieved": "2026-09-22" }
+  ],
+  "last_updated": "2026-09-22"
+}

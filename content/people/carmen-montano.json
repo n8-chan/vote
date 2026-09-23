@@ -1,0 +1,20 @@
+{
+  "id": "carmen-montano",
+  "name": "Carmen Montano",
+  "type": "city_official",
+  "title": "Mayor of Milpitas",
+  "years_of_service": "Serving as Mayor of Milpitas at least as of April 2026 through August 2026, per Wikipedia's Milpitas, California article and content/measures/scc-measure-k-2026.json. This profile cannot independently confirm from sources reviewed when Montano was first elected to the Milpitas City Council or Mayor's office, or how many terms she has served; Wikipedia's snapshot names Evelyn Chua as Vice Mayor and Hon Lien, Garry Barbadillo, and Anthony Phan as councilmembers serving alongside her, consistent with the Council roster in the Measure K vote record.",
+  "background": [
+    "Montano is the sitting Mayor of Milpitas. She presided over and signed City Council Resolution No. 9533, adopted by unanimous 5-0 vote on August 3, 2026 (Montano, Vice Mayor Barbadillo, and Councilmembers Chua, Lam, and Lien all voting aye), placing Measure K, a restructuring of the city's business tax from a flat per-employee rate to a tiered gross-receipts model, on the November 2026 ballot. City Manager Willie Hopkins led the roughly six-month business-community engagement process, including a Small Business Roundtable, that shaped the measure's design before the Council vote; full detail on the measure itself is in content/measures/scc-measure-k-2026.json and not duplicated here. Montano is not listed among the filers or signers of either the argument in favor or the rebuttal for Measure K, per that measure file's sourcing.",
+    "I was not able to independently verify Montano's pre-council career, education, occupation, first election date, prior committee assignments, or specific named votes beyond presiding over and signing Resolution No. 9533. WebSearch was unavailable (session budget exhausted) before this profile was researched, and direct WebFetch attempts at several guessed Milpitas city-council and mayoral biography URLs (milpitas.gov and ci.milpitas.ca.gov) returned 404 errors, an expired-certificate error, or otherwise failed to load; the one source that did confirm her current title was a Wikipedia snapshot of the Milpitas, California article. Because of that, committee_memberships, voting_record_highlights, and endorsements_received are left empty below rather than populated with unverified claims."
+  ],
+  "attendance": "No individually published meeting-attendance or voting-participation record for Mayor Montano was found in this session. The City of Milpitas does not appear to publish a per-member attendance scorecard on its public pages that this session could access; council meetings and votes are a matter of public record via city agendas and minutes, but compiling a manual attendance tally was not feasible within this session's tool budget, and several direct attempts to reach Milpitas city-council pages failed outright.",
+  "endorsements_received": [],
+  "past_measures_authored": [],
+  "sources": [
+    { "title": "content/measures/scc-measure-k-2026.json (this voter guide) — Montano's role as Mayor presiding over and signing Resolution No. 9533 placing Measure K on the ballot, and the 5-0 Council vote breakdown", "url": "https://www.milpitas.gov/DocumentCenter/View/10527/Resolution-No-9533-Adding-a-Measure-to-the-Ballot-PDF", "retrieved": "2026-09-20" },
+    { "title": "Wikipedia, Milpitas, California (identifies Montano as Mayor as of April 26, 2024, with Vice Mayor Evelyn Chua and councilmembers Hon Lien, Garry Barbadillo, and Anthony Phan)", "url": "https://en.wikipedia.org/wiki/Milpitas,_California", "retrieved": "2026-09-22" },
+    { "title": "City of Milpitas, Measure K informational page (city government context; no biographical detail on Montano found)", "url": "https://www.milpitas.gov/1447/Measure-K-Milpitas-Local-Funding-Measure", "retrieved": "2026-09-22" }
+  ],
+  "last_updated": "2026-09-22"
+}

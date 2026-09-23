@@ -1,0 +1,20 @@
+{
+  "id": "vicki-veenker",
+  "name": "Vicki Veenker",
+  "type": "city_official",
+  "title": "Mayor of Palo Alto",
+  "years_of_service": "Serving as Mayor for the term ending December 31, 2026, per the City of Palo Alto's official City Council page. Palo Alto's charter has its seven-member, at-large council elect a Mayor and Vice Mayor from among themselves each year, with terms ending in January; a Wikipedia snapshot of the Palo Alto, California article (which this profile cannot confirm is current) instead lists Veenker as Vice Mayor under Mayor Ed Lauing, consistent with her having held the Vice Mayor role in the prior council year before rotating into the Mayor's seat for 2026. This profile cannot independently confirm from sources reviewed when Veenker was first elected to the Council or how many terms she has served.",
+  "background": [
+    "Veenker is the sitting Mayor of Palo Alto. As Mayor, she presided over the City Council's unanimous vote on June 8, 2026 (Resolution No. 10295) placing Measure J, a 0.5% transactions-and-use (sales) tax increase, on the November 2026 ballot; the same June 8 package included Resolution No. 10296 (non-binding spending guidelines) and Ordinance No. 5699, which would codify the tax increase if voters approve it. Veenker described the Council's decision as \"putting all of our trust in our residents.\" Full detail on Measure J, including its fiscal estimates and the arguments filed for and against it, is covered in content/measures/scc-measure-j-2026.json and not duplicated here. Veenker is not listed among the argument's filers or signers; the primary argument in favor was filed by Julie Lythcott-Haims, a fellow councilmember, with other signers, per the measure file's sourcing.",
+    "I was not able to independently verify Veenker's pre-council career, education, occupation, prior committee assignments, or specific named votes beyond her role presiding over the Measure J placement vote. WebSearch was unavailable (session budget exhausted) before this profile was researched. Direct WebFetch of the City of Palo Alto's City Council page confirmed her current title, term expiration, and contact information, but the page did not include a biographical section; a Wikipedia snapshot fetched in this session appears to reflect a prior council year (listing her as Vice Mayor, not Mayor) and was not treated as authoritative for her current role. Because of that, committee_memberships, voting_record_highlights, and endorsements_received are left empty below rather than populated with unverified claims."
+  ],
+  "attendance": "No individually published meeting-attendance or voting-participation record for Mayor Veenker was found in this session. The City of Palo Alto's City Council page does not appear to publish a per-member attendance scorecard; Council meetings and agendas are handled by the city, and a manual attendance tally could in principle be compiled from meeting minutes, but doing so was not feasible within this session's tool budget.",
+  "endorsements_received": [],
+  "past_measures_authored": [],
+  "sources": [
+    { "title": "content/measures/scc-measure-j-2026.json (this voter guide) — Veenker's role as Mayor presiding over the June 8, 2026 Council vote placing Measure J on the ballot, and her quoted statement", "url": "https://www.paloalto.gov/Departments/City-Clerk/Municipal-Elections/November-3-2026-Ballot-Measure-J", "retrieved": "2026-09-20" },
+    { "title": "City of Palo Alto, City Council page (confirms Veenker as Mayor, term expiring December 31, 2026, and contact information)", "url": "https://www.paloalto.gov/Departments/City-Clerk/City-Council", "retrieved": "2026-09-22" },
+    { "title": "Wikipedia, Palo Alto, California (a fetched snapshot lists Veenker as Vice Mayor under Mayor Ed Lauing; treated as possibly stale relative to Palo Alto's January mayoral rotation and not relied on for her current title)", "url": "https://en.wikipedia.org/wiki/Palo_Alto,_California", "retrieved": "2026-09-22" }
+  ],
+  "last_updated": "2026-09-22"
+}
