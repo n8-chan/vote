@@ -1,0 +1,23 @@
+{
+  "id": "francesca-serrano",
+  "name": "Francesca Serrano",
+  "type": "other",
+  "title": "Assistant City Attorney, City of Mountain View",
+  "background": [
+    "Serrano is Assistant City Attorney for the City of Mountain View, working in City Attorney Jennifer Logue's office. She presented Measure E, the city's November 2026 Charter amendment package, to the City Council on behalf of Logue's office both at a February 2026 study session and again when the Council formally voted to place the measure on the ballot at its June 9, 2026 meeting. In both appearances she characterized the package as \"non-substantive\" and \"non-controversial,\" a description this voter guide's research on Measure E found largely accurate for the bundle's typo fixes, gender-neutral language, and terminology updates, but incomplete for two items: a 30-to-60-day extension of the Council's deadline to fill a Council vacancy, and a provision giving the Council discretion over paid-city-employee membership on non-Charter boards and commissions, which Councilmembers debated before adopting unanimously. (Source: scc-measure-e-2026.json in this voter guide.)",
+    "This profile could not independently verify Serrano's education, bar admission, prior legal roles, or how long she has served as Assistant City Attorney. The City of Mountain View's website (mountainview.gov) returned HTTP 403 on every direct access attempt, consistent with the Cloudflare blocking the Measure E and Measure F research files separately documented for the city's PDFs. No outside source, news bio, or Ballotpedia entry describing Serrano's career background beyond her role in the Measure E record was found. This gap is disclosed rather than filled with unverified material."
+  ],
+  "sources": [
+    {
+      "title": "scc-measure-e-2026.json (this voter guide), what_it_really_means and authors sections for Francesca Serrano's role presenting Measure E to the Council",
+      "url": "https://www.mv-voice.com/city-government/2026/02/12/mountain-view-looks-to-place-non-controversial-city-charter-update-on-november-ballot/",
+      "retrieved": "2026-09-22"
+    },
+    {
+      "title": "City of Mountain View, City Attorney department page (attempted; returned HTTP 403, Cloudflare bot protection, on every access method tried)",
+      "url": "https://www.mountainview.gov/departments/city_attorney",
+      "retrieved": "2026-09-22"
+    }
+  ],
+  "last_updated": "2026-09-22"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "arn-andrews",
+  "name": "Arn Andrews",
+  "type": "other",
+  "title": "Assistant City Manager, City of Mountain View",
+  "background": [
+    "Andrews is Assistant City Manager for the City of Mountain View. He prepared the June 23, 2026 council report recommending Measure F, the city's November 2026 ballot measure authorizing the City Council to raise the Transient Occupancy Tax (hotel and short-term-rental tax) from its current 10%, unchanged since 1991, to a Council-adjustable ceiling of 15%, and he drafted the ballot question and ordinance language the Council placed on the ballot, which City Manager Kimbra McCarthy approved. His report's \"Next Steps\" section stated that, if voters approved the measure, staff would return to the Council to consider a specific new rate in November or December 2026, after the election; the measure itself sets only the 15% ceiling and does not require the Council to raise the rate on any timetable. Measure F followed the City's pivot away from a much larger, roughly $480-650 million general obligation bond after 2026 polling showed support falling well short of the two-thirds supermajority a bond requires. (Source: scc-measure-f-2026.json in this voter guide.)",
+    "This profile could not independently verify Andrews's education, prior professional roles, or how long he has served as Assistant City Manager. The City of Mountain View's website (mountainview.gov) returned HTTP 403 on every direct access attempt, consistent with the Cloudflare blocking the Measure E and Measure F research files separately documented for the city's PDFs. No outside source, news bio, or Ballotpedia entry describing Andrews's career background beyond his role in the Measure F record was found. This gap is disclosed rather than filled with unverified material."
+  ],
+  "sources": [
+    {
+      "title": "scc-measure-f-2026.json (this voter guide), what_it_really_means, control_and_power, and authors sections for Arn Andrews's role drafting Measure F",
+      "url": "https://mountainview.legistar.com/View.ashx?M=F&ID=15624915&GUID=53E340DD-39DE-4F63-B320-0D81711705E7",
+      "retrieved": "2026-09-22"
+    },
+    {
+      "title": "City of Mountain View, City Manager department page (attempted; returned HTTP 403, Cloudflare bot protection, on every access method tried)",
+      "url": "https://www.mountainview.gov/city_hall/city_manager",
+      "retrieved": "2026-09-22"
+    }
+  ],
+  "last_updated": "2026-09-22"
+}

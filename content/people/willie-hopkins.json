@@ -1,0 +1,23 @@
+{
+  "id": "willie-hopkins",
+  "name": "Willie Hopkins",
+  "type": "other",
+  "title": "City Manager, City of Milpitas",
+  "background": [
+    "Hopkins serves as City Manager for the City of Milpitas, bringing executive leadership experience across the public, private, and military sectors. According to the city's official leadership-team page, his career spans budget administration, operational oversight, capital improvement planning, and the management of large multidisciplinary teams; he has guided the planning, execution, and oversight of more than $3 billion in capital projects, including major infrastructure investments. The city's page describes him as focused on advancing strategic priorities, enhancing service delivery, and fostering a high-performing organization, with a collaborative leadership style emphasizing transparency and open communication with elected officials, staff, community stakeholders, and regional partners. (Source: City of Milpitas, City Manager leadership-team page.)",
+    "As City Manager, Hopkins led the roughly six-month business-community engagement process behind Measure K, Milpitas's November 2026 ballot measure replacing the city's 1976-era per-employee business tax with a new gross-receipts-based tax, including a City Manager's Small Business Roundtable, community surveys, and informational mailers. Per reporting in the Milpitas Beat and PublicCEO, he stated the city needs additional local funding to address illegal dumping and neighborhood blight, homelessness, aging water and sewer infrastructure, and storm drains; the City Council placed Measure K on the ballot by a unanimous 5-0 vote (Resolution No. 9533) on August 3, 2026. (Source: scc-measure-k-2026.json in this voter guide.)"
+  ],
+  "sources": [
+    {
+      "title": "City of Milpitas, City Manager (Willie Hopkins) leadership-team page, official biography",
+      "url": "https://www.milpitas.gov/1451/City-Manager",
+      "retrieved": "2026-09-22"
+    },
+    {
+      "title": "scc-measure-k-2026.json (this voter guide), what_it_really_means and authors sections for Willie Hopkins's role in Measure K",
+      "url": "https://milpitasbeat.com/milpitas-city-council-votes-to-put-business-tax-measure-on-november-ballot/",
+      "retrieved": "2026-09-22"
+    }
+  ],
+  "last_updated": "2026-09-22"
+}

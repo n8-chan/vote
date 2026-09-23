@@ -1,0 +1,23 @@
+{
+  "id": "jeffrey-bowman",
+  "name": "Dr. Jeffrey Bowman",
+  "type": "other",
+  "title": "Superintendent, Orchard School District",
+  "background": [
+    "Dr. Bowman is Superintendent of Orchard School District, a small single-school district in North San Jose. As Superintendent, he is a listed author of Measure R, the district's November 2026 parcel tax measure, alongside Board President Virginia Varela-Campos; the district's five-member Board of Trustees approved placing the measure on the ballot at its July 29, 2026 meeting. If Measure R passes, Dr. Bowman's administration, together with the Board, would hold year-to-year discretion over how the roughly $1.4 million raised annually is allocated among the measure's broadly stated purposes (STEAM education, visual and performing arts, and teacher recruitment and retention), subject to a dedicated account, annual expenditure reporting, and an annual independent audit. (Source: scc-measure-r-2026.json in this voter guide, authors and control_and_power sections.)",
+      "This profile could not independently verify Dr. Bowman's education, prior professional roles, or the date he became Superintendent. The Orchard School District website (orchardsd.org), including its board-members page, a guessed superintendent-bio page, and the district's Measure R announcement article, is protected by Cloudflare bot-challenge software that returned only a JavaScript \"Client Challenge\" page on every direct access attempt, the same blocking behavior the Measure R research file separately documented for the county's Impartial Analysis and ballot-text PDFs. No outside source, news coverage, or Ballotpedia entry describing Dr. Bowman's career background was found. This gap is disclosed rather than filled with unverified material."
+  ],
+  "sources": [
+    {
+      "title": "scc-measure-r-2026.json (this voter guide), authors and control_and_power sections for Dr. Jeffrey Bowman's role",
+      "url": "https://www.orchardsd.org/article/3055305",
+      "retrieved": "2026-09-22"
+    },
+    {
+      "title": "Orchard School District, Board Members page (attempted; returned a Cloudflare \"Client Challenge\" page with no biographical content on every access method tried)",
+      "url": "https://www.orchardsd.org/page/board-members",
+      "retrieved": "2026-09-22"
+    }
+  ],
+  "last_updated": "2026-09-22"
+}

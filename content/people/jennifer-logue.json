@@ -1,0 +1,23 @@
+{
+  "id": "jennifer-logue",
+  "name": "Jennifer Logue",
+  "type": "other",
+  "title": "City Attorney, City of Mountain View",
+  "background": [
+    "Logue is City Attorney for the City of Mountain View. Her office drafted Measure E, the city's November 2026 Charter amendment package, after reviewing the charters of nine other cities to identify modern drafting conventions and commonly used requirements; no source reviewed for Measure E identifies which nine cities were reviewed or which specific provisions were borrowed from them. She presented the Council's rationale for deferring a broader, more substantive round of Charter changes to a planned 2028 measure, so the November 2026 ballot, which also carries a city bond measure and the Transient Occupancy Tax measure (Measure F), would not be overloaded with multiple Charter questions at once. During Council debate over which board and commission members may hold paid city employment, she told the Council that allowing paid city employees to serve would require additional oversight, potentially including conflict-of-interest assessments, though the specifics of that oversight were not spelled out in the record reviewed. (Source: scc-measure-e-2026.json in this voter guide.)",
+    "This profile could not independently verify Logue's education, bar admission, prior legal roles, or the date she became City Attorney. The City of Mountain View's website (mountainview.gov), including its City Attorney department page, returned HTTP 403 on every direct access attempt, consistent with the Cloudflare blocking that the Measure E and Measure F research files separately documented for the city's PDFs. No outside source, news bio, or Ballotpedia entry describing Logue's career background beyond her role in the Measure E and Measure F record was found. This gap is disclosed rather than filled with unverified material."
+  ],
+  "sources": [
+    {
+      "title": "scc-measure-e-2026.json (this voter guide), what_it_really_means and authors sections for Jennifer Logue's role drafting and presenting Measure E",
+      "url": "https://www.mv-voice.com/news/2026/09/10/voter-guide-what-to-know-about-mountain-views-measure-e-charter-update/",
+      "retrieved": "2026-09-22"
+    },
+    {
+      "title": "City of Mountain View, City Attorney department page (attempted; returned HTTP 403, Cloudflare bot protection, on every access method tried)",
+      "url": "https://www.mountainview.gov/departments/city_attorney",
+      "retrieved": "2026-09-22"
+    }
+  ],
+  "last_updated": "2026-09-22"
+}
