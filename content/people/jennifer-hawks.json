@@ -1,0 +1,51 @@
+{
+  "id": "jennifer-hawks",
+  "name": "Jennifer Hawks",
+  "type": "candidate",
+  "title": "Republican nominee for California State Treasurer (2026); retired businesswoman",
+  "background": [
+    "Hawks is a retired Silicon Valley businesswoman with no elected experience, which she promotes as independence. Her most recent role was on the executive team at Sacred Heart Schools, a Catholic school in Atherton. She is a local Republican Party activist. (CalMatters)",
+    "In Ballotpedia's candidate survey she says she experienced significant financial hardship as a young woman, and she runs on treasury transparency, ending what she calls reckless bond investments, and protecting pension security as a CalPERS and CalSTRS board member. She placed second in the June 2, 2026 primary with 24.00%. (Ballotpedia)"
+  ],
+  "endorsements_received": [
+    {
+      "name": "California Republican Party",
+      "type": "org",
+      "notes": "Per CalMatters and Ballotpedia."
+    },
+    {
+      "name": "California Republican Assembly",
+      "type": "org",
+      "notes": "Per CalMatters."
+    },
+    {
+      "name": "Reform California",
+      "type": "org",
+      "notes": "Per CalMatters and Ballotpedia."
+    },
+    {
+      "name": "California Rifle & Pistol Association",
+      "type": "org",
+      "notes": "Per Ballotpedia."
+    },
+    {
+      "name": "Carl DeMaio",
+      "type": "politician",
+      "notes": "Per Hawks's Ballotpedia survey response."
+    }
+  ],
+  "past_measures_authored": [],
+  "sources": [
+    {
+      "title": "CalMatters 2026 voter guide: Treasurer",
+      "url": "https://calmatters.org/california-voter-guide-2026/treasurer/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Ballotpedia: Jennifer Hawks",
+      "url": "https://ballotpedia.org/Jennifer_Hawks",
+      "retrieved": "2026-10-25"
+    }
+  ],
+  "last_updated": "2026-10-25"
+}

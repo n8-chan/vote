@@ -1,0 +1,48 @@
+{
+  "id": "eleni-kounalakis",
+  "name": "Eleni Kounalakis",
+  "type": "statewide_official",
+  "title": "Lieutenant Governor of California; Democratic nominee for State Treasurer (2026)",
+  "years_of_service": "U.S. Ambassador to Hungary 2010–2013; Lieutenant Governor since January 7, 2019. (Wikipedia)",
+  "background": [
+    "Kounalakis was born March 3, 1966, in Sacramento, the daughter of developer Angelo Tsakopoulos. She holds a B.A. from Dartmouth and an MBA from UC Berkeley's Haas School, and rose to president of her father's firm, AKT Development, serving until 2010. She was a major Democratic fundraiser in the 2000s. (Wikipedia; CalMatters)",
+    "President Obama appointed her Ambassador to Hungary (2010–2013). She was elected Lieutenant Governor in 2018 (56.55%, the first woman elected to the office) and re-elected in 2022 (59.70%). As a UC Regent and CSU Trustee she has regularly voted against tuition increases. After the Colorado Supreme Court's Anderson v. Griswold ruling she sought to keep Donald Trump off California's 2024 ballot, after which she was doxxed and swatted. (Wikipedia; CalMatters)",
+    "She announced for governor in April 2023, switched to the Treasurer race on August 8, 2025, and placed first in the June 2026 primary with 36.69%. (Wikipedia)"
+  ],
+  "endorsements_received": [
+    {
+      "name": "California Labor Federation",
+      "type": "org",
+      "notes": "Per CalMatters voter guide."
+    },
+    {
+      "name": "Teamsters California",
+      "type": "org",
+      "notes": "Per CalMatters voter guide."
+    },
+    {
+      "name": "National Union of Healthcare Workers",
+      "type": "org",
+      "notes": "Per CalMatters voter guide."
+    }
+  ],
+  "past_measures_authored": [],
+  "sources": [
+    {
+      "title": "CalMatters 2026 voter guide: Treasurer",
+      "url": "https://calmatters.org/california-voter-guide-2026/treasurer/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Wikipedia: Eleni Kounalakis",
+      "url": "https://en.wikipedia.org/wiki/Eleni_Kounalakis",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Ballotpedia: Jennifer Hawks (Treasurer primary results)",
+      "url": "https://ballotpedia.org/Jennifer_Hawks",
+      "retrieved": "2026-10-25"
+    }
+  ],
+  "last_updated": "2026-10-25"
+}

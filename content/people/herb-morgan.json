@@ -1,0 +1,46 @@
+{
+  "id": "herb-morgan",
+  "name": "Herb Morgan",
+  "type": "candidate",
+  "title": "Republican nominee for California State Controller (2026); investment executive",
+  "background": [
+    "Morgan is a chief investment officer who founded an investment firm in San Diego that was later acquired by Cantor Fitzgerald Investment Advisors. CalMatters does not give dates for these roles, and this research found no prior elected office. (CalMatters)",
+    "He is campaigning on exposing fraud in state government. He placed second in the June 2, 2026 primary with 37.53%. (CalMatters; Ballotpedia)"
+  ],
+  "endorsements_received": [
+    {
+      "name": "California Republican Party",
+      "type": "org",
+      "notes": "Per CalMatters and Ballotpedia."
+    },
+    {
+      "name": "California Republican Assembly",
+      "type": "org",
+      "notes": "Per CalMatters."
+    },
+    {
+      "name": "California Rifle & Pistol Association",
+      "type": "org",
+      "notes": "Per Ballotpedia."
+    },
+    {
+      "name": "Reform California",
+      "type": "org",
+      "notes": "Per Ballotpedia."
+    }
+  ],
+  "past_measures_authored": [],
+  "sources": [
+    {
+      "title": "CalMatters 2026 voter guide: Controller",
+      "url": "https://calmatters.org/california-voter-guide-2026/controller/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Ballotpedia: Herb Morgan",
+      "url": "https://ballotpedia.org/Herb_Morgan",
+      "retrieved": "2026-10-25"
+    }
+  ],
+  "last_updated": "2026-10-25"
+}

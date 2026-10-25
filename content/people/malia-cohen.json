@@ -1,0 +1,48 @@
+{
+  "id": "malia-cohen",
+  "name": "Malia Cohen",
+  "type": "statewide_official",
+  "title": "California State Controller; Democratic candidate for re-election (2026)",
+  "years_of_service": "San Francisco Board of Supervisors (District 10) 2011–2019, president 2018–2019; Board of Equalization (District 2) 2019–2023; State Controller since January 2, 2023. (Wikipedia)",
+  "background": [
+    "Cohen was born December 16, 1977, in San Francisco. She holds a bachelor's degree in political science from Fisk University and a graduate degree from Carnegie Mellon. She worked on Gavin Newsom's 2003 mayoral campaign and in his mayoral office. (Wikipedia)",
+    "She represented District 10 on the San Francisco Board of Supervisors from 2011 to 2019, sponsoring the city's large-capacity magazine limit and co-authoring its Fair Chance (\"ban the box\") ordinance, and was board president in 2018–2019. She then served on the Board of Equalization (2019–2023). (Wikipedia)",
+    "She won the 2022 Controller race with 55.35% over Republican Lanhee Chen and placed first in the June 2026 primary with 56.80%. In October 2026 a federal lawsuit alleged that her office's unclaimed-property contractors took and sold foreign investors' assets without adequate notice; these are allegations, not findings. (Wikipedia)"
+  ],
+  "endorsements_received": [
+    {
+      "name": "California Democratic Party",
+      "type": "org",
+      "notes": "Per CalMatters voter guide."
+    },
+    {
+      "name": "California Labor Federation",
+      "type": "org",
+      "notes": "Per CalMatters voter guide."
+    },
+    {
+      "name": "Equality California",
+      "type": "org",
+      "notes": "Per CalMatters voter guide."
+    }
+  ],
+  "past_measures_authored": [],
+  "sources": [
+    {
+      "title": "CalMatters 2026 voter guide: Controller",
+      "url": "https://calmatters.org/california-voter-guide-2026/controller/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Wikipedia: Malia Cohen",
+      "url": "https://en.wikipedia.org/wiki/Malia_Cohen",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Wikipedia: 2026 California State Controller election",
+      "url": "https://en.wikipedia.org/wiki/2026_California_State_Controller_election",
+      "retrieved": "2026-10-25"
+    }
+  ],
+  "last_updated": "2026-10-25"
+}

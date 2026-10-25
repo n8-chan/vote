@@ -1,0 +1,67 @@
+{
+  "id": "rob-bonta",
+  "name": "Rob Bonta",
+  "type": "statewide_official",
+  "title": "California Attorney General; Democratic candidate for re-election (2026)",
+  "years_of_service": "Alameda City Council 2010–2012; State Assembly (18th District) December 2012–April 2021; Attorney General since April 23, 2021. (Wikipedia)",
+  "background": [
+    "Bonta was born in Quezon City, Philippines, in 1971 (some sources say 1972) and moved to California as an infant. He holds a B.A. in history (1993) and a J.D. (1998) from Yale. He clerked in federal court, practiced at Keker & Van Nest, and was a San Francisco deputy city attorney from 2003 to 2012. (Wikipedia)",
+    "He served on the Alameda City Council and then in the Assembly from 2012 to 2021, where he authored the state's private-prison ban (AB 32, 2019), the bill requiring independent state review of police shootings of unarmed people (AB 1506), and the rent-cap bill later merged into AB 1482. Gov. Newsom appointed him Attorney General in April 2021, the first Filipino American in the office; he won a full term in 2022 with 59.1% over Nathan Hochman. (Wikipedia)",
+    "As AG he has sued Amazon on antitrust grounds, enforced state housing laws against cities, and filed 54 lawsuits against the second Trump administration in its first year (CalMatters puts it at more than 50). Criticisms include a 2022 data exposure of concealed-carry permit holders and 2020 reporting that he solicited donations to his wife's nonprofit from companies with business before the Legislature. He placed first in the June 2026 primary with 56.62%. (Wikipedia; CalMatters)"
+  ],
+  "endorsements_received": [
+    {
+      "name": "California Democratic Party",
+      "type": "org",
+      "notes": "Per CalMatters voter guide."
+    },
+    {
+      "name": "California Teachers Association",
+      "type": "org",
+      "notes": "Per CalMatters voter guide."
+    },
+    {
+      "name": "California Environmental Voters",
+      "type": "org",
+      "notes": "Per CalMatters voter guide."
+    }
+  ],
+  "past_measures_authored": [
+    {
+      "title": "AB 32 (2019) — ban on private prisons and private civil detention centers",
+      "year": "2019",
+      "outcome": "Signed into law by Gov. Newsom.",
+      "source_url": "https://en.wikipedia.org/wiki/Rob_Bonta"
+    },
+    {
+      "title": "AB 1506 (2019–2020) — independent DOJ review of police shootings of unarmed civilians",
+      "year": "2020",
+      "outcome": "Signed into law in 2020.",
+      "source_url": "https://en.wikipedia.org/wiki/Rob_Bonta"
+    },
+    {
+      "title": "AB 72 (2016) — protections against surprise out-of-network medical bills",
+      "year": "2016",
+      "outcome": "Signed into law by Gov. Brown.",
+      "source_url": "https://en.wikipedia.org/wiki/Rob_Bonta"
+    }
+  ],
+  "sources": [
+    {
+      "title": "CalMatters 2026 voter guide: Attorney General",
+      "url": "https://calmatters.org/california-voter-guide-2026/attorney-general/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Wikipedia: Rob Bonta",
+      "url": "https://en.wikipedia.org/wiki/Rob_Bonta",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Ballotpedia: Michael Gates (California) (AG primary results)",
+      "url": "https://ballotpedia.org/Michael_Gates_(California)",
+      "retrieved": "2026-10-25"
+    }
+  ],
+  "last_updated": "2026-10-25"
+}
