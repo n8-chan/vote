@@ -1,0 +1,44 @@
+{
+  "id": "donald-wagner",
+  "name": "Donald P. Wagner",
+  "type": "county_official",
+  "title": "Orange County Supervisor, District 3; Republican nominee for Secretary of State (2026)",
+  "district": "Orange County Board of Supervisors, District 3",
+  "years_of_service": "State Assembly 2010–2016; Mayor of Irvine 2016–2019; Orange County Supervisor since March 27, 2019 (board chair 2023–2025). (Wikipedia)",
+  "background": [
+    "Wagner was born December 3, 1960, in Pittsburgh. He holds a B.A. in English from UCLA and a J.D. from UC Hastings (1987) and has practiced law since 1987, at Wagner Lautsch LLP since 1998. He served three terms on the South Orange County Community College District board. (Wikipedia)",
+    "He served in the Assembly from 2010 to 2016 (vice chair of Judiciary in 2011–2012), was elected Mayor of Irvine in 2016 and 2018, and won a 2019 special election to the Orange County Board of Supervisors, where he was re-elected in 2020 and 2024 and chaired the board from 2023 to 2025. (Wikipedia)",
+    "In 2021 he drew criticism for asking a doctor at a public meeting whether vaccines contained \"tracking devices\"; he denied promoting misinformation. In 2024 he defended fellow Supervisor Andrew Do when misuse-of-funds allegations surfaced; Do later pleaded guilty. As supervisor he pushed to release sensitive voter information to the U.S. Department of Justice. He placed second in the June 2026 Secretary of State primary with 36.74%. (Wikipedia; CalMatters)"
+  ],
+  "endorsements_received": [
+    {
+      "name": "California Republican Party",
+      "type": "org",
+      "notes": "Per CalMatters voter guide."
+    },
+    {
+      "name": "Reform California",
+      "type": "org",
+      "notes": "Per CalMatters voter guide."
+    },
+    {
+      "name": "California Republican Assembly",
+      "type": "org",
+      "notes": "Per CalMatters voter guide."
+    }
+  ],
+  "past_measures_authored": [],
+  "sources": [
+    {
+      "title": "CalMatters 2026 voter guide: Secretary of State",
+      "url": "https://calmatters.org/california-voter-guide-2026/secretary-of-state/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Wikipedia: Donald P. Wagner",
+      "url": "https://en.wikipedia.org/wiki/Donald_P._Wagner",
+      "retrieved": "2026-10-25"
+    }
+  ],
+  "last_updated": "2026-10-25"
+}

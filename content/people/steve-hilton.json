@@ -1,0 +1,53 @@
+{
+  "id": "steve-hilton",
+  "name": "Steve Hilton",
+  "type": "candidate",
+  "title": "Republican nominee for Governor of California (2026); former Fox News host",
+  "background": [
+    "Hilton was born August 25, 1969, in London to Hungarian émigré parents and studied Philosophy, Politics and Economics at New College, Oxford. He worked at Conservative Party headquarters, where he met David Cameron, and served as Cameron's director of strategy at 10 Downing Street from 2010 to 2012. (Wikipedia)",
+    "He moved to California in 2012, held fellowships at Stanford, and co-founded the political crowdfunding platform Crowdpac, serving as CEO until May 2018. He endorsed Donald Trump in 2016 and hosted Fox News's weekly \"The Next Revolution\" from 2017 to 2023. He became a U.S. citizen in May 2021 and renounced British citizenship in 2025. In 2023 he launched the Golden Together policy institute and proposed a housing ballot measure that did not qualify. (Wikipedia; CalMatters)",
+    "He launched his campaign April 21, 2025, received Trump's endorsement on April 6, 2026, and chose former Democratic Senate majority leader Gloria Romero as his partner for lieutenant governor. He placed second in the June 2 primary with 24.59%. (Wikipedia)",
+    "PolitiFact rated as unsubstantiated his 2021 claims that Anthony Fauci commissioned development of the COVID-19 virus, and after the 2020 election he called on Fox News for investigations of fraud claims. (Wikipedia)"
+  ],
+  "endorsements_received": [
+    {
+      "name": "President Donald Trump",
+      "type": "politician",
+      "notes": "Endorsed April 6, 2026 (Wikipedia; CalMatters)."
+    },
+    {
+      "name": "Vivek Ramaswamy",
+      "type": "politician",
+      "notes": "Per Wikipedia."
+    },
+    {
+      "name": "Nisei Farmers League",
+      "type": "org",
+      "notes": "Per CalMatters voter guide."
+    },
+    {
+      "name": "Israeli-American Civic Action Network",
+      "type": "org",
+      "notes": "Per CalMatters voter guide."
+    }
+  ],
+  "past_measures_authored": [],
+  "sources": [
+    {
+      "title": "CalMatters 2026 voter guide: Governor",
+      "url": "https://calmatters.org/california-voter-guide-2026/governor/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Wikipedia: Steve Hilton",
+      "url": "https://en.wikipedia.org/wiki/Steve_Hilton",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Wikipedia: 2026 California gubernatorial election",
+      "url": "https://en.wikipedia.org/wiki/2026_California_gubernatorial_election",
+      "retrieved": "2026-10-25"
+    }
+  ],
+  "last_updated": "2026-10-25"
+}

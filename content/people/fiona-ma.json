@@ -1,0 +1,48 @@
+{
+  "id": "fiona-ma",
+  "name": "Fiona Ma",
+  "type": "statewide_official",
+  "title": "California State Treasurer; Democratic nominee for Lieutenant Governor (2026)",
+  "years_of_service": "San Francisco Board of Supervisors 2002–2006; State Assembly 2006–2012; Board of Equalization 2015–2019; State Treasurer since January 7, 2019. (Wikipedia)",
+  "background": [
+    "Ma was born March 4, 1966, in New York City. She is a CPA with a B.S. in accounting from Rochester Institute of Technology, an M.S. in taxation from Golden Gate University, and an MBA from Pepperdine. (Wikipedia)",
+    "She represented San Francisco's District 4 on the Board of Supervisors, then served three Assembly terms (12th District), becoming Speaker pro Tempore in 2010. On the Board of Equalization she chaired the board in 2016–2017, ordered outside audits, and backed the 2017 restructuring that stripped most of its duties. Elected Treasurer in 2018 (64.13%) and re-elected in 2022 (58.80%), she launched the CalSavers retirement program. (Wikipedia)",
+    "A former staffer sued in 2021 alleging sexual harassment and wrongful termination; reporting also covered Ma sharing hotel rooms with her chief of staff 13 times in two years, which she called a cost-saving measure. The state settled for $350,000 in 2024; Ma denied wrongdoing. (Wikipedia)"
+  ],
+  "endorsements_received": [
+    {
+      "name": "California Labor Federation",
+      "type": "org",
+      "notes": "Per CalMatters voter guide."
+    },
+    {
+      "name": "State Building and Construction Trades Council",
+      "type": "org",
+      "notes": "Per CalMatters voter guide."
+    },
+    {
+      "name": "AFSCME",
+      "type": "org",
+      "notes": "Per CalMatters voter guide."
+    }
+  ],
+  "past_measures_authored": [],
+  "sources": [
+    {
+      "title": "CalMatters 2026 voter guide: Lieutenant Governor",
+      "url": "https://calmatters.org/california-voter-guide-2026/lieutenant-governor/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Wikipedia: Fiona Ma",
+      "url": "https://en.wikipedia.org/wiki/Fiona_Ma",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Wikipedia: 2026 California lieutenant gubernatorial election",
+      "url": "https://en.wikipedia.org/wiki/2026_California_lieutenant_gubernatorial_election",
+      "retrieved": "2026-10-25"
+    }
+  ],
+  "last_updated": "2026-10-25"
+}

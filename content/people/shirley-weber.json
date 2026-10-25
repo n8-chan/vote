@@ -1,0 +1,55 @@
+{
+  "id": "shirley-weber",
+  "name": "Shirley Weber",
+  "type": "statewide_official",
+  "title": "California Secretary of State; Democratic candidate for re-election (2026)",
+  "years_of_service": "San Diego Board of Education 1988–1996; State Assembly (79th District) 2012–2021; Secretary of State since January 29, 2021. (Wikipedia)",
+  "background": [
+    "Weber was born September 20, 1948, in Hope, Arkansas, to sharecroppers who left the Jim Crow South; the family settled in South Los Angeles. She earned a B.A., M.A., and Ph.D. in communication from UCLA and in 1972 helped found San Diego State University's Africana studies department, where she taught for 40 years. (Wikipedia; CalMatters)",
+    "She served on the San Diego Board of Education (1988–1996) and won the 79th Assembly District in 2012, serving until 2021. She authored AB 3121 (2020), which created California's Reparations Task Force. (Wikipedia)",
+    "Gov. Newsom appointed her Secretary of State to succeed Alex Padilla; she was sworn in January 29, 2021, as the first Black person to hold the office. She administered the 2021 recall election and the move to permanent universal vote-by-mail, won a full term in 2022 with 60.1%, and placed first in the June 2026 primary with 58.70%. (Wikipedia; CalMatters)"
+  ],
+  "endorsements_received": [
+    {
+      "name": "California Democratic Party",
+      "type": "org",
+      "notes": "Per CalMatters voter guide."
+    },
+    {
+      "name": "California Federation of Teachers",
+      "type": "org",
+      "notes": "Per CalMatters voter guide."
+    },
+    {
+      "name": "SEIU California",
+      "type": "org",
+      "notes": "Per CalMatters voter guide."
+    }
+  ],
+  "past_measures_authored": [
+    {
+      "title": "AB 3121 (2020) — Task Force to Study and Develop Reparation Proposals for African Americans",
+      "year": "2020",
+      "outcome": "Signed into law; the task force first met in 2021.",
+      "source_url": "https://en.wikipedia.org/wiki/Shirley_Weber"
+    }
+  ],
+  "sources": [
+    {
+      "title": "CalMatters 2026 voter guide: Secretary of State",
+      "url": "https://calmatters.org/california-voter-guide-2026/secretary-of-state/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Wikipedia: Shirley Weber",
+      "url": "https://en.wikipedia.org/wiki/Shirley_Weber",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Wikipedia: 2026 California Secretary of State election",
+      "url": "https://en.wikipedia.org/wiki/2026_California_Secretary_of_State_election",
+      "retrieved": "2026-10-25"
+    }
+  ],
+  "last_updated": "2026-10-25"
+}
