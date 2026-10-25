@@ -250,11 +250,13 @@ ${sections}
 
 const GROUPS = [
   {
+    id: 'california-statewide',
     heading: 'California Statewide',
     blurb: 'Propositions on the statewide California ballot.',
     includes: (measure) => measure.jurisdiction === 'state',
   },
   {
+    id: 'santa-clara-county',
     heading: 'Santa Clara County',
     blurb: 'Local measures on the Santa Clara County ballot.',
     includes: (measure) => measure.jurisdiction === 'county',
@@ -290,16 +292,74 @@ function raceCard(race) {
 </li>`;
 }
 
-function raceSection(races) {
-  const sorted = [...races].sort(
-    (a, b) =>
-      a.election_date.localeCompare(b.election_date) || a.ballot_order - b.ballot_order,
+/** Ballot headings from Elections Code 13109, keyed by the whole-number part of ballot_order. */
+const RACE_HEADINGS = [
+  { id: 'races-state', heading: 'State Offices', includes: (n) => n <= 8 },
+  { id: 'races-congress-legislature', heading: 'Congress and Legislature', includes: (n) => n >= 9 && n <= 13 },
+  { id: 'races-judicial', heading: 'Judicial', includes: (n) => n === 14 },
+  { id: 'races-school', heading: 'School', includes: (n) => n === 15 || n === 16 },
+  { id: 'races-county', heading: 'County', includes: (n) => n === 17 },
+  { id: 'races-city', heading: 'City', includes: (n) => n === 18 },
+  { id: 'races-district', heading: 'District', includes: (n) => n >= 19 },
+];
+
+const toTop = '<a class="to-top" href="#contents">Contents ↑</a>';
+
+function sortRaces(races) {
+  return [...races].sort(
+    (a, b) => a.election_date.localeCompare(b.election_date) || a.ballot_order - b.ballot_order,
   );
+}
+
+function raceGroups(races) {
+  const sorted = sortRaces(races);
+  return RACE_HEADINGS.map((group) => ({
+    ...group,
+    members: sorted.filter((race) => group.includes(Math.floor(race.ballot_order))),
+  })).filter((group) => group.members.length > 0);
+}
+
+function raceSection(races) {
+  const groups = raceGroups(races);
   const contents =
-    sorted.length === 0
+    groups.length === 0
       ? '<p class="empty">No races tracked yet.</p>'
-      : `<ul class="cards">\n${sorted.map(raceCard).join('\n')}\n</ul>`;
-  return `<section>\n<h2>Races for Office</h2>\n<p class="blurb">Candidates on the ballot, compared side by side.</p>\n${contents}\n</section>`;
+      : groups
+          .map(
+            (group) =>
+              `<h3 id="${group.id}">${esc(group.heading)}</h3>\n<ul class="cards">\n${group.members.map(raceCard).join('\n')}\n</ul>`,
+          )
+          .join('\n');
+  return `<section id="races">\n<h2>Races for Office ${toTop}</h2>\n<p class="blurb">Candidates on the ballot, in ballot order, compared side by side.</p>\n${contents}\n</section>`;
+}
+
+function tableOfContents(races, measureGroups) {
+  const count = (n) => `<span class="toc-count">${n}</span>`;
+  const raceItems = raceGroups(races)
+    .map((group) => `<li><a href="#${group.id}">${esc(group.heading)}</a> ${count(group.members.length)}</li>`)
+    .join('\n');
+  const measureItems = measureGroups
+    .map((group) => `<li><a href="#${group.id}">${esc(group.heading)}</a> ${count(group.members.length)}</li>`)
+    .join('\n');
+  return `<nav class="toc" id="contents" aria-label="Contents">
+<h2>Contents</h2>
+<div class="toc-columns">
+<div>
+<h3><a href="#races">Races for Office</a> ${count(races.length)}</h3>
+<ul>
+${raceItems}
+</ul>
+</div>
+<div>
+<h3>Measures</h3>
+<ul>
+${measureItems}
+</ul>
+<h3><a href="people/index.html">People</a></h3>
+<p class="toc-note">Candidates, authors, and proponents</p>
+</div>
+</div>
+</nav>`;
 }
 
 function renderIndex(measures, races) {
@@ -309,20 +369,22 @@ function renderIndex(measures, races) {
       a.number.localeCompare(b.number, 'en', { numeric: true }),
   );
 
-  const groups = GROUPS.map((group) => {
-    const members = sorted.filter(group.includes);
-    const contents =
-      members.length === 0
-        ? '<p class="empty">No measures tracked yet.</p>'
-        : `<ul class="cards">\n${members.map(card).join('\n')}\n</ul>`;
-    return `<section>\n<h2>${esc(group.heading)}</h2>\n<p class="blurb">${esc(group.blurb)}</p>\n${contents}\n</section>`;
-  }).join('\n');
+  const measureGroups = GROUPS.map((group) => ({ ...group, members: sorted.filter(group.includes) }));
+  const groups = measureGroups
+    .map(({ id, heading, blurb, members }) => {
+      const contents =
+        members.length === 0
+          ? '<p class="empty">No measures tracked yet.</p>'
+          : `<ul class="cards">\n${members.map(card).join('\n')}\n</ul>`;
+      return `<section id="${id}">\n<h2>${esc(heading)} ${toTop}</h2>\n<p class="blurb">${esc(blurb)}</p>\n${contents}\n</section>`;
+    })
+    .join('\n');
 
   const body = `<header class="site-header">
 <h1>${esc(SITE_TITLE)}</h1>
 <p class="blurb">Plain-language deep dives on what each measure does, what it costs, who gains power, and what is buried in the fine print.</p>
-<p><a href="people/index.html">Browse candidates, authors, and proponents →</a></p>
 </header>
+${tableOfContents(races, measureGroups)}
 ${raceSection(races)}
 ${groups}
 <footer>
