@@ -1,0 +1,43 @@
+{
+  "id": "ca-lieutenant-governor-2026",
+  "office": "Lieutenant Governor",
+  "level": "state",
+  "election_date": "2026-11-03",
+  "summary": "The lieutenant governor acts as governor when the governor is out of state, presides over the state Senate and breaks ties there, and sits on the UC Regents, the CSU Trustees, and the State Lands Commission. The seat is open: Eleni Kounalakis is term-limited and is running for Treasurer. In the June 2 primary, Democrat Fiona Ma (State Treasurer) placed first with 19.12% and Republican Gloria Romero (former Democratic state Senate majority leader who joined the GOP in 2024 and is Steve Hilton's running mate) placed second with 17.83%, about 110,000 votes apart.",
+  "candidates": [
+    {
+      "name": "Fiona Ma",
+      "person_id": "fiona-ma",
+      "party": "Democratic",
+      "incumbent": false,
+      "primary_result": "First place, 19.12% (1,631,935 votes)",
+      "positions": [
+        { "issue": "Experience", "stance": "Runs on her record as State Treasurer since 2019 and as a CPA who chaired the Board of Equalization during its 2017 restructuring. (CalMatters voter guide; Wikipedia)" },
+        { "issue": "Retirement savings", "stance": "Points to launching CalSavers, the state-run retirement program for workers without an employer plan. (Wikipedia)" }
+      ]
+    },
+    {
+      "name": "Gloria Romero",
+      "person_id": "gloria-romero",
+      "party": "Republican",
+      "incumbent": false,
+      "primary_result": "Second place, 17.83% (1,521,181 votes)",
+      "positions": [
+        { "issue": "Education", "stance": "Longtime school-choice advocate; authored California's 'parent trigger' law letting parents at a failing school petition to restructure it. (Wikipedia)" },
+        { "issue": "Party alignment", "stance": "Left the Democratic Party in September 2024, endorsed Donald Trump, and is running as Steve Hilton's chosen partner; opposes Democratic positions on crime, gender identity in schools, and COVID-era closures. (CalMatters; Wikipedia)" }
+      ]
+    }
+  ],
+  "key_differences": [
+    "Ma is a career fiscal officer (CPA, Board of Equalization, Treasurer); Romero's record is in education policy and the Legislature, where she led the Senate majority from 2005 to 2008.",
+    "Romero ran on a ticket with Steve Hilton and would back his agenda; Ma is aligned with the Democratic majority.",
+    "On schools, Romero pushes charter conversions and parent-trigger restructuring; she would sit on the UC and CSU boards, where tuition votes are made."
+  ],
+  "sources": [
+    { "title": "CalMatters 2026 voter guide: Lieutenant Governor", "url": "https://calmatters.org/california-voter-guide-2026/lieutenant-governor/", "retrieved": "2026-10-25" },
+    { "title": "Wikipedia: 2026 California lieutenant gubernatorial election (certified primary statement of vote)", "url": "https://en.wikipedia.org/wiki/2026_California_lieutenant_gubernatorial_election", "retrieved": "2026-10-25" },
+    { "title": "Wikipedia: Fiona Ma", "url": "https://en.wikipedia.org/wiki/Fiona_Ma", "retrieved": "2026-10-25" },
+    { "title": "Wikipedia: Gloria Romero (politician)", "url": "https://en.wikipedia.org/wiki/Gloria_Romero_(politician)", "retrieved": "2026-10-25" }
+  ],
+  "last_updated": "2026-10-25"
+}

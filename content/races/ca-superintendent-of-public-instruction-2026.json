@@ -1,0 +1,46 @@
+{
+  "id": "ca-superintendent-of-public-instruction-2026",
+  "office": "Superintendent of Public Instruction",
+  "level": "state",
+  "election_date": "2026-11-03",
+  "summary": "The Superintendent of Public Instruction is a nonpartisan office that heads the state Department of Education, though CalMatters reports that starting in 2027 a governor-appointed education commissioner will run the department and many of the superintendent's duties move to the State Board of Education. The seat is open: Tony Thurmond is term-limited. Sonja Shaw, president of the Chino Valley Unified school board, placed first in the June 2 primary with 22.64%; Richard Barrera, president of the San Diego Unified school board, placed second with 20.30%. No party appears on the ballot, but Shaw is endorsed by the California Republican Party and Barrera by the California Teachers Association.",
+  "candidates": [
+    {
+      "name": "Sonja Shaw",
+      "person_id": "sonja-shaw",
+      "party": "Nonpartisan office (endorsed by the California Republican Party)",
+      "incumbent": false,
+      "primary_result": "First place, 22.64% (1,737,735 votes)",
+      "positions": [
+        { "issue": "Academics", "stance": "Back to basics in reading, writing, and math; cites that fewer than half of students read at grade level. (Ballotpedia candidate survey)" },
+        { "issue": "Transgender students", "stance": "Opposes letting transgender girls use girls' locker rooms or play on girls' teams, and opposes protections for transgender students that she says bypass parental consent. (Ballotpedia candidate survey; CalMatters)" },
+        { "issue": "Parental rights", "stance": "Led Chino Valley Unified's parental-notification fight, which drew a lawsuit from Attorney General Bonta; opposes pandemic-style closures and mandates. (Ballotpedia candidate survey)" }
+      ]
+    },
+    {
+      "name": "Richard Barrera",
+      "person_id": "richard-barrera",
+      "party": "Nonpartisan office (endorsed by the California Teachers Association)",
+      "incumbent": false,
+      "primary_result": "Second place, 20.30% (1,558,298 votes)",
+      "positions": [
+        { "issue": "School funding", "stance": "Focuses on increasing school funding. (CalMatters voter guide)" },
+        { "issue": "Early childhood", "stance": "Wants to expand early childhood education. (CalMatters)" },
+        { "issue": "Teacher pipeline", "stance": "Wants to make it easier to become a teacher. (CalMatters)" }
+      ]
+    }
+  ],
+  "key_differences": [
+    "Culture-war issues define Shaw's campaign, especially transgender student policy and parental notification; Barrera's campaign is about funding and staffing.",
+    "Coalitions: Shaw is backed by the state GOP, Moms for Liberty, and Steve Hilton; Barrera by the CTA and, unusually, by charter-school advocates as well.",
+    "Both are sitting school-board presidents, Shaw in Chino Valley and Barrera in San Diego Unified, the state's second-largest district.",
+    "The office itself is shrinking: the winner may hand day-to-day control of the Department of Education to an appointed commissioner starting in 2027."
+  ],
+  "sources": [
+    { "title": "CalMatters 2026 voter guide: Superintendent of Public Instruction", "url": "https://calmatters.org/california-voter-guide-2026/superintendent-of-public-instruction/", "retrieved": "2026-10-25" },
+    { "title": "Ballotpedia: Sonja Shaw (California) (certified primary results, candidate survey)", "url": "https://ballotpedia.org/Sonja_Shaw_(California)", "retrieved": "2026-10-25" },
+    { "title": "Ballotpedia: Richard Barrera", "url": "https://ballotpedia.org/Richard_Barrera", "retrieved": "2026-10-25" },
+    { "title": "CalMatters: statewide election roundup, June 2026", "url": "https://calmatters.org/politics/2026/06/statewide-election-roundup/", "retrieved": "2026-10-25" }
+  ],
+  "last_updated": "2026-10-25"
+}

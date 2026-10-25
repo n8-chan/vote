@@ -1,0 +1,42 @@
+{
+  "id": "ca-controller-2026",
+  "office": "Controller",
+  "level": "state",
+  "election_date": "2026-11-03",
+  "summary": "The Controller is the state's chief fiscal officer: she issues state payments, audits state and local spending, administers unclaimed property, and sits on the CalPERS and CalSTRS boards. Incumbent Democrat Malia Cohen, elected in 2022, placed first in the June 2 primary with 56.80%; Republican Herb Morgan, an investment executive, placed second with 37.53%.",
+  "candidates": [
+    {
+      "name": "Malia Cohen",
+      "person_id": "malia-cohen",
+      "party": "Democratic",
+      "incumbent": true,
+      "primary_result": "First place, 56.80% (4,909,613 votes)",
+      "positions": [
+        { "issue": "Fiscal management", "stance": "Running on 'transparency, efficiency and fairness'; urged the Legislature and governor to spend cautiously during recent budget negotiations. (CalMatters voter guide)" },
+        { "issue": "Fraud prevention", "stance": "Issued recommendations in September 2024 to prevent and detect charter-school fraud. (Wikipedia)" }
+      ]
+    },
+    {
+      "name": "Herb Morgan",
+      "person_id": "herb-morgan",
+      "party": "Republican",
+      "incumbent": false,
+      "primary_result": "Second place, 37.53% (3,244,252 votes)",
+      "positions": [
+        { "issue": "Fraud and waste", "stance": "Campaigning on exposing fraud in state government, echoing fraud accusations the Trump administration has made against California. (CalMatters voter guide)" }
+      ]
+    }
+  ],
+  "key_differences": [
+    "Cohen is a career elected official (San Francisco supervisor, Board of Equalization, Controller); Morgan is a first-time candidate from investment management.",
+    "Morgan's campaign is built on the premise of widespread fraud in state spending; Cohen points to targeted audits and cautious budgeting.",
+    "Open question for Cohen: an October 2026 federal lawsuit alleges her office's unclaimed-property contractors seized and sold foreign investors' assets without adequate notice. These are allegations, not findings."
+  ],
+  "sources": [
+    { "title": "CalMatters 2026 voter guide: Controller", "url": "https://calmatters.org/california-voter-guide-2026/controller/", "retrieved": "2026-10-25" },
+    { "title": "Wikipedia: 2026 California State Controller election (primary results)", "url": "https://en.wikipedia.org/wiki/2026_California_State_Controller_election", "retrieved": "2026-10-25" },
+    { "title": "Ballotpedia: Herb Morgan", "url": "https://ballotpedia.org/Herb_Morgan", "retrieved": "2026-10-25" },
+    { "title": "Wikipedia: Malia Cohen", "url": "https://en.wikipedia.org/wiki/Malia_Cohen", "retrieved": "2026-10-25" }
+  ],
+  "last_updated": "2026-10-25"
+}

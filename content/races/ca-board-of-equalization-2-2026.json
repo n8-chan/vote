@@ -1,0 +1,43 @@
+{
+  "id": "ca-board-of-equalization-2-2026",
+  "office": "Board of Equalization, District 2",
+  "level": "state",
+  "election_date": "2026-11-03",
+  "summary": "The Board of Equalization is a five-member elected tax board. Since lawmakers stripped most of its duties in 2017, it advises county assessors, sets the taxable value of utility and railroad property, and hears some taxpayer appeals. District 2 covers much of Northern California's coast and the Bay Area, including Santa Clara County. Two Democrats advanced: incumbent Sally Lieber, elected in 2022, placed first in the June 2 primary with 56.8%, and John Pimentel, a San Mateo County Community College District trustee, placed second with 15.8%.",
+  "candidates": [
+    {
+      "name": "Sally Lieber",
+      "person_id": "sally-lieber",
+      "party": "Democratic",
+      "incumbent": true,
+      "primary_result": "First place, 56.8% (1,336,379 votes)",
+      "positions": [
+        { "issue": "The board's future", "stance": "Defends the board's role and emphasizes hands-on tax-administration experience. She chairs the board for 2026. (Factually summaries of local coverage; Wikipedia)" }
+      ]
+    },
+    {
+      "name": "John Pimentel",
+      "person_id": "john-pimentel",
+      "party": "Democratic",
+      "incumbent": false,
+      "primary_result": "Second place, 15.8% (371,920 votes)",
+      "positions": [
+        { "issue": "The board's future", "stance": "Believes the board could be reformed or abolished, with its remaining work folded into other tax agencies. (GrowSF; Redwood City Pulse)" },
+        { "issue": "Taxes", "stance": "Would push to eliminate the sales tax on food and close 'unfair tax loopholes'. (Ballotpedia candidate survey)" }
+      ]
+    }
+  ],
+  "key_differences": [
+    "Whether the office should exist: Pimentel is open to abolishing the board; Lieber defends it.",
+    "Both were reported in May–June 2026 to be largely self-funding: Lieber about $225,000 raised (about $200,500 her own), Pimentel about $258,000 ($250,000 his own). Those figures are early and from a secondary source.",
+    "Endorsements cut across the usual lines: Pimentel has the Howard Jarvis Taxpayers Association and the San Francisco Chronicle editorial board."
+  ],
+  "sources": [
+    { "title": "Ballotpedia: John Pimentel (certified primary results, candidate survey)", "url": "https://ballotpedia.org/John_Pimentel", "retrieved": "2026-10-25" },
+    { "title": "GrowSF: California Board of Equalization, District 2, November 2026", "url": "https://growsf.org/voter-guide/san-francisco-voter-guide-november-2026-election/contests/board-of-equalization/", "retrieved": "2026-10-25" },
+    { "title": "Redwood City Pulse: Should the state's tax commission even exist?", "url": "https://www.rwcpulse.com/election/2026/05/14/should-the-states-tax-commission-even-exist/", "retrieved": "2026-10-25" },
+    { "title": "Factually: Sally J. Lieber vs. John Pimentel, how the BOE District 2 race compares (fundraising figures)", "url": "https://factually.co/fact-checks/justice/sally-j-lieber-vs-john-pimmentel-baba88", "retrieved": "2026-10-25" },
+    { "title": "Wikipedia: Sally Lieber", "url": "https://en.wikipedia.org/wiki/Sally_Lieber", "retrieved": "2026-10-25" }
+  ],
+  "last_updated": "2026-10-25"
+}

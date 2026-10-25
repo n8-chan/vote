@@ -1,0 +1,66 @@
+{
+  "id": "us-house-ca-16-2026",
+  "office": "U.S. House, California District 16",
+  "level": "federal",
+  "election_date": "2026-11-03",
+  "summary": "California's 16th Congressional District spans parts of Santa Clara and San Mateo counties on the Peninsula and in the South Bay. Incumbent Democrat Sam Liccardo, the former San Jose mayor first elected in 2024, placed first in the June 2 primary with 75.6%; Republican Peter Soulé placed second with 10.8%, narrowly ahead of fellow Republican Kevin Johnson (10.2%).",
+  "candidates": [
+    {
+      "name": "Sam Liccardo",
+      "person_id": "sam-liccardo",
+      "party": "Democratic",
+      "incumbent": true,
+      "primary_result": "First place, 75.6% (139,399 votes)",
+      "positions": [
+        {
+          "issue": "Committee work",
+          "stance": "Sits on the House Financial Services Committee, including its subcommittee on digital assets, financial technology, and AI. (Wikipedia)"
+        }
+      ]
+    },
+    {
+      "name": "Peter Soulé",
+      "person_id": "peter-soule",
+      "party": "Republican",
+      "incumbent": false,
+      "primary_result": "Second place, 10.8% (19,841 votes)",
+      "positions": [
+        {
+          "issue": "Public safety",
+          "stance": "'People need to feel safe in their neighborhoods. Current laws need to be enforced.' (Ballotpedia candidate survey)"
+        },
+        {
+          "issue": "Economy",
+          "stance": "Says California's economy is being 'strangled by excessive regulations and wasteful spending'. (Ballotpedia candidate survey)"
+        }
+      ]
+    }
+  ],
+  "key_differences": [
+    "This is not a competitive seat: Liccardo took about three-quarters of the primary vote and had raised over $3.2 million by May 2026, while Soulé's reported fundraising was minimal.",
+    "Soulé runs on general public-safety and anti-regulation themes; this research found no detailed federal policy platform from him."
+  ],
+  "sources": [
+    {
+      "title": "Ballotpedia: Peter Soule (certified primary results, candidate survey)",
+      "url": "https://ballotpedia.org/Peter_Soule",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Wikipedia: 2026 U.S. House elections in California (districts 1–26)",
+      "url": "https://en.wikipedia.org/wiki/2026_United_States_House_of_Representatives_elections_in_California_(districts_1%E2%80%9326)",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Wikipedia: Sam Liccardo",
+      "url": "https://en.wikipedia.org/wiki/Sam_Liccardo",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Palo Alto Ledger: Peter Soule seeks CA-16 House seat as Republican",
+      "url": "https://paloaltoledger.com/articles/peter-soule-seeks-ca-16-house-seat-as-republican-muzzvn4g",
+      "retrieved": "2026-10-25"
+    }
+  ],
+  "last_updated": "2026-10-25"
+}
