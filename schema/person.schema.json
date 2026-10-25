@@ -2,7 +2,7 @@
   "$schema": "http://json-schema.org/draft-07/schema#",
   "$id": "https://example.invalid/schema/person.schema.json",
   "title": "Person",
-  "description": "A profile page for someone who authored or proposed a ballot measure: a state legislator, a county or city official, a school or special district official, or a citizen initiative proponent. Referenced from a measure's authors[].person_id. scripts/validate.mjs validates against this file, so adding or changing a field means editing this file only.",
+  "description": "A profile page for someone who authored or proposed a ballot measure (a state legislator, a county or city official, a school or special district official, or a citizen initiative proponent) or who is a candidate in a tracked race. Referenced from a measure's authors[].person_id or a race's candidates[].person_id. scripts/validate.mjs validates against this file, so adding or changing a field means editing this file only.",
   "type": "object",
   "required": ["id", "name", "type", "title", "background", "sources", "last_updated"],
   "properties": {
@@ -18,7 +18,7 @@
       "minLength": 1
     },
     "type": {
-      "description": "What kind of public role this person holds relative to the measures they've authored.",
+      "description": "What kind of public role this person holds. Use candidate for someone running for office who holds no current public office.",
       "type": "string",
       "enum": [
         "state_legislator",
@@ -27,6 +27,9 @@
         "school_district_official",
         "special_district_official",
         "initiative_proponent",
+        "statewide_official",
+        "federal_official",
+        "candidate",
         "other"
       ]
     },

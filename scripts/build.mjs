@@ -4,13 +4,15 @@ import path from 'node:path';
 import {
   listMeasureFiles,
   listPersonFiles,
+  listRaceFiles,
   readMeasureFile,
   readPersonFile,
+  readRaceFile,
   ROOT,
 } from './validate.mjs';
 
 const DIST = path.join(ROOT, 'dist');
-const SITE_TITLE = 'California Propositions and Santa Clara County Ballot Measures';
+const SITE_TITLE = 'California Propositions, Santa Clara County Ballot Measures, and Races';
 
 const ESCAPES = { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' };
 const esc = (value) => String(value).replace(/[&<>"']/g, (char) => ESCAPES[char]);
@@ -268,7 +270,39 @@ function card(measure) {
 </li>`;
 }
 
-function renderIndex(measures) {
+const LEVEL_LABELS = {
+  federal: 'Federal',
+  state: 'California statewide',
+  county: 'County',
+  local: 'Local',
+};
+
+const LEVEL_ORDER = ['state', 'federal', 'county', 'local'];
+
+function raceCard(race) {
+  const names = race.candidates.map((c) => `${c.name} (${c.party})`).join(' vs. ');
+  return `<li class="card">
+<p class="badges"><span class="badge jurisdiction">${esc(LEVEL_LABELS[race.level] ?? race.level)}</span></p>
+<h3><a href="races/${esc(race.id)}.html">${esc(race.office)}</a></h3>
+<p class="card-summary">${esc(names)}</p>
+<p class="card-meta">Election ${esc(race.election_date)}</p>
+</li>`;
+}
+
+function raceSection(races) {
+  const sorted = [...races].sort(
+    (a, b) =>
+      a.election_date.localeCompare(b.election_date) ||
+      LEVEL_ORDER.indexOf(a.level) - LEVEL_ORDER.indexOf(b.level),
+  );
+  const contents =
+    sorted.length === 0
+      ? '<p class="empty">No races tracked yet.</p>'
+      : `<ul class="cards">\n${sorted.map(raceCard).join('\n')}\n</ul>`;
+  return `<section>\n<h2>Races for Office</h2>\n<p class="blurb">Candidates on the ballot, compared side by side.</p>\n${contents}\n</section>`;
+}
+
+function renderIndex(measures, races) {
   const sorted = [...measures].sort(
     (a, b) =>
       a.election_date.localeCompare(b.election_date) ||
@@ -287,8 +321,9 @@ function renderIndex(measures) {
   const body = `<header class="site-header">
 <h1>${esc(SITE_TITLE)}</h1>
 <p class="blurb">Plain-language deep dives on what each measure does, what it costs, who gains power, and what is buried in the fine print.</p>
-<p><a href="people/index.html">Browse authors and proponents →</a></p>
+<p><a href="people/index.html">Browse candidates, authors, and proponents →</a></p>
 </header>
+${raceSection(races)}
 ${groups}
 <footer>
 <p>Every word of analysis on this site is written by a person. The build scripts only check structure and render it.</p>
@@ -297,7 +332,7 @@ ${groups}
   return page({
     title: SITE_TITLE,
     description:
-      'Deep-dive analysis of California statewide propositions and Santa Clara County ballot measures.',
+      'Deep-dive analysis of California statewide propositions, Santa Clara County ballot measures, and the races for office on the same ballot.',
     stylesheet: 'style.css',
     body,
   });
@@ -310,6 +345,9 @@ const PERSON_TYPE_LABELS = {
   school_district_official: 'School district official',
   special_district_official: 'Special district official',
   initiative_proponent: 'Initiative proponent',
+  statewide_official: 'Statewide official',
+  federal_official: 'Federal official',
+  candidate: 'Candidate',
   other: 'Other',
 };
 
@@ -324,7 +362,22 @@ function pastMeasuresList(items) {
   return `<ul class="sources">\n${rows}\n</ul>`;
 }
 
+function candidacyList(races) {
+  const items = races
+    .map(
+      (race) =>
+        `<li><a href="../races/${esc(race.id)}.html">${esc(race.office)}</a> <span class="card-meta">Election ${esc(race.election_date)}</span></li>`,
+    )
+    .join('\n');
+  return `<ul class="sources">\n${items}\n</ul>`;
+}
+
 const PERSON_SECTIONS = [
+  {
+    heading: 'On the Ballot',
+    when: (p, ctx) => ctx.racesByPerson.has(p.id),
+    render: (p, ctx) => candidacyList(ctx.racesByPerson.get(p.id)),
+  },
   { heading: 'Background', when: (p) => p.background.length > 0, render: (p) => paragraphs(p.background) },
   {
     heading: 'Committee Memberships',
@@ -356,12 +409,13 @@ const PERSON_SECTIONS = [
   },
 ];
 
-function renderPerson(person, { isTemplate }) {
+function renderPerson(person, { isTemplate, racesByPerson }) {
   const banner = isTemplate
     ? '<p class="template-warning">This is the example template, not a real person. Every fact below is made up.</p>'
     : '';
-  const sections = PERSON_SECTIONS.filter((section) => !section.when || section.when(person))
-    .map((section) => `<section>\n<h2>${esc(section.heading)}</h2>\n${section.render(person)}\n</section>`)
+  const ctx = { racesByPerson };
+  const sections = PERSON_SECTIONS.filter((section) => !section.when || section.when(person, ctx))
+    .map((section) => `<section>\n<h2>${esc(section.heading)}</h2>\n${section.render(person, ctx)}\n</section>`)
     .join('\n');
 
   const factRows = [['Role', person.title]];
@@ -406,7 +460,7 @@ function renderPeopleIndex(people) {
 
   const body = `<header class="site-header">
 <h1>People</h1>
-<p class="blurb">Everyone credited as an author or proponent on a tracked measure, with their record.</p>
+<p class="blurb">Every candidate in a tracked race and everyone credited as an author or proponent on a tracked measure, with their record.</p>
 </header>
 <section>${contents}</section>
 <footer>
@@ -414,8 +468,86 @@ function renderPeopleIndex(people) {
 </footer>`;
 
   return page({
-    title: 'People — authors and proponents',
-    description: 'Profiles of legislators and proponents behind tracked ballot measures.',
+    title: 'People — candidates, authors, and proponents',
+    description: 'Profiles of candidates in tracked races and the legislators and proponents behind tracked ballot measures.',
+    stylesheet: '../style.css',
+    body,
+  });
+}
+
+function candidateColumn(candidate, peopleById) {
+  const person = candidate.person_id ? peopleById.get(candidate.person_id) : null;
+  const name = person ? `<a href="../people/${esc(person.id)}.html">${esc(candidate.name)}</a>` : esc(candidate.name);
+  const rows = [['Party', candidate.party], ['Incumbent', candidate.incumbent ? 'Yes' : 'No']];
+  if (candidate.primary_result) rows.push(['Primary', candidate.primary_result]);
+  const positions =
+    candidate.positions.length === 0
+      ? '<p class="empty">No stated positions found.</p>'
+      : `<ul>\n${candidate.positions
+          .map((pos) => `<li><strong>${esc(pos.issue)}:</strong> ${esc(pos.stance)}</li>`)
+          .join('\n')}\n</ul>`;
+  return `<div class="column"><h3>${name}</h3>\n${facts(rows)}\n${positions}</div>`;
+}
+
+function pollList(polls) {
+  const items = polls
+    .map(
+      (poll) =>
+        `<li><strong>${esc(poll.pollster)}</strong> <span class="card-meta">${esc(poll.dates)}</span><p>${esc(poll.result)}</p><p class="source-link">${link(poll.url, 'Poll source')}</p></li>`,
+    )
+    .join('\n');
+  return `<ul class="analysis">\n${items}\n</ul>`;
+}
+
+/** Race-page sections, rendered top to bottom in this order. */
+const RACE_SECTIONS = [
+  { heading: 'Summary', render: (r) => paragraphs([r.summary]) },
+  {
+    heading: 'The Candidates',
+    render: (r, ctx) =>
+      `<div class="columns">\n${r.candidates.map((c) => candidateColumn(c, ctx.peopleById)).join('\n')}\n</div>`,
+  },
+  { heading: 'Key Differences', render: (r) => bullets(r.key_differences) },
+  { heading: 'Polling', when: (r) => r.polling?.length > 0, render: (r) => pollList(r.polling) },
+  {
+    heading: 'Sources',
+    render: (r) =>
+      `<ul class="sources">\n${r.sources
+        .map((s) => `<li>${link(s.url, s.title)} <span class="retrieved">retrieved ${esc(s.retrieved)}</span></li>`)
+        .join('\n')}\n</ul>`,
+  },
+];
+
+function renderRace(race, { isTemplate, peopleById }) {
+  const banner = isTemplate
+    ? '<p class="template-warning">This is the example template, not a real race. Every fact below is made up.</p>'
+    : '';
+  const ctx = { peopleById };
+  const sections = RACE_SECTIONS.filter((section) => !section.when || section.when(race, ctx))
+    .map((section) => `<section>\n<h2>${esc(section.heading)}</h2>\n${section.render(race, ctx)}\n</section>`)
+    .join('\n');
+
+  const body = `<a class="back" href="../index.html">Back to the ballot</a>
+<article>
+<header class="measure-header">
+${banner}
+<p class="eyebrow">${esc(LEVEL_LABELS[race.level] ?? race.level)} race</p>
+<h1>${esc(race.office)}</h1>
+${facts([
+  ['Election', race.election_date],
+  ['Identifier', race.id],
+])}
+</header>
+${sections}
+</article>
+<footer>
+<p>Last updated ${esc(race.last_updated)}.</p>
+<p><a class="back" href="../index.html">Back to the ballot</a></p>
+</footer>`;
+
+  return page({
+    title: race.office,
+    description: race.summary,
     stylesheet: '../style.css',
     body,
   });
@@ -458,7 +590,8 @@ function main(argv) {
     (m) => m.id,
   );
   const personLoad = loadAll('person', listPersonFiles({ includeTemplate }), readPersonFile, (p) => p.id);
-  const failures = [...measureLoad.failures, ...personLoad.failures];
+  const raceLoad = loadAll('race', listRaceFiles({ includeTemplate }), readRaceFile, (r) => r.id);
+  const failures = [...measureLoad.failures, ...personLoad.failures, ...raceLoad.failures];
 
   if (failures.length > 0) {
     console.error(`Build aborted: ${failures.length} file(s) failed validation.\n`);
@@ -470,13 +603,26 @@ function main(argv) {
   const measures = measureLoad.entries;
   const people = personLoad.entries;
   const peopleById = new Map(people.map(({ person }) => [person.id, person]));
+  const races = raceLoad.entries;
+  const racesByPerson = new Map();
+  for (const { race } of races) {
+    for (const candidate of race.candidates) {
+      if (!candidate.person_id) continue;
+      if (!racesByPerson.has(candidate.person_id)) racesByPerson.set(candidate.person_id, []);
+      racesByPerson.get(candidate.person_id).push(race);
+    }
+  }
 
   rmSync(DIST, { recursive: true, force: true });
   mkdirSync(path.join(DIST, 'measures'), { recursive: true });
   mkdirSync(path.join(DIST, 'people'), { recursive: true });
+  mkdirSync(path.join(DIST, 'races'), { recursive: true });
   copyFileSync(path.join(ROOT, 'public', 'style.css'), path.join(DIST, 'style.css'));
 
-  writeFileSync(path.join(DIST, 'index.html'), renderIndex(measures.map((entry) => entry.measure)));
+  writeFileSync(
+    path.join(DIST, 'index.html'),
+    renderIndex(measures.map((entry) => entry.measure), races.map((entry) => entry.race)),
+  );
   for (const { measure, isTemplate } of measures) {
     writeFileSync(
       path.join(DIST, 'measures', `${measure.id}.html`),
@@ -486,10 +632,16 @@ function main(argv) {
 
   writeFileSync(path.join(DIST, 'people', 'index.html'), renderPeopleIndex(people.map((entry) => entry.person)));
   for (const { person, isTemplate } of people) {
-    writeFileSync(path.join(DIST, 'people', `${person.id}.html`), renderPerson(person, { isTemplate }));
+    writeFileSync(path.join(DIST, 'people', `${person.id}.html`), renderPerson(person, { isTemplate, racesByPerson }));
   }
 
-  console.log(`Built dist/index.html, ${measures.length} measure page(s), and ${people.length} person page(s).`);
+  for (const { race, isTemplate } of races) {
+    writeFileSync(path.join(DIST, 'races', `${race.id}.html`), renderRace(race, { isTemplate, peopleById }));
+  }
+
+  console.log(
+    `Built dist/index.html, ${measures.length} measure page(s), ${people.length} person page(s), and ${races.length} race page(s).`,
+  );
   if (measures.length === 0 && people.length === 0) {
     console.log('Nothing rendered. To preview the examples, run: node scripts/build.mjs --include-template');
   }

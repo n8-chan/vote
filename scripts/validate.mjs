@@ -6,9 +6,11 @@ import { fileURLToPath, pathToFileURL } from 'node:url';
 export const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 export const MEASURES_DIR = path.join(ROOT, 'content', 'measures');
 export const PEOPLE_DIR = path.join(ROOT, 'content', 'people');
+export const RACES_DIR = path.join(ROOT, 'content', 'races');
 
 const MEASURE_SCHEMA = JSON.parse(readFileSync(path.join(ROOT, 'schema', 'measure.schema.json'), 'utf8'));
 const PERSON_SCHEMA = JSON.parse(readFileSync(path.join(ROOT, 'schema', 'person.schema.json'), 'utf8'));
+const RACE_SCHEMA = JSON.parse(readFileSync(path.join(ROOT, 'schema', 'race.schema.json'), 'utf8'));
 
 function typeOf(value) {
   if (value === null) return 'null';
@@ -112,6 +114,13 @@ export function validatePerson(person) {
   return errors;
 }
 
+/** Returns a list of human-readable problems; an empty list means the race is valid. */
+export function validateRace(race) {
+  const errors = [];
+  check(race, RACE_SCHEMA, '', errors, RACE_SCHEMA);
+  return errors;
+}
+
 /**
  * Measure files in content/measures, sorted. Files whose name starts with "_" are
  * scaffolding (_TEMPLATE.json) and stay out of the site unless includeTemplate is set.
@@ -168,6 +177,34 @@ export function readPersonFile(file) {
   return { person, errors: validatePerson(person) };
 }
 
+/**
+ * Race files in content/races, sorted. Files whose name starts with "_" are
+ * scaffolding and stay out of the site unless includeTemplate is set.
+ */
+export function listRaceFiles({ includeTemplate = false } = {}) {
+  let names;
+  try {
+    names = readdirSync(RACES_DIR);
+  } catch {
+    return [];
+  }
+  return names
+    .filter((name) => name.endsWith('.json'))
+    .filter((name) => includeTemplate || !name.startsWith('_'))
+    .sort()
+    .map((name) => path.join(RACES_DIR, name));
+}
+
+export function readRaceFile(file) {
+  let race;
+  try {
+    race = JSON.parse(readFileSync(file, 'utf8'));
+  } catch (error) {
+    return { race: null, errors: [`(file): not valid JSON: ${error.message}`] };
+  }
+  return { race, errors: validateRace(race) };
+}
+
 function validateSet(kind, files, readFile) {
   if (files.length === 0) return { checked: 0, failed: 0 };
   let failed = 0;
@@ -190,17 +227,19 @@ function main(argv) {
   const includeTemplate = argv.includes('--include-template');
   const measureFiles = listMeasureFiles({ includeTemplate });
   const personFiles = listPersonFiles({ includeTemplate });
+  const raceFiles = listRaceFiles({ includeTemplate });
 
-  if (measureFiles.length === 0 && personFiles.length === 0) {
+  if (measureFiles.length === 0 && personFiles.length === 0 && raceFiles.length === 0) {
     const hint = includeTemplate ? '' : ' Pass --include-template to also check the _TEMPLATE.json files.';
-    console.log(`No measure or person files to validate.${hint}`);
+    console.log(`No measure, person, or race files to validate.${hint}`);
     return 0;
   }
 
   const measures = validateSet('measure', measureFiles, readMeasureFile);
   const people = validateSet('person', personFiles, readPersonFile);
+  const races = validateSet('race', raceFiles, readRaceFile);
 
-  return measures.failed === 0 && people.failed === 0 ? 0 : 1;
+  return measures.failed === 0 && people.failed === 0 && races.failed === 0 ? 0 : 1;
 }
 
 if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {

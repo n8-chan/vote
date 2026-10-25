@@ -36,7 +36,8 @@ output for a repository with no real measures in it yet.
 schema/measure.schema.json   The measure data shape. One property per field, each with a
                              description. Single source of truth: scripts/validate.mjs validates
                              against it, so adding a field means editing this file only.
-schema/person.schema.json    The person (author/proponent) data shape, same convention.
+schema/person.schema.json    The person (candidate/author/proponent) data shape, same convention.
+schema/race.schema.json      The race-for-office data shape, same convention.
 scripts/validate.mjs         Exports validateMeasure(obj) and validatePerson(obj), each ->
                              array of problems. CLI mode checks every content/measures/*.json
                              and content/people/*.json.
@@ -46,8 +47,11 @@ scripts/build.mjs            Renders dist/index.html, dist/measures/<id>.html, d
 scripts/fetch-sources.mjs    Archives the primary sources a measure cites.
 content/measures/            One JSON file per measure, named <id>.json. Files starting with "_"
                              are scaffolding and stay out of the site.
-content/people/              One JSON file per author/proponent profile, named <id>.json, linked
-                             from a measure's authors[].person_id. Same "_" convention.
+content/people/              One JSON file per person profile, named <id>.json, linked from a
+                             measure's authors[].person_id or a race's candidates[].person_id.
+                             Same "_" convention.
+content/races/               One JSON file per contest for office, named <id>.json, rendered to
+                             dist/races/<id>.html with the candidates side by side.
 content/sources/             Archived raw source bodies plus a manifest, written by the fetcher.
                              Git-ignored: large and regenerable.
 public/style.css             The only stylesheet. Hand-written, mobile-first, dark mode aware.
@@ -130,6 +134,17 @@ empty `top_donors` array is the honest answer when no breakdown was found.
    no other wiring needed.
 
 4. `npm run validate` and `npm run build` as above — both now also check `content/people/`.
+
+## Adding a race
+
+1. Create `content/races/<id>.json`, using `<jurisdiction>-<office>-<year>` for the id, e.g.
+   `ca-governor-2026` or `us-house-ca-16-2026`. `schema/race.schema.json` describes each field.
+
+2. For each candidate, add a profile in `content/people/` (type `candidate` if they hold no current
+   office) and set `person_id` on their entry in the race's `candidates[]`. The candidate's profile
+   page links back to the race automatically.
+
+3. `npm run validate` and `npm run build`.
 
 ## Commands
 
