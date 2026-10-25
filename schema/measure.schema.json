@@ -234,9 +234,10 @@
             "minLength": 1
           },
           "url": {
-            "description": "Link to the analysis. Must be http or https to render as a link.",
+            "description": "Link to the analysis. Must be http or https to render as a link; file: URLs and absolute paths are rejected so local machine details never get published.",
             "type": "string",
-            "minLength": 1
+            "minLength": 1,
+            "pattern": "^(?!file:)(?!/)(?![A-Za-z]:\\\\)"
           }
         }
       }
@@ -255,9 +256,10 @@
             "minLength": 1
           },
           "url": {
-            "description": "Link to the source. Must be http or https to render as a link.",
+            "description": "Link to the source. Must be http or https to render as a link; file: URLs and absolute paths are rejected so local machine details never get published.",
             "type": "string",
-            "minLength": 1
+            "minLength": 1,
+            "pattern": "^(?!file:)(?!/)(?![A-Za-z]:\\\\)"
           },
           "retrieved": {
             "description": "Date the source was read, as YYYY-MM-DD.",
@@ -330,9 +332,10 @@
           }
         },
         "source_url": {
-          "description": "Where the finance figures came from: Cal-Access, FPPC, or the committee's own filing.",
+          "description": "Where the finance figures came from: Cal-Access, FPPC, or the committee's own filing. Never a local file path.",
           "type": "string",
-          "minLength": 1
+          "minLength": 1,
+          "pattern": "^(?!file:)(?!/)(?![A-Za-z]:\\\\)"
         }
       }
     }

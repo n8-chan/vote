@@ -143,7 +143,9 @@
           },
           "url": {
             "type": "string",
-            "minLength": 1
+            "minLength": 1,
+            "pattern": "^(?!file:)(?!/)(?![A-Za-z]:\\\\)",
+            "description": "A web address for the source. Never a local file path: file: URLs and absolute paths are rejected because they would publish details of the machine the file was written on."
           }
         }
       }
@@ -166,7 +168,9 @@
           },
           "url": {
             "type": "string",
-            "minLength": 1
+            "minLength": 1,
+            "pattern": "^(?!file:)(?!/)(?![A-Za-z]:\\\\)",
+            "description": "A web address for the source. Never a local file path: file: URLs and absolute paths are rejected because they would publish details of the machine the file was written on."
           },
           "retrieved": {
             "type": "string",
