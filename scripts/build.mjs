@@ -277,8 +277,6 @@ const LEVEL_LABELS = {
   local: 'Local',
 };
 
-const LEVEL_ORDER = ['state', 'federal', 'county', 'local'];
-
 function raceCard(race) {
   const names = race.candidates.map((c) => `${c.name} (${c.party})`).join(' vs. ');
   return `<li class="card">
@@ -292,8 +290,7 @@ function raceCard(race) {
 function raceSection(races) {
   const sorted = [...races].sort(
     (a, b) =>
-      a.election_date.localeCompare(b.election_date) ||
-      LEVEL_ORDER.indexOf(a.level) - LEVEL_ORDER.indexOf(b.level),
+      a.election_date.localeCompare(b.election_date) || a.ballot_order - b.ballot_order,
   );
   const contents =
     sorted.length === 0

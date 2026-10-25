@@ -3,6 +3,7 @@
   "office": "Insurance Commissioner",
   "level": "state",
   "election_date": "2026-11-03",
+  "ballot_order": 7,
   "summary": "The Insurance Commissioner runs the Department of Insurance: approving or rejecting rate increases under Proposition 103, licensing insurers and agents, and overseeing the FAIR Plan, the insurer of last resort that has grown as companies pull back from wildfire-prone areas. The seat is open: Ricardo Lara is term-limited. Both finalists are Democrats. Former San Francisco supervisor Jane Kim placed first in the June 2 primary with 27.40%; state Senator Ben Allen placed second with 19.41%.",
   "candidates": [
     {
@@ -12,11 +13,26 @@
       "incumbent": false,
       "primary_result": "First place, 27.40% (2,328,836 votes)",
       "positions": [
-        { "issue": "Wildfire coverage", "stance": "Proposes 'natural disaster insurance for all', a premium-funded state authority guaranteeing wildfire and flood coverage, while keeping a more accountable FAIR Plan as insurer of last resort. (CalMatters voter guide)" },
-        { "issue": "Market leverage", "stance": "Would tie insurers' ability to sell auto insurance in California to their willingness to write home insurance. (CalMatters)" },
-        { "issue": "Claims", "stance": "Would freeze rates when a policyholder files a claim, penalize claim delays, and publish a dashboard of insurers' claims records. (CalMatters)" },
-        { "issue": "Auto insurance", "stance": "Would expand the state's low-cost auto insurance program to more drivers. (CalMatters)" },
-        { "issue": "Industry money", "stance": "Pledged not to accept insurance-industry contributions. (Wikipedia)" }
+        {
+          "issue": "Wildfire coverage",
+          "stance": "Proposes 'natural disaster insurance for all', a premium-funded state authority guaranteeing wildfire and flood coverage, while keeping a more accountable FAIR Plan as insurer of last resort. (CalMatters voter guide)"
+        },
+        {
+          "issue": "Market leverage",
+          "stance": "Would tie insurers' ability to sell auto insurance in California to their willingness to write home insurance. (CalMatters)"
+        },
+        {
+          "issue": "Claims",
+          "stance": "Would freeze rates when a policyholder files a claim, penalize claim delays, and publish a dashboard of insurers' claims records. (CalMatters)"
+        },
+        {
+          "issue": "Auto insurance",
+          "stance": "Would expand the state's low-cost auto insurance program to more drivers. (CalMatters)"
+        },
+        {
+          "issue": "Industry money",
+          "stance": "Pledged not to accept insurance-industry contributions. (Wikipedia)"
+        }
       ]
     },
     {
@@ -26,11 +42,26 @@
       "incumbent": false,
       "primary_result": "Second place, 19.41% (1,649,501 votes)",
       "positions": [
-        { "issue": "Enforcement", "stance": "After the Los Angeles County fires hit his district, authored bills to give the department more enforcement power and to create a wildfire-resilience loan program. (CalMatters voter guide)" },
-        { "issue": "Claims", "stance": "Would require insurers to report claim delays and outstanding claims in real time after disasters and explain denials; would add complaint staff and a consumer advocate inside the department. (CalMatters)" },
-        { "issue": "FAIR Plan", "stance": "Wants more oversight of the FAIR Plan and more accountability to the department. (CalMatters)" },
-        { "issue": "Risk and land use", "stance": "Favors home and community mitigation, avoiding new building in high-fire-risk areas, and encouraging people to move out of them. (CalMatters)" },
-        { "issue": "Auto insurance", "stance": "Opposes opening the low-cost auto program to everyone, arguing it could hurt the low-income drivers it serves. (CalMatters)" }
+        {
+          "issue": "Enforcement",
+          "stance": "After the Los Angeles County fires hit his district, authored bills to give the department more enforcement power and to create a wildfire-resilience loan program. (CalMatters voter guide)"
+        },
+        {
+          "issue": "Claims",
+          "stance": "Would require insurers to report claim delays and outstanding claims in real time after disasters and explain denials; would add complaint staff and a consumer advocate inside the department. (CalMatters)"
+        },
+        {
+          "issue": "FAIR Plan",
+          "stance": "Wants more oversight of the FAIR Plan and more accountability to the department. (CalMatters)"
+        },
+        {
+          "issue": "Risk and land use",
+          "stance": "Favors home and community mitigation, avoiding new building in high-fire-risk areas, and encouraging people to move out of them. (CalMatters)"
+        },
+        {
+          "issue": "Auto insurance",
+          "stance": "Opposes opening the low-cost auto program to everyone, arguing it could hurt the low-income drivers it serves. (CalMatters)"
+        }
       ]
     }
   ],
@@ -41,9 +72,21 @@
     "Background: Kim is a former supervisor, organizer, and consumer advocate; Allen is a sitting legislator with a long environmental record, including authoring the 2024 Proposition 4 climate bond."
   ],
   "sources": [
-    { "title": "CalMatters 2026 voter guide: Insurance Commissioner", "url": "https://calmatters.org/california-voter-guide-2026/insurance-commissioner/", "retrieved": "2026-10-25" },
-    { "title": "Wikipedia: 2026 California Insurance Commissioner election (certified primary statement of vote)", "url": "https://en.wikipedia.org/wiki/2026_California_Insurance_Commissioner_election", "retrieved": "2026-10-25" },
-    { "title": "Wikipedia: Jane Kim", "url": "https://en.wikipedia.org/wiki/Jane_Kim", "retrieved": "2026-10-25" }
+    {
+      "title": "CalMatters 2026 voter guide: Insurance Commissioner",
+      "url": "https://calmatters.org/california-voter-guide-2026/insurance-commissioner/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Wikipedia: 2026 California Insurance Commissioner election (certified primary statement of vote)",
+      "url": "https://en.wikipedia.org/wiki/2026_California_Insurance_Commissioner_election",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Wikipedia: Jane Kim",
+      "url": "https://en.wikipedia.org/wiki/Jane_Kim",
+      "retrieved": "2026-10-25"
+    }
   ],
   "last_updated": "2026-10-25"
 }

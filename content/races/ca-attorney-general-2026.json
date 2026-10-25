@@ -3,6 +3,7 @@
   "office": "Attorney General",
   "level": "state",
   "election_date": "2026-11-03",
+  "ballot_order": 6,
   "summary": "The Attorney General runs the state Department of Justice: the state's lawyer in court, the top law-enforcement officer over local prosecutors and sheriffs, and the official who sues on behalf of Californians, including against the federal government. Incumbent Democrat Rob Bonta, appointed in 2021 and elected in 2022, placed first in the June 2 primary with 56.62%; Republican Michael Gates, former Huntington Beach city attorney and former Trump Justice Department official, placed second with 37.94%.",
   "candidates": [
     {
@@ -12,9 +13,18 @@
       "incumbent": true,
       "primary_result": "First place, 56.62% (4,979,967 votes)",
       "positions": [
-        { "issue": "Federal government", "stance": "Has filed or joined more than 50 lawsuits against the second Trump administration. (CalMatters voter guide)" },
-        { "issue": "Housing", "stance": "Enforces state laws requiring cities to permit new housing, including SB 9. (CalMatters; Wikipedia)" },
-        { "issue": "Criminal justice", "stance": "Authored the law requiring independent state review of police shootings of unarmed people and the private-prison ban while in the Assembly. (Wikipedia)" }
+        {
+          "issue": "Federal government",
+          "stance": "Has filed or joined more than 50 lawsuits against the second Trump administration. (CalMatters voter guide)"
+        },
+        {
+          "issue": "Housing",
+          "stance": "Enforces state laws requiring cities to permit new housing, including SB 9. (CalMatters; Wikipedia)"
+        },
+        {
+          "issue": "Criminal justice",
+          "stance": "Authored the law requiring independent state review of police shootings of unarmed people and the private-prison ban while in the Assembly. (Wikipedia)"
+        }
       ]
     },
     {
@@ -24,9 +34,18 @@
       "incumbent": false,
       "primary_result": "Second place, 37.94% (3,337,433 votes)",
       "positions": [
-        { "issue": "Public safety", "stance": "Would prosecute violent crime, fentanyl trafficking, and organized retail theft and enforce laws 'without political favoritism'. (Ballotpedia candidate survey)" },
-        { "issue": "State housing mandates", "stance": "As Huntington Beach city attorney, fought state laws requiring the city to plan for more affordable housing. (CalMatters voter guide)" },
-        { "issue": "Elections", "stance": "Defended Huntington Beach's voter-ID law against Bonta's lawsuit; at the U.S. Justice Department helped file lawsuits seeking state and county voter-registration files. (San Joaquin Valley Sun; LAist)" }
+        {
+          "issue": "Public safety",
+          "stance": "Would prosecute violent crime, fentanyl trafficking, and organized retail theft and enforce laws 'without political favoritism'. (Ballotpedia candidate survey)"
+        },
+        {
+          "issue": "State housing mandates",
+          "stance": "As Huntington Beach city attorney, fought state laws requiring the city to plan for more affordable housing. (CalMatters voter guide)"
+        },
+        {
+          "issue": "Elections",
+          "stance": "Defended Huntington Beach's voter-ID law against Bonta's lawsuit; at the U.S. Justice Department helped file lawsuits seeking state and county voter-registration files. (San Joaquin Valley Sun; LAist)"
+        }
       ]
     }
   ],
@@ -36,11 +55,31 @@
     "These two have already met in court: Bonta (with Secretary of State Weber) sued Huntington Beach over the voter-ID ordinance Gates defended."
   ],
   "sources": [
-    { "title": "CalMatters 2026 voter guide: Attorney General", "url": "https://calmatters.org/california-voter-guide-2026/attorney-general/", "retrieved": "2026-10-25" },
-    { "title": "Ballotpedia: Michael Gates (California) (certified primary results, candidate survey)", "url": "https://ballotpedia.org/Michael_Gates_(California)", "retrieved": "2026-10-25" },
-    { "title": "San Joaquin Valley Sun: Former Huntington Beach City Attorney Michael Gates launches AG campaign", "url": "https://sjvsun.com/news/politics/former-huntington-beach-city-attorney-michael-gates-launches-ag-campaign/", "retrieved": "2026-10-25" },
-    { "title": "LAist: Huntington Beach's Michael Gates quits Justice Department", "url": "https://laist.com/news/politics/huntington-beachs-michael-gates-quits-justice-department", "retrieved": "2026-10-25" },
-    { "title": "Wikipedia: Rob Bonta", "url": "https://en.wikipedia.org/wiki/Rob_Bonta", "retrieved": "2026-10-25" }
+    {
+      "title": "CalMatters 2026 voter guide: Attorney General",
+      "url": "https://calmatters.org/california-voter-guide-2026/attorney-general/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Ballotpedia: Michael Gates (California) (certified primary results, candidate survey)",
+      "url": "https://ballotpedia.org/Michael_Gates_(California)",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "San Joaquin Valley Sun: Former Huntington Beach City Attorney Michael Gates launches AG campaign",
+      "url": "https://sjvsun.com/news/politics/former-huntington-beach-city-attorney-michael-gates-launches-ag-campaign/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "LAist: Huntington Beach's Michael Gates quits Justice Department",
+      "url": "https://laist.com/news/politics/huntington-beachs-michael-gates-quits-justice-department",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Wikipedia: Rob Bonta",
+      "url": "https://en.wikipedia.org/wiki/Rob_Bonta",
+      "retrieved": "2026-10-25"
+    }
   ],
   "last_updated": "2026-10-25"
 }
