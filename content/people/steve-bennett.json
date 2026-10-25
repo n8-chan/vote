@@ -3,13 +3,13 @@
   "name": "Steve Bennett",
   "type": "state_legislator",
   "title": "California State Assemblymember, Chair of Budget Subcommittee No. 4 on Climate Crisis, Resources, Energy, and Transportation",
-  "district": "California State Assembly District 38 (western Ventura County; represented as District 37 from 2020–2022 before redistricting), per Bennett's official Assembly biography.",
+  "district": "California State Assembly District 38 (western Ventura County; represented as District 37 from 2020 to 2022 before redistricting), per Bennett's official Assembly biography.",
   "years_of_service": "Elected November 2020; present. Bennett was re-elected in 2022 and 2024. (Source: official Assembly biography; Wikipedia election-history detail, used here because Ballotpedia's Steve Bennett page returned an HTTP 403/blocked response on repeated fetch attempts during this research, both directly and via a read-proxy.)",
   "background": [
     "Bennett was born December 31, 1950 in Indianapolis, Indiana. He earned an honors degree in economics from Brown University in 1972 and a master's degree in education from Butler University in 1976, then spent over two decades as a high school teacher of economics and American history at Calabasas High School and Nordhoff High School, later serving as counseling department leader and assistant principal at Nordhoff. He and his wife, Leslie, a retired Spanish teacher, have four children and have hosted an immigrant Mexican family in their home for 14 years. (Source: official Assembly biography, a38.asmdc.org/biography; Wikipedia, used as an explicit substitute for Ballotpedia, which was unreachable during this research.)",
-    "Bennett's first elected office was the Ventura City Council (1993–1997), where he co-authored the SOAR (Save Open Space and Agricultural Resources) initiatives requiring voter approval before farmland or open space could be converted to development, and authored Measure H, a 1995 ballot measure capping local campaign contributions at $100 (or $200 for candidates who accepted a $20,000 spending cap). He served one term by a self-imposed limit. (Source: official Assembly biography; Wikipedia.)",
+    "Bennett's first elected office was the Ventura City Council (1993 to 1997), where he co-authored the SOAR (Save Open Space and Agricultural Resources) initiatives requiring voter approval before farmland or open space could be converted to development, and authored Measure H, a 1995 ballot measure capping local campaign contributions at $100 (or $200 for candidates who accepted a $20,000 spending cap). He served one term by a self-imposed limit. (Source: official Assembly biography; Wikipedia.)",
     "Bennett served on the Ventura County Board of Supervisors from 2000 to 2020, winning five consecutive elections before being term-limited; Matt LaVere succeeded him. As supervisor he created a farmworker assistance program, established the county's first municipal homeless shelter, and advocated for foster youth and nursing-facility residents through ombudsman programs. He announced a run for California's 26th Congressional District in November 2011 but withdrew at the state Democratic Party convention; Julia Brownley won that seat in 2012. (Source: official Assembly biography; Wikipedia.)",
-    "Bennett was elected to the State Assembly in November 2020, defeating Republican Charles W. Cole 67.57%–32.43% in the general election for the then-District 37 seat. Following 2021 redistricting his seat became District 38; he was re-elected in 2022 (61.20% over Cole Brucato) and in 2024 (63.37% over Deborah Baber). In the Assembly he has focused on renewable energy storage and climate policy, chairing Budget Subcommittee No. 4 on Climate Crisis, Resources, Energy, and Transportation and the Select Committee on Building a Zero-Carbon Hydrogen Economy. (Source: official Assembly biography; Wikipedia election-result detail, used as a substitute for the unreachable Ballotpedia page.)"
+    "Bennett was elected to the State Assembly in November 2020, defeating Republican Charles W. Cole 67.57% to 32.43% in the general election for the then-District 37 seat. Following 2021 redistricting his seat became District 38; he was re-elected in 2022 (61.20% over Cole Brucato) and in 2024 (63.37% over Deborah Baber). In the Assembly he has focused on renewable energy storage and climate policy, chairing Budget Subcommittee No. 4 on Climate Crisis, Resources, Energy, and Transportation and the Select Committee on Building a Zero-Carbon Hydrogen Economy. (Source: official Assembly biography; Wikipedia election-result detail, used as a substitute for the unreachable Ballotpedia page.)"
   ],
   "committee_memberships": [
     "Member, Assembly Budget Committee",
@@ -21,30 +21,30 @@
     "Chair, Select Committee on Building a Zero-Carbon Hydrogen Economy"
   ],
   "voting_record_highlights": [
-    "AB 3162 (2023–2024), banning the farming of octopuses for human consumption in California: Bennett was the author. The Senate concurred in Assembly amendments 59–10 on August 27, 2024, and Gov. Gavin Newsom signed it September 27, 2024 as Chapter 758, Statutes of 2024, making California the second U.S. state (after Washington) to ban octopus farming. (Source: leginfo.legislature.ca.gov bill status for AB 3162.)",
-    "AB 367 (2025–2026), requiring Ventura County water suppliers to prepare backup power plans for wildfire-related outages: Bennett was the author, with Assemblymember Jacqui Irwin as principal coauthor. It passed the Assembly floor 74–1 on September 9, 2025, and was signed by Gov. Newsom October 13, 2025 as Chapter 690, Statutes of 2025. (Source: leginfo.legislature.ca.gov bill status for AB 367.)",
-    "AB 1056 (2025–2026), amending Fish and Game Code Section 8681.5 to address gill-net commercial-fishing permitting for California ocean biodiversity: Bennett was the author. It passed the Senate floor 29–10 on September 11, 2025, and was signed by Gov. Newsom October 13, 2025 as Chapter 720, Statutes of 2025. (Source: leginfo.legislature.ca.gov bill status for AB 1056.)",
-    "SB 42 (2025–2026), the California Fair Elections Act of 2026: Bennett was one of seven Assembly coauthors (with Berman, Kalra, Lee, Pellerin as principal coauthors, and Haney, Ortega, Rogers, Schiavo, Schultz, and Solache as coauthors). Gov. Newsom signed it October 2, 2025 as Chapter 245, Statutes of 2025, placing the measure before voters as Proposition 4 on the November 2026 ballot. Full detail on the measure itself is covered in content/measures/ca-prop-4-2026.json and is not duplicated here. (Source: leginfo.legislature.ca.gov bill status for SB 42.)"
+    "AB 3162 (2023 to 2024), banning the farming of octopuses for human consumption in California: Bennett was the author. The Senate concurred in Assembly amendments 59 to 10 on August 27, 2024, and Gov. Gavin Newsom signed it September 27, 2024 as Chapter 758, Statutes of 2024, making California the second U.S. state (after Washington) to ban octopus farming. (Source: leginfo.legislature.ca.gov bill status for AB 3162.)",
+    "AB 367 (2025 to 2026), requiring Ventura County water suppliers to prepare backup power plans for wildfire-related outages: Bennett was the author, with Assemblymember Jacqui Irwin as principal coauthor. It passed the Assembly floor 74 to 1 on September 9, 2025, and was signed by Gov. Newsom October 13, 2025 as Chapter 690, Statutes of 2025. (Source: leginfo.legislature.ca.gov bill status for AB 367.)",
+    "AB 1056 (2025 to 2026), amending Fish and Game Code Section 8681.5 to address gill-net commercial-fishing permitting for California ocean biodiversity: Bennett was the author. It passed the Senate floor 29 to 10 on September 11, 2025, and was signed by Gov. Newsom October 13, 2025 as Chapter 720, Statutes of 2025. (Source: leginfo.legislature.ca.gov bill status for AB 1056.)",
+    "SB 42 (2025 to 2026), the California Fair Elections Act of 2026: Bennett was one of seven Assembly coauthors (with Berman, Kalra, Lee, Pellerin as principal coauthors, and Haney, Ortega, Rogers, Schiavo, Schultz, and Solache as coauthors). Gov. Newsom signed it October 2, 2025 as Chapter 245, Statutes of 2025, placing the measure before voters as Proposition 4 on the November 2026 ballot. Full detail on the measure itself is covered in content/measures/ca-prop-4-2026.json and is not duplicated here. (Source: leginfo.legislature.ca.gov bill status for SB 42.)"
   ],
   "attendance": "No individually published floor-attendance or voting-participation record for Assemblymember Bennett was found. The California State Assembly does not publish a per-member attendance scorecard; the only public records are bill-by-bill roll-call votes at leginfo.legislature.ca.gov, which is what the voting-record entries above are drawn from. A CalMatters Digital Democracy legislator page was sought for Bennett but returned an HTTP 404 (not found) at the URL pattern used for other legislators in this dataset, so no third-party vote-alignment or bill-passage tracker could be cited for him either.",
   "endorsements_received": [],
   "past_measures_authored": [
     {
-      "title": "AB 3162 (2024) — bans octopus farming for human consumption in California",
+      "title": "AB 3162 (2024), bans octopus farming for human consumption in California",
       "year": "2024",
-      "outcome": "Signed into law by Gov. Gavin Newsom on September 27, 2024 (Senate concurrence vote 59–10); Chapter 758, Statutes of 2024.",
+      "outcome": "Signed into law by Gov. Gavin Newsom on September 27, 2024 (Senate concurrence vote 59 to 10); Chapter 758, Statutes of 2024.",
       "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240AB3162"
     },
     {
-      "title": "AB 367 (2025) — requires Ventura County water suppliers to plan for backup power during wildfire-related outages",
+      "title": "AB 367 (2025), requires Ventura County water suppliers to plan for backup power during wildfire-related outages",
       "year": "2025",
-      "outcome": "Signed into law by Gov. Gavin Newsom on October 13, 2025 (Assembly floor vote 74–1); Chapter 690, Statutes of 2025.",
+      "outcome": "Signed into law by Gov. Gavin Newsom on October 13, 2025 (Assembly floor vote 74 to 1); Chapter 690, Statutes of 2025.",
       "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB367"
     },
     {
-      "title": "AB 1056 (2025) — amends gill-net commercial-fishing permitting rules to protect California ocean biodiversity",
+      "title": "AB 1056 (2025), amends gill-net commercial-fishing permitting rules to protect California ocean biodiversity",
       "year": "2025",
-      "outcome": "Signed into law by Gov. Gavin Newsom on October 13, 2025 (Senate floor vote 29–10); Chapter 720, Statutes of 2025.",
+      "outcome": "Signed into law by Gov. Gavin Newsom on October 13, 2025 (Senate floor vote 29 to 10); Chapter 720, Statutes of 2025.",
       "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1056"
     }
   ],
@@ -52,12 +52,12 @@
     { "title": "Official California State Assembly biography, Assemblymember Steve Bennett (AD 38)", "url": "https://a38.asmdc.org/biography", "retrieved": "2026-09-22" },
     { "title": "Official California State Assembly, Assemblymember Steve Bennett committee assignments", "url": "https://a38.asmdc.org/committees", "retrieved": "2026-09-22" },
     { "title": "Official California State Assembly, Assemblymember Steve Bennett press releases (AB 367, AB 1056, and 2026 legislation package)", "url": "https://a38.asmdc.org/press-releases", "retrieved": "2026-09-22" },
-    { "title": "Wikipedia, Steve Bennett (California politician) — used as an explicit substitute for Ballotpedia, whose Steve Bennett page returned HTTP 403 on repeated direct and proxied fetch attempts", "url": "https://en.wikipedia.org/wiki/Steve_Bennett_(California_politician)", "retrieved": "2026-09-22" },
-    { "title": "California Legislature, AB 3162 (2023–2024) bill status, author, votes, and chaptering", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240AB3162", "retrieved": "2026-09-22" },
-    { "title": "California Legislature, AB 367 (2025–2026) bill status, author, votes, and chaptering", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB367", "retrieved": "2026-09-22" },
-    { "title": "California Legislature, AB 1056 (2025–2026) bill status, author, votes, and chaptering", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1056", "retrieved": "2026-09-22" },
-    { "title": "California Legislature, SB 42 (2025–2026) bill status, authors, coauthors, and votes", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB42", "retrieved": "2026-09-22" },
-    { "title": "California Legislature, SB 42 (2025–2026) bill status and authors — confirms Bennett as an Assembly coauthor of SB 42 / Proposition 4", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB42", "retrieved": "2026-09-22" }
+    { "title": "Wikipedia, Steve Bennett (California politician), used as an explicit substitute for Ballotpedia, whose Steve Bennett page returned HTTP 403 on repeated direct and proxied fetch attempts", "url": "https://en.wikipedia.org/wiki/Steve_Bennett_(California_politician)", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, AB 3162 (2023 to 2024) bill status, author, votes, and chaptering", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240AB3162", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, AB 367 (2025 to 2026) bill status, author, votes, and chaptering", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB367", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, AB 1056 (2025 to 2026) bill status, author, votes, and chaptering", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260AB1056", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 42 (2025 to 2026) bill status, authors, coauthors, and votes", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB42", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 42 (2025 to 2026) bill status and authors, confirms Bennett as an Assembly coauthor of SB 42 / Proposition 4", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB42", "retrieved": "2026-09-22" }
   ],
   "last_updated": "2026-09-22"
 }

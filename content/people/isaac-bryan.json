@@ -4,7 +4,7 @@
   "type": "state_legislator",
   "title": "California State Assemblymember; Chair, Assembly Committee on Natural Resources; Chair, Assembly Select Committee on the Status of Boys and Men of Color; Vice Chair, California Legislative Black Caucus",
   "district": "California State Assembly District 55 (the Crenshaw District, Culver City, Ladera Heights, Mar Vista, Pico-Robertson, and other communities in West and South Los Angeles); represented District 54, covering an overlapping area, from May 2021 to the 2022 redistricting.",
-  "years_of_service": "May 28, 2021–present (won a special election to the then-District 54 seat in May 2021; the seat was renumbered District 55 after 2021 redistricting and he was re-elected to it in 2022 and 2024). He also served as Assembly Majority Leader from July 3, 2023 to November 22, 2023.",
+  "years_of_service": "May 28, 2021 to present (won a special election to the then-District 54 seat in May 2021; the seat was renumbered District 55 after 2021 redistricting and he was re-elected to it in 2022 and 2024). He also served as Assembly Majority Leader from July 3, 2023 to November 22, 2023.",
   "background": [
     "Isaac Gregory Bryan was born January 16, 1992, in Dallas, Texas, to a teenage mother; he was placed for adoption at birth and raised by an adoptive family in California from the sixth grade on, a family that fostered hundreds of children over two decades and adopted Bryan along with eight others. He attended seven public schools and two California community colleges before earning a B.A. in political science and sociology from the University of Arizona and a Master of Public Policy from the UCLA Luskin School of Public Affairs. (Source: Wikipedia, 'Isaac Bryan,' used because Ballotpedia's page for Bryan returned an inaccessible/blocked response to this research session's fetch tools on 2026-09-22; this profile flags every fact sourced to Wikipedia rather than Ballotpedia for that reason.)",
     "Before the Legislature, Bryan was a research fellow at the Rombach Institute on Crime, Delinquency and Corrections working on a federal consent decree with the Maricopa County Sheriff's Office, then a 2017 David Bohnett Foundation fellow who served in Los Angeles Mayor Eric Garcetti's Office of Reentry, co-authoring the city's first report on the needs of formerly incarcerated Angelenos. He founded UCLA's Black Policy Project and directed public policy for UCLA's Ralph J. Bunche Center for African American Studies, becoming a prominent voice arguing that 'defunding police' meant questioning the scale of public spending on policing rather than eliminating it outright. He co-chaired the campaign for Los Angeles County's Measure J, approved by more than 2.1 million voters in 2020, which directs at least 10% of the county's general fund toward community investment and alternatives to incarceration. (Source: Wikipedia, 'Isaac Bryan.')",
@@ -35,31 +35,31 @@
   "endorsements_received": [],
   "past_measures_authored": [
     {
-      "title": "AB 1512 (2023) — foster youth access to federal SSA benefits",
+      "title": "AB 1512 (2023), foster youth access to federal SSA benefits",
       "year": "2023",
       "outcome": "Passed the Legislature (Assembly concurrence vote 80-0) but vetoed by Gov. Gavin Newsom on October 8, 2023, who cited unbudgeted General Fund cost impacts.",
       "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240AB1512"
     },
     {
-      "title": "AB 424 (2023) — statewide neurodegenerative disease (ALS) registry",
+      "title": "AB 424 (2023), statewide neurodegenerative disease (ALS) registry",
       "year": "2023",
       "outcome": "Signed into law by Gov. Gavin Newsom on October 8, 2023; Chapter 522, Statutes of 2023.",
       "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240AB424"
     },
     {
-      "title": "AB 2716 (2024) — low-production oil and gas well regulation and Baldwin Hills Conservancy Equitable Community Repair and Reinvestment Account",
+      "title": "AB 2716 (2024), low-production oil and gas well regulation and Baldwin Hills Conservancy Equitable Community Repair and Reinvestment Account",
       "year": "2024",
       "outcome": "Signed into law by Gov. Gavin Newsom on September 25, 2024 (Assembly concurrence vote 49-13); Chapter 549, Statutes of 2024.",
       "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240AB2716"
     },
     {
-      "title": "AB 2906 (2024) — foster care payment provisions, revised after the AB 1512 veto",
+      "title": "AB 2906 (2024), foster care payment provisions, revised after the AB 1512 veto",
       "year": "2024",
       "outcome": "Signed into law by Gov. Gavin Newsom on September 26, 2024 (Assembly concurrence vote 76-0); Chapter 623, Statutes of 2024.",
       "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240AB2906"
     },
     {
-      "title": "SCA 1 (2023–2024) — became Proposition 5 on the November 2026 ballot, changing the recall-election replacement process",
+      "title": "SCA 1 (2023 to 2024), became Proposition 5 on the November 2026 ballot, changing the recall-election replacement process",
       "year": "2024",
       "outcome": "Passed the Legislature with the required two-thirds vote (Assembly passed the amended version 59-17 on August 30, 2024) and placed on the November 3, 2026 statewide ballot as Proposition 5; outcome of the popular vote pending as of this profile's last-updated date. Full detail in content/measures/ca-prop-5-2026.json.",
       "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240SCA1"
@@ -67,13 +67,13 @@
   ],
   "sources": [
     { "title": "Official California State Assembly biography, Assemblymember Isaac Bryan (AD 55)", "url": "https://a55.asmdc.org/biography", "retrieved": "2026-09-22" },
-    { "title": "Wikipedia, 'Isaac Bryan' — used in place of Ballotpedia, which returned a blocked/inaccessible response to this session's fetch tools on 2026-09-22 despite repeated attempts (direct fetch and r.jina.ai proxy)", "url": "https://en.wikipedia.org/wiki/Isaac_Bryan", "retrieved": "2026-09-22" },
-    { "title": "California Legislature, AB 1512 (2023–2024) bill status and veto message", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240AB1512", "retrieved": "2026-09-22" },
-    { "title": "California Legislature, AB 424 (2023–2024) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240AB424", "retrieved": "2026-09-22" },
-    { "title": "California Legislature, AB 2716 (2023–2024) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240AB2716", "retrieved": "2026-09-22" },
-    { "title": "California Legislature, AB 2906 (2023–2024) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240AB2906", "retrieved": "2026-09-22" },
-    { "title": "California Legislature, SCA 1 (2023–2024) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240SCA1", "retrieved": "2026-09-22" },
-    { "title": "California Legislature, bill search for Assemblymember Isaac Bryan's 2023–2024 session authored bills", "url": "https://leginfo.legislature.ca.gov/faces/billSearchClient.xhtml?author=Bryan&session_year=20232024", "retrieved": "2026-09-22" },
+    { "title": "Wikipedia, 'Isaac Bryan', used in place of Ballotpedia, which returned a blocked/inaccessible response to this session's fetch tools on 2026-09-22 despite repeated attempts (direct fetch and r.jina.ai proxy)", "url": "https://en.wikipedia.org/wiki/Isaac_Bryan", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, AB 1512 (2023 to 2024) bill status and veto message", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240AB1512", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, AB 424 (2023 to 2024) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240AB424", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, AB 2716 (2023 to 2024) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240AB2716", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, AB 2906 (2023 to 2024) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240AB2906", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SCA 1 (2023 to 2024) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240SCA1", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, bill search for Assemblymember Isaac Bryan's 2023 to 2024 session authored bills", "url": "https://leginfo.legislature.ca.gov/faces/billSearchClient.xhtml?author=Bryan&session_year=20232024", "retrieved": "2026-09-22" },
     { "title": "content/measures/ca-prop-5-2026.json (this project's own Proposition 5 measure file, for SCA 1 legislative history and Bryan's role as Assembly coauthor)", "url": "content/measures/ca-prop-5-2026.json", "retrieved": "2026-09-22" }
   ],
   "last_updated": "2026-09-22"

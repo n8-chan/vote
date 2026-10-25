@@ -4,7 +4,7 @@
   "type": "county_official",
   "title": "TEMPLATE — copy this file, do not deploy as-is",
   "district": "Fictional Santa Clara County Board of Supervisors District 0 (example)",
-  "years_of_service": "2099–present (fictional)",
+  "years_of_service": "2099 to present (fictional)",
   "background": [
     "This file is a structural example, not a real person. Every claim below is invented to show what a filled-in profile looks like. Copy it to content/people/<their-id>.json and replace all of it with researched content.",
     "Use these paragraphs for career background: how this person came to the office, prior roles, and anything that explains why they authored the measure that links here."
@@ -27,7 +27,7 @@
     {
       "title": "Fictional prior Measure YY (example)",
       "year": "2022",
-      "outcome": "Approved by voters 58%–42% (fictional)",
+      "outcome": "Approved by voters 58% to 42% (fictional)",
       "source_url": "https://example.com/past-measure-placeholder"
     }
   ],

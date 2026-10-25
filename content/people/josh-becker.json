@@ -4,7 +4,7 @@
   "type": "state_legislator",
   "title": "California State Senator, Chair of the Senate Energy, Utilities and Communications Committee",
   "district": "California State Senate District 13 (most of San Mateo County and northern Santa Clara County, Peninsula/Silicon Valley)",
-  "years_of_service": "December 7, 2020–present.",
+  "years_of_service": "December 7, 2020 to present.",
   "background": [
     "Becker earned an M.B.A. and J.D. from Stanford University in 1999, and co-founded the Stanford Board Fellows program while a student there. He later founded Full Circle Fund, a Bay Area civic-leadership and philanthropy organization, in 2000, and served seven years on California's State Workforce Development Board under appointment by Gov. Jerry Brown. He co-founded New Cycle Capital, an investment firm, and served as CEO of Lex Machina, a legal-analytics company that grew out of a Stanford project. He is a founding trustee of UC Merced. Early in his career he worked with refugees in Guatemala and helped establish a school for repatriated refugees in El Salvador. (Source: official Senate biography, sd13.senate.ca.gov/biography; note this research pass found no corroboration of a McKinsey affiliation sometimes associated with him and does not include that claim.)",
     "Becker ran unsuccessfully in the 2010 Democratic primary for a State Assembly seat before winning election to the State Senate in November 2020, taking 75.4% of the vote against Republican Alex Glew for the open District 13 seat vacated by termed-out Sen. Jerry Hill. He was re-elected in 2024 with 72.5% against Glew again. In a Ballotpedia candidate survey response for his 2020 race, Becker self-reported endorsements from Gov. Gavin Newsom, then-Sen. Jerry Hill, and Rep. Ro Khanna; Ballotpedia's own research did not independently confirm an endorsement list for either his 2020 or 2024 campaign. (Source: Ballotpedia, Josh Becker.)",
@@ -17,35 +17,35 @@
     "Member, Joint Legislative Audit Committee"
   ],
   "voting_record_highlights": [
-    "SB 596 (2021), requiring the California Air Resources Board to develop a strategy for net-zero greenhouse gas emissions in the cement sector: the Senate concurred in Assembly amendments 29–9 on September 9, 2021, and Gov. Gavin Newsom signed it September 23, 2021 as Chapter 246, Statutes of 2021. (Source: leginfo.legislature.ca.gov bill status for SB 596.)",
-    "SB 942 (2024), the California AI Transparency Act, requiring large AI-content providers to offer tools for disclosing AI-generated content: the Senate concurred in Assembly amendments 35–2 on August 29, 2024, and Gov. Newsom signed it September 19, 2024 as Chapter 291, Statutes of 2024. (Source: leginfo.legislature.ca.gov bill status for SB 942.)",
+    "SB 596 (2021), requiring the California Air Resources Board to develop a strategy for net-zero greenhouse gas emissions in the cement sector: the Senate concurred in Assembly amendments 29 to 9 on September 9, 2021, and Gov. Gavin Newsom signed it September 23, 2021 as Chapter 246, Statutes of 2021. (Source: leginfo.legislature.ca.gov bill status for SB 596.)",
+    "SB 942 (2024), the California AI Transparency Act, requiring large AI-content providers to offer tools for disclosing AI-generated content: the Senate concurred in Assembly amendments 35 to 2 on August 29, 2024, and Gov. Newsom signed it September 19, 2024 as Chapter 291, Statutes of 2024. (Source: leginfo.legislature.ca.gov bill status for SB 942.)",
     "SB 410 (2023), the Powering Up Californians Act, requiring the California Public Utilities Commission to set target timeframes for connecting new customers to the electric grid: approved by the Governor and filed with the Secretary of State October 7, 2023, as Chapter 394, Statutes of 2023. (Source: leginfo.legislature.ca.gov bill text/status for SB 410.)",
     "SB 420 (2023), which would have shifted certain electric-transmission-project permitting authority from the CPUC to local agencies, passed the Legislature but was vetoed by Gov. Newsom on October 7, 2023; his veto message said he shared the goal of accelerating transmission projects but opposed 'devolving permitting authority' to multiple local agencies, which he argued would 'compound existing permitting complexity.' (Source: leginfo.legislature.ca.gov bill status for SB 420.)",
-    "SB 42 (2025–2026), the California Fair Elections Act of 2026: Becker was a Senate Principal Coauthor (the three lead authors were Umberg, Allen, and Cervantes). The Senate concurred in Assembly amendments 29–8 on September 13, 2025, and Gov. Newsom signed it October 2, 2025 as Chapter 245, Statutes of 2025, placing the measure before voters as Proposition 4 on the November 2026 ballot. Full detail on the measure itself is covered in content/measures/ca-prop-4-2026.json and is not duplicated here."
+    "SB 42 (2025 to 2026), the California Fair Elections Act of 2026: Becker was a Senate Principal Coauthor (the three lead authors were Umberg, Allen, and Cervantes). The Senate concurred in Assembly amendments 29 to 8 on September 13, 2025, and Gov. Newsom signed it October 2, 2025 as Chapter 245, Statutes of 2025, placing the measure before voters as Proposition 4 on the November 2026 ballot. Full detail on the measure itself is covered in content/measures/ca-prop-4-2026.json and is not duplicated here."
   ],
   "attendance": "No individually published floor-attendance or voting-participation record for Senator Becker was found. Neither his official Senate biography nor Ballotpedia's profile contains an attendance metric; the California Senate does not publish an aggregate attendance percentage for members, only bill-by-bill roll-call votes via leginfo.legislature.ca.gov, which is what the voting-record entries above are drawn from.",
   "endorsements_received": [],
   "past_measures_authored": [
     {
-      "title": "SB 596 (2021) — cement sector net-zero emissions strategy",
+      "title": "SB 596 (2021), cement sector net-zero emissions strategy",
       "year": "2021",
       "outcome": "Signed into law by Gov. Gavin Newsom on September 23, 2021; Chapter 246, Statutes of 2021.",
       "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB596"
     },
     {
-      "title": "SB 410 (2023) — Powering Up Californians Act (grid-interconnection accountability)",
+      "title": "SB 410 (2023), Powering Up Californians Act (grid-interconnection accountability)",
       "year": "2023",
       "outcome": "Signed into law by the Governor on October 7, 2023; Chapter 394, Statutes of 2023.",
       "source_url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240SB410"
     },
     {
-      "title": "SB 420 (2023) — local permitting authority for electric transmission projects",
+      "title": "SB 420 (2023), local permitting authority for electric transmission projects",
       "year": "2023",
       "outcome": "Passed the Legislature but vetoed by Gov. Gavin Newsom on October 7, 2023.",
       "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240SB420"
     },
     {
-      "title": "SB 942 (2024) — California AI Transparency Act",
+      "title": "SB 942 (2024), California AI Transparency Act",
       "year": "2024",
       "outcome": "Signed into law by Gov. Gavin Newsom on September 19, 2024; Chapter 291, Statutes of 2024.",
       "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240SB942"
@@ -55,11 +55,11 @@
     { "title": "Official California State Senate biography, Senator Josh Becker (SD 13)", "url": "https://sd13.senate.ca.gov/biography", "retrieved": "2026-09-22" },
     { "title": "Official California State Senate, Senator Josh Becker legislation page", "url": "https://sd13.senate.ca.gov/legislation", "retrieved": "2026-09-22" },
     { "title": "Ballotpedia, Josh Becker", "url": "https://ballotpedia.org/Josh_Becker", "retrieved": "2026-09-22" },
-    { "title": "California Legislature, SB 596 (2021–2022) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB596", "retrieved": "2026-09-22" },
-    { "title": "California Legislature, SB 410 (2023–2024) bill text/status", "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240SB410", "retrieved": "2026-09-22" },
-    { "title": "California Legislature, SB 420 (2023–2024) bill status and veto record", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240SB420", "retrieved": "2026-09-22" },
-    { "title": "California Legislature, SB 942 (2023–2024) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240SB942", "retrieved": "2026-09-22" },
-    { "title": "California Legislature, SB 42 (2025–2026) bill status, authors, and votes", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB42", "retrieved": "2026-09-22" }
+    { "title": "California Legislature, SB 596 (2021 to 2022) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB596", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 410 (2023 to 2024) bill text/status", "url": "https://leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202320240SB410", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 420 (2023 to 2024) bill status and veto record", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240SB420", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 942 (2023 to 2024) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240SB942", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 42 (2025 to 2026) bill status, authors, and votes", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB42", "retrieved": "2026-09-22" }
   ],
   "last_updated": "2026-09-22"
 }

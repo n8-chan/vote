@@ -4,11 +4,11 @@
   "type": "state_legislator",
   "title": "California State Senator, Chair of the Senate Emergency Management Committee",
   "district": "California State Senate District 27 (spanning from Los Angeles to Ventura County, including Malibu, the Santa Monica Mountains, and the Conejo Valley)",
-  "years_of_service": "December 5, 2016–present. Stern was elected directly to the State Senate, succeeding termed-out Sen. Fran Pavley; this research found no record of prior State Assembly service, contrary to some general characterizations of his career.",
+  "years_of_service": "December 5, 2016 to present. Stern was elected directly to the State Senate, succeeding termed-out Sen. Fran Pavley; this research found no record of prior State Assembly service, contrary to some general characterizations of his career.",
   "background": [
     "Stern was raised in Malibu, within the district he now represents. He earned a B.A. from Harvard University and a J.D. from the UC Berkeley School of Law. Before his election, he worked as an environmental attorney, served as a senior advisor to his predecessor Sen. Fran Pavley, was counsel to Rep. Henry Waxman on the House Energy and Commerce Committee working on clean-energy policy, taught law at UCLA and UC Berkeley, and founded a technology incubator. (Source: official Senate biography, sd27.senate.ca.gov/biography; career detail cross-checked against Wikipedia, Henry Stern (California politician).)",
     "He was first elected to the Senate in November 2016 with 55.9% of the vote against Republican Steve Fazio, and was re-elected in 2020 (60.2%) and 2024 (59.5%), both times against Republican challengers. His home was destroyed in the 2018 Woolsey Fire, which his official biography states motivated subsequent wildfire-prevention legislation; this research pass could not independently confirm the exact bill his office refers to as the 'Wildfire Resilience through Community and Ecology Act,' though SB 63 (2021), a fire-prevention and defensible-space bill he authored, is the closest chaptered match from that period. (Source: official Senate biography; election data per Wikipedia, not independently cross-checked against Ballotpedia, whose page on Stern could not be retrieved during this research pass.)",
-    "In the Senate, Stern chairs the Emergency Management Committee, serves as Vice Chair of the Joint Legislative Committee on Climate Change Policies, and sits as the Senate's ex officio member of the California Air Resources Board. (Source: official Senate biography.)"
+    "In the Senate, Stern chairs the Emergency Management Committee, is Vice Chair of the Joint Legislative Committee on Climate Change Policies, and sits as the Senate's ex officio member of the California Air Resources Board. (Source: official Senate biography.)"
   ],
   "committee_memberships": [
     "Chair, Senate Emergency Management Committee",
@@ -19,35 +19,35 @@
     "Member, Senate Energy, Utilities and Communications Committee"
   ],
   "voting_record_highlights": [
-    "SB 1339 (2018), authorizing electrical microgrids: the Senate concurred in Assembly amendments 29–9 on August 31, 2018, and Gov. Jerry Brown signed it September 19, 2018 as Chapter 566, Statutes of 2018. (Source: leginfo.legislature.ca.gov bill status for SB 1339.)",
-    "SB 63 (2021), on fire-prevention vegetation management, defensible space, and fire hazard severity zones: the Senate concurred in Assembly amendments 37–0 on September 10, 2021, and Gov. Gavin Newsom signed it the same day as Chapter 382, Statutes of 2021. (Source: leginfo.legislature.ca.gov bill status for SB 63.)",
-    "SB 45 (2019–2020), the Wildfire Prevention, Safe Drinking Water, Drought Preparation, and Flood Protection Bond Act of 2020, co-lead-authored with Sens. Ben Allen and Anthony Portantino: the Senate passed it 29–6 on January 29, 2020, but it died at desk on November 30, 2020 after no Assembly floor action, and never reached the ballot. (Source: leginfo.legislature.ca.gov bill status for SB 45.)",
-    "SB 12 (2023–2024), an amendment to the California Global Warming Solutions Act of 2006 on greenhouse-gas emissions, lead-authored with Sens. Allen and Wiener: it died in the Senate Appropriations Committee and was returned to the Secretary of the Senate under Joint Rule 56 on February 1, 2024, without a floor vote. (Source: leginfo.legislature.ca.gov bill status for SB 12.)",
-    "SB 42 (2025–2026), the California Fair Elections Act of 2026: Stern was a Senate Principal Coauthor (the three lead authors were Umberg, Allen, and Cervantes). The Senate concurred in Assembly amendments 29–8 on September 13, 2025, and Gov. Newsom signed it October 2, 2025 as Chapter 245, Statutes of 2025, placing the measure before voters as Proposition 4 on the November 2026 ballot. Full detail on the measure itself is covered in content/measures/ca-prop-4-2026.json and is not duplicated here."
+    "SB 1339 (2018), authorizing electrical microgrids: the Senate concurred in Assembly amendments 29 to 9 on August 31, 2018, and Gov. Jerry Brown signed it September 19, 2018 as Chapter 566, Statutes of 2018. (Source: leginfo.legislature.ca.gov bill status for SB 1339.)",
+    "SB 63 (2021), on fire-prevention vegetation management, defensible space, and fire hazard severity zones: the Senate concurred in Assembly amendments 37 to 0 on September 10, 2021, and Gov. Gavin Newsom signed it the same day as Chapter 382, Statutes of 2021. (Source: leginfo.legislature.ca.gov bill status for SB 63.)",
+    "SB 45 (2019 to 2020), the Wildfire Prevention, Safe Drinking Water, Drought Preparation, and Flood Protection Bond Act of 2020, co-lead-authored with Sens. Ben Allen and Anthony Portantino: the Senate passed it 29 to 6 on January 29, 2020, but it died at desk on November 30, 2020 after no Assembly floor action, and never reached the ballot. (Source: leginfo.legislature.ca.gov bill status for SB 45.)",
+    "SB 12 (2023 to 2024), an amendment to the California Global Warming Solutions Act of 2006 on greenhouse-gas emissions, lead-authored with Sens. Allen and Wiener: it died in the Senate Appropriations Committee and was returned to the Secretary of the Senate under Joint Rule 56 on February 1, 2024, without a floor vote. (Source: leginfo.legislature.ca.gov bill status for SB 12.)",
+    "SB 42 (2025 to 2026), the California Fair Elections Act of 2026: Stern was a Senate Principal Coauthor (the three lead authors were Umberg, Allen, and Cervantes). The Senate concurred in Assembly amendments 29 to 8 on September 13, 2025, and Gov. Newsom signed it October 2, 2025 as Chapter 245, Statutes of 2025, placing the measure before voters as Proposition 4 on the November 2026 ballot. Full detail on the measure itself is covered in content/measures/ca-prop-4-2026.json and is not duplicated here."
   ],
   "attendance": "No individually published floor-attendance or voting-participation record for Senator Stern was found. A direct check of senate.ca.gov/attendance returned a 404 error, and every leginfo.legislature.ca.gov bill-status page reviewed shows only bill-by-bill roll-call vote tallies, not a standalone per-senator attendance record. The California Legislature discloses votes per bill but does not publish a consolidated attendance percentage per member.",
   "endorsements_received": [],
   "past_measures_authored": [
     {
-      "title": "SB 1339 (2018) — authorizing electrical microgrids",
+      "title": "SB 1339 (2018), authorizing electrical microgrids",
       "year": "2018",
       "outcome": "Signed into law by Gov. Jerry Brown on September 19, 2018; Chapter 566, Statutes of 2018.",
       "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201720180SB1339"
     },
     {
-      "title": "SB 45 (2020) — Wildfire Prevention, Safe Drinking Water, Drought Preparation, and Flood Protection Bond Act of 2020",
+      "title": "SB 45 (2020), Wildfire Prevention, Safe Drinking Water, Drought Preparation, and Flood Protection Bond Act of 2020",
       "year": "2020",
-      "outcome": "Passed the Senate 29–6 on January 29, 2020, but died at desk on November 30, 2020 after no Assembly floor action; never reached the ballot.",
+      "outcome": "Passed the Senate 29 to 6 on January 29, 2020, but died at desk on November 30, 2020 after no Assembly floor action; never reached the ballot.",
       "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201920200SB45"
     },
     {
-      "title": "SB 63 (2021) — fire prevention: vegetation management and defensible space",
+      "title": "SB 63 (2021), fire prevention: vegetation management and defensible space",
       "year": "2021",
       "outcome": "Signed into law by Gov. Gavin Newsom on September 28, 2021; Chapter 382, Statutes of 2021.",
       "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB63"
     },
     {
-      "title": "SB 12 (2023–2024) — California Global Warming Solutions Act of 2006 amendment",
+      "title": "SB 12 (2023 to 2024), California Global Warming Solutions Act of 2006 amendment",
       "year": "2024",
       "outcome": "Died in the Senate Appropriations Committee; returned to the Secretary of the Senate under Joint Rule 56 on February 1, 2024, without a floor vote.",
       "source_url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240SB12"
@@ -57,11 +57,11 @@
     { "title": "Official California State Senate biography, Senator Henry Stern (SD 27)", "url": "https://sd27.senate.ca.gov/biography", "retrieved": "2026-09-22" },
     { "title": "Official California State Senate, Senator Henry Stern legislation page", "url": "https://sd27.senate.ca.gov/legislation-2023-2024", "retrieved": "2026-09-22" },
     { "title": "Wikipedia, Henry Stern (California politician) (used for election-history vote counts; Ballotpedia's page could not be retrieved during this research pass and this data has not been independently cross-checked against it)", "url": "https://en.wikipedia.org/wiki/Henry_Stern_(California_politician)", "retrieved": "2026-09-22" },
-    { "title": "California Legislature, SB 1339 (2017–2018) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201720180SB1339", "retrieved": "2026-09-22" },
-    { "title": "California Legislature, SB 45 (2019–2020) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201920200SB45", "retrieved": "2026-09-22" },
-    { "title": "California Legislature, SB 63 (2021–2022) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB63", "retrieved": "2026-09-22" },
-    { "title": "California Legislature, SB 12 (2023–2024) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240SB12", "retrieved": "2026-09-22" },
-    { "title": "California Legislature, SB 42 (2025–2026) bill status, authors, and votes", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB42", "retrieved": "2026-09-22" }
+    { "title": "California Legislature, SB 1339 (2017 to 2018) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201720180SB1339", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 45 (2019 to 2020) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=201920200SB45", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 63 (2021 to 2022) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202120220SB63", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 12 (2023 to 2024) bill status", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202320240SB12", "retrieved": "2026-09-22" },
+    { "title": "California Legislature, SB 42 (2025 to 2026) bill status, authors, and votes", "url": "https://leginfo.legislature.ca.gov/faces/billStatusClient.xhtml?bill_id=202520260SB42", "retrieved": "2026-09-22" }
   ],
   "last_updated": "2026-09-22"
 }

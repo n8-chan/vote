@@ -130,13 +130,13 @@ function committeeList(committees) {
 const SECTIONS = [
   { heading: 'Summary', render: (m) => paragraphs([m.summary]) },
   {
-    heading: 'Who Wrote This',
+    heading: 'Who wrote this',
     when: (m) => m.authors && m.authors.length > 0,
     render: (m, ctx) => authorList(m.authors, ctx.peopleById),
   },
-  { heading: 'What It Really Means', render: (m) => paragraphs(m.what_it_really_means) },
+  { heading: 'What it really means', render: (m) => paragraphs(m.what_it_really_means) },
   {
-    heading: 'Fiscal Impact',
+    heading: 'Fiscal impact',
     render: (m) =>
       facts(FISCAL_LABELS.map(([key, term]) => [term, m.fiscal_impact[key]])) +
       '\n' +
@@ -152,24 +152,24 @@ const SECTIONS = [
     render: (m) =>
       `<h3>New spending areas</h3>\n${bullets(m.spending.new_spending_areas)}\n<h3>Funding source</h3>\n${paragraphs([m.spending.funding_source])}`,
   },
-  { heading: 'Who Gains Control', render: (m) => paragraphs([m.control_and_power]) },
-  { heading: 'Loopholes and Fine Print', render: (m) => bullets(m.loopholes) },
-  { heading: 'Unexpected Provisions (Riders)', render: (m) => bullets(m.unexpected_provisions) },
+  { heading: 'Who gains control', render: (m) => paragraphs([m.control_and_power]) },
+  { heading: 'Loopholes and fine print', render: (m) => bullets(m.loopholes) },
+  { heading: 'Unexpected provisions (riders)', render: (m) => bullets(m.unexpected_provisions) },
   { heading: 'Pros', render: (m) => bullets(m.pros, 'pros') },
   { heading: 'Cons', render: (m) => bullets(m.cons, 'cons') },
   {
-    heading: 'Who Supports and Who Opposes',
+    heading: 'Who supports and who opposes',
     render: (m) =>
       `<div class="columns">\n<div class="column supports"><h3>Supports</h3>${parties(m.who_supports)}</div>\n<div class="column opposes"><h3>Opposes</h3>${parties(m.who_opposes)}</div>\n</div>`,
   },
   {
-    heading: "Who's Paying for Ads",
+    heading: "Who's paying for ads",
     when: (m) => m.funding && ((m.funding.support_committees?.length ?? 0) + (m.funding.oppose_committees?.length ?? 0) > 0),
     render: (m) =>
       `<div class="columns">\n<div class="column supports"><h3>Supporting committees</h3>${committeeList(m.funding.support_committees)}</div>\n<div class="column opposes"><h3>Opposing committees</h3>${committeeList(m.funding.oppose_committees)}</div>\n</div>`,
   },
   {
-    heading: 'Nonpartisan Analysis',
+    heading: 'Nonpartisan analysis',
     render: (m) => {
       if (m.nonpartisan_analysis.length === 0) return '<p class="empty">No nonpartisan analysis published yet.</p>';
       const items = m.nonpartisan_analysis
@@ -251,7 +251,7 @@ ${sections}
 const GROUPS = [
   {
     id: 'california-statewide',
-    heading: 'California Statewide',
+    heading: 'California statewide',
     blurb: 'Propositions on the statewide California ballot.',
     includes: (measure) => measure.jurisdiction === 'state',
   },
@@ -294,7 +294,7 @@ function raceCard(race) {
 
 /** Ballot headings from Elections Code 13109, keyed by the whole-number part of ballot_order. */
 const RACE_HEADINGS = [
-  { id: 'races-state', heading: 'State Offices', includes: (n) => n <= 8 },
+  { id: 'races-state', heading: 'State offices', includes: (n) => n <= 8 },
   { id: 'races-congress-legislature', heading: 'Congress and Legislature', includes: (n) => n >= 9 && n <= 13 },
   { id: 'races-judicial', heading: 'Judicial', includes: (n) => n === 14 },
   { id: 'races-school', heading: 'School', includes: (n) => n === 15 || n === 16 },
@@ -330,7 +330,7 @@ function raceSection(races) {
               `<h3 id="${group.id}">${esc(group.heading)}</h3>\n<ul class="cards">\n${group.members.map(raceCard).join('\n')}\n</ul>`,
           )
           .join('\n');
-  return `<section id="races">\n<h2>Races for Office ${toTop}</h2>\n<p class="blurb">Candidates on the ballot, in ballot order, compared side by side.</p>\n${contents}\n</section>`;
+  return `<section id="races">\n<h2>Races for office ${toTop}</h2>\n<p class="blurb">Candidates on the ballot, in ballot order, compared side by side.</p>\n${contents}\n</section>`;
 }
 
 function tableOfContents(races, measureGroups) {
@@ -345,7 +345,7 @@ function tableOfContents(races, measureGroups) {
 <h2>Contents</h2>
 <div class="toc-columns">
 <div>
-<h3><a href="#races">Races for Office</a> ${count(races.length)}</h3>
+<h3><a href="#races">Races for office</a> ${count(races.length)}</h3>
 <ul>
 ${raceItems}
 </ul>
@@ -419,7 +419,7 @@ function pastMeasuresList(items) {
   const rows = items
     .map(
       (m) =>
-        `<li>${link(m.source_url, m.title)} <span class="card-meta">${esc(m.year)} — ${esc(m.outcome)}</span></li>`,
+        `<li>${link(m.source_url, m.title)} <span class="card-meta">${esc(m.year)}. ${esc(m.outcome)}</span></li>`,
     )
     .join('\n');
   return `<ul class="sources">\n${rows}\n</ul>`;
@@ -437,29 +437,29 @@ function candidacyList(races) {
 
 const PERSON_SECTIONS = [
   {
-    heading: 'On the Ballot',
+    heading: 'On the ballot',
     when: (p, ctx) => ctx.racesByPerson.has(p.id),
     render: (p, ctx) => candidacyList(ctx.racesByPerson.get(p.id)),
   },
   { heading: 'Background', when: (p) => p.background.length > 0, render: (p) => paragraphs(p.background) },
   {
-    heading: 'Committee Memberships',
+    heading: 'Committee memberships',
     when: (p) => p.committee_memberships?.length > 0,
     render: (p) => bullets(p.committee_memberships),
   },
   {
-    heading: 'Voting Record Highlights',
+    heading: 'Voting record highlights',
     when: (p) => p.voting_record_highlights?.length > 0,
     render: (p) => bullets(p.voting_record_highlights),
   },
   { heading: 'Attendance', when: (p) => !!p.attendance, render: (p) => paragraphs([p.attendance]) },
   {
-    heading: 'Endorsements Received',
+    heading: 'Endorsements received',
     when: (p) => p.endorsements_received?.length > 0,
     render: (p) => parties(p.endorsements_received),
   },
   {
-    heading: 'Past Measures Authored',
+    heading: 'Past measures authored',
     when: (p) => p.past_measures_authored?.length > 0,
     render: (p) => pastMeasuresList(p.past_measures_authored),
   },
@@ -531,7 +531,7 @@ function renderPeopleIndex(people) {
 </footer>`;
 
   return page({
-    title: 'People — candidates, authors, and proponents',
+    title: 'People',
     description: 'Profiles of candidates in tracked races and the legislators and proponents behind tracked ballot measures.',
     stylesheet: '../style.css',
     body,
@@ -566,11 +566,11 @@ function pollList(polls) {
 const RACE_SECTIONS = [
   { heading: 'Summary', render: (r) => paragraphs([r.summary]) },
   {
-    heading: 'The Candidates',
+    heading: 'The candidates',
     render: (r, ctx) =>
       `<div class="columns">\n${r.candidates.map((c) => candidateColumn(c, ctx.peopleById)).join('\n')}\n</div>`,
   },
-  { heading: 'Key Differences', when: (r) => r.key_differences?.length > 0, render: (r) => bullets(r.key_differences) },
+  { heading: 'Key differences', when: (r) => r.key_differences?.length > 0, render: (r) => bullets(r.key_differences) },
   { heading: 'Polling', when: (r) => r.polling?.length > 0, render: (r) => pollList(r.polling) },
   {
     heading: 'Sources',

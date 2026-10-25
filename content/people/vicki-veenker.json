@@ -12,7 +12,7 @@
   "endorsements_received": [],
   "past_measures_authored": [],
   "sources": [
-    { "title": "content/measures/scc-measure-j-2026.json (this voter guide) — Veenker's role as Mayor presiding over the June 8, 2026 Council vote placing Measure J on the ballot, and her quoted statement", "url": "https://www.paloalto.gov/Departments/City-Clerk/Municipal-Elections/November-3-2026-Ballot-Measure-J", "retrieved": "2026-09-20" },
+    { "title": "content/measures/scc-measure-j-2026.json (this voter guide), Veenker's role as Mayor presiding over the June 8, 2026 Council vote placing Measure J on the ballot, and her quoted statement", "url": "https://www.paloalto.gov/Departments/City-Clerk/Municipal-Elections/November-3-2026-Ballot-Measure-J", "retrieved": "2026-09-20" },
     { "title": "City of Palo Alto, City Council page (confirms Veenker as Mayor, term expiring December 31, 2026, and contact information)", "url": "https://www.paloalto.gov/Departments/City-Clerk/City-Council", "retrieved": "2026-09-22" },
     { "title": "Wikipedia, Palo Alto, California (a fetched snapshot lists Veenker as Vice Mayor under Mayor Ed Lauing; treated as possibly stale relative to Palo Alto's January mayoral rotation and not relied on for her current title)", "url": "https://en.wikipedia.org/wiki/Palo_Alto,_California", "retrieved": "2026-09-22" }
   ],
