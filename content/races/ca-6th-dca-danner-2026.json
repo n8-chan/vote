@@ -1,0 +1,58 @@
+{
+  "id": "ca-6th-dca-danner-2026",
+  "office": "Associate Justice, Court of Appeal, Sixth District: Allison Marston Danner",
+  "level": "state",
+  "election_date": "2026-11-03",
+  "ballot_order": 14.14,
+  "summary": "Ballot question: \"Shall Associate Justice ALLISON MARSTON DANNER be elected to the office for the term provided by law?\" Gov. Jerry Brown appointed Danner in 2018 to the seat Mary J. Greenwood vacated on becoming presiding justice. Voters retained her in 2018 with 80.3% for the rest of that term, and she is now seeking a full 12-year term. The Sixth District Court of Appeal in San Jose hears appeals from the superior courts of Santa Clara, Santa Cruz, Monterey, and San Benito counties, so only voters in those four counties see this vote. It is a yes-or-no retention vote with no opponent; a majority of yes votes keeps the justice. Courts of Appeal terms are 12 years, but a justice appointed mid-term first stands for the rest of the predecessor's term. (Secretary of State; Ballotpedia)",
+  "candidates": [
+    {
+      "name": "Allison Marston Danner",
+      "person_id": "allison-danner",
+      "party": "Nonpartisan (judicial retention)",
+      "incumbent": true,
+      "positions": [
+        {
+          "issue": "Experience",
+          "stance": "On the Sixth District since 2018; the Daily Journal reports more than 450 opinions. Before that she was a Santa Clara County Superior Court judge (2012–2018), an Assistant U.S. Attorney (2007–2012), a Vanderbilt law professor (2001–2007), and a law clerk to U.S. Supreme Court Justice John Paul Stevens. (Court of Appeal bio; Governor's office; Daily Journal)"
+        },
+        {
+          "issue": "Court leadership",
+          "stance": "Chairs the Judicial Council's Appellate Advisory Committee and the mandatory training seminars for new appellate justices. (Daily Journal)"
+        },
+        {
+          "issue": "Prior retention",
+          "stance": "Retained in November 2018 with 80.3% yes. (Ballotpedia)"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "California Secretary of State: November 3, 2026 General Election, list of judicial candidates (official ballot wording)",
+      "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/judicial.pdf",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "California Courts of Appeal: Associate Justice Allison M. Danner",
+      "url": "https://appellate.courts.ca.gov/district-courts/6dca/bio/allison-m-danner",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Governor Brown appoints two District Court of Appeal justices (June 1, 2018)",
+      "url": "https://www.archive.gov.ca.gov/archive/gov39/2018/06/01/governor-brown-appoints-two-district-court-of-appeal-justices/index.html",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Ballotpedia: California Sixth District Court of Appeal (bench, past retention results, how retention terms work)",
+      "url": "https://ballotpedia.org/California_Sixth_District_Court_of_Appeal",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Daily Journal: Danner's opinions shape high court decisions as she trains new justices",
+      "url": "https://www.dailyjournal.com/articles/395468-danner-s-opinions-shape-high-court-decisions-as-she-trains-new-justices",
+      "retrieved": "2026-10-25"
+    }
+  ],
+  "last_updated": "2026-10-25"
+}

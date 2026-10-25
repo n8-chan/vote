@@ -1,0 +1,62 @@
+{
+  "id": "ca-supreme-court-evans-2026",
+  "office": "Associate Justice, California Supreme Court: Kelli M. Evans",
+  "level": "state",
+  "election_date": "2026-11-03",
+  "ballot_order": 14.02,
+  "summary": "Ballot question: \"Shall Associate Justice of the Supreme Court KELLI M. EVANS be elected to the office for the term provided by law?\" Statewide. Gov. Gavin Newsom nominated Evans in August 2022 to the seat Patricia Guerrero vacated on becoming Chief Justice; she was sworn in January 2, 2023. This is her first retention vote. This is a retention vote, not a contest: there is no opponent. Voters answer yes or no on whether the justice stays on the court, and a majority of yes votes keeps them. A justice who is removed is replaced by the governor's next appointee. Justices cannot campaign on issues the way candidates do, and California voters have removed Supreme Court justices only once, in 1986, when Chief Justice Rose Bird and Justices Cruz Reynoso and Joseph Grodin lost over their death-penalty records. (CalMatters)",
+  "candidates": [
+    {
+      "name": "Kelli M. Evans",
+      "person_id": "kelli-evans",
+      "party": "Nonpartisan (judicial retention)",
+      "incumbent": true,
+      "positions": [
+        {
+          "issue": "Experience",
+          "stance": "On the Supreme Court since January 2023. Before that she was an Alameda County Superior Court judge (2021–2023), Gov. Newsom's chief deputy legal affairs secretary, a State Bar senior director, a U.S. Justice Department civil-rights trial attorney, an ACLU attorney, and a public defender. (Wikipedia; CalMatters)"
+        },
+        {
+          "issue": "Discipline record",
+          "stance": "Does not appear in the Commission on Judicial Performance public discipline record. (GrowSF)"
+        },
+        {
+          "issue": "Opposition",
+          "stance": "No organized campaign against retention was found. (GrowSF)"
+        },
+        {
+          "issue": "Editorial recommendations",
+          "stance": "GrowSF and the San Francisco Chronicle editorial board recommend yes. (GrowSF; Horvitz & Levy summary of the Chronicle endorsement)"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "California Secretary of State: November 3, 2026 General Election, list of judicial candidates (official ballot wording)",
+      "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/judicial.pdf",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "CalMatters 2026 voter guide: Supreme Court",
+      "url": "https://calmatters.org/california-voter-guide-2026/supreme-court/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "GrowSF: California Supreme Court retention, November 2026",
+      "url": "https://growsf.org/voter-guide/san-francisco-voter-guide-november-2026-election/contests/supreme-court-retention/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Wikipedia: Kelli Evans",
+      "url": "https://en.wikipedia.org/wiki/Kelli_Evans",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Horvitz & Levy: Chronicle endorses Justices Groban and Evans",
+      "url": "https://www.horvitzlevy.com/chronicle-endorses-justices-groban-and-evans/",
+      "retrieved": "2026-10-25"
+    }
+  ],
+  "last_updated": "2026-10-25"
+}

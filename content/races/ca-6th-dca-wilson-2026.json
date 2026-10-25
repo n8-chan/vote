@@ -1,0 +1,44 @@
+{
+  "id": "ca-6th-dca-wilson-2026",
+  "office": "Associate Justice, Court of Appeal, Sixth District: Charles E. Wilson II",
+  "level": "state",
+  "election_date": "2026-11-03",
+  "ballot_order": 14.11,
+  "summary": "Ballot question: \"Shall Associate Justice CHARLES E. WILSON II be elected to the office for the term provided by law?\" Gov. Newsom appointed Wilson in 2021 to succeed retired Justice Eugene M. Premo. His 2022 retention vote (77.3% yes) covered the rest of Premo's term, and this vote is for a new term. The Sixth District Court of Appeal in San Jose hears appeals from the superior courts of Santa Clara, Santa Cruz, Monterey, and San Benito counties, so only voters in those four counties see this vote. It is a yes-or-no retention vote with no opponent; a majority of yes votes keeps the justice. Courts of Appeal terms are 12 years, but a justice appointed mid-term first stands for the rest of the predecessor's term. (Secretary of State; Ballotpedia)",
+  "candidates": [
+    {
+      "name": "Charles E. Wilson II",
+      "person_id": "charles-wilson-ii",
+      "party": "Nonpartisan (judicial retention)",
+      "incumbent": true,
+      "positions": [
+        {
+          "issue": "Experience",
+          "stance": "On the Sixth District since 2021. Before that he spent seven years as a Santa Clara County Superior Court judge (supervising judge of the Family Violence Division and of the Palo Alto courthouse) and was an Alameda County deputy district attorney. (Court of Appeal bio)"
+        },
+        {
+          "issue": "Prior retention",
+          "stance": "Retained in November 2022 with 77.3% yes. (Ballotpedia)"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "California Secretary of State: November 3, 2026 General Election, list of judicial candidates (official ballot wording)",
+      "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/judicial.pdf",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "California Courts of Appeal: Associate Justice Charles E. Wilson",
+      "url": "https://appellate.courts.ca.gov/node/3445",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Ballotpedia: California Sixth District Court of Appeal (bench, past retention results, how retention terms work)",
+      "url": "https://ballotpedia.org/California_Sixth_District_Court_of_Appeal",
+      "retrieved": "2026-10-25"
+    }
+  ],
+  "last_updated": "2026-10-25"
+}

@@ -30,6 +30,7 @@
         "statewide_official",
         "federal_official",
         "candidate",
+        "judge",
         "other"
       ]
     },

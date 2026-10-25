@@ -278,7 +278,10 @@ const LEVEL_LABELS = {
 };
 
 function raceCard(race) {
-  const names = race.candidates.map((c) => `${c.name} (${c.party})`).join(' vs. ');
+  const names =
+    race.candidates.length === 1
+      ? `Yes or no on ${race.candidates[0].name}`
+      : race.candidates.map((c) => `${c.name} (${c.party})`).join(' vs. ');
   return `<li class="card">
 <p class="badges"><span class="badge jurisdiction">${esc(LEVEL_LABELS[race.level] ?? race.level)}</span></p>
 <h3><a href="races/${esc(race.id)}.html">${esc(race.office)}</a></h3>
@@ -345,6 +348,7 @@ const PERSON_TYPE_LABELS = {
   statewide_official: 'Statewide official',
   federal_official: 'Federal official',
   candidate: 'Candidate',
+  judge: 'Judge',
   other: 'Other',
 };
 
@@ -504,7 +508,7 @@ const RACE_SECTIONS = [
     render: (r, ctx) =>
       `<div class="columns">\n${r.candidates.map((c) => candidateColumn(c, ctx.peopleById)).join('\n')}\n</div>`,
   },
-  { heading: 'Key Differences', render: (r) => bullets(r.key_differences) },
+  { heading: 'Key Differences', when: (r) => r.key_differences?.length > 0, render: (r) => bullets(r.key_differences) },
   { heading: 'Polling', when: (r) => r.polling?.length > 0, render: (r) => pollList(r.polling) },
   {
     heading: 'Sources',

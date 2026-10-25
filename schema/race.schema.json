@@ -12,7 +12,6 @@
     "ballot_order",
     "summary",
     "candidates",
-    "key_differences",
     "sources",
     "last_updated"
   ],
@@ -44,7 +43,7 @@
       "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$"
     },
     "ballot_order": {
-      "description": "Position on the ballot, following California Elections Code 13109: 1 Governor, 2 Lieutenant Governor, 3 Secretary of State, 4 Controller, 5 Treasurer, 6 Attorney General, 7 Insurance Commissioner, 8 Board of Equalization, 9 U.S. Senator, 10 U.S. Representative, 11 State Senator, 12 Member of the Assembly, 13 county committee, 14 judicial, 15 Superintendent of Public Instruction, 16 other school offices, 17 county, 18 city, 19 district. The landing page lists races in this order.",
+      "description": "Position on the ballot, following California Elections Code 13109: 1 Governor, 2 Lieutenant Governor, 3 Secretary of State, 4 Controller, 5 Treasurer, 6 Attorney General, 7 Insurance Commissioner, 8 Board of Equalization, 9 U.S. Senator, 10 U.S. Representative, 11 State Senator, 12 Member of the Assembly, 13 county committee, 14 judicial, 15 Superintendent of Public Instruction, 16 other school offices, 17 county, 18 city, 19 district. Use decimals to order races within one heading as the ballot does, e.g. 14.01 and 14.02 for two Supreme Court justices. The landing page lists races in this order.",
       "type": "number"
     },
     "summary": {
@@ -53,7 +52,7 @@
       "minLength": 1
     },
     "candidates": {
-      "description": "Everyone on the general-election ballot for this office.",
+      "description": "Everyone on the general-election ballot for this office. A judicial retention vote has exactly one entry: the justice voters are asked to keep or remove.",
       "type": "array",
       "minItems": 1,
       "items": {
@@ -87,7 +86,7 @@
             "minLength": 1
           },
           "positions": {
-            "description": "Their stated stance on the issues that define this race, each a concrete claim attributable to a source.",
+            "description": "Their stated stance on the issues that define this race, each a concrete claim attributable to a source. For a judge in a retention vote, use it for the judicial record voters can weigh instead.",
             "type": "array",
             "items": {
               "type": "object",
@@ -111,7 +110,7 @@
       }
     },
     "key_differences": {
-      "description": "Where the candidates actually disagree, in plain language. One string per difference.",
+      "description": "Where the candidates actually disagree, in plain language. One string per difference. Omit for a single-candidate retention vote.",
       "type": "array",
       "items": {
         "type": "string",

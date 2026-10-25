@@ -1,0 +1,66 @@
+{
+  "id": "ca-supreme-court-groban-2026",
+  "office": "Associate Justice, California Supreme Court: Joshua Groban",
+  "level": "state",
+  "election_date": "2026-11-03",
+  "ballot_order": 14.01,
+  "summary": "Ballot question: \"Shall Associate Justice of the Supreme Court JOSHUA GROBAN be elected to the office for the term provided by law?\" Statewide. Gov. Jerry Brown appointed Groban in 2018 to the seat of retiring Justice Kathryn Werdegar. Voters retained him in 2022 with 68.4% for the rest of her term; this vote is for a full 12-year term. This is a retention vote, not a contest: there is no opponent. Voters answer yes or no on whether the justice stays on the court, and a majority of yes votes keeps them. A justice who is removed is replaced by the governor's next appointee. Justices cannot campaign on issues the way candidates do, and California voters have removed Supreme Court justices only once, in 1986, when Chief Justice Rose Bird and Justices Cruz Reynoso and Joseph Grodin lost over their death-penalty records. (CalMatters)",
+  "candidates": [
+    {
+      "name": "Joshua Groban",
+      "person_id": "joshua-groban",
+      "party": "Nonpartisan (judicial retention)",
+      "incumbent": true,
+      "positions": [
+        {
+          "issue": "Experience",
+          "stance": "On the Supreme Court since January 2019. Before that he was Gov. Jerry Brown's senior adviser overseeing judicial appointments, and earlier a litigator at Paul, Weiss and at Munger, Tolles & Olson. (Wikipedia; CalMatters)"
+        },
+        {
+          "issue": "Prior retention",
+          "stance": "Retained in November 2022 with 68.4% yes. (Wikipedia)"
+        },
+        {
+          "issue": "Discipline record",
+          "stance": "Does not appear in the Commission on Judicial Performance public discipline record. (GrowSF)"
+        },
+        {
+          "issue": "Opposition",
+          "stance": "No organized campaign against retention was found. (GrowSF)"
+        },
+        {
+          "issue": "Editorial recommendations",
+          "stance": "GrowSF and the San Francisco Chronicle editorial board recommend yes. (GrowSF; Horvitz & Levy summary of the Chronicle endorsement)"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "California Secretary of State: November 3, 2026 General Election, list of judicial candidates (official ballot wording)",
+      "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/judicial.pdf",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "CalMatters 2026 voter guide: Supreme Court",
+      "url": "https://calmatters.org/california-voter-guide-2026/supreme-court/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "GrowSF: California Supreme Court retention, November 2026",
+      "url": "https://growsf.org/voter-guide/san-francisco-voter-guide-november-2026-election/contests/supreme-court-retention/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Wikipedia: Joshua Groban",
+      "url": "https://en.wikipedia.org/wiki/Joshua_Groban",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Horvitz & Levy: Chronicle endorses Justices Groban and Evans",
+      "url": "https://www.horvitzlevy.com/chronicle-endorses-justices-groban-and-evans/",
+      "retrieved": "2026-10-25"
+    }
+  ],
+  "last_updated": "2026-10-25"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ca-6th-dca-chung-2026",
+  "office": "Associate Justice, Court of Appeal, Sixth District: Frederick S. Chung",
+  "level": "state",
+  "election_date": "2026-11-03",
+  "ballot_order": 14.12,
+  "summary": "Ballot question: \"Shall Superior Court Judge FREDERICK S. CHUNG be elected to the office for the term provided by law?\" Unlike the other four Sixth District votes, Chung is not yet on the court. Gov. Newsom nominated him in August 2026 and the Commission on Judicial Appointments confirmed him on August 19, 2026, to succeed Justice Adrienne M. Grover, whose term ends January 4, 2027. He takes the seat only if voters say yes. The Sixth District Court of Appeal in San Jose hears appeals from the superior courts of Santa Clara, Santa Cruz, Monterey, and San Benito counties, so only voters in those four counties see this vote. It is a yes-or-no retention vote with no opponent; a majority of yes votes keeps the justice. Courts of Appeal terms are 12 years, but a justice appointed mid-term first stands for the rest of the predecessor's term. (Secretary of State; Ballotpedia)",
+  "candidates": [
+    {
+      "name": "Frederick S. Chung",
+      "person_id": "frederick-chung",
+      "party": "Nonpartisan (judicial retention)",
+      "incumbent": false,
+      "positions": [
+        {
+          "issue": "Experience",
+          "stance": "Santa Clara County Superior Court judge since 2018. Before that he was a partner at Gibson, Dunn & Crutcher, an associate at Morrison & Foerster, and a clerk for Judge Karen Nelson Moore of the U.S. Court of Appeals for the Sixth Circuit. (Santa Clara County Superior Court)"
+        },
+        {
+          "issue": "Confirmation",
+          "stance": "Unanimously confirmed by the Commission on Judicial Appointments on August 19, 2026. (California Courts Newsroom)"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "California Secretary of State: November 3, 2026 General Election, list of judicial candidates (official ballot wording)",
+      "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/judicial.pdf",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "California Courts Newsroom: Commission confirms four appointments to Courts of Appeal (Chung)",
+      "url": "https://newsroom.courts.ca.gov/news/commission-confirms-four-appointments-courts-appeal-1",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Santa Clara County Superior Court: congratulates Judge Frederick S. Chung on appellate nomination",
+      "url": "https://santaclara.courts.ca.gov/news/santa-clara-county-superior-court-congratulates-judge-frederick-s-chung-appellate-court-nomination",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Ballotpedia: California Sixth District Court of Appeal (bench, past retention results, how retention terms work)",
+      "url": "https://ballotpedia.org/California_Sixth_District_Court_of_Appeal",
+      "retrieved": "2026-10-25"
+    }
+  ],
+  "last_updated": "2026-10-25"
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ca-6th-dca-adams-2026",
+  "office": "Associate Justice, Court of Appeal, Sixth District: Charles F. Adams",
+  "level": "state",
+  "election_date": "2026-11-03",
+  "ballot_order": 14.13,
+  "summary": "Ballot question: \"Shall Associate Justice CHARLES F. ADAMS be elected to the office for the term provided by law?\" Gov. Newsom nominated Adams in June 2026 to replace retired Justice Patricia Bamattre-Manoukian. The Commission on Judicial Appointments confirmed him unanimously on August 6, 2026, so he has been on the court less than three months. This is his first retention vote. The Sixth District Court of Appeal in San Jose hears appeals from the superior courts of Santa Clara, Santa Cruz, Monterey, and San Benito counties, so only voters in those four counties see this vote. It is a yes-or-no retention vote with no opponent; a majority of yes votes keeps the justice. Courts of Appeal terms are 12 years, but a justice appointed mid-term first stands for the rest of the predecessor's term. (Secretary of State; Ballotpedia)",
+  "candidates": [
+    {
+      "name": "Charles F. Adams",
+      "person_id": "charles-adams",
+      "party": "Nonpartisan (judicial retention)",
+      "incumbent": true,
+      "positions": [
+        {
+          "issue": "Experience",
+          "stance": "Eight years as a Santa Clara County Superior Court judge (criminal, civil, family, probate, and appellate divisions), including supervising judge of the Family Division (2021–2023). Before that he was a law clerk to U.S. District Judge Edward J. Davila (2011–2018), a Santa Clara County Superior Court staff attorney (2006–2011), and a family-law practitioner. (Court of Appeal bio; Governor's office)"
+        },
+        {
+          "issue": "Recognition",
+          "stance": "Santa Clara County Trial Lawyers Association Judge of the Year (2025). (Court of Appeal bio)"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "California Secretary of State: November 3, 2026 General Election, list of judicial candidates (official ballot wording)",
+      "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/judicial.pdf",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "California Courts of Appeal: Associate Justice Charles F. Adams",
+      "url": "https://appellate.courts.ca.gov/node/4964",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Governor Newsom announces judicial appointments, June 2, 2026",
+      "url": "https://www.gov.ca.gov/2026/06/02/governor-newsom-announces-judicial-appointments-6-2-2026/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Ballotpedia: California Sixth District Court of Appeal (bench, past retention results, how retention terms work)",
+      "url": "https://ballotpedia.org/California_Sixth_District_Court_of_Appeal",
+      "retrieved": "2026-10-25"
+    }
+  ],
+  "last_updated": "2026-10-25"
+}

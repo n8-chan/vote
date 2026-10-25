@@ -1,0 +1,45 @@
+{
+  "id": "ca-6th-dca-bromberg-2026",
+  "office": "Associate Justice, Court of Appeal, Sixth District: Daniel H. Bromberg",
+  "level": "state",
+  "election_date": "2026-11-03",
+  "ballot_order": 14.15,
+  "summary": "Ballot question: \"Shall Associate Justice DANIEL H. BROMBERG be elected to the office for the term provided by law?\" Gov. Newsom nominated Bromberg in November 2022 to replace retired Justice Franklin D. Elia, and he was confirmed unanimously January 13, 2023. This is his first retention vote. The Sixth District Court of Appeal in San Jose hears appeals from the superior courts of Santa Clara, Santa Cruz, Monterey, and San Benito counties, so only voters in those four counties see this vote. It is a yes-or-no retention vote with no opponent; a majority of yes votes keeps the justice. Courts of Appeal terms are 12 years, but a justice appointed mid-term first stands for the rest of the predecessor's term. (Secretary of State; Ballotpedia)",
+  "candidates": [
+    {
+      "name": "Daniel H. Bromberg",
+      "person_id": "daniel-bromberg",
+      "party": "Nonpartisan (judicial retention)",
+      "incumbent": true,
+      "positions": [
+        {
+          "issue": "Experience",
+          "stance": "On the Sixth District since January 2023. He came from appellate and complex-litigation practice (Jones Day 1994–2005, Quinn Emanuel 2005–2019, Pillsbury 2021–2023) and served as Gov. Newsom's deputy legal affairs secretary (2019–2021). He had no prior trial-court judgeship. (Governor's office)"
+        }
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "title": "California Secretary of State: November 3, 2026 General Election, list of judicial candidates (official ballot wording)",
+      "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/judicial.pdf",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "California Courts of Appeal: Associate Justice Daniel H. Bromberg",
+      "url": "https://appellate.courts.ca.gov/district-courts/6dca/bio/daniel-h-bromberg",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Governor Newsom announces judicial appointments, November 7, 2022",
+      "url": "https://www.gov.ca.gov/2022/11/07/governor-newsom-announces-judicial-appointments-11-7-22/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Ballotpedia: California Sixth District Court of Appeal (bench, past retention results, how retention terms work)",
+      "url": "https://ballotpedia.org/California_Sixth_District_Court_of_Appeal",
+      "retrieved": "2026-10-25"
+    }
+  ],
+  "last_updated": "2026-10-25"
+}
