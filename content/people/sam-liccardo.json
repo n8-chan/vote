@@ -1,0 +1,35 @@
+{
+  "id": "sam-liccardo",
+  "name": "Sam Liccardo",
+  "type": "federal_official",
+  "title": "U.S. Representative for California's 16th Congressional District; Democratic candidate for re-election (2026)",
+  "district": "U.S. House, California District 16",
+  "years_of_service": "San Jose City Council (District 3) 2007–2015; Mayor of San Jose 2015–2023; U.S. House since January 3, 2025. (Wikipedia)",
+  "background": [
+    "Liccardo was born April 16, 1970, in Saratoga and graduated from Bellarmine College Preparatory. He holds a bachelor's degree in government from Georgetown and a J.D. and master's in public policy from Harvard, and was a prosecutor in the Santa Clara County District Attorney's office. (Wikipedia)",
+    "He won San Jose's District 3 council seat in 2006 and served two terms as mayor (2015–2023), re-elected in 2018 with 75.8%. As mayor he drew scrutiny over private meetings and a nondisclosure agreement with Google during its downtown development deal, a late-disclosed condo owned by his wife, and a 2023 public-records ruling that cost the city $500,000 in plaintiff fees. (Wikipedia)",
+    "He won the open 16th District seat in 2024 with 58.22% after a contested recount for second place in the primary; an FEC complaint alleged coordination between his campaign and a Bloomberg-funded super PAC that helped fund the recount, which his campaign denied. In Congress he sits on the Financial Services Committee. He placed first in the June 2026 primary with 75.6%. (Wikipedia; Ballotpedia)"
+  ],
+  "committee_memberships": [
+    "House Financial Services Committee",
+    "Subcommittee on Digital Assets, Financial Technology, and Artificial Intelligence",
+    "Subcommittee on National Security, Illicit Finance, and International Financial Institutions",
+    "Subcommittee on Oversight and Investigations"
+  ],
+  "attendance": "This research did not find a reliable per-member attendance figure. Third-party vote trackers gave conflicting roll-call totals for the 119th Congress, so none is cited here; the authoritative record is the House Clerk's roll-call votes.",
+  "endorsements_received": [],
+  "past_measures_authored": [],
+  "sources": [
+    {
+      "title": "Wikipedia: Sam Liccardo",
+      "url": "https://en.wikipedia.org/wiki/Sam_Liccardo",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Ballotpedia: Peter Soule (CA-16 primary results)",
+      "url": "https://ballotpedia.org/Peter_Soule",
+      "retrieved": "2026-10-25"
+    }
+  ],
+  "last_updated": "2026-10-25"
+}

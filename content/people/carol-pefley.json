@@ -1,0 +1,41 @@
+{
+  "id": "carol-pefley",
+  "name": "Carol Pefley",
+  "type": "candidate",
+  "title": "Republican nominee for California State Assembly District 28 (2026)",
+  "background": [
+    "Pefley grew up on the Peninsula and is a former journalist and realtor. Her campaign centers on revising recent state housing laws to preserve what she calls the Santa Cruz \"mystique\". (Lookout Santa Cruz)",
+    "She placed second in the June 2, 2026 primary with 28.0%. Through May 16, 2026 she reported about $47,000 in contributions plus a $10,000 loan. (Ballotpedia; Transparency USA)"
+  ],
+  "endorsements_received": [
+    {
+      "name": "California Republican Party",
+      "type": "org",
+      "notes": "Per Ballotpedia."
+    },
+    {
+      "name": "Reform California",
+      "type": "org",
+      "notes": "Per Ballotpedia."
+    }
+  ],
+  "past_measures_authored": [],
+  "sources": [
+    {
+      "title": "Ballotpedia: Carol Pefley",
+      "url": "https://ballotpedia.org/Carol_Pefley",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Lookout Santa Cruz: I'm running against Gail Pellerin (Carol Pefley op-ed)",
+      "url": "https://lookout.co/im-running-against-gail-pellerin-we-need-to-hold-onto-the-heart-of-santa-cruz-by-revising-recent-housing-laws/story",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Transparency USA: California State Assembly District 28 election",
+      "url": "https://www.transparencyusa.org/ca/race/california-state-assembly-district-28-71544",
+      "retrieved": "2026-10-25"
+    }
+  ],
+  "last_updated": "2026-10-25"
+}

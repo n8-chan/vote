@@ -1,0 +1,62 @@
+{
+  "id": "sonja-shaw",
+  "name": "Sonja Shaw",
+  "type": "school_district_official",
+  "title": "President, Chino Valley Unified School District Board; candidate for Superintendent of Public Instruction (2026)",
+  "district": "Chino Valley Unified School District Board of Education",
+  "background": [
+    "Shaw is a Chino native who began attending school-board meetings during pandemic-era school closures and mandates. She was elected to the Chino Valley Unified board and became its president in 2022. (Ballotpedia candidate survey)",
+    "Under her leadership the board adopted a parental-notification policy on student gender identity that drew a lawsuit from Attorney General Rob Bonta. In 2023 she presided over a meeting at which then-Superintendent Tony Thurmond was escorted out during a debate over transgender students' rights. She placed first in the June 2, 2026 primary with 22.64%. (CalMatters; Ballotpedia)"
+  ],
+  "endorsements_received": [
+    {
+      "name": "California Republican Party",
+      "type": "org",
+      "notes": "Per CalMatters and Ballotpedia."
+    },
+    {
+      "name": "Moms for Liberty",
+      "type": "org",
+      "notes": "Per CalMatters voter guide."
+    },
+    {
+      "name": "California Rifle & Pistol Association",
+      "type": "org",
+      "notes": "Per CalMatters and Ballotpedia."
+    },
+    {
+      "name": "Howard Jarvis Taxpayers Association PAC",
+      "type": "org",
+      "notes": "Per Shaw's Ballotpedia survey response."
+    },
+    {
+      "name": "Steve Hilton",
+      "type": "politician",
+      "notes": "Per Shaw's Ballotpedia survey response."
+    },
+    {
+      "name": "Riverside County Sheriff Chad Bianco",
+      "type": "politician",
+      "notes": "Per Shaw's Ballotpedia survey response."
+    },
+    {
+      "name": "Orange County Register Editorial Board",
+      "type": "other",
+      "notes": "Per Ballotpedia."
+    }
+  ],
+  "past_measures_authored": [],
+  "sources": [
+    {
+      "title": "CalMatters 2026 voter guide: Superintendent of Public Instruction",
+      "url": "https://calmatters.org/california-voter-guide-2026/superintendent-of-public-instruction/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Ballotpedia: Sonja Shaw (California)",
+      "url": "https://ballotpedia.org/Sonja_Shaw_(California)",
+      "retrieved": "2026-10-25"
+    }
+  ],
+  "last_updated": "2026-10-25"
+}

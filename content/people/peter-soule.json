@@ -1,0 +1,46 @@
+{
+  "id": "peter-soule",
+  "name": "Peter Soulé",
+  "type": "candidate",
+  "title": "Republican nominee for U.S. House, California District 16 (2026)",
+  "background": [
+    "Soulé (listed on the ballot as Peter Sundin Soulé) holds a bachelor's degree from UC Santa Barbara and a graduate degree from Golden Gate University. He works in his family's steel business, with experience in commercial property management, accounting and finance, and architectural products. (Ballotpedia; ChamberLight)",
+    "His campaign biography says he has served on the Santa Clara County Republican Party Central Committee since 2005; ChamberLight lists past service on the San Jose Civil Service Commission (2007–2011), which this research did not confirm with a primary source. He placed second in the June 2, 2026 primary with 10.8% and runs on public safety, deregulation, and \"common sense\" government. (Ballotpedia; ChamberLight)"
+  ],
+  "endorsements_received": [
+    {
+      "name": "American Independent Party",
+      "type": "org",
+      "notes": "Per Soulé's Ballotpedia survey response."
+    },
+    {
+      "name": "California Republican Assembly",
+      "type": "org",
+      "notes": "Per Soulé's Ballotpedia survey response."
+    },
+    {
+      "name": "Silicon Valley Association of Conservative Republicans",
+      "type": "org",
+      "notes": "Per Soulé's Ballotpedia survey response."
+    }
+  ],
+  "past_measures_authored": [],
+  "sources": [
+    {
+      "title": "Ballotpedia: Peter Soule",
+      "url": "https://ballotpedia.org/Peter_Soule",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "ChamberLight: Peter Sundin Soulé (R), 2026 candidate, California's 16th District",
+      "url": "https://chamberlight.com/representatives/peter-soule-california-house",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Palo Alto Ledger: Peter Soule seeks CA-16 House seat as Republican",
+      "url": "https://paloaltoledger.com/articles/peter-soule-seeks-ca-16-house-seat-as-republican-muzzvn4g",
+      "retrieved": "2026-10-25"
+    }
+  ],
+  "last_updated": "2026-10-25"
+}

@@ -1,0 +1,60 @@
+{
+  "id": "jane-kim",
+  "name": "Jane Kim",
+  "type": "candidate",
+  "title": "Democratic candidate for California Insurance Commissioner (2026); former San Francisco Supervisor",
+  "years_of_service": "San Francisco Board of Education 2007–2010; San Francisco Board of Supervisors (District 6) 2011–2019. (Wikipedia)",
+  "background": [
+    "Kim was born in 1977 in Manhattan to South Korean immigrant parents. She holds a B.A. from Stanford and a J.D. from UC Berkeley School of Law and worked as a youth organizer and Greenlining Institute fellow. She became the city's first Korean American elected official when she won a school board seat in 2006. (Wikipedia)",
+    "On the Board of Supervisors (2011–2019) she sponsored the 2011 payroll-tax exemption that kept Twitter in San Francisco, negotiated 40% affordable housing at Mission Rock, and sponsored Proposition W, which funded free City College tuition for residents. She lost a 2016 state Senate runoff to Scott Wiener (49%–51%) and finished third in the 2018 mayoral race. She later served as California political director for Bernie Sanders's 2020 campaign and as the first executive director of the California Working Families Party. (Wikipedia)",
+    "She entered the Insurance Commissioner race in January 2026, pledging to take no insurance-industry money, and placed first in the June 2 primary with 27.40%. (Wikipedia)"
+  ],
+  "endorsements_received": [
+    {
+      "name": "SEIU California",
+      "type": "org",
+      "notes": "Per CalMatters voter guide."
+    },
+    {
+      "name": "California Teachers Association",
+      "type": "org",
+      "notes": "Per CalMatters voter guide."
+    },
+    {
+      "name": "California Faculty Association",
+      "type": "org",
+      "notes": "Per CalMatters voter guide."
+    },
+    {
+      "name": "California Labor Federation",
+      "type": "org",
+      "notes": "Per CalMatters voter guide."
+    }
+  ],
+  "past_measures_authored": [
+    {
+      "title": "San Francisco Proposition W (2016) — real estate transfer tax increase funding free City College",
+      "year": "2016",
+      "outcome": "Approved by San Francisco voters; funded Free City College.",
+      "source_url": "https://en.wikipedia.org/wiki/Jane_Kim"
+    }
+  ],
+  "sources": [
+    {
+      "title": "CalMatters 2026 voter guide: Insurance Commissioner",
+      "url": "https://calmatters.org/california-voter-guide-2026/insurance-commissioner/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Wikipedia: Jane Kim",
+      "url": "https://en.wikipedia.org/wiki/Jane_Kim",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Wikipedia: 2026 California Insurance Commissioner election",
+      "url": "https://en.wikipedia.org/wiki/2026_California_Insurance_Commissioner_election",
+      "retrieved": "2026-10-25"
+    }
+  ],
+  "last_updated": "2026-10-25"
+}

@@ -1,0 +1,62 @@
+{
+  "id": "john-pimentel",
+  "name": "John Pimentel",
+  "type": "school_district_official",
+  "title": "Trustee, San Mateo County Community College District; Democratic candidate for Board of Equalization District 2 (2026)",
+  "district": "San Mateo County Community College District Board of Trustees",
+  "background": [
+    "Pimentel earned an associate degree from San Joaquin Delta College (1985), a bachelor's from UC Berkeley (1988), and an MBA from Harvard Business School (1998). He describes himself as a first-generation college student and clean-energy executive who has built more than $1.5 billion in energy and water infrastructure projects, and he served as California's Deputy Secretary for Transportation. (Ballotpedia candidate survey)",
+    "As a San Mateo County Community College District trustee he says he helped make community college tuition-free for county residents and hired an internal inspector. He is running for the Board of Equalization on eliminating the sales tax on food, closing tax loopholes, and reforming or possibly abolishing the board. He placed second in the June 2, 2026 primary with 15.8%. (Ballotpedia; GrowSF; Redwood City Pulse)"
+  ],
+  "endorsements_received": [
+    {
+      "name": "Howard Jarvis Taxpayers Association",
+      "type": "org",
+      "notes": "Per Ballotpedia."
+    },
+    {
+      "name": "San Francisco Chronicle Editorial Board",
+      "type": "other",
+      "notes": "Per Ballotpedia."
+    },
+    {
+      "name": "State Treasurer Fiona Ma",
+      "type": "politician",
+      "notes": "Per Pimentel's Ballotpedia survey response."
+    },
+    {
+      "name": "San Jose Mayor Matt Mahan",
+      "type": "politician",
+      "notes": "Per Pimentel's Ballotpedia survey response."
+    },
+    {
+      "name": "Rep. Sam Liccardo",
+      "type": "politician",
+      "notes": "Per Pimentel's Ballotpedia survey response."
+    },
+    {
+      "name": "Asm. Marc Berman",
+      "type": "politician",
+      "notes": "Per Pimentel's Ballotpedia survey response."
+    }
+  ],
+  "past_measures_authored": [],
+  "sources": [
+    {
+      "title": "Ballotpedia: John Pimentel",
+      "url": "https://ballotpedia.org/John_Pimentel",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "GrowSF: California Board of Equalization, District 2, November 2026",
+      "url": "https://growsf.org/voter-guide/san-francisco-voter-guide-november-2026-election/contests/board-of-equalization/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Redwood City Pulse: Should the state's tax commission even exist?",
+      "url": "https://www.rwcpulse.com/election/2026/05/14/should-the-states-tax-commission-even-exist/",
+      "retrieved": "2026-10-25"
+    }
+  ],
+  "last_updated": "2026-10-25"
+}

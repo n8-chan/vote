@@ -1,0 +1,47 @@
+{
+  "id": "richard-barrera",
+  "name": "Richard Barrera",
+  "type": "school_district_official",
+  "title": "President, San Diego Unified School District Board of Education; candidate for Superintendent of Public Instruction (2026)",
+  "district": "San Diego Unified School District Board of Education, District D",
+  "background": [
+    "Barrera graduated from El Cajon Valley High School and holds a bachelor's degree in American history from UC San Diego and a master's in public policy from Harvard. He has worked as a community organizer and labor leader. (Ballotpedia)",
+    "He has served on the San Diego Unified school board for multiple terms, was re-elected unopposed in 2024, and is board president. He has also been an adviser to the State Superintendent. CalMatters notes he was little known outside San Diego before winning the California Teachers Association endorsement, and he runs as a Sacramento outsider. He placed second in the June 2, 2026 primary with 20.30%. (CalMatters; Ballotpedia)"
+  ],
+  "endorsements_received": [
+    {
+      "name": "California Teachers Association",
+      "type": "org",
+      "notes": "Per CalMatters and Ballotpedia."
+    },
+    {
+      "name": "United Domestic Workers",
+      "type": "org",
+      "notes": "Per CalMatters voter guide."
+    },
+    {
+      "name": "California Charter School Advocates",
+      "type": "org",
+      "notes": "Per CalMatters voter guide."
+    },
+    {
+      "name": "San Francisco Chronicle Editorial Board",
+      "type": "other",
+      "notes": "Per Ballotpedia."
+    }
+  ],
+  "past_measures_authored": [],
+  "sources": [
+    {
+      "title": "CalMatters 2026 voter guide: Superintendent of Public Instruction",
+      "url": "https://calmatters.org/california-voter-guide-2026/superintendent-of-public-instruction/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Ballotpedia: Richard Barrera",
+      "url": "https://ballotpedia.org/Richard_Barrera",
+      "retrieved": "2026-10-25"
+    }
+  ],
+  "last_updated": "2026-10-25"
+}
