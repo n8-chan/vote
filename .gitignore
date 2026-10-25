@@ -2,3 +2,4 @@ dist/
 content/sources/
 node_modules/
 .firecrawl/
+.DS_Store
