@@ -1,0 +1,101 @@
+{
+  "id": "san-jose-council-9-2026",
+  "office": "San José City Council, District 9",
+  "level": "local",
+  "election_date": "2026-11-03",
+  "ballot_order": 18.1,
+  "summary": "District 9 is largely suburban southwest San José, including Willow Glen, Hillsdale, and Cambrian Park. The seat is open: Vice Mayor Pam Foley is termed out in December. No one won a majority in the June 2 primary, so the top two meet in a November runoff: Genny Altwer, a marriage and family therapist and former San Mateo police officer (35.5%), and Gordon Chester, a longtime San José Public Works employee (22.2%). Foley's chief of staff Scott Hughes (18.9%) and entrepreneur Mike Hennessy (17.8%) were eliminated.",
+  "candidates": [
+    {
+      "name": "Genny Altwer",
+      "person_id": "genny-altwer",
+      "party": "Nonpartisan",
+      "incumbent": false,
+      "primary_result": "First place, 35.5%",
+      "positions": [
+        {
+          "issue": "Focus",
+          "stance": "Campaigns on crime, the cost of housing, and homelessness; frames the race as \"real plans and results\" versus \"more of the same\". (San José Spotlight)"
+        },
+        {
+          "issue": "Coalition",
+          "stance": "Business-aligned; endorsed by Mayor Matt Mahan, Rep. Sam Liccardo, Vice Mayor Pam Foley, several San José business groups, the police officers' union, and Planned Parenthood. (San José Spotlight)"
+        }
+      ]
+    },
+    {
+      "name": "Gordon Chester",
+      "person_id": "gordon-chester",
+      "party": "Nonpartisan",
+      "incumbent": false,
+      "primary_result": "Second place, 22.2%",
+      "positions": [
+        {
+          "issue": "Housing",
+          "stance": "Affordability through more home building; lower the cost of affordable housing; incentives for senior housing. Endorsed by YIMBY Action. (San José Spotlight; YIMBY Action)"
+        },
+        {
+          "issue": "Homelessness",
+          "stance": "Shift homelessness money toward permanent supportive housing rather than mainly temporary shelter, and expand work opportunities for people in shelters. (San José Spotlight)"
+        },
+        {
+          "issue": "Streets",
+          "stance": "Safer crosswalks, wider sidewalks, better transit shelters, and walkable neighborhoods. (San José Spotlight)"
+        },
+        {
+          "issue": "Coalition",
+          "stance": "Labor-aligned; endorsed by state Sen. Dave Cortese, Councilmember David Cohen, the Santa Clara County Democratic Party, and the South Bay Progressive Alliance. (San José Spotlight)"
+        }
+      ]
+    }
+  ],
+  "key_differences": [
+    "This is San José's usual split between the mayor's business-aligned bloc (Altwer) and the labor-aligned bloc (Chester). The winner affects which side controls the council majority.",
+    "Altwer leads on public safety, drawing on 13 years as a police officer; Chester leads on housing supply and street design, drawing on his decade in the city's Public Works department.",
+    "Money: Altwer had raised $183,216 (including a $15,000 personal loan) to Chester's $54,775 (including a $4,000 loan). Chester's campaign says 66% of its post-July contributions were $100 or less, and has pointed out that five Altwer donors hold leadership roles on the county Republican central committee. (San José Spotlight)",
+    "In July, Altwer's campaign removed an endorsement from eliminated rival Mike Hennessy after he said he had never given it. Hennessy called it a misunderstanding. (San José Spotlight)"
+  ],
+  "sources": [
+    {
+      "title": "San José Spotlight: Six San Jose council candidates advance to November",
+      "url": "https://sanjosespotlight.com/six-san-jose-council-candidates-advance-to-november/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "San José Spotlight: San Jose candidates' campaign dollars grow as election nears",
+      "url": "https://sanjosespotlight.com/san-jose-candidates-campaign-dollars-grow-as-election-nears/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "San José Spotlight: San Jose District 9 candidate deletes mistaken endorsement (July 21, 2026)",
+      "url": "https://sanjosespotlight.com/san-jose-district-9-candidate-deletes-mistaken-endorsement/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "San José Spotlight: San Jose employee enters District 9 City Council race (December 16, 2025)",
+      "url": "https://sanjosespotlight.com/san-jose-employee-enters-district-9-city-council-race/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "San José Spotlight: Political newcomer enters District 9 San Jose council race",
+      "url": "https://sanjosespotlight.com/political-newcomer-enters-district-9-san-jose-council-race/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "San José Inside: Genny Altwer announces endorsements from Mahan, Liccardo for SJ Council District 9",
+      "url": "https://www.sanjoseinside.com/politics/genny-altwer-announces-endorsements-from-mahan-liccardo-for-sj-council-district-9/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "YIMBY Action: Gordon Chester endorsement",
+      "url": "https://yimbyaction.org/candidates/gordon-chester",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Wikipedia: 2026 San Jose City Council election",
+      "url": "https://en.wikipedia.org/wiki/2026_San_Jose_City_Council_election",
+      "retrieved": "2026-10-25"
+    }
+  ],
+  "last_updated": "2026-10-25"
+}

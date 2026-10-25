@@ -1,0 +1,88 @@
+{
+  "id": "wvm-ccd-trustee-area-7-2026",
+  "office": "West Valley-Mission Community College District Board of Trustees, Area 7",
+  "level": "local",
+  "election_date": "2026-11-03",
+  "ballot_order": 16.1,
+  "summary": "The West Valley-Mission Community College District runs West Valley College in Saratoga and Mission College in Santa Clara. Its elected board of trustees sets the budget, hires the chancellor, and oversees bond-funded construction. Each trustee is elected by one trustee area. This is a single-seat, nonpartisan, one-round election: whoever gets more votes on November 3 wins, with no primary. Incumbent Susan Oster Fish, an attorney and registered nurse first elected in 2016, faces Doug Robb, a San Jose City College kinesiology instructor and baseball coach.",
+  "candidates": [
+    {
+      "name": "Susan Oster Fish",
+      "person_id": "susan-oster-fish",
+      "party": "Nonpartisan",
+      "incumbent": true,
+      "positions": [
+        {
+          "issue": "Board role",
+          "stance": "Board vice president; chairs the district's Audit and Budget Oversight Committee and sits on the Mission-West Valley Land Corporation Investment Committee. (District trustee page)"
+        },
+        {
+          "issue": "Programs",
+          "stance": "Credited with helping bring the College of Adaptive Arts, which serves adults with disabilities, to the West Valley campus. (District trustee page)"
+        },
+        {
+          "issue": "Platform",
+          "stance": "This research did not find a published 2026 campaign platform from Fish beyond her district biography."
+        }
+      ]
+    },
+    {
+      "name": "Doug Robb",
+      "person_id": "doug-robb",
+      "party": "Nonpartisan",
+      "incumbent": false,
+      "positions": [
+        {
+          "issue": "Classes and waitlists",
+          "stance": "Wants smaller classes, more sections, and schedules that work for part-time, working, and evening students. His union backers say 10% to 20% of students are waitlisted each semester and that new sections should open quickly when waitlists form. (Campaign website; AFT 6157)"
+        },
+        {
+          "issue": "Spending priorities",
+          "stance": "Wants hiring shifted from administrators to faculty and student-facing staff, retirements backfilled, and money focused on instruction rather than construction. AFT 6157 says the district's unrestricted ending fund balance grew from about $10.8 million (2013) to $122.7 million (2026) and cites a State Auditor finding that administrators more than doubled while faculty fell 7%. These are the union's figures and were not independently checked here. (Campaign website; AFT 6157)"
+        },
+        {
+          "issue": "Shared governance",
+          "stance": "Wants faculty and staff to have a bigger voice in institutional decisions. (Campaign website)"
+        }
+      ]
+    }
+  ],
+  "key_differences": [
+    "Insider versus faculty challenger: Fish has been a trustee since 2016 and chairs the district's audit committee; Robb is a longtime community-college instructor running on reallocating money from administration and reserves to classes.",
+    "Reserves and spending: Robb's campaign and union argue the district is sitting on too large a reserve and over-investing in administration and construction. This research found no published response from Fish.",
+    "Robb teaches at San Jose City College, in the neighboring San José-Evergreen district, and his main institutional backer is that college's faculty union (AFT 6157). Fish is a West Valley College graduate and the parent of two West Valley graduates."
+  ],
+  "sources": [
+    {
+      "title": "Santa Clara County Registrar of Voters: final qualified list of local candidates (August 14, 2026)",
+      "url": "https://files.santaclaracounty.gov/exjcpb1296/2026-08/qualified-list-of-local-candidates-8-14-2026.pdf?VersionId=RLTKYUCCFyxAIwrBKPkugePxvgCmOnn1",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "West Valley-Mission Community College District: Board of Trustees, Area 7 (Susan Oster Fish)",
+      "url": "https://www.wvm.edu/board/trustees/area-7.html",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Doug Robb for West Valley-Mission CCD Trustee, Area 7 (campaign website)",
+      "url": "https://www.dougrobb.org/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "San José/Evergreen Federation of Teachers, AFT 6157 (endorsement of Doug Robb)",
+      "url": "https://www.aft6157.org/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Local News Matters: Santa Clara County, November 3, 2026 candidate list",
+      "url": "https://localnewsmatters.org/santa-clara-november-3-2026/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "Blue Voter Guide: West Valley-Mission CCD Board of Trustees, Area 7",
+      "url": "https://bluevoterguide.org/district/CA/West_Valley-Mission_Community_College_District_Board_of_Trustees_Area_7/59887/638",
+      "retrieved": "2026-10-25"
+    }
+  ],
+  "last_updated": "2026-10-25"
+}

@@ -1,0 +1,61 @@
+{
+  "id": "gordon-chester",
+  "name": "Gordon Chester",
+  "type": "candidate",
+  "title": "Candidate for San José City Council, District 9 (2026); San José Public Works employee",
+  "background": [
+    "Chester is a lifelong District 9 resident who lives in Cambrian with his wife and daughter in the house he grew up in. He has worked for the City of San José for more than a decade in the Department of Public Works, on the team that regulates telecom companies operating in the city. This is his first run for office. (San José Spotlight, December 2025)",
+    "He placed second in the June 2, 2026 primary with 22.2% and is running on housing affordability through more building, permanent supportive housing for homelessness, and safer, more walkable streets. He is endorsed by state Sen. Dave Cortese, Councilmember David Cohen, the Santa Clara County Democratic Party, the South Bay Progressive Alliance, and YIMBY Action, and had raised $54,775 including a $4,000 personal loan. (San José Spotlight; YIMBY Action)"
+  ],
+  "endorsements_received": [
+    {
+      "name": "State Sen. Dave Cortese",
+      "type": "politician",
+      "notes": "Per San José Spotlight."
+    },
+    {
+      "name": "San José Councilmember David Cohen",
+      "type": "politician",
+      "notes": "Per San José Spotlight."
+    },
+    {
+      "name": "Santa Clara County Democratic Party",
+      "type": "org",
+      "notes": "Per San José Spotlight."
+    },
+    {
+      "name": "South Bay Progressive Alliance",
+      "type": "org",
+      "notes": "Per San José Spotlight."
+    },
+    {
+      "name": "YIMBY Action",
+      "type": "org",
+      "notes": "Per YIMBY Action."
+    }
+  ],
+  "past_measures_authored": [],
+  "sources": [
+    {
+      "title": "San José Spotlight: San Jose employee enters District 9 City Council race (December 16, 2025)",
+      "url": "https://sanjosespotlight.com/san-jose-employee-enters-district-9-city-council-race/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "San José Spotlight: Six San Jose council candidates advance to November",
+      "url": "https://sanjosespotlight.com/six-san-jose-council-candidates-advance-to-november/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "San José Spotlight: San Jose candidates' campaign dollars grow as election nears",
+      "url": "https://sanjosespotlight.com/san-jose-candidates-campaign-dollars-grow-as-election-nears/",
+      "retrieved": "2026-10-25"
+    },
+    {
+      "title": "YIMBY Action: Gordon Chester endorsement",
+      "url": "https://yimbyaction.org/candidates/gordon-chester",
+      "retrieved": "2026-10-25"
+    }
+  ],
+  "last_updated": "2026-10-25"
+}
